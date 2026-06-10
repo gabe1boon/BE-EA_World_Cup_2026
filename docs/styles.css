@@ -1,0 +1,196 @@
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+:root {
+  --bg: #0a1628;
+  --surface: #111e35;
+  --border: #1e3a5f;
+  --accent: #c9a227;
+  --text: #e8edf4;
+  --muted: #7a90b0;
+  --pts: #4ade80;
+  --yc: #f5c842;
+  --rc: #e74c3c;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  min-height: 100vh;
+  padding: 1rem;
+  max-width: 900px;
+  margin: 0 auto;
+}
+
+/* ── Header ── */
+header {
+  text-align: center;
+  padding: 2rem 1rem 1.5rem;
+  border-bottom: 1px solid var(--border);
+  margin-bottom: 1.5rem;
+}
+
+header h1 {
+  font-size: clamp(1.4rem, 4vw, 2.2rem);
+  color: var(--accent);
+  letter-spacing: 0.02em;
+}
+
+#updated {
+  margin-top: 0.5rem;
+  font-size: 0.8rem;
+  color: var(--muted);
+}
+
+/* ── Leaderboard table ── */
+#leaderboard-wrap {
+  overflow-x: auto;
+  -webkit-overflow-scrolling: touch;
+  border-radius: 8px;
+}
+
+.message {
+  color: var(--muted);
+  padding: 1.5rem 0;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+  min-width: 540px;
+  background: var(--surface);
+  border-radius: 8px;
+  overflow: hidden;
+}
+
+thead th {
+  background: var(--border);
+  padding: 0.65rem 0.5rem;
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  white-space: nowrap;
+}
+
+thead th.sortable {
+  cursor: pointer;
+  user-select: none;
+}
+
+thead th.sortable:hover {
+  color: var(--text);
+}
+
+thead th.active {
+  color: var(--accent);
+}
+
+tbody tr {
+  border-bottom: 1px solid var(--border);
+  transition: background 0.1s;
+}
+
+tbody tr:last-child {
+  border-bottom: none;
+}
+
+tbody tr:hover {
+  background: rgba(255, 255, 255, 0.04);
+}
+
+tbody tr.top-3 {
+  background: rgba(201, 162, 39, 0.06);
+}
+
+tbody td {
+  padding: 0.6rem 0.5rem;
+  font-size: 0.88rem;
+  text-align: center;
+}
+
+tbody td:nth-child(2),
+tbody td:nth-child(3) {
+  text-align: left;
+}
+
+td.rank {
+  color: var(--muted);
+  font-size: 0.8rem;
+  min-width: 2rem;
+}
+
+td.pts {
+  font-weight: 700;
+  font-size: 1rem;
+  color: var(--pts);
+}
+
+td.yc {
+  color: var(--yc);
+}
+
+td.rc {
+  color: var(--rc);
+}
+
+/* ── Scoring key ── */
+.scoring-key {
+  margin-top: 1.5rem;
+  padding: 1rem 1.25rem;
+  background: var(--surface);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  max-width: 360px;
+}
+
+.scoring-key h2 {
+  font-size: 0.72rem;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  margin-bottom: 0.6rem;
+}
+
+.scoring-key ul {
+  list-style: none;
+  font-size: 0.85rem;
+  color: var(--muted);
+  columns: 2;
+  column-gap: 1.5rem;
+}
+
+.scoring-key li {
+  margin-bottom: 0.3rem;
+}
+
+.scoring-key strong {
+  color: var(--text);
+}
+
+.scoring-key strong.yc {
+  color: var(--yc);
+}
+
+.scoring-key strong.rc {
+  color: var(--rc);
+}
+
+/* ── Mobile ── */
+@media (max-width: 480px) {
+  body {
+    padding: 0.5rem;
+  }
+
+  header {
+    padding: 1.2rem 0.5rem 1rem;
+  }
+
+  .scoring-key {
+    max-width: 100%;
+  }
+}

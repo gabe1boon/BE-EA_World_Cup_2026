@@ -224,9 +224,9 @@ td.rank {
   min-width: 2.2rem;
 }
 
-tr:nth-child(1) td.rank { color: var(--gold); font-size: 1rem; }
-tr:nth-child(2) td.rank { color: #9E9E9E; font-size: 0.95rem; }
-tr:nth-child(3) td.rank { color: #A0522D; font-size: 0.9rem; }
+tr.r1 td.rank { color: var(--gold); font-size: 1rem; }
+tr.r2 td.rank { color: #9E9E9E; font-size: 0.95rem; }
+tr.r3 td.rank { color: #A0522D; font-size: 0.9rem; }
 
 /* Points */
 td.pts {
@@ -235,7 +235,7 @@ td.pts {
   color: var(--blue-dark);
 }
 
-tr:nth-child(1) td.pts { color: var(--gold); }
+tr.r1 td.pts { color: var(--gold); }
 
 /* Flag images */
 .flag {

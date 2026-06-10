@@ -152,8 +152,10 @@ async function load() {
       return;
     }
 
-    allRows = data.leaderboard.map(r => ({
+    // data.json arrives sorted by points — stamp that as the permanent rank
+    allRows = data.leaderboard.map((r, i) => ({
       ...r,
+      rank: i + 1,
       losses: r.played - r.wins - r.draws,
     }));
 
@@ -195,14 +197,15 @@ function render() {
 
   const tbody = sorted.length === 0
     ? `<tr><td colspan="${COLS.length}" class="message">No results for "${query}"</td></tr>`
-    : sorted.map((row, i) => {
+    : sorted.map((row) => {
+        const rankCls = row.rank <= 3 ? ` class="r${row.rank}"` : "";
         const cells = COLS.map(c => {
           const cls = c.cls ? ` class="${c.cls}"` : "";
-          if (c.key === "rank") return `<td${cls}>${i + 1}</td>`;
+          if (c.key === "rank") return `<td${cls}>${row.rank}</td>`;
           if (c.key === "team") return `<td>${flagImg(row.team)}${row.team}</td>`;
           return `<td${cls}>${row[c.key] ?? ""}</td>`;
         }).join("");
-        return `<tr>${cells}</tr>`;
+        return `<tr${rankCls}>${cells}</tr>`;
       }).join("");
 
   const table = `<table><thead><tr>${thead}</tr></thead><tbody>${tbody}</tbody></table>`;

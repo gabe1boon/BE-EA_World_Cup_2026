@@ -7,29 +7,36 @@
   <link rel="stylesheet" href="styles.css">
 </head>
 <body>
+
   <header>
-    <h1>World Cup 2026 Sweepstake</h1>
-    <p id="updated"></p>
+    <div class="header-inner">
+      <div class="header-titles">
+        <h1>World Cup 2026</h1>
+        <p class="subtitle">Office Sweepstake</p>
+      </div>
+      <p id="updated"></p>
+    </div>
   </header>
 
+  <div class="scoring-bar">
+    <span class="score-item">Win <strong>+3</strong></span>
+    <span class="score-item">Draw <strong>+1</strong></span>
+    <span class="score-item">Goal <strong>+1</strong></span>
+    <span class="score-item">Clean sheet <strong>+2</strong></span>
+    <span class="score-item">Knockout round <strong>+5</strong></span>
+    <span class="score-item neg">Yellow card <strong>-1</strong></span>
+    <span class="score-item neg">Red card <strong>-2</strong></span>
+  </div>
+
   <main>
+    <div class="search-wrap">
+      <input id="search" type="search" placeholder="Search player or team..." autocomplete="off">
+    </div>
+
     <div id="leaderboard-wrap">
       <p id="status" class="message">Loading...</p>
     </div>
   </main>
-
-  <aside class="scoring-key">
-    <h2>Scoring</h2>
-    <ul>
-      <li>Win <strong>+3</strong></li>
-      <li>Draw <strong>+1</strong></li>
-      <li>Goal <strong>+1</strong></li>
-      <li>Clean sheet <strong>+2</strong></li>
-      <li>Knockout round <strong>+5</strong></li>
-      <li>Yellow card <strong class="yc">-1</strong></li>
-      <li>Red card <strong class="rc">-2</strong></li>
-    </ul>
-  </aside>
 
   <script src="app.js"></script>
 </body>

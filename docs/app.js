@@ -16,8 +16,9 @@ const COLS = [
 ];
 
 let sortKey = "points";
-let sortDir = -1; // -1 desc, +1 asc
-let rows = [];
+let sortDir = -1;
+let allRows = [];
+let query = "";
 
 async function load() {
   try {
@@ -36,10 +37,15 @@ async function load() {
       return;
     }
 
-    rows = data.leaderboard.map(r => ({
+    allRows = data.leaderboard.map(r => ({
       ...r,
       losses: r.played - r.wins - r.draws,
     }));
+
+    document.getElementById("search").addEventListener("input", function () {
+      query = this.value.toLowerCase();
+      render();
+    });
 
     render();
   } catch (e) {
@@ -49,7 +55,14 @@ async function load() {
 }
 
 function render() {
-  const sorted = [...rows].sort((a, b) => {
+  const filtered = query
+    ? allRows.filter(r =>
+        r.colleague.toLowerCase().includes(query) ||
+        r.team.toLowerCase().includes(query)
+      )
+    : allRows;
+
+  const sorted = [...filtered].sort((a, b) => {
     const av = a[sortKey];
     const bv = b[sortKey];
     if (typeof av === "string") return av.localeCompare(bv) * sortDir;
@@ -65,15 +78,16 @@ function render() {
     return `<th class="${classes}" data-key="${c.key}">${c.label}${arrow}</th>`;
   }).join("");
 
-  const tbody = sorted.map((row, i) => {
-    const topCls = i < 3 ? " class=\"top-3\"" : "";
-    const cells = COLS.map(c => {
-      const cls = c.cls ? ` class="${c.cls}"` : "";
-      if (c.key === "rank") return `<td${cls}>${i + 1}</td>`;
-      return `<td${cls}>${row[c.key] ?? ""}</td>`;
-    }).join("");
-    return `<tr${topCls}>${cells}</tr>`;
-  }).join("");
+  const tbody = sorted.length === 0
+    ? `<tr><td colspan="${COLS.length}" class="message">No results for "${query}"</td></tr>`
+    : sorted.map((row, i) => {
+        const cells = COLS.map(c => {
+          const cls = c.cls ? ` class="${c.cls}"` : "";
+          if (c.key === "rank") return `<td${cls}>${i + 1}</td>`;
+          return `<td${cls}>${row[c.key] ?? ""}</td>`;
+        }).join("");
+        return `<tr>${cells}</tr>`;
+      }).join("");
 
   const table = `<table><thead><tr>${thead}</tr></thead><tbody>${tbody}</tbody></table>`;
   const wrap = document.getElementById("leaderboard-wrap");

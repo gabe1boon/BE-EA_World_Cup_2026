@@ -23,5 +23,7 @@ SCORING = {
 #     9:    None,      # Spain — not yet picked
 #
 ASSIGNMENTS = {
-    # team_id: "Colleague Name",  # Team Name
+    10: "Alice",   # England
+    6:  "Bob",     # Brazil
+    2:  "Charlie", # France
 }

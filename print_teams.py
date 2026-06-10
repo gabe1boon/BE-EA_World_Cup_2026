@@ -3,7 +3,7 @@
 Fetches all World Cup 2026 teams and prints a ready-to-paste ASSIGNMENTS block.
 
 Usage:
-    APISPORTS_KEY=your_key python print_teams.py
+    FOOTBALL_API_KEY=your_key python print_teams.py
 
 Copy the output into config.py, then replace None with the colleague's name
 for each team that has been picked in the draw.
@@ -13,9 +13,9 @@ import sys
 
 import requests
 
-key = os.environ.get("APISPORTS_KEY")
+key = os.environ.get("FOOTBALL_API_KEY")
 if not key:
-    sys.exit("APISPORTS_KEY env var not set")
+    sys.exit("FOOTBALL_API_KEY env var not set")
 
 resp = requests.get(
     "https://v3.football.api-sports.io/teams",

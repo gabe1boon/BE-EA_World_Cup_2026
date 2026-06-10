@@ -26,7 +26,7 @@ jobs:
 
       - name: Build leaderboard
         env:
-          APISPORTS_KEY: ${{ secrets.APISPORTS_KEY }}
+          FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
         run: python build.py
 

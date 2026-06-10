@@ -28,9 +28,9 @@ GROUP_STAGE_PREFIX = "Group Stage"
 
 
 def _key():
-    k = os.environ.get("APISPORTS_KEY")
+    k = os.environ.get("FOOTBALL_API_KEY")
     if not k:
-        sys.exit("APISPORTS_KEY env var not set")
+        sys.exit("FOOTBALL_API_KEY env var not set")
     return k
 
 

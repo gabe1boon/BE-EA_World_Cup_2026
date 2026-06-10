@@ -323,7 +323,7 @@ td.rc { color: var(--red); font-weight: 600; }
 
 @media (max-width: 600px) {
   .available-table tbody {
-    grid-template-columns: repeat(2, 1fr);
+    grid-template-columns: 1fr;
   }
 }
 

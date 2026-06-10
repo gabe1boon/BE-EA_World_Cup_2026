@@ -5,6 +5,9 @@ on:
     # Every 3 hours, UTC — well within the 100 req/day free tier
     - cron: "0 */3 * * *"
   workflow_dispatch:
+  push:
+    paths:
+      - "config.py"  # auto-rebuild whenever assignments change
 
 permissions:
   contents: write

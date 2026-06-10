@@ -115,10 +115,36 @@ function flagImg(teamName) {
   return `<img src="https://flagcdn.com/w20/${code}.png" width="20" height="15" alt="" class="flag" loading="lazy">`;
 }
 
+function nextMatchCell(row) {
+  if (!row.next_match_utc) {
+    return `<td class="next-match knocked-out">Out</td>`;
+  }
+  const dt = new Date(row.next_match_utc);
+  const diffMs = dt - Date.now();
+  if (diffMs < 0) {
+    return `<td class="next-match">—</td>`;
+  }
+  const totalMins  = Math.floor(diffMs / 60000);
+  const days  = Math.floor(totalMins / 1440);
+  const hours = Math.floor((totalMins % 1440) / 60);
+  const mins  = totalMins % 60;
+
+  let timeStr;
+  if (days > 0)       timeStr = `${days}d ${hours}h`;
+  else if (hours > 0) timeStr = `${hours}h ${mins}m`;
+  else                timeStr = `${mins}m`;
+
+  const vs = row.next_match_vs
+    ? `<span class="next-vs">${flagImg(row.next_match_vs)}${row.next_match_vs}</span>`
+    : "";
+  return `<td class="next-match"><span class="next-time">${timeStr}</span>${vs}</td>`;
+}
+
 const COLS = [
   { key: "rank",         label: "#",      sortable: false, cls: "rank" },
   { key: "colleague",    label: "Player", sortable: true  },
   { key: "team",         label: "Team",   sortable: true  },
+  { key: "next_match",   label: "Next",   sortable: false },
   { key: "points",       label: "Pts",    sortable: true,  cls: "pts"  },
   { key: "played",       label: "P",      sortable: true  },
   { key: "wins",         label: "W",      sortable: true  },
@@ -166,6 +192,7 @@ async function load() {
 
     render();
     renderAvailable(data.available_teams || []);
+    setInterval(render, 60000); // refresh countdown every minute
   } catch (e) {
     document.getElementById("status").textContent =
       "Could not load leaderboard: " + e.message;
@@ -223,8 +250,9 @@ function render() {
         const rankCls = row.rank <= 3 ? ` class="r${row.rank}"` : "";
         const cells = COLS.map(c => {
           const cls = c.cls ? ` class="${c.cls}"` : "";
-          if (c.key === "rank") return `<td${cls}>${row.rank}</td>`;
-          if (c.key === "team") return `<td>${flagImg(row.team)}${row.team}</td>`;
+          if (c.key === "rank")        return `<td${cls}>${row.rank}</td>`;
+          if (c.key === "team")        return `<td>${flagImg(row.team)}${row.team}</td>`;
+          if (c.key === "next_match")  return nextMatchCell(row);
           return `<td${cls}>${row[c.key] ?? ""}</td>`;
         }).join("");
         return `<tr${rankCls}>${cells}</tr>`;

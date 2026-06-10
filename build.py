@@ -151,12 +151,42 @@ def build_output(stats, fixtures):
             t = fx["teams"][side]
             names[t["id"]] = t["name"]
 
+    # Find the next scheduled fixture for each assigned team
+    now = datetime.now(timezone.utc)
+    next_matches = {}
+    for fx in fixtures:
+        if fx["fixture"]["status"]["short"] not in ("NS", "TBD"):
+            continue
+        raw_date = fx["fixture"].get("date")
+        if not raw_date:
+            continue
+        try:
+            fx_dt = datetime.fromisoformat(raw_date.replace("Z", "+00:00"))
+        except ValueError:
+            continue
+        if fx_dt <= now:
+            continue
+        home_id = fx["teams"]["home"]["id"]
+        away_id = fx["teams"]["away"]["id"]
+        for my_id, opp_id in ((home_id, away_id), (away_id, home_id)):
+            if my_id not in stats:
+                continue
+            if my_id not in next_matches or fx_dt < next_matches[my_id]["dt"]:
+                next_matches[my_id] = {
+                    "dt": fx_dt,
+                    "utc": fx_dt.strftime("%Y-%m-%dT%H:%M:%SZ"),
+                    "vs": names.get(opp_id, ""),
+                }
+
     rows = []
     for tid, s in stats.items():
+        nm = next_matches.get(tid)
         rows.append({
             "colleague": ASSIGNMENTS[tid],
             "team": names.get(tid, f"Team {tid}"),
             "team_id": tid,
+            "next_match_utc": nm["utc"] if nm else None,
+            "next_match_vs": nm["vs"] if nm else None,
             "points": s["points"],
             "played": s["played"],
             "wins": s["wins"],

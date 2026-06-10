@@ -8,10 +8,20 @@ SCORING = {
     "knockout_advance": 5,
 }
 
-# Fill in after the draw. Get team IDs by running:
-#   python -c "import os,requests; r=requests.get('https://v3.football.api-sports.io/teams',params={'league':1,'season':2026},headers={'x-apisports-key':os.environ['APISPORTS_KEY']}); [print(t['team']['id'],t['team']['name']) for t in r.json()['response']]"
+# Team → colleague assignments.
+#
+# HOW TO USE:
+#   1. Run `python print_teams.py` (with APISPORTS_KEY set) to generate this
+#      block pre-filled with every World Cup 2026 team ID and name.
+#   2. Paste the output here.
+#   3. After the draw, replace None with the colleague's name for each team.
+#      Teams left as None will appear in the "still to be picked" list on the page.
+#
+# Example once populated:
+#     6:    "Alice",   # Brazil
+#     26:   "Bob",     # Argentina
+#     9:    None,      # Spain — not yet picked
+#
 ASSIGNMENTS = {
-    # team_id: "Colleague Name",
-    # 2384: "Alice",
-    #   26: "Bob",
+    # team_id: "Colleague Name",  # Team Name
 }

@@ -60,9 +60,10 @@ def _store_events(fixture_id, events):
 
 
 def compute(fixtures, key):
-    assigned = set(ASSIGNMENTS)
+    # Only teams with a real colleague name count toward the leaderboard
+    assigned = {tid for tid, name in ASSIGNMENTS.items() if name}
     if not assigned:
-        print("WARNING: ASSIGNMENTS is empty in config.py — fill it in after the draw.")
+        print("WARNING: No colleagues assigned yet in config.py — fill in after the draw.")
 
     stats = {
         tid: {
@@ -168,17 +169,23 @@ def build_output(stats, fixtures):
 
     rows.sort(key=lambda r: (-r["points"], -r["wins"], -r["goals_for"]))
 
-    assigned_ids = set(ASSIGNMENTS)
-    all_teams = sorted(
-        [{"team_id": tid, "team": name} for tid, name in names.items()
-         if tid not in assigned_ids],
+    # Available = teams listed in ASSIGNMENTS with no colleague yet,
+    # plus any fixture team not mentioned in ASSIGNMENTS at all.
+    picked_ids = {tid for tid, name in ASSIGNMENTS.items() if name}
+    available_ids = set()
+    for tid in names:
+        if tid not in picked_ids:
+            available_ids.add(tid)
+
+    available_teams = sorted(
+        [{"team_id": tid, "team": names[tid]} for tid in available_ids],
         key=lambda t: t["team"],
     )
 
     return {
         "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "leaderboard": rows,
-        "available_teams": all_teams,
+        "available_teams": available_teams,
     }
 
 

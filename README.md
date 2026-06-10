@@ -26,17 +26,23 @@ If it 403s or returns zero fixtures, you may need the $19/mo Pro plan — let me
 
 ### 3. Fill in team assignments after the draw
 
-Edit `config.py`. Get team IDs by running the helper one-liner at the top of that file (with your key in env), then fill in:
+First, generate the full team list (run once with your key set):
+
+```bash
+APISPORTS_KEY=your_key python print_teams.py
+```
+
+This prints the complete `ASSIGNMENTS` block with every team ID and name pre-filled. Paste it into `config.py`, then replace `None` with the colleague's name for each team that was picked:
 
 ```python
 ASSIGNMENTS = {
-    6:    "Alice",
-    26:   "Bob",
-    # ...
+    6:    "Alice",   # Brazil
+    26:   "Bob",     # Argentina
+    9:    None,      # Spain — not yet picked (shows in "still to be picked" list)
 }
 ```
 
-Commit and push — the next scheduled run will pick up the assignments.
+Teams left as `None` appear on the page under "Teams still to be picked". Commit and push — the next scheduled run will pick up the assignments.
 
 ### 4. (Optional) Slack/Teams notifications
 

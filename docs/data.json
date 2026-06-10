@@ -1,45 +1,55 @@
 {
   "updated_at": "2026-06-10T15:00:00Z",
   "leaderboard": [
-    {
-      "colleague": "Alice",   "team": "Brazil",      "team_id": 6,    "points": 22,
-      "played": 4, "wins": 3, "draws": 1, "goals_for": 9,  "clean_sheets": 2, "yellow_cards": 2, "red_cards": 0
-    },
-    {
-      "colleague": "Bob",     "team": "France",      "team_id": 2,    "points": 18,
-      "played": 4, "wins": 2, "draws": 2, "goals_for": 7,  "clean_sheets": 1, "yellow_cards": 3, "red_cards": 0
-    },
-    {
-      "colleague": "Charlie", "team": "Argentina",   "team_id": 26,   "points": 17,
-      "played": 4, "wins": 2, "draws": 1, "goals_for": 8,  "clean_sheets": 2, "yellow_cards": 1, "red_cards": 1
-    },
-    {
-      "colleague": "Diana",   "team": "England",     "team_id": 10,   "points": 14,
-      "played": 3, "wins": 2, "draws": 0, "goals_for": 5,  "clean_sheets": 1, "yellow_cards": 4, "red_cards": 0
-    },
-    {
-      "colleague": "Ed",      "team": "Spain",       "team_id": 9,    "points": 13,
-      "played": 3, "wins": 1, "draws": 2, "goals_for": 4,  "clean_sheets": 1, "yellow_cards": 2, "red_cards": 0
-    },
-    {
-      "colleague": "Fiona",   "team": "Germany",     "team_id": 25,   "points": 11,
-      "played": 3, "wins": 1, "draws": 2, "goals_for": 6,  "clean_sheets": 0, "yellow_cards": 5, "red_cards": 0
-    },
-    {
-      "colleague": "George",  "team": "Portugal",    "team_id": 27,   "points": 10,
-      "played": 3, "wins": 1, "draws": 1, "goals_for": 4,  "clean_sheets": 1, "yellow_cards": 2, "red_cards": 0
-    },
-    {
-      "colleague": "Hannah",  "team": "Netherlands", "team_id": 1,    "points": 9,
-      "played": 3, "wins": 1, "draws": 0, "goals_for": 3,  "clean_sheets": 1, "yellow_cards": 1, "red_cards": 0
-    },
-    {
-      "colleague": "Ivan",    "team": "USA",         "team_id": 2384, "points": 7,
-      "played": 3, "wins": 1, "draws": 0, "goals_for": 2,  "clean_sheets": 0, "yellow_cards": 3, "red_cards": 0
-    },
-    {
-      "colleague": "Jade",    "team": "Mexico",      "team_id": 16,   "points": 5,
-      "played": 3, "wins": 0, "draws": 2, "goals_for": 3,  "clean_sheets": 0, "yellow_cards": 4, "red_cards": 1
-    }
+    { "colleague": "Alice",   "team": "Brazil",      "team_id": 6,    "points": 22, "played": 4, "wins": 3, "draws": 1, "goals_for": 9,  "clean_sheets": 2, "yellow_cards": 2, "red_cards": 0 },
+    { "colleague": "Bob",     "team": "France",      "team_id": 2,    "points": 18, "played": 4, "wins": 2, "draws": 2, "goals_for": 7,  "clean_sheets": 1, "yellow_cards": 3, "red_cards": 0 },
+    { "colleague": "Charlie", "team": "Argentina",   "team_id": 26,   "points": 17, "played": 4, "wins": 2, "draws": 1, "goals_for": 8,  "clean_sheets": 2, "yellow_cards": 1, "red_cards": 1 },
+    { "colleague": "Diana",   "team": "England",     "team_id": 10,   "points": 14, "played": 3, "wins": 2, "draws": 0, "goals_for": 5,  "clean_sheets": 1, "yellow_cards": 4, "red_cards": 0 },
+    { "colleague": "Ed",      "team": "Spain",       "team_id": 9,    "points": 13, "played": 3, "wins": 1, "draws": 2, "goals_for": 4,  "clean_sheets": 1, "yellow_cards": 2, "red_cards": 0 },
+    { "colleague": "Fiona",   "team": "Germany",     "team_id": 25,   "points": 11, "played": 3, "wins": 1, "draws": 2, "goals_for": 6,  "clean_sheets": 0, "yellow_cards": 5, "red_cards": 0 },
+    { "colleague": "George",  "team": "Portugal",    "team_id": 27,   "points": 10, "played": 3, "wins": 1, "draws": 1, "goals_for": 4,  "clean_sheets": 1, "yellow_cards": 2, "red_cards": 0 },
+    { "colleague": "Hannah",  "team": "Netherlands", "team_id": 1,    "points": 9,  "played": 3, "wins": 1, "draws": 0, "goals_for": 3,  "clean_sheets": 1, "yellow_cards": 1, "red_cards": 0 },
+    { "colleague": "Ivan",    "team": "USA",         "team_id": 2384, "points": 7,  "played": 3, "wins": 1, "draws": 0, "goals_for": 2,  "clean_sheets": 0, "yellow_cards": 3, "red_cards": 0 },
+    { "colleague": "Jade",    "team": "Mexico",      "team_id": 16,   "points": 5,  "played": 3, "wins": 0, "draws": 2, "goals_for": 3,  "clean_sheets": 0, "yellow_cards": 4, "red_cards": 1 }
+  ],
+  "available_teams": [
+    { "team_id": 101, "team": "Algeria" },
+    { "team_id": 102, "team": "Australia" },
+    { "team_id": 103, "team": "Austria" },
+    { "team_id": 104, "team": "Belgium" },
+    { "team_id": 105, "team": "Cameroon" },
+    { "team_id": 106, "team": "Canada" },
+    { "team_id": 107, "team": "Colombia" },
+    { "team_id": 108, "team": "Costa Rica" },
+    { "team_id": 109, "team": "Croatia" },
+    { "team_id": 110, "team": "Denmark" },
+    { "team_id": 111, "team": "Ecuador" },
+    { "team_id": 112, "team": "Egypt" },
+    { "team_id": 113, "team": "Honduras" },
+    { "team_id": 114, "team": "Iran" },
+    { "team_id": 115, "team": "Iraq" },
+    { "team_id": 116, "team": "Italy" },
+    { "team_id": 117, "team": "Ivory Coast" },
+    { "team_id": 118, "team": "Jamaica" },
+    { "team_id": 119, "team": "Japan" },
+    { "team_id": 120, "team": "Jordan" },
+    { "team_id": 121, "team": "Morocco" },
+    { "team_id": 122, "team": "New Zealand" },
+    { "team_id": 123, "team": "Nigeria" },
+    { "team_id": 124, "team": "Panama" },
+    { "team_id": 125, "team": "Poland" },
+    { "team_id": 126, "team": "Saudi Arabia" },
+    { "team_id": 127, "team": "Scotland" },
+    { "team_id": 128, "team": "Senegal" },
+    { "team_id": 129, "team": "Serbia" },
+    { "team_id": 130, "team": "Slovakia" },
+    { "team_id": 131, "team": "Slovenia" },
+    { "team_id": 132, "team": "South Africa" },
+    { "team_id": 133, "team": "South Korea" },
+    { "team_id": 134, "team": "Switzerland" },
+    { "team_id": 135, "team": "Turkey" },
+    { "team_id": 136, "team": "Uruguay" },
+    { "team_id": 137, "team": "Uzbekistan" },
+    { "team_id": 138, "team": "Venezuela" }
   ]
 }

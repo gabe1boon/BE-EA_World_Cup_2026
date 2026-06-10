@@ -165,10 +165,32 @@ async function load() {
     });
 
     render();
+    renderAvailable(data.available_teams || []);
   } catch (e) {
     document.getElementById("status").textContent =
       "Could not load leaderboard: " + e.message;
   }
+}
+
+function renderAvailable(teams) {
+  const section = document.getElementById("available-section");
+  if (!teams.length) {
+    section.hidden = true;
+    return;
+  }
+
+  const rows = teams.map(t =>
+    `<tr><td>${flagImg(t.team)}${t.team}</td></tr>`
+  ).join("");
+
+  section.innerHTML = `
+    <h2 class="section-heading">Teams still to be picked <span class="count">${teams.length}</span></h2>
+    <div id="available-wrap">
+      <table class="available-table">
+        <tbody>${rows}</tbody>
+      </table>
+    </div>
+  `;
 }
 
 function render() {

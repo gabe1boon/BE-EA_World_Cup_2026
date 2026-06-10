@@ -251,6 +251,68 @@ tr.r1 td.pts { color: var(--gold); }
 td.yc { color: #B8860B; font-weight: 600; }
 td.rc { color: var(--red); font-weight: 600; }
 
+/* ── Available teams ── */
+#available-section {
+  margin-top: 2.5rem;
+}
+
+.section-heading {
+  font-size: 0.85rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: var(--muted);
+  margin-bottom: 0.75rem;
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+}
+
+.section-heading .count {
+  background: var(--blue-light);
+  color: var(--blue);
+  font-size: 0.75rem;
+  font-weight: 700;
+  padding: 0.1rem 0.5rem;
+  border-radius: 999px;
+}
+
+#available-wrap {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  box-shadow: 0 2px 16px rgba(22, 68, 206, 0.08);
+  overflow: hidden;
+}
+
+.available-table {
+  width: 100%;
+  border-collapse: collapse;
+  column-count: 3;
+}
+
+.available-table tbody {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.available-table tr {
+  border-bottom: 1px solid var(--blue-light);
+}
+
+.available-table td {
+  padding: 0.55rem 0.75rem;
+  font-size: 0.88rem;
+  display: flex;
+  align-items: center;
+}
+
+@media (max-width: 600px) {
+  .available-table tbody {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
 /* ── Mobile ── */
 @media (max-width: 540px) {
   header { padding: 1.25rem 1rem 1.25rem; }

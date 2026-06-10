@@ -167,9 +167,18 @@ def build_output(stats, fixtures):
         })
 
     rows.sort(key=lambda r: (-r["points"], -r["wins"], -r["goals_for"]))
+
+    assigned_ids = set(ASSIGNMENTS)
+    all_teams = sorted(
+        [{"team_id": tid, "team": name} for tid, name in names.items()
+         if tid not in assigned_ids],
+        key=lambda t: t["team"],
+    )
+
     return {
         "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "leaderboard": rows,
+        "available_teams": all_teams,
     }
 
 

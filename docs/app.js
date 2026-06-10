@@ -134,7 +134,9 @@ function nextMatchCell(row) {
   else if (hours > 0) timeStr = `${hours}h ${mins}m`;
   else                timeStr = `${mins}m`;
 
-  const vs = row.next_match_vs ? flagImg(row.next_match_vs) : "";
+  const vs = row.next_match_vs
+    ? `<span class="next-vs">vs ${flagImg(row.next_match_vs)}</span>`
+    : "";
   return `<td class="next-match"><span class="next-time">${timeStr}</span>${vs}</td>`;
 }
 

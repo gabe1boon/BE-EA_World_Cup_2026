@@ -265,6 +265,12 @@ td.next-match {
   color: var(--blue);
 }
 
+.next-vs {
+  display: block;
+  color: var(--muted);
+  font-size: 0.78rem;
+}
+
 
 td.next-match.knocked-out {
   color: var(--muted);

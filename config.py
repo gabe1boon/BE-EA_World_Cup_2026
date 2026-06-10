@@ -26,4 +26,4 @@ ASSIGNMENTS = {
     16: "Alice",    # England
     6:  "Bob",      # Brazil
     2:  "Charlie",  # France
-}
+} 

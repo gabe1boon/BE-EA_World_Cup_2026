@@ -237,6 +237,16 @@ td.pts {
 
 tr:nth-child(1) td.pts { color: var(--gold); }
 
+/* Flag images */
+.flag {
+  display: inline-block;
+  vertical-align: middle;
+  margin-right: 6px;
+  border-radius: 2px;
+  box-shadow: 0 0 0 1px rgba(0,0,0,0.1);
+  flex-shrink: 0;
+}
+
 /* Cards */
 td.yc { color: #B8860B; font-weight: 600; }
 td.rc { color: var(--red); font-weight: 600; }

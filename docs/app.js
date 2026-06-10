@@ -1,5 +1,120 @@
 "use strict";
 
+// Mapping of API-Football team names (lowercase) to flagcdn.com ISO codes.
+// Covers all 48 World Cup 2026 qualified nations plus common API name variants.
+const FLAG_CODES = {
+  // CONMEBOL
+  "argentina":              "ar",
+  "brazil":                 "br",
+  "colombia":               "co",
+  "ecuador":                "ec",
+  "uruguay":                "uy",
+  "venezuela":              "ve",
+  "chile":                  "cl",
+  "paraguay":               "py",
+  "peru":                   "pe",
+  "bolivia":                "bo",
+  // UEFA
+  "france":                 "fr",
+  "germany":                "de",
+  "spain":                  "es",
+  "england":                "gb-eng",
+  "portugal":               "pt",
+  "netherlands":            "nl",
+  "belgium":                "be",
+  "italy":                  "it",
+  "switzerland":            "ch",
+  "croatia":                "hr",
+  "serbia":                 "rs",
+  "poland":                 "pl",
+  "denmark":                "dk",
+  "austria":                "at",
+  "turkey":                 "tr",
+  "slovakia":               "sk",
+  "scotland":               "gb-sct",
+  "wales":                  "gb-wls",
+  "northern ireland":       "gb-nir",
+  "hungary":                "hu",
+  "romania":                "ro",
+  "ukraine":                "ua",
+  "greece":                 "gr",
+  "czech republic":         "cz",
+  "czechia":                "cz",
+  "sweden":                 "se",
+  "norway":                 "no",
+  "finland":                "fi",
+  "ireland":                "ie",
+  "republic of ireland":    "ie",
+  "slovenia":               "si",
+  "albania":                "al",
+  // CONCACAF
+  "usa":                    "us",
+  "united states":          "us",
+  "mexico":                 "mx",
+  "canada":                 "ca",
+  "costa rica":             "cr",
+  "panama":                 "pa",
+  "honduras":               "hn",
+  "jamaica":                "jm",
+  "el salvador":            "sv",
+  "haiti":                  "ht",
+  "trinidad and tobago":    "tt",
+  "cuba":                   "cu",
+  "suriname":               "sr",
+  // CAF
+  "morocco":                "ma",
+  "senegal":                "sn",
+  "nigeria":                "ng",
+  "egypt":                  "eg",
+  "cameroon":               "cm",
+  "ivory coast":            "ci",
+  "côte d'ivoire":          "ci",
+  "cote d'ivoire":          "ci",
+  "algeria":                "dz",
+  "south africa":           "za",
+  "ghana":                  "gh",
+  "mali":                   "ml",
+  "guinea":                 "gn",
+  "tunisia":                "tn",
+  "dr congo":               "cd",
+  "congo":                  "cg",
+  "zambia":                 "zm",
+  "kenya":                  "ke",
+  "ethiopia":               "et",
+  "tanzania":               "tz",
+  "cape verde":             "cv",
+  "cape verde islands":     "cv",
+  // AFC
+  "japan":                  "jp",
+  "south korea":            "kr",
+  "korea republic":         "kr",
+  "iran":                   "ir",
+  "australia":              "au",
+  "saudi arabia":           "sa",
+  "uzbekistan":             "uz",
+  "jordan":                 "jo",
+  "iraq":                   "iq",
+  "qatar":                  "qa",
+  "china":                  "cn",
+  "china pr":               "cn",
+  "united arab emirates":   "ae",
+  "uae":                    "ae",
+  "bahrain":                "bh",
+  "oman":                   "om",
+  "indonesia":              "id",
+  "india":                  "in",
+  "vietnam":                "vn",
+  "thailand":               "th",
+  // OFC
+  "new zealand":            "nz",
+};
+
+function flagImg(teamName) {
+  const code = FLAG_CODES[teamName.toLowerCase()];
+  if (!code) return "";
+  return `<img src="https://flagcdn.com/w20/${code}.png" width="20" height="15" alt="" class="flag" loading="lazy">`;
+}
+
 const COLS = [
   { key: "rank",         label: "#",      sortable: false, cls: "rank" },
   { key: "colleague",    label: "Player", sortable: true  },
@@ -84,6 +199,7 @@ function render() {
         const cells = COLS.map(c => {
           const cls = c.cls ? ` class="${c.cls}"` : "";
           if (c.key === "rank") return `<td${cls}>${i + 1}</td>`;
+          if (c.key === "team") return `<td>${flagImg(row.team)}${row.team}</td>`;
           return `<td${cls}>${row[c.key] ?? ""}</td>`;
         }).join("");
         return `<tr>${cells}</tr>`;

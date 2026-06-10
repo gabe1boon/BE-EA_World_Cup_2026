@@ -1,6 +1,52 @@
 {
-  "updated_at": "2026-06-10T17:51:47Z",
-  "leaderboard": [],
+  "updated_at": "2026-06-10T17:59:50Z",
+  "leaderboard": [
+    {
+      "colleague": "Alice",
+      "team": "England",
+      "team_id": 10,
+      "next_match_utc": "2026-06-17T20:00:00Z",
+      "next_match_vs": "Croatia",
+      "points": 0,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "clean_sheets": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "colleague": "Charlie",
+      "team": "France",
+      "team_id": 2,
+      "next_match_utc": "2026-06-16T19:00:00Z",
+      "next_match_vs": "Senegal",
+      "points": 0,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "clean_sheets": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    },
+    {
+      "colleague": "Bob",
+      "team": "Brazil",
+      "team_id": 6,
+      "next_match_utc": "2026-06-13T22:00:00Z",
+      "next_match_vs": "Morocco",
+      "points": 0,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "clean_sheets": 0,
+      "yellow_cards": 0,
+      "red_cards": 0
+    }
+  ],
   "available_teams": [
     {
       "team_id": 1532,
@@ -25,10 +71,6 @@
     {
       "team_id": 1113,
       "team": "Bosnia & Herzegovina"
-    },
-    {
-      "team_id": 6,
-      "team": "Brazil"
     },
     {
       "team_id": 5529,
@@ -65,14 +107,6 @@
     {
       "team_id": 32,
       "team": "Egypt"
-    },
-    {
-      "team_id": 10,
-      "team": "England"
-    },
-    {
-      "team_id": 2,
-      "team": "France"
     },
     {
       "team_id": 25,

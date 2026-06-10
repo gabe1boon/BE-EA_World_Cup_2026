@@ -2,8 +2,8 @@ name: Update leaderboard
 
 on:
   schedule:
-    # Every 30 minutes, UTC — ~48 fixture calls/day, well under 100 req/day limit
-    - cron: "*/30 * * * *"
+    # Every 5 minutes, UTC — Pro tier has no daily request cap
+    - cron: "*/5 * * * *"
   workflow_dispatch:
   push:
     paths:

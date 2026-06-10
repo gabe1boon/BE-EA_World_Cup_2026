@@ -23,7 +23,7 @@ SCORING = {
 #     9:    None,      # Spain — not yet picked
 #
 ASSIGNMENTS = {
-    10: "Alice",    # England
+    16: "Alice",    # England
     6:  "Bob",      # Brazil
     2:  "Charlie",  # France
 }

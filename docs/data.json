@@ -1,8 +1,8 @@
 {
-  "updated_at": "2026-06-11T07:12:43Z",
+  "updated_at": "2026-06-11T08:17:07Z",
   "leaderboard": [
     {
-      "colleague": "Alice",
+      "colleague": "Gabe",
       "team": "Mexico",
       "team_id": 16,
       "next_match_utc": "2026-06-11T19:00:00Z",
@@ -18,7 +18,7 @@
       "upset_bonus": 0
     },
     {
-      "colleague": "Charlie",
+      "colleague": "Tobias",
       "team": "France",
       "team_id": 2,
       "next_match_utc": "2026-06-16T19:00:00Z",
@@ -34,7 +34,7 @@
       "upset_bonus": 0
     },
     {
-      "colleague": "Bob",
+      "colleague": "Dusan",
       "team": "Brazil",
       "team_id": 6,
       "next_match_utc": "2026-06-13T22:00:00Z",

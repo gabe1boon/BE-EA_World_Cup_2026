@@ -23,10 +23,25 @@ SCORING = {
 #     9:    None,      # Spain — not yet picked
 #
 ASSIGNMENTS = {
-    1508: "Gabe",
-    3:  "Dusan",      
-    770:  "Tobias", 
-    1548:  "Sachin",  
+    2382: "Willem",    # Ecuador
+    775:  "Valeria",   # Austria
+    1508: "Sebastian", # Congo DR
+    3:    "Mark",      # Croatia
+    4673: "Gabe",      # New Zealand
+    1568: "Tobias",    # Uzbekistan
+    1569: "Krystian",  # Qatar
+    1504: "Achille",   # Ghana
+    12:   "Dusan",     # Japan
+    16:   "Iga",       # Mexico
+    1108: "Koums",     # Scotland
+    9:    "Naini",     # Spain
+    1113: "Adele",     # Bosnia & Herzegovina
+    26:   "Sachin",    # Argentina
+    2386: "Basiten",   # Haiti
+    1567: "Xavier",    # Iraq
+    32:   "Deepti",    # Egypt
+    31:   "Eva",       # Morocco
+    2384: "Iliasse",   # USA
 }
 
 # FIFA ranking groups for WC2026 (A = highest-ranked, D = lowest).

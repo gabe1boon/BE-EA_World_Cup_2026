@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T08:18:00Z",
+  "updated_at": "2026-06-11T08:25:09Z",
   "leaderboard": [
     {
       "colleague": "Gabe",
@@ -35,10 +35,10 @@
     },
     {
       "colleague": "Sachin",
-      "team": "Team 4",
-      "team_id": 4,
-      "next_match_utc": null,
-      "next_match_vs": null,
+      "team": "Argentina",
+      "team_id": 26,
+      "next_match_utc": "2026-06-17T01:00:00Z",
+      "next_match_vs": "Algeria",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -70,10 +70,6 @@
     {
       "team_id": 1532,
       "team": "Algeria"
-    },
-    {
-      "team_id": 26,
-      "team": "Argentina"
     },
     {
       "team_id": 20,

@@ -26,6 +26,7 @@ ASSIGNMENTS = {
     16: "Gabe",    # England
     6:  "Dusan",      # Brazil
     2:  "Tobias",  # France
+    4:  "Sachin",  # Argentina
 }
 
 # FIFA ranking groups for WC2026 (A = highest-ranked, D = lowest).

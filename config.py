@@ -27,13 +27,17 @@ ASSIGNMENTS = {
     775:  "Valeria",   # Austria
     1508: "Sebastian", # Congo DR
     3:    "Mark",      # Croatia
+    27:   "Mark",      # Portugal
     4673: "Gabe",      # New Zealand
     1568: "Tobias",    # Uzbekistan
     1569: "Krystian",  # Qatar
     1504: "Achille",   # Ghana
+    1533: "Achille",   # Cape Verde Islands
     12:   "Dusan",     # Japan
     16:   "Iga",       # Mexico
     1108: "Koums",     # Scotland
+    23:   "Koums",     # Saudi Arabia
+    15:   "Koums",     # Switzerland
     9:    "Naini",     # Spain
     1113: "Adele",     # Bosnia & Herzegovina
     26:   "Sachin",    # Argentina
@@ -42,6 +46,7 @@ ASSIGNMENTS = {
     32:   "Deepti",    # Egypt
     31:   "Eva",       # Morocco
     2384: "Iliasse",   # USA
+    1548: "Jiří",      # Jordan
 }
 
 # FIFA ranking groups for WC2026 (A = highest-ranked, D = lowest).

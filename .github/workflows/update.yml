@@ -1,40 +1,29 @@
 name: Update leaderboard
-
 on:
   schedule:
-    # Every 5 minutes, UTC — Pro tier has no daily request cap
-    - cron: "*/5 * * * *"
+    - cron: "*/30 * * * *"   # every 30 min, UTC
   workflow_dispatch:
   push:
     paths:
-      - "config.py"  # auto-rebuild whenever assignments change
-
+      - "config.py"           # auto-rebuild whenever assignments change
 permissions:
   contents: write
-
 jobs:
   update:
     runs-on: ubuntu-latest
-    env:
-      FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
-
     steps:
       - uses: actions/checkout@v4
-
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
           cache: "pip"
-
       - name: Install dependencies
         run: pip install -r requirements.txt
-
       - name: Build leaderboard
         env:
           FOOTBALL_API_KEY: ${{ secrets.FOOTBALL_API_KEY }}
           SLACK_WEBHOOK: ${{ secrets.SLACK_WEBHOOK }}
         run: python build.py
-
       - name: Commit and push
         run: |
           git config user.name "github-actions[bot]"
@@ -45,7 +34,6 @@ jobs:
             exit 0
           fi
           git commit -m "chore: leaderboard update $(date -u +%Y-%m-%dT%H:%MZ)"
-          # Retry push up to 3 times in case a concurrent run pushed first
           for i in 1 2 3; do
             git push && break
             echo "Push attempt $i failed, pulling and retrying..."

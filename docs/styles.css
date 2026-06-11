@@ -226,7 +226,7 @@ tbody td {
 
 tbody td:nth-child(2),
 tbody td:nth-child(3) {
-  text-align: left;
+  text-align: center;
   font-weight: 500;
 }
 
@@ -253,7 +253,7 @@ tr.r1 td.pts { color: var(--gold); }
 
 /* Next match column */
 td.next-match {
-  text-align: left;
+  text-align: center;
   white-space: nowrap;
   font-size: 0.82rem;
   line-height: 1.4;
@@ -291,6 +291,7 @@ td.next-match.knocked-out {
 /* Cards */
 td.yc { color: #B8860B; font-weight: 600; }
 td.rc { color: var(--red); font-weight: 600; }
+td.ub { color: #27AE60; font-weight: 700; }
 
 /* ── Available teams ── */
 #available-section {
@@ -430,11 +431,11 @@ td.rc { color: var(--red); font-weight: 600; }
 
   /* Pts is the last visible column; stat cols scroll off to the right.
      28 + 95 + 120 + 80 + 58 = 381px (fills ~390px viewport minus padding)
-     + 8 × 36px stat cols = 669px total table width */
+     + 9 × 36px stat cols = 705px total table width */
   table {
     table-layout: fixed;
     min-width: unset;
-    width: 669px;
+    width: 705px;
   }
 
   thead th:nth-child(1) { width: 28px; }

@@ -152,6 +152,7 @@ const COLS = [
   { key: "team",         label: "Team",   sortable: true  },
   { key: "next_match",   label: "Next",   sortable: false },
   { key: "points",       label: "Pts",    sortable: true,  cls: "pts"  },
+  { key: "upset_bonus",  label: "Bonus",  sortable: true,  cls: "ub"   },
   { key: "played",       label: "P",      sortable: true  },
   { key: "wins",         label: "W",      sortable: true  },
   { key: "draws",        label: "D",      sortable: true  },

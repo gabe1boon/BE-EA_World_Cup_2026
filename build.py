@@ -75,6 +75,7 @@ def compute(fixtures, key):
             "clean_sheets": 0,
             "yellow_cards": 0,
             "red_cards": 0,
+            "upset_bonus": 0,
             "_rounds": set(),  # tracks knockout rounds awarded (not serialised)
         }
         for tid in assigned
@@ -130,7 +131,9 @@ def compute(fixtures, key):
                 _opp_grp = _group_rank.get(_fx_names.get(_opp_id, "").lower(), 0)
                 if _my_grp > _opp_grp > 0:
                     _diff = min(_my_grp - _opp_grp, len(UPSET_BONUS) - 1)
-                    s["points"] += UPSET_BONUS[_diff]
+                    _bonus = UPSET_BONUS[_diff]
+                    s["points"] += _bonus
+                    s["upset_bonus"] += _bonus
             elif my_g == opp_g:
                 s["draws"] += 1
                 s["points"] += SCORING["draw"]
@@ -215,6 +218,7 @@ def build_output(stats, fixtures):
             "clean_sheets": s["clean_sheets"],
             "yellow_cards": s["yellow_cards"],
             "red_cards": s["red_cards"],
+            "upset_bonus": s["upset_bonus"],
         })
 
     rows.sort(key=lambda r: (-r["points"], -r["wins"], -r["goals_for"]))

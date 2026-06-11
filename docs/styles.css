@@ -354,6 +354,73 @@ td.rc { color: var(--red); font-weight: 600; }
   }
 }
 
+/* ── FIFA Ranking Groups ── */
+#fifa-section {
+  margin-top: 2.5rem;
+}
+
+.upset-note {
+  font-size: 0.82rem;
+  color: var(--muted);
+  line-height: 1.55;
+  margin-bottom: 0.75rem;
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 0.65rem 1rem;
+}
+
+.upset-note strong {
+  color: var(--text);
+}
+
+.grp-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 0.75rem;
+}
+
+.grp-col {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 2px 16px rgba(22, 68, 206, 0.08);
+}
+
+.grp-header {
+  padding: 0.55rem 0.6rem;
+  font-size: 0.7rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: #fff;
+  text-align: center;
+}
+
+.grp-header.grp-a { background: #C0392B; }
+.grp-header.grp-b { background: #E67E22; }
+.grp-header.grp-c { background: #2980B9; }
+.grp-header.grp-d { background: #27AE60; }
+
+.grp-team {
+  padding: 0.42rem 0.65rem;
+  font-size: 0.83rem;
+  display: flex;
+  align-items: center;
+  border-bottom: 1px solid var(--blue-light);
+}
+
+.grp-team:last-child {
+  border-bottom: none;
+}
+
+@media (max-width: 600px) {
+  .grp-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
 /* ── Mobile ── */
 @media (max-width: 540px) {
   header { padding: 1.25rem 1rem 1.25rem; }

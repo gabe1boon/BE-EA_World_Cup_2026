@@ -26,4 +26,31 @@ ASSIGNMENTS = {
     16: "Alice",    # England
     6:  "Bob",      # Brazil
     2:  "Charlie",  # France
-} 
+}
+
+# FIFA ranking groups for WC2026 (A = highest-ranked, D = lowest).
+# Team names must match the API-Football names exactly.
+# 48 teams split into 4 tiers of 12 by approximate FIFA World Ranking.
+FIFA_GROUPS = {
+    "A": [
+        "Argentina", "France", "England", "Brazil", "Portugal", "Spain",
+        "Belgium", "Netherlands", "Germany", "Croatia", "Morocco", "Colombia",
+    ],
+    "B": [
+        "USA", "Mexico", "Japan", "Senegal", "Uruguay", "Switzerland",
+        "South Korea", "Ecuador", "Canada", "Austria", "Norway", "Sweden",
+    ],
+    "C": [
+        "Türkiye", "Scotland", "Ivory Coast", "Egypt", "Ghana", "Iran",
+        "Czech Republic", "Tunisia", "Australia", "Iraq", "Saudi Arabia", "Panama",
+    ],
+    "D": [
+        "Paraguay", "Algeria", "Congo DR", "Jordan", "South Africa", "Qatar",
+        "Uzbekistan", "Cape Verde Islands", "Bosnia & Herzegovina",
+        "New Zealand", "Curaçao", "Haiti",
+    ],
+}
+
+# Bonus points for beating a team from a higher-ranked group.
+# Index = number of tiers above: [same=0, 1 tier=+1, 2 tiers=+3, 3 tiers=+5]
+UPSET_BONUS = [0, 1, 3, 5]

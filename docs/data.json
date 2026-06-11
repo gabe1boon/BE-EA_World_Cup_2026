@@ -228,5 +228,24 @@
       "team_id": 1568,
       "team": "Uzbekistan"
     }
-  ]
+  ],
+  "fifa_groups": {
+    "A": [
+      "Argentina", "France", "England", "Brazil", "Portugal", "Spain",
+      "Belgium", "Netherlands", "Germany", "Croatia", "Morocco", "Colombia"
+    ],
+    "B": [
+      "USA", "Mexico", "Japan", "Senegal", "Uruguay", "Switzerland",
+      "South Korea", "Ecuador", "Canada", "Austria", "Norway", "Sweden"
+    ],
+    "C": [
+      "Türkiye", "Scotland", "Ivory Coast", "Egypt", "Ghana", "Iran",
+      "Czech Republic", "Tunisia", "Australia", "Iraq", "Saudi Arabia", "Panama"
+    ],
+    "D": [
+      "Paraguay", "Algeria", "Congo DR", "Jordan", "South Africa", "Qatar",
+      "Uzbekistan", "Cape Verde Islands", "Bosnia & Herzegovina",
+      "New Zealand", "Curaçao", "Haiti"
+    ]
+  }
 }

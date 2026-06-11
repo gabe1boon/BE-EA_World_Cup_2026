@@ -12,7 +12,7 @@ from pathlib import Path
 
 import requests
 
-from config import ASSIGNMENTS, SCORING
+from config import ASSIGNMENTS, FIFA_GROUPS, SCORING, UPSET_BONUS
 
 API_BASE = "https://v3.football.api-sports.io"
 LEAGUE_ID = 1
@@ -80,6 +80,19 @@ def compute(fixtures, key):
         for tid in assigned
     }
 
+    # Build FIFA group rank lookup: team_name_lower → int (A=1, B=2, C=3, D=4)
+    _group_rank = {}
+    for _grp_idx, _grp_teams in enumerate(FIFA_GROUPS.values(), 1):
+        for _tname in _grp_teams:
+            _group_rank[_tname.lower()] = _grp_idx
+
+    # Build team-ID → name mapping from fixture data
+    _fx_names = {}
+    for _fx in fixtures:
+        for _side in ("home", "away"):
+            _t = _fx["teams"][_side]
+            _fx_names[_t["id"]] = _t["name"]
+
     for fx in fixtures:
         home_id = fx["teams"]["home"]["id"]
         away_id = fx["teams"]["away"]["id"]
@@ -111,6 +124,13 @@ def compute(fixtures, key):
             if my_g > opp_g:
                 s["wins"] += 1
                 s["points"] += SCORING["win"]
+                # Upset bonus: extra points for beating a higher-ranked FIFA group
+                _opp_id = away_id if tid == home_id else home_id
+                _my_grp = _group_rank.get(_fx_names.get(tid, "").lower(), 0)
+                _opp_grp = _group_rank.get(_fx_names.get(_opp_id, "").lower(), 0)
+                if _my_grp > _opp_grp > 0:
+                    _diff = min(_my_grp - _opp_grp, len(UPSET_BONUS) - 1)
+                    s["points"] += UPSET_BONUS[_diff]
             elif my_g == opp_g:
                 s["draws"] += 1
                 s["points"] += SCORING["draw"]
@@ -240,6 +260,7 @@ def main():
 
     stats = compute(fixtures, key)
     output = build_output(stats, fixtures)
+    output["fifa_groups"] = FIFA_GROUPS
 
     DATA_JSON.write_text(json.dumps(output, indent=2))
     print(f"Done. {len(output['leaderboard'])} entries -> {DATA_JSON}")

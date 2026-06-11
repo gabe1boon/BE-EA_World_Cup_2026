@@ -198,6 +198,7 @@ async function load() {
 
     render();
     renderAvailable(data.available_teams || []);
+    renderFifaGroups(data.fifa_groups || {});
     setInterval(render, 60000); // refresh countdown every minute
   } catch (e) {
     document.getElementById("status").textContent =
@@ -224,6 +225,41 @@ function renderAvailable(teams) {
       </table>
     </div>
   `;
+}
+
+function renderFifaGroups(groups) {
+  const section = document.getElementById("fifa-section");
+  if (!groups || !Object.keys(groups).length) return;
+
+  const GROUP_META = {
+    A: { label: "Group A — Top Tier",  cls: "grp-a" },
+    B: { label: "Group B",             cls: "grp-b" },
+    C: { label: "Group C",             cls: "grp-c" },
+    D: { label: "Group D — Underdogs", cls: "grp-d" },
+  };
+
+  const cols = Object.entries(groups).map(([key, teams]) => {
+    const meta = GROUP_META[key] || { label: `Group ${key}`, cls: "" };
+    const rows = teams.map(t =>
+      `<div class="grp-team">${flagImg(t)}${t}</div>`
+    ).join("");
+    return `
+      <div class="grp-col">
+        <div class="grp-header ${meta.cls}">${meta.label}</div>
+        ${rows}
+      </div>`;
+  }).join("");
+
+  section.innerHTML = `
+    <h2 class="section-heading">FIFA Ranking Groups</h2>
+    <p class="upset-note">
+      <strong>Upset bonus</strong> — earn extra points when your team beats a higher-ranked group:
+      beat a Group&nbsp;C team&nbsp;<strong>+1&nbsp;pt</strong> &middot;
+      beat a Group&nbsp;B team&nbsp;<strong>+3&nbsp;pts</strong> &middot;
+      beat a Group&nbsp;A team&nbsp;<strong>+5&nbsp;pts</strong>.
+      The same scale applies for any group defeating one above it.
+    </p>
+    <div class="grp-grid">${cols}</div>`;
 }
 
 function render() {

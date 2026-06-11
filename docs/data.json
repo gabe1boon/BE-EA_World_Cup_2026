@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T13:48:38Z",
+  "updated_at": "2026-06-11T15:27:02Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -23,6 +23,22 @@
       "team_id": 775,
       "next_match_utc": "2026-06-17T04:00:00Z",
       "next_match_vs": "Jordan",
+      "points": 0,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "clean_sheets": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Euan",
+      "team": "Uruguay",
+      "team_id": 7,
+      "next_match_utc": "2026-06-15T22:00:00Z",
+      "next_match_vs": "Saudi Arabia",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -478,10 +494,6 @@
     {
       "team_id": 777,
       "team": "T\u00fcrkiye"
-    },
-    {
-      "team_id": 7,
-      "team": "Uruguay"
     }
   ],
   "fifa_groups": {

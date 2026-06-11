@@ -254,11 +254,10 @@ function renderFifaGroups(groups) {
   section.innerHTML = `
     <h2 class="section-heading">FIFA Ranking Groups</h2>
     <p class="upset-note">
-      <strong>Upset bonus</strong> — earn extra points when your team beats a higher-ranked group:
-      beat a Group&nbsp;C team&nbsp;<strong>+1&nbsp;pt</strong> &middot;
-      beat a Group&nbsp;B team&nbsp;<strong>+3&nbsp;pts</strong> &middot;
-      beat a Group&nbsp;A team&nbsp;<strong>+5&nbsp;pts</strong>.
-      The same scale applies for any group defeating one above it.
+      <strong>Upset bonus</strong> — if your team beats a team from a higher-ranked group, you earn bonus points based on how many groups above them you are:
+      1 group above&nbsp;<strong>+1&nbsp;pt</strong> &middot;
+      2 groups above&nbsp;<strong>+3&nbsp;pts</strong> &middot;
+      3 groups above&nbsp;<strong>+5&nbsp;pts</strong>.
     </p>
     <div class="grp-grid">${cols}</div>`;
 }

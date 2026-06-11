@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T02:16:13Z",
+  "updated_at": "2026-06-11T06:58:37Z",
   "leaderboard": [
     {
       "colleague": "Alice",
@@ -234,21 +234,60 @@
   ],
   "fifa_groups": {
     "A": [
-      "Argentina", "France", "England", "Brazil", "Portugal", "Spain",
-      "Belgium", "Netherlands", "Germany", "Croatia", "Morocco", "Colombia"
+      "Argentina",
+      "France",
+      "England",
+      "Brazil",
+      "Portugal",
+      "Spain",
+      "Belgium",
+      "Netherlands",
+      "Germany",
+      "Croatia",
+      "Morocco",
+      "Colombia"
     ],
     "B": [
-      "USA", "Mexico", "Japan", "Senegal", "Uruguay", "Switzerland",
-      "South Korea", "Ecuador", "Canada", "Austria", "Norway", "Sweden"
+      "USA",
+      "Mexico",
+      "Japan",
+      "Senegal",
+      "Uruguay",
+      "Switzerland",
+      "South Korea",
+      "Ecuador",
+      "Canada",
+      "Austria",
+      "Norway",
+      "Sweden"
     ],
     "C": [
-      "Türkiye", "Scotland", "Ivory Coast", "Egypt", "Ghana", "Iran",
-      "Czech Republic", "Tunisia", "Australia", "Iraq", "Saudi Arabia", "Panama"
+      "T\u00fcrkiye",
+      "Scotland",
+      "Ivory Coast",
+      "Egypt",
+      "Ghana",
+      "Iran",
+      "Czech Republic",
+      "Tunisia",
+      "Australia",
+      "Iraq",
+      "Saudi Arabia",
+      "Panama"
     ],
     "D": [
-      "Paraguay", "Algeria", "Congo DR", "Jordan", "South Africa", "Qatar",
-      "Uzbekistan", "Cape Verde Islands", "Bosnia & Herzegovina",
-      "New Zealand", "Curaçao", "Haiti"
+      "Paraguay",
+      "Algeria",
+      "Congo DR",
+      "Jordan",
+      "South Africa",
+      "Qatar",
+      "Uzbekistan",
+      "Cape Verde Islands",
+      "Bosnia & Herzegovina",
+      "New Zealand",
+      "Cura\u00e7ao",
+      "Haiti"
     ]
   }
 }

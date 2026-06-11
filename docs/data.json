@@ -1,44 +1,12 @@
 {
-  "updated_at": "2026-06-11T08:25:09Z",
+  "updated_at": "2026-06-11T09:53:10Z",
   "leaderboard": [
     {
-      "colleague": "Gabe",
-      "team": "Mexico",
-      "team_id": 16,
-      "next_match_utc": "2026-06-11T19:00:00Z",
-      "next_match_vs": "South Africa",
-      "points": 0,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 0,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
       "colleague": "Tobias",
-      "team": "France",
-      "team_id": 2,
-      "next_match_utc": "2026-06-16T19:00:00Z",
-      "next_match_vs": "Senegal",
-      "points": 0,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 0,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
-      "colleague": "Sachin",
-      "team": "Argentina",
-      "team_id": 26,
-      "next_match_utc": "2026-06-17T01:00:00Z",
-      "next_match_vs": "Algeria",
+      "team": "Czech Republic",
+      "team_id": 770,
+      "next_match_utc": "2026-06-12T02:00:00Z",
+      "next_match_vs": "South Korea",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -51,10 +19,42 @@
     },
     {
       "colleague": "Dusan",
-      "team": "Brazil",
-      "team_id": 6,
-      "next_match_utc": "2026-06-13T22:00:00Z",
-      "next_match_vs": "Morocco",
+      "team": "Croatia",
+      "team_id": 3,
+      "next_match_utc": "2026-06-17T20:00:00Z",
+      "next_match_vs": "England",
+      "points": 0,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "clean_sheets": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Gabe",
+      "team": "Congo DR",
+      "team_id": 1508,
+      "next_match_utc": "2026-06-17T17:00:00Z",
+      "next_match_vs": "Portugal",
+      "points": 0,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "clean_sheets": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Sachin",
+      "team": "Jordan",
+      "team_id": 1548,
+      "next_match_utc": "2026-06-17T04:00:00Z",
+      "next_match_vs": "Austria",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -70,6 +70,10 @@
     {
       "team_id": 1532,
       "team": "Algeria"
+    },
+    {
+      "team_id": 26,
+      "team": "Argentina"
     },
     {
       "team_id": 20,
@@ -88,6 +92,10 @@
       "team": "Bosnia & Herzegovina"
     },
     {
+      "team_id": 6,
+      "team": "Brazil"
+    },
+    {
       "team_id": 5529,
       "team": "Canada"
     },
@@ -100,20 +108,8 @@
       "team": "Colombia"
     },
     {
-      "team_id": 1508,
-      "team": "Congo DR"
-    },
-    {
-      "team_id": 3,
-      "team": "Croatia"
-    },
-    {
       "team_id": 5530,
       "team": "Cura\u00e7ao"
-    },
-    {
-      "team_id": 770,
-      "team": "Czech Republic"
     },
     {
       "team_id": 2382,
@@ -126,6 +122,10 @@
     {
       "team_id": 10,
       "team": "England"
+    },
+    {
+      "team_id": 2,
+      "team": "France"
     },
     {
       "team_id": 25,
@@ -156,8 +156,8 @@
       "team": "Japan"
     },
     {
-      "team_id": 1548,
-      "team": "Jordan"
+      "team_id": 16,
+      "team": "Mexico"
     },
     {
       "team_id": 31,

@@ -431,11 +431,11 @@ td.ub { color: #27AE60; font-weight: 700; }
 
   /* Pts is the last visible column; stat cols scroll off to the right.
      28 + 95 + 120 + 80 + 58 = 381px (fills ~390px viewport minus padding)
-     + 9 × 36px stat cols = 705px total table width */
+     + 8 × 36px stat cols + 1 × 50px (Upset) = 719px total table width */
   table {
     table-layout: fixed;
     min-width: unset;
-    width: 705px;
+    width: 719px;
   }
 
   thead th:nth-child(1) { width: 28px; }
@@ -444,6 +444,7 @@ td.ub { color: #27AE60; font-weight: 700; }
   thead th:nth-child(4) { width: 80px; }
   thead th:nth-child(5) { width: 58px; }
   thead th:nth-child(n+6) { width: 36px; }
+  thead th[data-key="upset_bonus"] { width: 50px; }
 
   tbody td:nth-child(2),
   tbody td:nth-child(3) {

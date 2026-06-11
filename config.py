@@ -5,7 +5,7 @@ SCORING = {
     "clean_sheet": 2,
     "yellow_card": -1,
     "red_card": -2,
-    "knockout_advance": 5,
+    "knockout_advance": 2,
 }
 
 # Team → colleague assignments.

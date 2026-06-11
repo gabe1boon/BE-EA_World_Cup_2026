@@ -23,10 +23,10 @@ SCORING = {
 #     9:    None,      # Spain — not yet picked
 #
 ASSIGNMENTS = {
-    16: "Gabe",    # England
-    6:  "Dusan",      # Brazil
-    2:  "Tobias",  # France
-    26:  "Sachin",  # Argentina
+    1508: "Gabe",
+    3:  "Dusan",      
+    770:  "Tobias", 
+    1548:  "Sachin",  
 }
 
 # FIFA ranking groups for WC2026 (A = highest-ranked, D = lowest).

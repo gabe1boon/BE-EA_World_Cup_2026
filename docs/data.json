@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T13:16:00Z",
+  "updated_at": "2026-06-11T13:20:24Z",
   "leaderboard": [
     {
       "colleague": "Mark",
@@ -66,11 +66,59 @@
       "upset_bonus": 0
     },
     {
+      "colleague": "Ji\u0159\u00ed",
+      "team": "Jordan",
+      "team_id": 1548,
+      "next_match_utc": "2026-06-17T04:00:00Z",
+      "next_match_vs": "Austria",
+      "points": 0,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "clean_sheets": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Koums",
+      "team": "Switzerland",
+      "team_id": 15,
+      "next_match_utc": "2026-06-13T19:00:00Z",
+      "next_match_vs": "Qatar",
+      "points": 0,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "clean_sheets": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
       "colleague": "Iga",
       "team": "Mexico",
       "team_id": 16,
       "next_match_utc": "2026-06-11T19:00:00Z",
       "next_match_vs": "South Africa",
+      "points": 0,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "clean_sheets": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Koums",
+      "team": "Saudi Arabia",
+      "team_id": 23,
+      "next_match_utc": "2026-06-15T22:00:00Z",
+      "next_match_vs": "Uruguay",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -98,11 +146,27 @@
       "upset_bonus": 0
     },
     {
-      "colleague": "Eva",
-      "team": "Morocco",
-      "team_id": 31,
-      "next_match_utc": "2026-06-13T22:00:00Z",
-      "next_match_vs": "Brazil",
+      "colleague": "Mark",
+      "team": "Portugal",
+      "team_id": 27,
+      "next_match_utc": "2026-06-17T17:00:00Z",
+      "next_match_vs": "Congo DR",
+      "points": 0,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "clean_sheets": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Xavier",
+      "team": "Iraq",
+      "team_id": 1567,
+      "next_match_utc": "2026-06-16T22:00:00Z",
+      "next_match_vs": "Norway",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -162,11 +226,11 @@
       "upset_bonus": 0
     },
     {
-      "colleague": "Xavier",
-      "team": "Iraq",
-      "team_id": 1567,
-      "next_match_utc": "2026-06-16T22:00:00Z",
-      "next_match_vs": "Norway",
+      "colleague": "Eva",
+      "team": "Morocco",
+      "team_id": 31,
+      "next_match_utc": "2026-06-13T22:00:00Z",
+      "next_match_vs": "Brazil",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -304,6 +368,22 @@
       "yellow_cards": 0,
       "red_cards": 0,
       "upset_bonus": 0
+    },
+    {
+      "colleague": "Achille",
+      "team": "Cape Verde Islands",
+      "team_id": 1533,
+      "next_match_utc": "2026-06-15T16:00:00Z",
+      "next_match_vs": "Spain",
+      "points": 0,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "clean_sheets": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "upset_bonus": 0
     }
   ],
   "available_teams": [
@@ -326,10 +406,6 @@
     {
       "team_id": 5529,
       "team": "Canada"
-    },
-    {
-      "team_id": 1533,
-      "team": "Cape Verde Islands"
     },
     {
       "team_id": 8,
@@ -364,10 +440,6 @@
       "team": "Ivory Coast"
     },
     {
-      "team_id": 1548,
-      "team": "Jordan"
-    },
-    {
       "team_id": 1118,
       "team": "Netherlands"
     },
@@ -384,14 +456,6 @@
       "team": "Paraguay"
     },
     {
-      "team_id": 27,
-      "team": "Portugal"
-    },
-    {
-      "team_id": 23,
-      "team": "Saudi Arabia"
-    },
-    {
       "team_id": 13,
       "team": "Senegal"
     },
@@ -406,10 +470,6 @@
     {
       "team_id": 5,
       "team": "Sweden"
-    },
-    {
-      "team_id": 15,
-      "team": "Switzerland"
     },
     {
       "team_id": 28,

@@ -47,6 +47,7 @@ ASSIGNMENTS = {
     31:   "Eva",       # Morocco
     2384: "Iliasse",   # USA
     1548: "Jiří",      # Jordan
+    7:    "Euan",      # Uruguay
 }
 
 # FIFA ranking groups for WC2026 (A = highest-ranked, D = lowest).

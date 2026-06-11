@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-11T08:17:07Z",
+  "updated_at": "2026-06-11T08:18:00Z",
   "leaderboard": [
     {
       "colleague": "Gabe",
@@ -23,6 +23,22 @@
       "team_id": 2,
       "next_match_utc": "2026-06-16T19:00:00Z",
       "next_match_vs": "Senegal",
+      "points": 0,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "clean_sheets": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Sachin",
+      "team": "Team 4",
+      "team_id": 4,
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 0,
       "played": 0,
       "wins": 0,

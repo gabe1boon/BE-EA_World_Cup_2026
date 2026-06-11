@@ -29,7 +29,9 @@ ASSIGNMENTS = {
     3:    "Mark",      # Croatia
     27:   "Mark",      # Portugal
     4673: "Gabe",      # New Zealand
+    2:    "Gabe",      # France
     1568: "Tobias",    # Uzbekistan
+    2380: "Tobias",    # Paraguay
     1569: "Krystian",  # Qatar
     1504: "Achille",   # Ghana
     1533: "Achille",   # Cape Verde Islands
@@ -48,6 +50,8 @@ ASSIGNMENTS = {
     2384: "Iliasse",   # USA
     1548: "Jiří",      # Jordan
     7:    "Euan",      # Uruguay
+    5:    "Nicolas",   # Sweden
+    1532: "Daniel",    # Algeria
 }
 
 # FIFA ranking groups for WC2026 (A = highest-ranked, D = lowest).

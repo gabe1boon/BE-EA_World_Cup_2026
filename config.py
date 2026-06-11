@@ -23,9 +23,9 @@ SCORING = {
 #     9:    None,      # Spain — not yet picked
 #
 ASSIGNMENTS = {
-    16: "Alice",    # England
-    6:  "Bob",      # Brazil
-    2:  "Charlie",  # France
+    16: "Gabe",    # England
+    6:  "Dusan",      # Brazil
+    2:  "Tobias",  # France
 }
 
 # FIFA ranking groups for WC2026 (A = highest-ranked, D = lowest).

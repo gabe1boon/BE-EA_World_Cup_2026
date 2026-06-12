@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T06:23:07Z",
+  "updated_at": "2026-06-12T07:25:35Z",
   "leaderboard": [
     {
       "colleague": "Iga",
@@ -15,6 +15,22 @@
       "clean_sheets": 1,
       "yellow_cards": 1,
       "red_cards": 1,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Francisco",
+      "team": "South Korea",
+      "team_id": 17,
+      "next_match_utc": "2026-06-19T01:00:00Z",
+      "next_match_vs": "Mexico",
+      "points": 4,
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "goals_for": 2,
+      "clean_sheets": 0,
+      "yellow_cards": 1,
+      "red_cards": 0,
       "upset_bonus": 0
     },
     {
@@ -530,10 +546,6 @@
     {
       "team_id": 1531,
       "team": "South Africa"
-    },
-    {
-      "team_id": 17,
-      "team": "South Korea"
     },
     {
       "team_id": 28,

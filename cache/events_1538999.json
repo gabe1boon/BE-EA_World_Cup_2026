@@ -1,0 +1,310 @@
+[
+  {
+    "time": {
+      "elapsed": 59,
+      "extra": null
+    },
+    "team": {
+      "id": 770,
+      "name": "Czech Republic",
+      "logo": "https://media.api-sports.io/football/teams/770.png"
+    },
+    "player": {
+      "id": 66407,
+      "name": "L. Krejci"
+    },
+    "assist": {
+      "id": 1231,
+      "name": "V. Coufal"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 62,
+      "extra": null
+    },
+    "team": {
+      "id": 17,
+      "name": "South Korea",
+      "logo": "https://media.api-sports.io/football/teams/17.png"
+    },
+    "player": {
+      "id": 2906,
+      "name": "Lee Jae-Sung"
+    },
+    "assist": {
+      "id": 24888,
+      "name": "Hwang Hee-Chan"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 64,
+      "extra": null
+    },
+    "team": {
+      "id": 770,
+      "name": "Czech Republic",
+      "logo": "https://media.api-sports.io/football/teams/770.png"
+    },
+    "player": {
+      "id": 66387,
+      "name": "P. Sulc"
+    },
+    "assist": {
+      "id": 66019,
+      "name": "A. Hlozek"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 64,
+      "extra": null
+    },
+    "team": {
+      "id": 770,
+      "name": "Czech Republic",
+      "logo": "https://media.api-sports.io/football/teams/770.png"
+    },
+    "player": {
+      "id": 794,
+      "name": "P. Schick"
+    },
+    "assist": {
+      "id": 818,
+      "name": "T. Chory"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 64,
+      "extra": null
+    },
+    "team": {
+      "id": 770,
+      "name": "Czech Republic",
+      "logo": "https://media.api-sports.io/football/teams/770.png"
+    },
+    "player": {
+      "id": 66353,
+      "name": "L. Provod"
+    },
+    "assist": {
+      "id": 241,
+      "name": "M. Sadilek"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 67,
+      "extra": null
+    },
+    "team": {
+      "id": 17,
+      "name": "South Korea",
+      "logo": "https://media.api-sports.io/football/teams/17.png"
+    },
+    "player": {
+      "id": 2901,
+      "name": "Hwang In-Beom"
+    },
+    "assist": {
+      "id": 927,
+      "name": "Lee Kang-In"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 69,
+      "extra": null
+    },
+    "team": {
+      "id": 17,
+      "name": "South Korea",
+      "logo": "https://media.api-sports.io/football/teams/17.png"
+    },
+    "player": {
+      "id": 237220,
+      "name": "Lee Tae-Seok"
+    },
+    "assist": {
+      "id": 237050,
+      "name": "Eom Ji-Sung"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 69,
+      "extra": null
+    },
+    "team": {
+      "id": 17,
+      "name": "South Korea",
+      "logo": "https://media.api-sports.io/football/teams/17.png"
+    },
+    "player": {
+      "id": 186,
+      "name": "Son Heung-Min"
+    },
+    "assist": {
+      "id": 34710,
+      "name": "Oh Hyeon-Gyu"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 77,
+      "extra": null
+    },
+    "team": {
+      "id": 770,
+      "name": "Czech Republic",
+      "logo": "https://media.api-sports.io/football/teams/770.png"
+    },
+    "player": {
+      "id": 1243,
+      "name": "T. Soucek"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Var",
+    "detail": "Goal Disallowed - offside",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 80,
+      "extra": null
+    },
+    "team": {
+      "id": 17,
+      "name": "South Korea",
+      "logo": "https://media.api-sports.io/football/teams/17.png"
+    },
+    "player": {
+      "id": 34710,
+      "name": "Oh Hyeon-Gyu"
+    },
+    "assist": {
+      "id": 2901,
+      "name": "Hwang In-Beom"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 84,
+      "extra": null
+    },
+    "team": {
+      "id": 17,
+      "name": "South Korea",
+      "logo": "https://media.api-sports.io/football/teams/17.png"
+    },
+    "player": {
+      "id": 2901,
+      "name": "Hwang In-Beom"
+    },
+    "assist": {
+      "id": 34168,
+      "name": "Kim Jin-Gyu"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 84,
+      "extra": null
+    },
+    "team": {
+      "id": 17,
+      "name": "South Korea",
+      "logo": "https://media.api-sports.io/football/teams/17.png"
+    },
+    "player": {
+      "id": 2909,
+      "name": "Paik Seung-Ho"
+    },
+    "assist": {
+      "id": 99211,
+      "name": "Park Jin-Seob"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 84,
+      "extra": null
+    },
+    "team": {
+      "id": 770,
+      "name": "Czech Republic",
+      "logo": "https://media.api-sports.io/football/teams/770.png"
+    },
+    "player": {
+      "id": 386837,
+      "name": "A. Sojka"
+    },
+    "assist": {
+      "id": 66275,
+      "name": "M. Chytil"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 6
+    },
+    "team": {
+      "id": 17,
+      "name": "South Korea",
+      "logo": "https://media.api-sports.io/football/teams/17.png"
+    },
+    "player": {
+      "id": 304951,
+      "name": "Lee Gi-Hyuk"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  }
+]

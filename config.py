@@ -29,7 +29,6 @@ ASSIGNMENTS = {
     3:    "Mark",      # Croatia
     27:   "Mark",      # Portugal
     4673: "Gabe",      # New Zealand
-    2:    "Gabe",      # France
     1568: "Tobias",    # Uzbekistan
     2380: "Tobias",    # Paraguay
     1569: "Krystian",  # Qatar

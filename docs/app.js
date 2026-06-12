@@ -199,6 +199,7 @@ async function load() {
 
     render();
     renderAvailable(data.available_teams || []);
+    renderUpcoming(data.upcoming_fixtures || []);
     renderFifaGroups(data.fifa_groups || {});
     setInterval(render, 60000); // refresh countdown every minute
   } catch (e) {
@@ -226,6 +227,49 @@ function renderAvailable(teams) {
       </table>
     </div>
   `;
+}
+
+function renderUpcoming(fixtures) {
+  const section = document.getElementById("upcoming-section");
+  if (!fixtures || !fixtures.length) return;
+
+  const show = fixtures.slice(0, 12);
+
+  const grpCls = { A: "grp-a", B: "grp-b", C: "grp-c", D: "grp-d" };
+
+  function grpBadge(grp) {
+    if (!grp) return "";
+    return `<span class="grp-badge ${grpCls[grp] || ""}">${grp}</span>`;
+  }
+
+  const cards = show.map(fx => {
+    const dt = new Date(fx.date);
+    const dateStr = dt.toLocaleDateString("en-GB", { weekday: "short", day: "numeric", month: "short" });
+    const timeStr = dt.toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit" });
+    const venue = [fx.venue, fx.city].filter(Boolean).join(", ");
+
+    return `
+      <div class="match-card">
+        <div class="match-card-meta">
+          <span class="match-card-time">${dateStr} &middot; ${timeStr}</span>
+          <span class="match-card-venue">${venue}</span>
+        </div>
+        <div class="match-teams">
+          <div class="match-team">
+            <div class="match-team-name">${flagImg(fx.home_team)}${fx.home_team}</div>
+            ${grpBadge(fx.home_group)}
+          </div>
+          <div class="match-team">
+            <div class="match-team-name">${flagImg(fx.away_team)}${fx.away_team}</div>
+            ${grpBadge(fx.away_group)}
+          </div>
+        </div>
+      </div>`;
+  }).join("");
+
+  section.innerHTML = `
+    <h2 class="section-heading">Upcoming Fixtures <span class="count">${show.length}</span></h2>
+    <div class="match-grid">${cards}</div>`;
 }
 
 function renderFifaGroups(groups) {

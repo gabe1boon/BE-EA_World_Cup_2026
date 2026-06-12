@@ -355,6 +355,104 @@ td.ub { color: #27AE60; font-weight: 700; }
   }
 }
 
+/* ── Upcoming Fixtures ── */
+#upcoming-section {
+  margin-top: 2.5rem;
+}
+
+.match-grid {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 0.75rem;
+}
+
+.match-card {
+  background: var(--white);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  overflow: hidden;
+  box-shadow: 0 2px 16px rgba(22, 68, 206, 0.08);
+  padding: 0.7rem 0.75rem;
+  display: flex;
+  flex-direction: column;
+  gap: 0.5rem;
+}
+
+.match-card-meta {
+  display: flex;
+  flex-direction: column;
+  gap: 0.1rem;
+  padding-bottom: 0.45rem;
+  border-bottom: 1px solid var(--blue-light);
+}
+
+.match-card-time {
+  font-size: 0.78rem;
+  font-weight: 700;
+  color: var(--blue);
+}
+
+.match-card-venue {
+  font-size: 0.72rem;
+  color: var(--muted);
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.match-teams {
+  display: flex;
+  flex-direction: column;
+  gap: 0.3rem;
+}
+
+.match-team {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 0.4rem;
+}
+
+.match-team-name {
+  display: flex;
+  align-items: center;
+  gap: 0.3rem;
+  font-size: 0.83rem;
+  font-weight: 500;
+  flex: 1;
+  min-width: 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.grp-badge {
+  font-size: 0.62rem;
+  font-weight: 700;
+  padding: 0.1rem 0.35rem;
+  border-radius: 4px;
+  color: #fff;
+  flex-shrink: 0;
+  letter-spacing: 0.03em;
+}
+
+.grp-badge.grp-a { background: #C0392B; }
+.grp-badge.grp-b { background: #E67E22; }
+.grp-badge.grp-c { background: #2980B9; }
+.grp-badge.grp-d { background: #27AE60; }
+
+@media (max-width: 600px) {
+  .match-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+}
+
+@media (max-width: 380px) {
+  .match-grid {
+    grid-template-columns: 1fr;
+  }
+}
+
 /* ── FIFA Ranking Groups ── */
 #fifa-section {
   margin-top: 2.5rem;

@@ -236,10 +236,47 @@ def build_output(stats, fixtures):
         key=lambda t: t["team"],
     )
 
+    # Reverse FIFA group lookup: team_name_lower → group letter
+    _grp_lookup = {}
+    for _grp, _grp_teams in FIFA_GROUPS.items():
+        for _tname in _grp_teams:
+            _grp_lookup[_tname.lower()] = _grp
+
+    # Upcoming fixtures (next 30, soonest first)
+    upcoming = []
+    for fx in fixtures:
+        if fx["fixture"]["status"]["short"] not in ("NS", "TBD"):
+            continue
+        raw_date = fx["fixture"].get("date")
+        if not raw_date:
+            continue
+        try:
+            fx_dt = datetime.fromisoformat(raw_date.replace("Z", "+00:00"))
+        except ValueError:
+            continue
+        if fx_dt <= now:
+            continue
+        home = fx["teams"]["home"]
+        away = fx["teams"]["away"]
+        venue_info = fx["fixture"].get("venue") or {}
+        upcoming.append({
+            "date": fx_dt.strftime("%Y-%m-%dT%H:%M:%SZ"),
+            "home_team": home["name"],
+            "away_team": away["name"],
+            "home_group": _grp_lookup.get(home["name"].lower(), ""),
+            "away_group": _grp_lookup.get(away["name"].lower(), ""),
+            "venue": venue_info.get("name") or "",
+            "city": venue_info.get("city") or "",
+            "round": fx["league"]["round"],
+        })
+    upcoming.sort(key=lambda x: x["date"])
+    upcoming = upcoming[:30]
+
     return {
         "updated_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
         "leaderboard": rows,
         "available_teams": available_teams,
+        "upcoming_fixtures": upcoming,
     }
 
 

@@ -176,7 +176,7 @@ async function load() {
 
     if (data.updated_at) {
       document.getElementById("updated").textContent =
-        "Last updated: " + new Date(data.updated_at).toLocaleString();
+        "Last updated: " + new Date(data.updated_at).toLocaleString("en-GB", { timeZone: "Europe/Zurich", day: "numeric", month: "short", hour: "2-digit", minute: "2-digit" }) + " Geneva";
     }
 
     if (!data.leaderboard || data.leaderboard.length === 0) {
@@ -244,8 +244,9 @@ function renderUpcoming(fixtures) {
 
   const cards = show.map(fx => {
     const dt = new Date(fx.date);
-    const dateStr = dt.toLocaleDateString("en-GB", { weekday: "short", day: "numeric", month: "short" });
-    const timeStr = dt.toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit" });
+    const tz = "Europe/Zurich";
+    const dateStr = dt.toLocaleDateString("en-GB", { weekday: "short", day: "numeric", month: "short", timeZone: tz });
+    const timeStr = dt.toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit", timeZone: tz });
     const venue = [fx.venue, fx.city].filter(Boolean).join(", ");
 
     return `

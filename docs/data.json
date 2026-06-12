@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T18:56:47Z",
+  "updated_at": "2026-06-12T21:00:28Z",
   "leaderboard": [
     {
       "colleague": "Iga",
@@ -386,22 +386,6 @@
       "upset_bonus": 0
     },
     {
-      "colleague": "Adele",
-      "team": "Bosnia & Herzegovina",
-      "team_id": 1113,
-      "next_match_utc": "2026-06-12T19:00:00Z",
-      "next_match_vs": "Canada",
-      "points": 0,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 0,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
       "colleague": "Achille",
       "team": "Ghana",
       "team_id": 1504,
@@ -464,6 +448,22 @@
       "yellow_cards": 0,
       "red_cards": 0,
       "upset_bonus": 0
+    },
+    {
+      "colleague": "Adele",
+      "team": "Bosnia & Herzegovina",
+      "team_id": 1113,
+      "next_match_utc": "2026-06-18T19:00:00Z",
+      "next_match_vs": "Switzerland",
+      "points": -1,
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "goals_for": 1,
+      "clean_sheets": 0,
+      "yellow_cards": 3,
+      "red_cards": 0,
+      "upset_bonus": 0
     }
   ],
   "available_teams": [
@@ -493,7 +493,7 @@
     },
     {
       "team_id": 770,
-      "team": "Czech Republic"
+      "team": "Czechia"
     },
     {
       "team_id": 10,
@@ -545,16 +545,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-12T19:00:00Z",
-      "home_team": "Canada",
-      "away_team": "Bosnia & Herzegovina",
-      "home_group": "B",
-      "away_group": "D",
-      "venue": "BMO Field",
-      "city": "Toronto",
-      "round": "Group Stage - 1"
-    },
     {
       "date": "2026-06-13T01:00:00Z",
       "home_team": "USA",
@@ -767,9 +757,9 @@
     },
     {
       "date": "2026-06-18T16:00:00Z",
-      "home_team": "Czech Republic",
+      "home_team": "Czechia",
       "away_team": "South Africa",
-      "home_group": "C",
+      "home_group": "",
       "away_group": "D",
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
@@ -843,6 +833,16 @@
       "away_group": "D",
       "venue": "Levi's Stadium",
       "city": "San Francisco Bay Area",
+      "round": "Group Stage - 2"
+    },
+    {
+      "date": "2026-06-20T17:00:00Z",
+      "home_team": "Netherlands",
+      "away_team": "Sweden",
+      "home_group": "A",
+      "away_group": "B",
+      "venue": "NRG Stadium",
+      "city": "Houston",
       "round": "Group Stage - 2"
     }
   ],

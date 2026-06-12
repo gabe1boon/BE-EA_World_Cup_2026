@@ -1,12 +1,60 @@
 {
-  "updated_at": "2026-06-11T15:29:40Z",
+  "updated_at": "2026-06-12T06:23:07Z",
   "leaderboard": [
+    {
+      "colleague": "Iga",
+      "team": "Mexico",
+      "team_id": 16,
+      "next_match_utc": "2026-06-19T01:00:00Z",
+      "next_match_vs": "South Korea",
+      "points": 4,
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "goals_for": 2,
+      "clean_sheets": 1,
+      "yellow_cards": 1,
+      "red_cards": 1,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Gabe",
+      "team": "France",
+      "team_id": 2,
+      "next_match_utc": "2026-06-16T19:00:00Z",
+      "next_match_vs": "Senegal",
+      "points": 0,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "clean_sheets": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
     {
       "colleague": "Mark",
       "team": "Croatia",
       "team_id": 3,
       "next_match_utc": "2026-06-17T20:00:00Z",
       "next_match_vs": "England",
+      "points": 0,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "clean_sheets": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Nicolas",
+      "team": "Sweden",
+      "team_id": 5,
+      "next_match_utc": "2026-06-15T02:00:00Z",
+      "next_match_vs": "Tunisia",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -103,22 +151,6 @@
       "team_id": 15,
       "next_match_utc": "2026-06-13T19:00:00Z",
       "next_match_vs": "Qatar",
-      "points": 0,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 0,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
-      "colleague": "Iga",
-      "team": "Mexico",
-      "team_id": 16,
-      "next_match_utc": "2026-06-11T19:00:00Z",
-      "next_match_vs": "South Africa",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -274,6 +306,22 @@
       "upset_bonus": 0
     },
     {
+      "colleague": "Tobias",
+      "team": "Paraguay",
+      "team_id": 2380,
+      "next_match_utc": "2026-06-13T01:00:00Z",
+      "next_match_vs": "USA",
+      "points": 0,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "clean_sheets": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
       "colleague": "Willem",
       "team": "Ecuador",
       "team_id": 2382,
@@ -386,6 +434,22 @@
       "upset_bonus": 0
     },
     {
+      "colleague": "Daniel",
+      "team": "Algeria",
+      "team_id": 1532,
+      "next_match_utc": "2026-06-17T01:00:00Z",
+      "next_match_vs": "Argentina",
+      "points": 0,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "clean_sheets": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
       "colleague": "Achille",
       "team": "Cape Verde Islands",
       "team_id": 1533,
@@ -403,10 +467,6 @@
     }
   ],
   "available_teams": [
-    {
-      "team_id": 1532,
-      "team": "Algeria"
-    },
     {
       "team_id": 20,
       "team": "Australia"
@@ -440,10 +500,6 @@
       "team": "England"
     },
     {
-      "team_id": 2,
-      "team": "France"
-    },
-    {
       "team_id": 25,
       "team": "Germany"
     },
@@ -468,10 +524,6 @@
       "team": "Panama"
     },
     {
-      "team_id": 2380,
-      "team": "Paraguay"
-    },
-    {
       "team_id": 13,
       "team": "Senegal"
     },
@@ -482,10 +534,6 @@
     {
       "team_id": 17,
       "team": "South Korea"
-    },
-    {
-      "team_id": 5,
-      "team": "Sweden"
     },
     {
       "team_id": 28,

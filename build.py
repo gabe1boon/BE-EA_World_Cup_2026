@@ -7,6 +7,7 @@ import json
 import os
 import sys
 import time
+import zoneinfo
 from datetime import datetime, timezone
 from pathlib import Path
 
@@ -20,6 +21,8 @@ SEASON = 2026
 CACHE_DIR = Path("cache")
 DOCS_DIR = Path("docs")
 DATA_JSON = DOCS_DIR / "data.json"
+SNAPSHOTS_DIR = Path("snapshots")
+GENEVA_TZ = zoneinfo.ZoneInfo("Europe/Zurich")
 
 # Fixture statuses that count as a completed match
 FINISHED = {"FT", "AET", "PEN"}
@@ -280,6 +283,27 @@ def build_output(stats, fixtures):
     }
 
 
+def maybe_snapshot(output):
+    now_geneva = datetime.now(GENEVA_TZ)
+    if now_geneva.hour < 9:
+        return
+    date_str = now_geneva.strftime("%Y-%m-%d")
+    SNAPSHOTS_DIR.mkdir(exist_ok=True)
+    snapshot_path = SNAPSHOTS_DIR / f"{date_str}.json"
+    if snapshot_path.exists():
+        return
+    snapshot = {
+        "date": date_str,
+        "captured_at": datetime.now(timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ"),
+        "leaderboard": [
+            {**row, "rank": i + 1}
+            for i, row in enumerate(output["leaderboard"])
+        ],
+    }
+    snapshot_path.write_text(json.dumps(snapshot, indent=2))
+    print(f"Snapshot saved: {snapshot_path}")
+
+
 def post_slack(webhook, leaderboard, updated_at):
     if not leaderboard:
         return
@@ -305,6 +329,7 @@ def main():
 
     DATA_JSON.write_text(json.dumps(output, indent=2))
     print(f"Done. {len(output['leaderboard'])} entries -> {DATA_JSON}")
+    maybe_snapshot(output)
 
     webhook = os.environ.get("SLACK_WEBHOOK")
     if webhook:

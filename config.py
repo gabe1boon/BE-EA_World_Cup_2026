@@ -51,6 +51,7 @@ ASSIGNMENTS = {
     1548: "Jiří",      # Jordan
     7:    "Euan",      # Uruguay
     5:    "Nicolas",   # Sweden
+    17:   "Francisco", # South Korea
     1532: "Daniel",    # Algeria
 }
 

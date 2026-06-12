@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-12T08:06:48Z",
+  "updated_at": "2026-06-12T08:14:49Z",
   "leaderboard": [
     {
       "colleague": "Iga",
@@ -30,22 +30,6 @@
       "goals_for": 2,
       "clean_sheets": 0,
       "yellow_cards": 1,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
-      "colleague": "Gabe",
-      "team": "France",
-      "team_id": 2,
-      "next_match_utc": "2026-06-16T19:00:00Z",
-      "next_match_vs": "Senegal",
-      "points": 0,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 0,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
       "red_cards": 0,
       "upset_bonus": 0
     },
@@ -514,6 +498,10 @@
     {
       "team_id": 10,
       "team": "England"
+    },
+    {
+      "team_id": 2,
+      "team": "France"
     },
     {
       "team_id": 25,

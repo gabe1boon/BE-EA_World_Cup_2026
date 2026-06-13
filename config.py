@@ -47,6 +47,7 @@ ASSIGNMENTS = {
     32:   "Deepti",    # Egypt
     31:   "Eva",       # Morocco
     2384: "Iliasse",   # USA
+    1501: "Oliver",    # Ivory Coast
     1548: "Jiří",      # Jordan
     7:    "Euan",      # Uruguay
     5:    "Nicolas",   # Sweden

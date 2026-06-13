@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T08:16:48Z",
+  "updated_at": "2026-06-13T08:30:10Z",
   "leaderboard": [
     {
       "colleague": "Iliasse",
@@ -370,6 +370,22 @@
       "upset_bonus": 0
     },
     {
+      "colleague": "Oliver",
+      "team": "Ivory Coast",
+      "team_id": 1501,
+      "next_match_utc": "2026-06-14T23:00:00Z",
+      "next_match_vs": "Ecuador",
+      "points": 0,
+      "played": 0,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "clean_sheets": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
       "colleague": "Achille",
       "team": "Ghana",
       "team_id": 1504,
@@ -510,10 +526,6 @@
     {
       "team_id": 22,
       "team": "Iran"
-    },
-    {
-      "team_id": 1501,
-      "team": "Ivory Coast"
     },
     {
       "team_id": 1118,

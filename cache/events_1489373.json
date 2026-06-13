@@ -1,0 +1,332 @@
+[
+  {
+    "time": {
+      "elapsed": 16,
+      "extra": null
+    },
+    "team": {
+      "id": 1569,
+      "name": "Qatar",
+      "logo": "https://media.api-sports.io/football/teams/1569.png"
+    },
+    "player": {
+      "id": 42207,
+      "name": "M. Abunada"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Delay of game"
+  },
+  {
+    "time": {
+      "elapsed": 17,
+      "extra": null
+    },
+    "team": {
+      "id": 15,
+      "name": "Switzerland",
+      "logo": "https://media.api-sports.io/football/teams/15.png"
+    },
+    "player": {
+      "id": 421,
+      "name": "B. Embolo"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 23,
+      "extra": null
+    },
+    "team": {
+      "id": 1569,
+      "name": "Qatar",
+      "logo": "https://media.api-sports.io/football/teams/1569.png"
+    },
+    "player": {
+      "id": 200981,
+      "name": "J. Gaber"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  },
+  {
+    "time": {
+      "elapsed": 42,
+      "extra": null
+    },
+    "team": {
+      "id": 15,
+      "name": "Switzerland",
+      "logo": "https://media.api-sports.io/football/teams/15.png"
+    },
+    "player": {
+      "id": 2810,
+      "name": "D. Zakaria"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 60,
+      "extra": null
+    },
+    "team": {
+      "id": 1569,
+      "name": "Qatar",
+      "logo": "https://media.api-sports.io/football/teams/1569.png"
+    },
+    "player": {
+      "id": 542548,
+      "name": "A. Al Oui"
+    },
+    "assist": {
+      "id": 2539,
+      "name": "A. Fathi"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 60,
+      "extra": null
+    },
+    "team": {
+      "id": 1569,
+      "name": "Qatar",
+      "logo": "https://media.api-sports.io/football/teams/1569.png"
+    },
+    "player": {
+      "id": 200981,
+      "name": "J. Gaber"
+    },
+    "assist": {
+      "id": 2537,
+      "name": "K. Boudiaf"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 60,
+      "extra": null
+    },
+    "team": {
+      "id": 1569,
+      "name": "Qatar",
+      "logo": "https://media.api-sports.io/football/teams/1569.png"
+    },
+    "player": {
+      "id": 542541,
+      "name": "Y. Abdurisag"
+    },
+    "assist": {
+      "id": 2542,
+      "name": "A. Alaaeldin"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 65,
+      "extra": null
+    },
+    "team": {
+      "id": 15,
+      "name": "Switzerland",
+      "logo": "https://media.api-sports.io/football/teams/15.png"
+    },
+    "player": {
+      "id": 48648,
+      "name": "D. Ndoye"
+    },
+    "assist": {
+      "id": 406244,
+      "name": "J. Manzambi"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 65,
+      "extra": null
+    },
+    "team": {
+      "id": 15,
+      "name": "Switzerland",
+      "logo": "https://media.api-sports.io/football/teams/15.png"
+    },
+    "player": {
+      "id": 951,
+      "name": "M. Aebischer"
+    },
+    "assist": {
+      "id": 163032,
+      "name": "F. Rieder"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 79,
+      "extra": null
+    },
+    "team": {
+      "id": 1569,
+      "name": "Qatar",
+      "logo": "https://media.api-sports.io/football/teams/1569.png"
+    },
+    "player": {
+      "id": 2535,
+      "name": "A. O. Madibo"
+    },
+    "assist": {
+      "id": 283174,
+      "name": "M. Al Mannai"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 79,
+      "extra": null
+    },
+    "team": {
+      "id": 15,
+      "name": "Switzerland",
+      "logo": "https://media.api-sports.io/football/teams/15.png"
+    },
+    "player": {
+      "id": 48471,
+      "name": "R. Vargas"
+    },
+    "assist": {
+      "id": 123469,
+      "name": "Z. Amdouni"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 88,
+      "extra": null
+    },
+    "team": {
+      "id": 1569,
+      "name": "Qatar",
+      "logo": "https://media.api-sports.io/football/teams/1569.png"
+    },
+    "player": {
+      "id": 42075,
+      "name": "Edmilson Junior"
+    },
+    "assist": {
+      "id": 2545,
+      "name": "H. Al Haydos"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 89,
+      "extra": null
+    },
+    "team": {
+      "id": 15,
+      "name": "Switzerland",
+      "logo": "https://media.api-sports.io/football/teams/15.png"
+    },
+    "player": {
+      "id": 1631,
+      "name": "R. Rodriguez"
+    },
+    "assist": {
+      "id": 48489,
+      "name": "M. Muheim"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 89,
+      "extra": null
+    },
+    "team": {
+      "id": 15,
+      "name": "Switzerland",
+      "logo": "https://media.api-sports.io/football/teams/15.png"
+    },
+    "player": {
+      "id": 2807,
+      "name": "R. Freuler"
+    },
+    "assist": {
+      "id": 264705,
+      "name": "A. Jashari"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 4
+    },
+    "team": {
+      "id": 1569,
+      "name": "Qatar",
+      "logo": "https://media.api-sports.io/football/teams/1569.png"
+    },
+    "player": {
+      "id": 2532,
+      "name": "B. Khoukhi"
+    },
+    "assist": {
+      "id": 175439,
+      "name": "H. Al Amin"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  }
+]

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T17:50:10Z",
+  "updated_at": "2026-06-13T19:04:26Z",
   "leaderboard": [
     {
       "colleague": "Iliasse",
@@ -165,8 +165,8 @@
       "colleague": "Koums",
       "team": "Switzerland",
       "team_id": 15,
-      "next_match_utc": "2026-06-13T19:00:00Z",
-      "next_match_vs": "Qatar",
+      "next_match_utc": "2026-06-18T19:00:00Z",
+      "next_match_vs": "Bosnia & Herzegovina",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -261,8 +261,8 @@
       "colleague": "Krystian",
       "team": "Qatar",
       "team_id": 1569,
-      "next_match_utc": "2026-06-13T19:00:00Z",
-      "next_match_vs": "Switzerland",
+      "next_match_utc": "2026-06-18T22:00:00Z",
+      "next_match_vs": "Canada",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -558,16 +558,6 @@
   ],
   "upcoming_fixtures": [
     {
-      "date": "2026-06-13T19:00:00Z",
-      "home_team": "Qatar",
-      "away_team": "Switzerland",
-      "home_group": "D",
-      "away_group": "B",
-      "venue": "Levi's Stadium",
-      "city": "San Francisco Bay Area",
-      "round": "Group Stage - 1"
-    },
-    {
       "date": "2026-06-13T22:00:00Z",
       "home_team": "Brazil",
       "away_team": "Morocco",
@@ -855,6 +845,16 @@
       "away_group": "C",
       "venue": "BMO Field",
       "city": "Toronto",
+      "round": "Group Stage - 2"
+    },
+    {
+      "date": "2026-06-21T00:00:00Z",
+      "home_team": "Ecuador",
+      "away_team": "Cura\u00e7ao",
+      "home_group": "B",
+      "away_group": "D",
+      "venue": "Arrowhead Stadium",
+      "city": "Kansas City",
       "round": "Group Stage - 2"
     }
   ],

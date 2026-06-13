@@ -1,0 +1,376 @@
+[
+  {
+    "time": {
+      "elapsed": 11,
+      "extra": null
+    },
+    "team": {
+      "id": 5529,
+      "name": "Canada",
+      "logo": "https://media.api-sports.io/football/teams/5529.png"
+    },
+    "player": {
+      "id": 78547,
+      "name": "A. Johnston"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 21,
+      "extra": null
+    },
+    "team": {
+      "id": 1113,
+      "name": "Bosnia & Herzegovina",
+      "logo": "https://media.api-sports.io/football/teams/1113.png"
+    },
+    "player": {
+      "id": 77037,
+      "name": "J. Lukic"
+    },
+    "assist": {
+      "id": 1442,
+      "name": "S. Kolasinac"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 45,
+      "extra": null
+    },
+    "team": {
+      "id": 1113,
+      "name": "Bosnia & Herzegovina",
+      "logo": "https://media.api-sports.io/football/teams/1113.png"
+    },
+    "player": {
+      "id": 46930,
+      "name": "E. Demirovic"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  },
+  {
+    "time": {
+      "elapsed": 45,
+      "extra": 1
+    },
+    "team": {
+      "id": 1113,
+      "name": "Bosnia & Herzegovina",
+      "logo": "https://media.api-sports.io/football/teams/1113.png"
+    },
+    "player": {
+      "id": 77037,
+      "name": "J. Lukic"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  },
+  {
+    "time": {
+      "elapsed": 53,
+      "extra": null
+    },
+    "team": {
+      "id": 5529,
+      "name": "Canada",
+      "logo": "https://media.api-sports.io/football/teams/5529.png"
+    },
+    "player": {
+      "id": 327738,
+      "name": "L. De Fougerolles"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Holding"
+  },
+  {
+    "time": {
+      "elapsed": 61,
+      "extra": null
+    },
+    "team": {
+      "id": 5529,
+      "name": "Canada",
+      "logo": "https://media.api-sports.io/football/teams/5529.png"
+    },
+    "player": {
+      "id": 44798,
+      "name": "L. Millar"
+    },
+    "assist": {
+      "id": 50826,
+      "name": "J. Shaffelburg"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 61,
+      "extra": null
+    },
+    "team": {
+      "id": 5529,
+      "name": "Canada",
+      "logo": "https://media.api-sports.io/football/teams/5529.png"
+    },
+    "player": {
+      "id": 8489,
+      "name": "J. David"
+    },
+    "assist": {
+      "id": 313353,
+      "name": "P. David"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 61,
+      "extra": null
+    },
+    "team": {
+      "id": 5529,
+      "name": "Canada",
+      "logo": "https://media.api-sports.io/football/teams/5529.png"
+    },
+    "player": {
+      "id": 51016,
+      "name": "T. Buchanan"
+    },
+    "assist": {
+      "id": 362145,
+      "name": "A. Ahmed"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 62,
+      "extra": null
+    },
+    "team": {
+      "id": 1113,
+      "name": "Bosnia & Herzegovina",
+      "logo": "https://media.api-sports.io/football/teams/1113.png"
+    },
+    "player": {
+      "id": 77037,
+      "name": "J. Lukic"
+    },
+    "assist": {
+      "id": 314377,
+      "name": "S. Bazdar"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 62,
+      "extra": null
+    },
+    "team": {
+      "id": 1113,
+      "name": "Bosnia & Herzegovina",
+      "logo": "https://media.api-sports.io/football/teams/1113.png"
+    },
+    "player": {
+      "id": 162222,
+      "name": "I. Basic"
+    },
+    "assist": {
+      "id": 70514,
+      "name": "A. Gigovic"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 74,
+      "extra": null
+    },
+    "team": {
+      "id": 1113,
+      "name": "Bosnia & Herzegovina",
+      "logo": "https://media.api-sports.io/football/teams/1113.png"
+    },
+    "player": {
+      "id": 329409,
+      "name": "E. Bajraktarevic"
+    },
+    "assist": {
+      "id": 1324,
+      "name": "I. Sunjic"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 74,
+      "extra": null
+    },
+    "team": {
+      "id": 1113,
+      "name": "Bosnia & Herzegovina",
+      "logo": "https://media.api-sports.io/football/teams/1113.png"
+    },
+    "player": {
+      "id": 322101,
+      "name": "A. Memic"
+    },
+    "assist": {
+      "id": 395559,
+      "name": "K. Alajbegovic"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 76,
+      "extra": null
+    },
+    "team": {
+      "id": 5529,
+      "name": "Canada",
+      "logo": "https://media.api-sports.io/football/teams/5529.png"
+    },
+    "player": {
+      "id": 351587,
+      "name": "T. Oluwaseyi"
+    },
+    "assist": {
+      "id": 2001,
+      "name": "C. Larin"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 78,
+      "extra": null
+    },
+    "team": {
+      "id": 5529,
+      "name": "Canada",
+      "logo": "https://media.api-sports.io/football/teams/5529.png"
+    },
+    "player": {
+      "id": 2001,
+      "name": "C. Larin"
+    },
+    "assist": {
+      "id": 313353,
+      "name": "P. David"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 84,
+      "extra": null
+    },
+    "team": {
+      "id": 1113,
+      "name": "Bosnia & Herzegovina",
+      "logo": "https://media.api-sports.io/football/teams/1113.png"
+    },
+    "player": {
+      "id": 1442,
+      "name": "S. Kolasinac"
+    },
+    "assist": {
+      "id": 25129,
+      "name": "D. Burnic"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 1
+    },
+    "team": {
+      "id": 5529,
+      "name": "Canada",
+      "logo": "https://media.api-sports.io/football/teams/5529.png"
+    },
+    "player": {
+      "id": 35570,
+      "name": "S. Eustaquio"
+    },
+    "assist": {
+      "id": 50817,
+      "name": "J. Osorio"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 3
+    },
+    "team": {
+      "id": 1113,
+      "name": "Bosnia & Herzegovina",
+      "logo": "https://media.api-sports.io/football/teams/1113.png"
+    },
+    "player": {
+      "id": 1741,
+      "name": "N. Katic"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Holding"
+  }
+]

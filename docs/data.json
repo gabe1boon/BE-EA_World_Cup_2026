@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-06-12T08:06:48Z",
+  "updated_at": "2026-06-13T08:16:48Z",
   "leaderboard": [
+    {
+      "colleague": "Iliasse",
+      "team": "USA",
+      "team_id": 2384,
+      "next_match_utc": "2026-06-19T19:00:00Z",
+      "next_match_vs": "Australia",
+      "points": 6,
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "goals_for": 4,
+      "clean_sheets": 0,
+      "yellow_cards": 1,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
     {
       "colleague": "Iga",
       "team": "Mexico",
@@ -30,22 +46,6 @@
       "goals_for": 2,
       "clean_sheets": 0,
       "yellow_cards": 1,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
-      "colleague": "Gabe",
-      "team": "France",
-      "team_id": 2,
-      "next_match_utc": "2026-06-16T19:00:00Z",
-      "next_match_vs": "Senegal",
-      "points": 0,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 0,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
       "red_cards": 0,
       "upset_bonus": 0
     },
@@ -322,43 +322,11 @@
       "upset_bonus": 0
     },
     {
-      "colleague": "Tobias",
-      "team": "Paraguay",
-      "team_id": 2380,
-      "next_match_utc": "2026-06-13T01:00:00Z",
-      "next_match_vs": "USA",
-      "points": 0,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 0,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
       "colleague": "Willem",
       "team": "Ecuador",
       "team_id": 2382,
       "next_match_utc": "2026-06-14T23:00:00Z",
       "next_match_vs": "Ivory Coast",
-      "points": 0,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 0,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
-      "colleague": "Iliasse",
-      "team": "USA",
-      "team_id": 2384,
-      "next_match_utc": "2026-06-13T01:00:00Z",
-      "next_match_vs": "Paraguay",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -391,22 +359,6 @@
       "team_id": 1108,
       "next_match_utc": "2026-06-14T01:00:00Z",
       "next_match_vs": "Haiti",
-      "points": 0,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 0,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
-      "colleague": "Adele",
-      "team": "Bosnia & Herzegovina",
-      "team_id": 1113,
-      "next_match_utc": "2026-06-12T19:00:00Z",
-      "next_match_vs": "Canada",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -480,6 +432,38 @@
       "yellow_cards": 0,
       "red_cards": 0,
       "upset_bonus": 0
+    },
+    {
+      "colleague": "Adele",
+      "team": "Bosnia & Herzegovina",
+      "team_id": 1113,
+      "next_match_utc": "2026-06-18T19:00:00Z",
+      "next_match_vs": "Switzerland",
+      "points": -1,
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "goals_for": 1,
+      "clean_sheets": 0,
+      "yellow_cards": 3,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Tobias",
+      "team": "Paraguay",
+      "team_id": 2380,
+      "next_match_utc": "2026-06-20T03:00:00Z",
+      "next_match_vs": "T\u00fcrkiye",
+      "points": -4,
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 1,
+      "clean_sheets": 0,
+      "yellow_cards": 5,
+      "red_cards": 0,
+      "upset_bonus": 0
     }
   ],
   "available_teams": [
@@ -509,11 +493,15 @@
     },
     {
       "team_id": 770,
-      "team": "Czech Republic"
+      "team": "Czechia"
     },
     {
       "team_id": 10,
       "team": "England"
+    },
+    {
+      "team_id": 2,
+      "team": "France"
     },
     {
       "team_id": 25,
@@ -557,26 +545,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-12T19:00:00Z",
-      "home_team": "Canada",
-      "away_team": "Bosnia & Herzegovina",
-      "home_group": "B",
-      "away_group": "D",
-      "venue": "BMO Field",
-      "city": "Toronto",
-      "round": "Group Stage - 1"
-    },
-    {
-      "date": "2026-06-13T01:00:00Z",
-      "home_team": "USA",
-      "away_team": "Paraguay",
-      "home_group": "B",
-      "away_group": "D",
-      "venue": "SoFi Stadium",
-      "city": "Los Angeles",
-      "round": "Group Stage - 1"
-    },
     {
       "date": "2026-06-13T19:00:00Z",
       "home_team": "Qatar",
@@ -779,9 +747,9 @@
     },
     {
       "date": "2026-06-18T16:00:00Z",
-      "home_team": "Czech Republic",
+      "home_team": "Czechia",
       "away_team": "South Africa",
-      "home_group": "C",
+      "home_group": "",
       "away_group": "D",
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
@@ -855,6 +823,26 @@
       "away_group": "D",
       "venue": "Levi's Stadium",
       "city": "San Francisco Bay Area",
+      "round": "Group Stage - 2"
+    },
+    {
+      "date": "2026-06-20T17:00:00Z",
+      "home_team": "Netherlands",
+      "away_team": "Sweden",
+      "home_group": "A",
+      "away_group": "B",
+      "venue": "NRG Stadium",
+      "city": "Houston",
+      "round": "Group Stage - 2"
+    },
+    {
+      "date": "2026-06-20T20:00:00Z",
+      "home_team": "Germany",
+      "away_team": "Ivory Coast",
+      "home_group": "A",
+      "away_group": "C",
+      "venue": "BMO Field",
+      "city": "Toronto",
       "round": "Group Stage - 2"
     }
   ],

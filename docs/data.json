@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T18:06:55Z",
+  "updated_at": "2026-06-14T20:02:50Z",
   "leaderboard": [
     {
       "colleague": "Iliasse",
@@ -197,8 +197,8 @@
       "colleague": "Dusan",
       "team": "Japan",
       "team_id": 12,
-      "next_match_utc": "2026-06-14T20:00:00Z",
-      "next_match_vs": "Netherlands",
+      "next_match_utc": "2026-06-21T04:00:00Z",
+      "next_match_vs": "Tunisia",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -558,16 +558,6 @@
   ],
   "upcoming_fixtures": [
     {
-      "date": "2026-06-14T20:00:00Z",
-      "home_team": "Netherlands",
-      "away_team": "Japan",
-      "home_group": "A",
-      "away_group": "B",
-      "venue": "AT&T Stadium",
-      "city": "Dallas",
-      "round": "Group Stage - 1"
-    },
-    {
       "date": "2026-06-14T23:00:00Z",
       "home_team": "Ivory Coast",
       "away_team": "Ecuador",
@@ -855,6 +845,16 @@
       "away_group": "D",
       "venue": "Hard Rock Stadium",
       "city": "Miami",
+      "round": "Group Stage - 2"
+    },
+    {
+      "date": "2026-06-22T01:00:00Z",
+      "home_team": "New Zealand",
+      "away_team": "Egypt",
+      "home_group": "D",
+      "away_group": "C",
+      "venue": "BC Place",
+      "city": "Vancouver",
       "round": "Group Stage - 2"
     }
   ],

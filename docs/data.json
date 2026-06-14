@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-13T23:55:54Z",
+  "updated_at": "2026-06-14T02:38:44Z",
   "leaderboard": [
     {
       "colleague": "Iliasse",
@@ -46,6 +46,22 @@
       "goals_for": 2,
       "clean_sheets": 0,
       "yellow_cards": 1,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Eva",
+      "team": "Morocco",
+      "team_id": 31,
+      "next_match_utc": "2026-06-19T22:00:00Z",
+      "next_match_vs": "Scotland",
+      "points": 2,
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "goals_for": 1,
+      "clean_sheets": 0,
+      "yellow_cards": 0,
       "red_cards": 0,
       "upset_bonus": 0
     },
@@ -290,22 +306,6 @@
       "upset_bonus": 0
     },
     {
-      "colleague": "Eva",
-      "team": "Morocco",
-      "team_id": 31,
-      "next_match_utc": "2026-06-19T22:00:00Z",
-      "next_match_vs": "Scotland",
-      "points": 0,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 0,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
       "colleague": "Gabe",
       "team": "New Zealand",
       "team_id": 4673,
@@ -341,8 +341,8 @@
       "colleague": "Basiten",
       "team": "Haiti",
       "team_id": 2386,
-      "next_match_utc": "2026-06-14T01:00:00Z",
-      "next_match_vs": "Scotland",
+      "next_match_utc": "2026-06-20T00:30:00Z",
+      "next_match_vs": "Brazil",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -357,8 +357,8 @@
       "colleague": "Koums",
       "team": "Scotland",
       "team_id": 1108,
-      "next_match_utc": "2026-06-14T01:00:00Z",
-      "next_match_vs": "Haiti",
+      "next_match_utc": "2026-06-19T22:00:00Z",
+      "next_match_vs": "Morocco",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -557,16 +557,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-14T01:00:00Z",
-      "home_team": "Haiti",
-      "away_team": "Scotland",
-      "home_group": "D",
-      "away_group": "C",
-      "venue": "Gillette Stadium",
-      "city": "Boston",
-      "round": "Group Stage - 1"
-    },
     {
       "date": "2026-06-14T04:00:00Z",
       "home_team": "Australia",
@@ -855,6 +845,16 @@
       "away_group": "B",
       "venue": "Estadio BBVA",
       "city": "Monterrey",
+      "round": "Group Stage - 2"
+    },
+    {
+      "date": "2026-06-21T16:00:00Z",
+      "home_team": "Spain",
+      "away_team": "Saudi Arabia",
+      "home_group": "A",
+      "away_group": "C",
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
       "round": "Group Stage - 2"
     }
   ],

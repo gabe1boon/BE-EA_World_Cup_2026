@@ -1,0 +1,310 @@
+[
+  {
+    "time": {
+      "elapsed": 21,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 161897,
+      "name": "I. Saibari"
+    },
+    "assist": {
+      "id": 744,
+      "name": "B. Diaz"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 32,
+      "extra": null
+    },
+    "team": {
+      "id": 6,
+      "name": "Brazil",
+      "logo": "https://media.api-sports.io/football/teams/6.png"
+    },
+    "player": {
+      "id": 762,
+      "name": "Vinicius Junior"
+    },
+    "assist": {
+      "id": 10135,
+      "name": "Bruno Guimaraes"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 37,
+      "extra": null
+    },
+    "team": {
+      "id": 6,
+      "name": "Brazil",
+      "logo": "https://media.api-sports.io/football/teams/6.png"
+    },
+    "player": {
+      "id": 747,
+      "name": "Casemiro"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 43,
+      "extra": null
+    },
+    "team": {
+      "id": 6,
+      "name": "Brazil",
+      "logo": "https://media.api-sports.io/football/teams/6.png"
+    },
+    "player": {
+      "id": 30424,
+      "name": "Ibanez"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 6,
+      "name": "Brazil",
+      "logo": "https://media.api-sports.io/football/teams/6.png"
+    },
+    "player": {
+      "id": 30424,
+      "name": "Ibanez"
+    },
+    "assist": {
+      "id": 618,
+      "name": "Danilo"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 6,
+      "name": "Brazil",
+      "logo": "https://media.api-sports.io/football/teams/6.png"
+    },
+    "player": {
+      "id": 747,
+      "name": "Casemiro"
+    },
+    "assist": {
+      "id": 299,
+      "name": "Fabinho"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 61,
+      "extra": null
+    },
+    "team": {
+      "id": 6,
+      "name": "Brazil",
+      "logo": "https://media.api-sports.io/football/teams/6.png"
+    },
+    "player": {
+      "id": 1646,
+      "name": "Lucas Paqueta"
+    },
+    "assist": {
+      "id": 1165,
+      "name": "M. Cunha"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 62,
+      "extra": null
+    },
+    "team": {
+      "id": 6,
+      "name": "Brazil",
+      "logo": "https://media.api-sports.io/football/teams/6.png"
+    },
+    "player": {
+      "id": 196156,
+      "name": "I. Thiago"
+    },
+    "assist": {
+      "id": 265785,
+      "name": "Luiz Henrique"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 65,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 744,
+      "name": "B. Diaz"
+    },
+    "assist": {
+      "id": 336659,
+      "name": "C. Talbi"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 65,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 129678,
+      "name": "A. Ounahi"
+    },
+    "assist": {
+      "id": 415431,
+      "name": "S. El Mourabet"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 80,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 545,
+      "name": "N. Mazraoui"
+    },
+    "assist": {
+      "id": 162451,
+      "name": "A. Salah-Eddine"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 80,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 340573,
+      "name": "B. El Khannouss"
+    },
+    "assist": {
+      "id": 535046,
+      "name": "A. Amaimouni"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 80,
+      "extra": null
+    },
+    "team": {
+      "id": 6,
+      "name": "Brazil",
+      "logo": "https://media.api-sports.io/football/teams/6.png"
+    },
+    "player": {
+      "id": 10135,
+      "name": "Bruno Guimaraes"
+    },
+    "assist": {
+      "id": 275170,
+      "name": "Danilo Santos"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 89,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 161897,
+      "name": "I. Saibari"
+    },
+    "assist": {
+      "id": 36579,
+      "name": "S. Rahimi"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  }
+]

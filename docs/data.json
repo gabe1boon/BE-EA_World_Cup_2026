@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-14T02:38:44Z",
+  "updated_at": "2026-06-14T07:13:37Z",
   "leaderboard": [
     {
       "colleague": "Iliasse",
@@ -46,6 +46,22 @@
       "goals_for": 2,
       "clean_sheets": 0,
       "yellow_cards": 1,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Koums",
+      "team": "Scotland",
+      "team_id": 1108,
+      "next_match_utc": "2026-06-19T22:00:00Z",
+      "next_match_vs": "Morocco",
+      "points": 3,
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "goals_for": 1,
+      "clean_sheets": 1,
+      "yellow_cards": 3,
       "red_cards": 0,
       "upset_bonus": 0
     },
@@ -338,38 +354,6 @@
       "upset_bonus": 0
     },
     {
-      "colleague": "Basiten",
-      "team": "Haiti",
-      "team_id": 2386,
-      "next_match_utc": "2026-06-20T00:30:00Z",
-      "next_match_vs": "Brazil",
-      "points": 0,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 0,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
-      "colleague": "Koums",
-      "team": "Scotland",
-      "team_id": 1108,
-      "next_match_utc": "2026-06-19T22:00:00Z",
-      "next_match_vs": "Morocco",
-      "points": 0,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 0,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
       "colleague": "Oliver",
       "team": "Ivory Coast",
       "team_id": 1501,
@@ -466,6 +450,22 @@
       "upset_bonus": 0
     },
     {
+      "colleague": "Basiten",
+      "team": "Haiti",
+      "team_id": 2386,
+      "next_match_utc": "2026-06-20T00:30:00Z",
+      "next_match_vs": "Brazil",
+      "points": -1,
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "clean_sheets": 0,
+      "yellow_cards": 1,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
       "colleague": "Tobias",
       "team": "Paraguay",
       "team_id": 2380,
@@ -557,16 +557,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-14T04:00:00Z",
-      "home_team": "Australia",
-      "away_team": "T\u00fcrkiye",
-      "home_group": "C",
-      "away_group": "C",
-      "venue": "BC Place",
-      "city": "Vancouver",
-      "round": "Group Stage - 1"
-    },
     {
       "date": "2026-06-14T17:00:00Z",
       "home_team": "Germany",
@@ -855,6 +845,16 @@
       "away_group": "C",
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
+      "round": "Group Stage - 2"
+    },
+    {
+      "date": "2026-06-21T19:00:00Z",
+      "home_team": "Belgium",
+      "away_team": "Iran",
+      "home_group": "A",
+      "away_group": "C",
+      "venue": "SoFi Stadium",
+      "city": "Los Angeles",
       "round": "Group Stage - 2"
     }
   ],

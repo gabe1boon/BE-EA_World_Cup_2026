@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T20:19:19Z",
+  "updated_at": "2026-06-15T22:32:01Z",
   "leaderboard": [
     {
       "colleague": "Nicolas",
@@ -194,6 +194,22 @@
       "upset_bonus": 0
     },
     {
+      "colleague": "Deepti",
+      "team": "Egypt",
+      "team_id": 32,
+      "next_match_utc": "2026-06-22T01:00:00Z",
+      "next_match_vs": "New Zealand",
+      "points": 0,
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "goals_for": 1,
+      "clean_sheets": 0,
+      "yellow_cards": 2,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
       "colleague": "Mark",
       "team": "Croatia",
       "team_id": 3,
@@ -229,8 +245,8 @@
       "colleague": "Euan",
       "team": "Uruguay",
       "team_id": 7,
-      "next_match_utc": "2026-06-15T22:00:00Z",
-      "next_match_vs": "Saudi Arabia",
+      "next_match_utc": "2026-06-21T22:00:00Z",
+      "next_match_vs": "Cape Verde Islands",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -261,8 +277,8 @@
       "colleague": "Koums",
       "team": "Saudi Arabia",
       "team_id": 23,
-      "next_match_utc": "2026-06-15T22:00:00Z",
-      "next_match_vs": "Uruguay",
+      "next_match_utc": "2026-06-21T16:00:00Z",
+      "next_match_vs": "Spain",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -327,22 +343,6 @@
       "team_id": 1568,
       "next_match_utc": "2026-06-18T02:00:00Z",
       "next_match_vs": "Colombia",
-      "points": 0,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 0,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
-      "colleague": "Deepti",
-      "team": "Egypt",
-      "team_id": 32,
-      "next_match_utc": "2026-06-22T01:00:00Z",
-      "next_match_vs": "New Zealand",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -557,16 +557,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-15T22:00:00Z",
-      "home_team": "Saudi Arabia",
-      "away_team": "Uruguay",
-      "home_group": "C",
-      "away_group": "B",
-      "venue": "Hard Rock Stadium",
-      "city": "Miami",
-      "round": "Group Stage - 1"
-    },
     {
       "date": "2026-06-16T01:00:00Z",
       "home_team": "Iran",
@@ -855,6 +845,16 @@
       "away_group": "D",
       "venue": "Levi's Stadium",
       "city": "San Francisco Bay Area",
+      "round": "Group Stage - 2"
+    },
+    {
+      "date": "2026-06-23T17:00:00Z",
+      "home_team": "Portugal",
+      "away_team": "Uzbekistan",
+      "home_group": "A",
+      "away_group": "D",
+      "venue": "NRG Stadium",
+      "city": "Houston",
       "round": "Group Stage - 2"
     }
   ],

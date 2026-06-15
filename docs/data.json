@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T16:50:40Z",
+  "updated_at": "2026-06-15T20:19:19Z",
   "leaderboard": [
     {
       "colleague": "Nicolas",
@@ -130,6 +130,38 @@
       "upset_bonus": 0
     },
     {
+      "colleague": "Naini",
+      "team": "Spain",
+      "team_id": 9,
+      "next_match_utc": "2026-06-21T16:00:00Z",
+      "next_match_vs": "Saudi Arabia",
+      "points": 2,
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "goals_for": 0,
+      "clean_sheets": 1,
+      "yellow_cards": 1,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Achille",
+      "team": "Cape Verde Islands",
+      "team_id": 1533,
+      "next_match_utc": "2026-06-21T22:00:00Z",
+      "next_match_vs": "Uruguay",
+      "points": 2,
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "goals_for": 0,
+      "clean_sheets": 1,
+      "yellow_cards": 1,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
       "colleague": "Koums",
       "team": "Switzerland",
       "team_id": 15,
@@ -198,22 +230,6 @@
       "team": "Uruguay",
       "team_id": 7,
       "next_match_utc": "2026-06-15T22:00:00Z",
-      "next_match_vs": "Saudi Arabia",
-      "points": 0,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 0,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
-      "colleague": "Naini",
-      "team": "Spain",
-      "team_id": 9,
-      "next_match_utc": "2026-06-21T16:00:00Z",
       "next_match_vs": "Saudi Arabia",
       "points": 0,
       "played": 0,
@@ -325,8 +341,8 @@
       "colleague": "Deepti",
       "team": "Egypt",
       "team_id": 32,
-      "next_match_utc": "2026-06-15T19:00:00Z",
-      "next_match_vs": "Belgium",
+      "next_match_utc": "2026-06-22T01:00:00Z",
+      "next_match_vs": "New Zealand",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -391,22 +407,6 @@
       "team_id": 1532,
       "next_match_utc": "2026-06-17T01:00:00Z",
       "next_match_vs": "Argentina",
-      "points": 0,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 0,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
-      "colleague": "Achille",
-      "team": "Cape Verde Islands",
-      "team_id": 1533,
-      "next_match_utc": "2026-06-21T22:00:00Z",
-      "next_match_vs": "Uruguay",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -557,16 +557,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-15T19:00:00Z",
-      "home_team": "Belgium",
-      "away_team": "Egypt",
-      "home_group": "A",
-      "away_group": "C",
-      "venue": "Lumen Field",
-      "city": "Seattle",
-      "round": "Group Stage - 1"
-    },
     {
       "date": "2026-06-15T22:00:00Z",
       "home_team": "Saudi Arabia",
@@ -855,6 +845,16 @@
       "away_group": "B",
       "venue": "MetLife Stadium",
       "city": "New York New Jersey",
+      "round": "Group Stage - 2"
+    },
+    {
+      "date": "2026-06-23T03:00:00Z",
+      "home_team": "Jordan",
+      "away_team": "Algeria",
+      "home_group": "D",
+      "away_group": "D",
+      "venue": "Levi's Stadium",
+      "city": "San Francisco Bay Area",
       "round": "Group Stage - 2"
     }
   ],

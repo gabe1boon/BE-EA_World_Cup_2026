@@ -1,0 +1,310 @@
+[
+  {
+    "time": {
+      "elapsed": 28,
+      "extra": null
+    },
+    "team": {
+      "id": 1501,
+      "name": "Ivory Coast",
+      "logo": "https://media.api-sports.io/football/teams/1501.png"
+    },
+    "player": {
+      "id": 30807,
+      "name": "S. Fofana"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  },
+  {
+    "time": {
+      "elapsed": 38,
+      "extra": null
+    },
+    "team": {
+      "id": 1501,
+      "name": "Ivory Coast",
+      "logo": "https://media.api-sports.io/football/teams/1501.png"
+    },
+    "player": {
+      "id": 1642,
+      "name": "F. Kessie"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 40,
+      "extra": null
+    },
+    "team": {
+      "id": 1501,
+      "name": "Ivory Coast",
+      "logo": "https://media.api-sports.io/football/teams/1501.png"
+    },
+    "player": {
+      "id": 161747,
+      "name": "G. Doue"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 56,
+      "extra": null
+    },
+    "team": {
+      "id": 2382,
+      "name": "Ecuador",
+      "logo": "https://media.api-sports.io/football/teams/2382.png"
+    },
+    "player": {
+      "id": 280695,
+      "name": "A. Minda"
+    },
+    "assist": {
+      "id": 311543,
+      "name": "N. Angulo"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 56,
+      "extra": null
+    },
+    "team": {
+      "id": 1501,
+      "name": "Ivory Coast",
+      "logo": "https://media.api-sports.io/football/teams/1501.png"
+    },
+    "player": {
+      "id": 162707,
+      "name": "E. Wahi"
+    },
+    "assist": {
+      "id": 275651,
+      "name": "A. Bonny"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 56,
+      "extra": null
+    },
+    "team": {
+      "id": 1501,
+      "name": "Ivory Coast",
+      "logo": "https://media.api-sports.io/football/teams/1501.png"
+    },
+    "player": {
+      "id": 387643,
+      "name": "B. Toure"
+    },
+    "assist": {
+      "id": 157997,
+      "name": "A. Diallo"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 62,
+      "extra": null
+    },
+    "team": {
+      "id": 2382,
+      "name": "Ecuador",
+      "logo": "https://media.api-sports.io/football/teams/2382.png"
+    },
+    "player": {
+      "id": 25414,
+      "name": "J. Yeboah"
+    },
+    "assist": {
+      "id": 2583,
+      "name": "A. Preciado"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 62,
+      "extra": null
+    },
+    "team": {
+      "id": 2382,
+      "name": "Ecuador",
+      "logo": "https://media.api-sports.io/football/teams/2382.png"
+    },
+    "player": {
+      "id": 16360,
+      "name": "A. Franco"
+    },
+    "assist": {
+      "id": 2575,
+      "name": "J. Porozo"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 73,
+      "extra": null
+    },
+    "team": {
+      "id": 2382,
+      "name": "Ecuador",
+      "logo": "https://media.api-sports.io/football/teams/2382.png"
+    },
+    "player": {
+      "id": 2575,
+      "name": "J. Porozo"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Holding"
+  },
+  {
+    "time": {
+      "elapsed": 77,
+      "extra": null
+    },
+    "team": {
+      "id": 1501,
+      "name": "Ivory Coast",
+      "logo": "https://media.api-sports.io/football/teams/1501.png"
+    },
+    "player": {
+      "id": 3246,
+      "name": "N. Pepe"
+    },
+    "assist": {
+      "id": 474591,
+      "name": "C. Inao Oulai"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 77,
+      "extra": null
+    },
+    "team": {
+      "id": 1501,
+      "name": "Ivory Coast",
+      "logo": "https://media.api-sports.io/football/teams/1501.png"
+    },
+    "player": {
+      "id": 30807,
+      "name": "S. Fofana"
+    },
+    "assist": {
+      "id": 22149,
+      "name": "I. Sangare"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 77,
+      "extra": null
+    },
+    "team": {
+      "id": 2382,
+      "name": "Ecuador",
+      "logo": "https://media.api-sports.io/football/teams/2382.png"
+    },
+    "player": {
+      "id": 35533,
+      "name": "E. Valencia"
+    },
+    "assist": {
+      "id": 361966,
+      "name": "K. Rodriguez"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 89,
+      "extra": null
+    },
+    "team": {
+      "id": 1501,
+      "name": "Ivory Coast",
+      "logo": "https://media.api-sports.io/football/teams/1501.png"
+    },
+    "player": {
+      "id": 161747,
+      "name": "G. Doue"
+    },
+    "assist": {
+      "id": 48119,
+      "name": "O. Kossounou"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": null
+    },
+    "team": {
+      "id": 1501,
+      "name": "Ivory Coast",
+      "logo": "https://media.api-sports.io/football/teams/1501.png"
+    },
+    "player": {
+      "id": 157997,
+      "name": "A. Diallo"
+    },
+    "assist": {
+      "id": 30504,
+      "name": "W. Singo"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  }
+]

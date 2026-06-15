@@ -1,0 +1,376 @@
+[
+  {
+    "time": {
+      "elapsed": 7,
+      "extra": null
+    },
+    "team": {
+      "id": 5,
+      "name": "Sweden",
+      "logo": "https://media.api-sports.io/football/teams/5.png"
+    },
+    "player": {
+      "id": 265820,
+      "name": "Y. Ayari"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 30,
+      "extra": null
+    },
+    "team": {
+      "id": 5,
+      "name": "Sweden",
+      "logo": "https://media.api-sports.io/football/teams/5.png"
+    },
+    "player": {
+      "id": 2864,
+      "name": "A. Isak"
+    },
+    "assist": {
+      "id": 18979,
+      "name": "V. Gyokeres"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 43,
+      "extra": null
+    },
+    "team": {
+      "id": 28,
+      "name": "Tunisia",
+      "logo": "https://media.api-sports.io/football/teams/28.png"
+    },
+    "player": {
+      "id": 163068,
+      "name": "O. Rekik"
+    },
+    "assist": {
+      "id": 180560,
+      "name": "H. Mejbri"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 54,
+      "extra": null
+    },
+    "team": {
+      "id": 28,
+      "name": "Tunisia",
+      "logo": "https://media.api-sports.io/football/teams/28.png"
+    },
+    "player": {
+      "id": 25300,
+      "name": "R. Khedira"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 59,
+      "extra": null
+    },
+    "team": {
+      "id": 5,
+      "name": "Sweden",
+      "logo": "https://media.api-sports.io/football/teams/5.png"
+    },
+    "player": {
+      "id": 18979,
+      "name": "V. Gyokeres"
+    },
+    "assist": {
+      "id": 2864,
+      "name": "A. Isak"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 65,
+      "extra": null
+    },
+    "team": {
+      "id": 5,
+      "name": "Sweden",
+      "logo": "https://media.api-sports.io/football/teams/5.png"
+    },
+    "player": {
+      "id": 47969,
+      "name": "G. Gudmundsson"
+    },
+    "assist": {
+      "id": 226765,
+      "name": "E. Stroud"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 65,
+      "extra": null
+    },
+    "team": {
+      "id": 5,
+      "name": "Sweden",
+      "logo": "https://media.api-sports.io/football/teams/5.png"
+    },
+    "player": {
+      "id": 48002,
+      "name": "B. Nygren"
+    },
+    "assist": {
+      "id": 347316,
+      "name": "L. Bergvall"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 72,
+      "extra": null
+    },
+    "team": {
+      "id": 28,
+      "name": "Tunisia",
+      "logo": "https://media.api-sports.io/football/teams/28.png"
+    },
+    "player": {
+      "id": 323974,
+      "name": "E. Saad"
+    },
+    "assist": {
+      "id": 57518,
+      "name": "S. Tounekti"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 72,
+      "extra": null
+    },
+    "team": {
+      "id": 28,
+      "name": "Tunisia",
+      "logo": "https://media.api-sports.io/football/teams/28.png"
+    },
+    "player": {
+      "id": 18942,
+      "name": "Y. Valery"
+    },
+    "assist": {
+      "id": 67195,
+      "name": "M. Belhadj"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 72,
+      "extra": null
+    },
+    "team": {
+      "id": 28,
+      "name": "Tunisia",
+      "logo": "https://media.api-sports.io/football/teams/28.png"
+    },
+    "player": {
+      "id": 21587,
+      "name": "E. Skhiri"
+    },
+    "assist": {
+      "id": 42012,
+      "name": "E. Achouri"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 83,
+      "extra": null
+    },
+    "team": {
+      "id": 28,
+      "name": "Tunisia",
+      "logo": "https://media.api-sports.io/football/teams/28.png"
+    },
+    "player": {
+      "id": 25300,
+      "name": "R. Khedira"
+    },
+    "assist": {
+      "id": 310196,
+      "name": "I. Gharbi"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 84,
+      "extra": null
+    },
+    "team": {
+      "id": 28,
+      "name": "Tunisia",
+      "logo": "https://media.api-sports.io/football/teams/28.png"
+    },
+    "player": {
+      "id": 199310,
+      "name": "A. Slimane"
+    },
+    "assist": {
+      "id": 2962,
+      "name": "F. Chaouat"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 84,
+      "extra": null
+    },
+    "team": {
+      "id": 5,
+      "name": "Sweden",
+      "logo": "https://media.api-sports.io/football/teams/5.png"
+    },
+    "player": {
+      "id": 48047,
+      "name": "J. Karlstrom"
+    },
+    "assist": {
+      "id": 30484,
+      "name": "M. Svanberg"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 84,
+      "extra": null
+    },
+    "team": {
+      "id": 5,
+      "name": "Sweden",
+      "logo": "https://media.api-sports.io/football/teams/5.png"
+    },
+    "player": {
+      "id": 30484,
+      "name": "M. Svanberg"
+    },
+    "assist": {
+      "id": 2864,
+      "name": "A. Isak"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 1
+    },
+    "team": {
+      "id": 5,
+      "name": "Sweden",
+      "logo": "https://media.api-sports.io/football/teams/5.png"
+    },
+    "player": {
+      "id": 2864,
+      "name": "A. Isak"
+    },
+    "assist": {
+      "id": 153430,
+      "name": "A. Elanga"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 1
+    },
+    "team": {
+      "id": 5,
+      "name": "Sweden",
+      "logo": "https://media.api-sports.io/football/teams/5.png"
+    },
+    "player": {
+      "id": 47696,
+      "name": "A. Bernhardsson"
+    },
+    "assist": {
+      "id": 198654,
+      "name": "D. Svensson"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 6
+    },
+    "team": {
+      "id": 5,
+      "name": "Sweden",
+      "logo": "https://media.api-sports.io/football/teams/5.png"
+    },
+    "player": {
+      "id": 265820,
+      "name": "Y. Ayari"
+    },
+    "assist": {
+      "id": 347316,
+      "name": "L. Bergvall"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  }
+]

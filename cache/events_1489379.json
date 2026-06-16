@@ -1,0 +1,288 @@
+[
+  {
+    "time": {
+      "elapsed": 41,
+      "extra": null
+    },
+    "team": {
+      "id": 23,
+      "name": "Saudi Arabia",
+      "logo": "https://media.api-sports.io/football/teams/23.png"
+    },
+    "player": {
+      "id": 44475,
+      "name": "A. Al Amri"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 44,
+      "extra": null
+    },
+    "team": {
+      "id": 23,
+      "name": "Saudi Arabia",
+      "logo": "https://media.api-sports.io/football/teams/23.png"
+    },
+    "player": {
+      "id": 44475,
+      "name": "A. Al Amri"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 7,
+      "name": "Uruguay",
+      "logo": "https://media.api-sports.io/football/teams/7.png"
+    },
+    "player": {
+      "id": 51572,
+      "name": "M. Vina"
+    },
+    "assist": {
+      "id": 162891,
+      "name": "J. Sanabria"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 7,
+      "name": "Uruguay",
+      "logo": "https://media.api-sports.io/football/teams/7.png"
+    },
+    "player": {
+      "id": 51617,
+      "name": "D. Nunez"
+    },
+    "assist": {
+      "id": 51603,
+      "name": "A. Canobbio"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 63,
+      "extra": null
+    },
+    "team": {
+      "id": 23,
+      "name": "Saudi Arabia",
+      "logo": "https://media.api-sports.io/football/teams/23.png"
+    },
+    "player": {
+      "id": 306380,
+      "name": "M. Al Juwayr"
+    },
+    "assist": {
+      "id": 44339,
+      "name": "N. Al Dawsari"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 72,
+      "extra": null
+    },
+    "team": {
+      "id": 7,
+      "name": "Uruguay",
+      "logo": "https://media.api-sports.io/football/teams/7.png"
+    },
+    "player": {
+      "id": 51494,
+      "name": "M. Ugarte"
+    },
+    "assist": {
+      "id": 5995,
+      "name": "N. de la Cruz"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 80,
+      "extra": null
+    },
+    "team": {
+      "id": 7,
+      "name": "Uruguay",
+      "logo": "https://media.api-sports.io/football/teams/7.png"
+    },
+    "player": {
+      "id": 51776,
+      "name": "M. Araujo"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 81,
+      "extra": null
+    },
+    "team": {
+      "id": 7,
+      "name": "Uruguay",
+      "logo": "https://media.api-sports.io/football/teams/7.png"
+    },
+    "player": {
+      "id": 51776,
+      "name": "M. Araujo"
+    },
+    "assist": {
+      "id": 51618,
+      "name": "B. Rodriguez"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 81,
+      "extra": null
+    },
+    "team": {
+      "id": 23,
+      "name": "Saudi Arabia",
+      "logo": "https://media.api-sports.io/football/teams/23.png"
+    },
+    "player": {
+      "id": 403087,
+      "name": "M. Abu Al Shamat"
+    },
+    "assist": {
+      "id": 134995,
+      "name": "N. Boushal"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": null
+    },
+    "team": {
+      "id": 7,
+      "name": "Uruguay",
+      "logo": "https://media.api-sports.io/football/teams/7.png"
+    },
+    "player": {
+      "id": 51530,
+      "name": "F. Vinas"
+    },
+    "assist": {
+      "id": 16482,
+      "name": "R. Aguirre"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 3
+    },
+    "team": {
+      "id": 23,
+      "name": "Saudi Arabia",
+      "logo": "https://media.api-sports.io/football/teams/23.png"
+    },
+    "player": {
+      "id": 44594,
+      "name": "S. Abdulhamid"
+    },
+    "assist": {
+      "id": 44507,
+      "name": "A. Lajami"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 3
+    },
+    "team": {
+      "id": 23,
+      "name": "Saudi Arabia",
+      "logo": "https://media.api-sports.io/football/teams/23.png"
+    },
+    "player": {
+      "id": 202381,
+      "name": "M. Al Harbi"
+    },
+    "assist": {
+      "id": 44382,
+      "name": "A. Al Hamdan"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 3
+    },
+    "team": {
+      "id": 23,
+      "name": "Saudi Arabia",
+      "logo": "https://media.api-sports.io/football/teams/23.png"
+    },
+    "player": {
+      "id": 44324,
+      "name": "F. Al Buraikan"
+    },
+    "assist": {
+      "id": 593759,
+      "name": "A. Hejji"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  }
+]

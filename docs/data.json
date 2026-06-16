@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-15T22:32:01Z",
+  "updated_at": "2026-06-16T00:21:19Z",
   "leaderboard": [
     {
       "colleague": "Nicolas",
@@ -114,6 +114,22 @@
       "upset_bonus": 0
     },
     {
+      "colleague": "Euan",
+      "team": "Uruguay",
+      "team_id": 7,
+      "next_match_utc": "2026-06-21T22:00:00Z",
+      "next_match_vs": "Cape Verde Islands",
+      "points": 2,
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "goals_for": 1,
+      "clean_sheets": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
       "colleague": "Eva",
       "team": "Morocco",
       "team_id": 31,
@@ -167,6 +183,22 @@
       "team_id": 15,
       "next_match_utc": "2026-06-18T19:00:00Z",
       "next_match_vs": "Bosnia & Herzegovina",
+      "points": 1,
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "goals_for": 1,
+      "clean_sheets": 0,
+      "yellow_cards": 1,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Koums",
+      "team": "Saudi Arabia",
+      "team_id": 23,
+      "next_match_utc": "2026-06-21T16:00:00Z",
+      "next_match_vs": "Spain",
       "points": 1,
       "played": 1,
       "wins": 0,
@@ -242,43 +274,11 @@
       "upset_bonus": 0
     },
     {
-      "colleague": "Euan",
-      "team": "Uruguay",
-      "team_id": 7,
-      "next_match_utc": "2026-06-21T22:00:00Z",
-      "next_match_vs": "Cape Verde Islands",
-      "points": 0,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 0,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
       "colleague": "Ji\u0159\u00ed",
       "team": "Jordan",
       "team_id": 1548,
       "next_match_utc": "2026-06-17T04:00:00Z",
       "next_match_vs": "Austria",
-      "points": 0,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 0,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
-      "colleague": "Koums",
-      "team": "Saudi Arabia",
-      "team_id": 23,
-      "next_match_utc": "2026-06-21T16:00:00Z",
-      "next_match_vs": "Spain",
       "points": 0,
       "played": 0,
       "wins": 0,

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T21:58:46Z",
+  "updated_at": "2026-06-16T23:22:55Z",
   "leaderboard": [
     {
       "colleague": "Nicolas",
@@ -341,8 +341,8 @@
       "colleague": "Xavier",
       "team": "Iraq",
       "team_id": 1567,
-      "next_match_utc": "2026-06-16T22:00:00Z",
-      "next_match_vs": "Norway",
+      "next_match_utc": "2026-06-22T21:00:00Z",
+      "next_match_vs": "France",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -557,16 +557,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-16T22:00:00Z",
-      "home_team": "Iraq",
-      "away_team": "Norway",
-      "home_group": "C",
-      "away_group": "B",
-      "venue": "Gillette Stadium",
-      "city": "Boston",
-      "round": "Group Stage - 1"
-    },
     {
       "date": "2026-06-17T01:00:00Z",
       "home_team": "Argentina",
@@ -855,6 +845,16 @@
       "away_group": "A",
       "venue": "BMO Field",
       "city": "Toronto",
+      "round": "Group Stage - 2"
+    },
+    {
+      "date": "2026-06-24T02:00:00Z",
+      "home_team": "Colombia",
+      "away_team": "Congo DR",
+      "home_group": "A",
+      "away_group": "D",
+      "venue": "Estadio Akron",
+      "city": "Guadalajara",
       "round": "Group Stage - 2"
     }
   ],

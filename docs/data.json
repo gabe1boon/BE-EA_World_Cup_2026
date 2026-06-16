@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T00:21:19Z",
+  "updated_at": "2026-06-16T05:41:18Z",
   "leaderboard": [
     {
       "colleague": "Nicolas",
@@ -103,6 +103,22 @@
       "team_id": 12,
       "next_match_utc": "2026-06-21T04:00:00Z",
       "next_match_vs": "Tunisia",
+      "points": 3,
+      "played": 1,
+      "wins": 0,
+      "draws": 1,
+      "goals_for": 2,
+      "clean_sheets": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Gabe",
+      "team": "New Zealand",
+      "team_id": 4673,
+      "next_match_utc": "2026-06-22T01:00:00Z",
+      "next_match_vs": "Egypt",
       "points": 3,
       "played": 1,
       "wins": 0,
@@ -354,22 +370,6 @@
       "upset_bonus": 0
     },
     {
-      "colleague": "Gabe",
-      "team": "New Zealand",
-      "team_id": 4673,
-      "next_match_utc": "2026-06-16T01:00:00Z",
-      "next_match_vs": "Iran",
-      "points": 0,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 0,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
       "colleague": "Achille",
       "team": "Ghana",
       "team_id": 1504,
@@ -557,16 +557,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-16T01:00:00Z",
-      "home_team": "Iran",
-      "away_team": "New Zealand",
-      "home_group": "C",
-      "away_group": "D",
-      "venue": "SoFi Stadium",
-      "city": "Los Angeles",
-      "round": "Group Stage - 1"
-    },
     {
       "date": "2026-06-16T19:00:00Z",
       "home_team": "France",
@@ -855,6 +845,16 @@
       "away_group": "D",
       "venue": "NRG Stadium",
       "city": "Houston",
+      "round": "Group Stage - 2"
+    },
+    {
+      "date": "2026-06-23T20:00:00Z",
+      "home_team": "England",
+      "away_team": "Ghana",
+      "home_group": "A",
+      "away_group": "C",
+      "venue": "Gillette Stadium",
+      "city": "Boston",
       "round": "Group Stage - 2"
     }
   ],

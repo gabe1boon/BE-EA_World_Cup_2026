@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T15:48:17Z",
+  "updated_at": "2026-06-16T19:26:03Z",
   "leaderboard": [
     {
       "colleague": "Nicolas",
@@ -558,16 +558,6 @@
   ],
   "upcoming_fixtures": [
     {
-      "date": "2026-06-16T19:00:00Z",
-      "home_team": "France",
-      "away_team": "Senegal",
-      "home_group": "A",
-      "away_group": "B",
-      "venue": "MetLife Stadium",
-      "city": "New York New Jersey",
-      "round": "Group Stage - 1"
-    },
-    {
       "date": "2026-06-16T22:00:00Z",
       "home_team": "Iraq",
       "away_team": "Norway",
@@ -855,6 +845,16 @@
       "away_group": "C",
       "venue": "Gillette Stadium",
       "city": "Boston",
+      "round": "Group Stage - 2"
+    },
+    {
+      "date": "2026-06-23T23:00:00Z",
+      "home_team": "Panama",
+      "away_team": "Croatia",
+      "home_group": "C",
+      "away_group": "A",
+      "venue": "BMO Field",
+      "city": "Toronto",
       "round": "Group Stage - 2"
     }
   ],

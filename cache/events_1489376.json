@@ -1,0 +1,376 @@
+[
+  {
+    "time": {
+      "elapsed": 51,
+      "extra": null
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 290,
+      "name": "V. van Dijk"
+    },
+    "assist": {
+      "id": 542,
+      "name": "R. Gravenberch"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 57,
+      "extra": null
+    },
+    "team": {
+      "id": 12,
+      "name": "Japan",
+      "logo": "https://media.api-sports.io/football/teams/12.png"
+    },
+    "player": {
+      "id": 33321,
+      "name": "K. Nakamura"
+    },
+    "assist": {
+      "id": 32862,
+      "name": "T. Kubo"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 61,
+      "extra": null
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 37724,
+      "name": "C. Summerville"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 64,
+      "extra": null
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 37724,
+      "name": "C. Summerville"
+    },
+    "assist": {
+      "id": 542,
+      "name": "R. Gravenberch"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 66,
+      "extra": null
+    },
+    "team": {
+      "id": 12,
+      "name": "Japan",
+      "logo": "https://media.api-sports.io/football/teams/12.png"
+    },
+    "player": {
+      "id": 33224,
+      "name": "D. Maeda"
+    },
+    "assist": {
+      "id": 1942,
+      "name": "J. Ito"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 70,
+      "extra": null
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 249,
+      "name": "D. Malen"
+    },
+    "assist": {
+      "id": 667,
+      "name": "M. Depay"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 70,
+      "extra": null
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 37724,
+      "name": "C. Summerville"
+    },
+    "assist": {
+      "id": 36899,
+      "name": "T. Koopmeiners"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 70,
+      "extra": null
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 36902,
+      "name": "T. Reijnders"
+    },
+    "assist": {
+      "id": 38747,
+      "name": "Q. Timber"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 75,
+      "extra": null
+    },
+    "team": {
+      "id": 12,
+      "name": "Japan",
+      "logo": "https://media.api-sports.io/football/teams/12.png"
+    },
+    "player": {
+      "id": 32858,
+      "name": "T. Watanabe"
+    },
+    "assist": {
+      "id": 2597,
+      "name": "T. Tomiyasu"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 75,
+      "extra": null
+    },
+    "team": {
+      "id": 12,
+      "name": "Japan",
+      "logo": "https://media.api-sports.io/football/teams/12.png"
+    },
+    "player": {
+      "id": 32862,
+      "name": "T. Kubo"
+    },
+    "assist": {
+      "id": 33289,
+      "name": "K. Ogawa"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 75,
+      "extra": null
+    },
+    "team": {
+      "id": 12,
+      "name": "Japan",
+      "logo": "https://media.api-sports.io/football/teams/12.png"
+    },
+    "player": {
+      "id": 2598,
+      "name": "R. Doan"
+    },
+    "assist": {
+      "id": 32887,
+      "name": "Y. Sugawara"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 81,
+      "extra": null
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 542,
+      "name": "R. Gravenberch"
+    },
+    "assist": {
+      "id": 18861,
+      "name": "N. Ake"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 83,
+      "extra": null
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 667,
+      "name": "M. Depay"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  },
+  {
+    "time": {
+      "elapsed": 84,
+      "extra": null
+    },
+    "team": {
+      "id": 12,
+      "name": "Japan",
+      "logo": "https://media.api-sports.io/football/teams/12.png"
+    },
+    "player": {
+      "id": 72155,
+      "name": "A. Ueda"
+    },
+    "assist": {
+      "id": 422572,
+      "name": "K. Shiogai"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 85,
+      "extra": null
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 247,
+      "name": "C. Gakpo"
+    },
+    "assist": {
+      "id": 38750,
+      "name": "B. Brobbey"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 88,
+      "extra": null
+    },
+    "team": {
+      "id": 12,
+      "name": "Japan",
+      "logo": "https://media.api-sports.io/football/teams/12.png"
+    },
+    "player": {
+      "id": 2601,
+      "name": "D. Kamada"
+    },
+    "assist": {
+      "id": 33289,
+      "name": "K. Ogawa"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 1
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 152849,
+      "name": "M. van de Ven"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Holding"
+  }
+]

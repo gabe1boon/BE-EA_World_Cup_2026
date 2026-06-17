@@ -1,0 +1,354 @@
+[
+  {
+    "time": {
+      "elapsed": 29,
+      "extra": null
+    },
+    "team": {
+      "id": 1090,
+      "name": "Norway",
+      "logo": "https://media.api-sports.io/football/teams/1090.png"
+    },
+    "player": {
+      "id": 1100,
+      "name": "E. Haaland"
+    },
+    "assist": {
+      "id": 265782,
+      "name": "D. Wolfe"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 39,
+      "extra": null
+    },
+    "team": {
+      "id": 1567,
+      "name": "Iraq",
+      "logo": "https://media.api-sports.io/football/teams/1567.png"
+    },
+    "player": {
+      "id": 49451,
+      "name": "A. Hussein"
+    },
+    "assist": {
+      "id": 47792,
+      "name": "A. Al Ammari"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 43,
+      "extra": null
+    },
+    "team": {
+      "id": 1090,
+      "name": "Norway",
+      "logo": "https://media.api-sports.io/football/teams/1090.png"
+    },
+    "player": {
+      "id": 1100,
+      "name": "E. Haaland"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 59,
+      "extra": null
+    },
+    "team": {
+      "id": 1567,
+      "name": "Iraq",
+      "logo": "https://media.api-sports.io/football/teams/1567.png"
+    },
+    "player": {
+      "id": 626479,
+      "name": "Z. Ismaeel"
+    },
+    "assist": {
+      "id": 284295,
+      "name": "Z. Iqbal"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 59,
+      "extra": null
+    },
+    "team": {
+      "id": 1567,
+      "name": "Iraq",
+      "logo": "https://media.api-sports.io/football/teams/1567.png"
+    },
+    "player": {
+      "id": 299813,
+      "name": "A. Al Hamadi"
+    },
+    "assist": {
+      "id": 265448,
+      "name": "M. Farji"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 73,
+      "extra": null
+    },
+    "team": {
+      "id": 1090,
+      "name": "Norway",
+      "logo": "https://media.api-sports.io/football/teams/1090.png"
+    },
+    "player": {
+      "id": 314511,
+      "name": "A. Nusa"
+    },
+    "assist": {
+      "id": 301528,
+      "name": "A. Schjelderup"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 73,
+      "extra": null
+    },
+    "team": {
+      "id": 1090,
+      "name": "Norway",
+      "logo": "https://media.api-sports.io/football/teams/1090.png"
+    },
+    "player": {
+      "id": 39043,
+      "name": "F. Aursnes"
+    },
+    "assist": {
+      "id": 39143,
+      "name": "K. Thorstvedt"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 73,
+      "extra": null
+    },
+    "team": {
+      "id": 1090,
+      "name": "Norway",
+      "logo": "https://media.api-sports.io/football/teams/1090.png"
+    },
+    "player": {
+      "id": 265782,
+      "name": "D. Wolfe"
+    },
+    "assist": {
+      "id": 18967,
+      "name": "L. Ostigard"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 73,
+      "extra": null
+    },
+    "team": {
+      "id": 1090,
+      "name": "Norway",
+      "logo": "https://media.api-sports.io/football/teams/1090.png"
+    },
+    "player": {
+      "id": 8492,
+      "name": "A. Sorloth"
+    },
+    "assist": {
+      "id": 278133,
+      "name": "O. Bobb"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 73,
+      "extra": null
+    },
+    "team": {
+      "id": 1567,
+      "name": "Iraq",
+      "logo": "https://media.api-sports.io/football/teams/1567.png"
+    },
+    "player": {
+      "id": 145465,
+      "name": "H. Ali"
+    },
+    "assist": {
+      "id": 427187,
+      "name": "M. Saadoon"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 73,
+      "extra": null
+    },
+    "team": {
+      "id": 1567,
+      "name": "Iraq",
+      "logo": "https://media.api-sports.io/football/teams/1567.png"
+    },
+    "player": {
+      "id": 542644,
+      "name": "A. Jasim"
+    },
+    "assist": {
+      "id": 229112,
+      "name": "A. Qasem"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 76,
+      "extra": null
+    },
+    "team": {
+      "id": 1090,
+      "name": "Norway",
+      "logo": "https://media.api-sports.io/football/teams/1090.png"
+    },
+    "player": {
+      "id": 18967,
+      "name": "L. Ostigard"
+    },
+    "assist": {
+      "id": 37127,
+      "name": "M. Odegaard"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 78,
+      "extra": null
+    },
+    "team": {
+      "id": 1567,
+      "name": "Iraq",
+      "logo": "https://media.api-sports.io/football/teams/1567.png"
+    },
+    "player": {
+      "id": 140747,
+      "name": "I. Bayesh"
+    },
+    "assist": {
+      "id": 53894,
+      "name": "Meme"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 81,
+      "extra": null
+    },
+    "team": {
+      "id": 1090,
+      "name": "Norway",
+      "logo": "https://media.api-sports.io/football/teams/1090.png"
+    },
+    "player": {
+      "id": 37127,
+      "name": "M. Odegaard"
+    },
+    "assist": {
+      "id": 39064,
+      "name": "P. Berg"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 86,
+      "extra": null
+    },
+    "team": {
+      "id": 1567,
+      "name": "Iraq",
+      "logo": "https://media.api-sports.io/football/teams/1567.png"
+    },
+    "player": {
+      "id": 296373,
+      "name": "Z. Tahseen"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Holding"
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 6
+    },
+    "team": {
+      "id": 1090,
+      "name": "Norway",
+      "logo": "https://media.api-sports.io/football/teams/1090.png"
+    },
+    "player": {
+      "id": 49451,
+      "name": "A. Hussein"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+  }
+]

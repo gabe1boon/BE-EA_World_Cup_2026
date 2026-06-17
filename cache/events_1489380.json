@@ -1,0 +1,244 @@
+[
+  {
+    "time": {
+      "elapsed": 16,
+      "extra": null
+    },
+    "team": {
+      "id": 1533,
+      "name": "Cape Verde Islands",
+      "logo": "https://media.api-sports.io/football/teams/1533.png"
+    },
+    "player": {
+      "id": 308689,
+      "name": "S. Lopes Cabral"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  },
+  {
+    "time": {
+      "elapsed": 61,
+      "extra": null
+    },
+    "team": {
+      "id": 1533,
+      "name": "Cape Verde Islands",
+      "logo": "https://media.api-sports.io/football/teams/1533.png"
+    },
+    "player": {
+      "id": 1494,
+      "name": "J. Cabral"
+    },
+    "assist": {
+      "id": 113580,
+      "name": "W. Semedo"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 61,
+      "extra": null
+    },
+    "team": {
+      "id": 1533,
+      "name": "Cape Verde Islands",
+      "logo": "https://media.api-sports.io/football/teams/1533.png"
+    },
+    "player": {
+      "id": 343287,
+      "name": "D. Livramento"
+    },
+    "assist": {
+      "id": 22265,
+      "name": "N. Da Costa"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 61,
+      "extra": null
+    },
+    "team": {
+      "id": 1533,
+      "name": "Cape Verde Islands",
+      "logo": "https://media.api-sports.io/football/teams/1533.png"
+    },
+    "player": {
+      "id": 37436,
+      "name": "L. Duarte"
+    },
+    "assist": {
+      "id": 37435,
+      "name": "D. Duarte"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 71,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 328,
+      "name": "F. Ruiz"
+    },
+    "assist": {
+      "id": 47311,
+      "name": "M. Merino"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 71,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 296667,
+      "name": "Gavi"
+    },
+    "assist": {
+      "id": 386828,
+      "name": "Lamine Yamal"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 76,
+      "extra": null
+    },
+    "team": {
+      "id": 1533,
+      "name": "Cape Verde Islands",
+      "logo": "https://media.api-sports.io/football/teams/1533.png"
+    },
+    "player": {
+      "id": 308689,
+      "name": "S. Lopes Cabral"
+    },
+    "assist": {
+      "id": 142016,
+      "name": "Joao Paulo"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 79,
+      "extra": null
+    },
+    "team": {
+      "id": 1533,
+      "name": "Cape Verde Islands",
+      "logo": "https://media.api-sports.io/football/teams/1533.png"
+    },
+    "player": {
+      "id": 50745,
+      "name": "J. Monteiro"
+    },
+    "assist": {
+      "id": 265556,
+      "name": "T. Arcanjo"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 81,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 931,
+      "name": "F. Torres"
+    },
+    "assist": {
+      "id": 1323,
+      "name": "D. Olmo"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 87,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 44,
+      "name": "Rodri"
+    },
+    "assist": {
+      "id": 183799,
+      "name": "N. Williams"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 3
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 133609,
+      "name": "Pedri"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Holding"
+  }
+]

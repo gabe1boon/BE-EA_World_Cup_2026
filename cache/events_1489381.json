@@ -1,0 +1,310 @@
+[
+  {
+    "time": {
+      "elapsed": 8,
+      "extra": null
+    },
+    "team": {
+      "id": 1532,
+      "name": "Algeria",
+      "logo": "https://media.api-sports.io/football/teams/1532.png"
+    },
+    "player": {
+      "id": 276670,
+      "name": "F. Chaibi"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Var",
+    "detail": "Goal Disallowed - offside",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 17,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 154,
+      "name": "L. Messi"
+    },
+    "assist": {
+      "id": 2472,
+      "name": "R. de Paul"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 2468,
+      "name": "G. Montiel"
+    },
+    "assist": {
+      "id": 6503,
+      "name": "N. Molina"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 55,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 217,
+      "name": "L. Martinez"
+    },
+    "assist": {
+      "id": 6009,
+      "name": "J. Alvarez"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 55,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 6067,
+      "name": "T. Almada"
+    },
+    "assist": {
+      "id": 26315,
+      "name": "N. Gonzalez"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 60,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 154,
+      "name": "L. Messi"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 64,
+      "extra": null
+    },
+    "team": {
+      "id": 1532,
+      "name": "Algeria",
+      "logo": "https://media.api-sports.io/football/teams/1532.png"
+    },
+    "player": {
+      "id": 4399,
+      "name": "H. Boudaoui"
+    },
+    "assist": {
+      "id": 658,
+      "name": "H. Aouar"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 64,
+      "extra": null
+    },
+    "team": {
+      "id": 1532,
+      "name": "Algeria",
+      "logo": "https://media.api-sports.io/football/teams/1532.png"
+    },
+    "player": {
+      "id": 85041,
+      "name": "A. Gouiri"
+    },
+    "assist": {
+      "id": 200139,
+      "name": "M. Amoura"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 64,
+      "extra": null
+    },
+    "team": {
+      "id": 1532,
+      "name": "Algeria",
+      "logo": "https://media.api-sports.io/football/teams/1532.png"
+    },
+    "player": {
+      "id": 326067,
+      "name": "A. Hadj Moussa"
+    },
+    "assist": {
+      "id": 635,
+      "name": "R. Mahrez"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 76,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 154,
+      "name": "L. Messi"
+    },
+    "assist": {
+      "id": 26315,
+      "name": "N. Gonzalez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 80,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 154,
+      "name": "L. Messi"
+    },
+    "assist": {
+      "id": 350037,
+      "name": "N. Paz"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 80,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 30776,
+      "name": "C. Romero"
+    },
+    "assist": {
+      "id": 624,
+      "name": "N. Otamendi"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 81,
+      "extra": null
+    },
+    "team": {
+      "id": 1532,
+      "name": "Algeria",
+      "logo": "https://media.api-sports.io/football/teams/1532.png"
+    },
+    "player": {
+      "id": 380587,
+      "name": "I. Maza"
+    },
+    "assist": {
+      "id": 329163,
+      "name": "A. Boulbina"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 82,
+      "extra": null
+    },
+    "team": {
+      "id": 1532,
+      "name": "Algeria",
+      "logo": "https://media.api-sports.io/football/teams/1532.png"
+    },
+    "player": {
+      "id": 409,
+      "name": "N. Bentaleb"
+    },
+    "assist": {
+      "id": 129047,
+      "name": "R. Zerrouki"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  }
+]

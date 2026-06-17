@@ -1,0 +1,310 @@
+[
+  {
+    "time": {
+      "elapsed": 7,
+      "extra": null
+    },
+    "team": {
+      "id": 4673,
+      "name": "New Zealand",
+      "logo": "https://media.api-sports.io/football/teams/4673.png"
+    },
+    "player": {
+      "id": 94333,
+      "name": "E. Just"
+    },
+    "assist": {
+      "id": 18931,
+      "name": "C. Wood"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 32,
+      "extra": null
+    },
+    "team": {
+      "id": 22,
+      "name": "Iran",
+      "logo": "https://media.api-sports.io/football/teams/22.png"
+    },
+    "player": {
+      "id": 2691,
+      "name": "R. Rezaeian"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 22,
+      "name": "Iran",
+      "logo": "https://media.api-sports.io/football/teams/22.png"
+    },
+    "player": {
+      "id": 343405,
+      "name": "A. Yousefi"
+    },
+    "assist": {
+      "id": 643918,
+      "name": "M. Ghaedi"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 53,
+      "extra": null
+    },
+    "team": {
+      "id": 22,
+      "name": "Iran",
+      "logo": "https://media.api-sports.io/football/teams/22.png"
+    },
+    "player": {
+      "id": 89982,
+      "name": "S. Moghanlou"
+    },
+    "assist": {
+      "id": 29720,
+      "name": "A. Alipour"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 54,
+      "extra": null
+    },
+    "team": {
+      "id": 4673,
+      "name": "New Zealand",
+      "logo": "https://media.api-sports.io/football/teams/4673.png"
+    },
+    "player": {
+      "id": 94333,
+      "name": "E. Just"
+    },
+    "assist": {
+      "id": 18931,
+      "name": "C. Wood"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 64,
+      "extra": null
+    },
+    "team": {
+      "id": 22,
+      "name": "Iran",
+      "logo": "https://media.api-sports.io/football/teams/22.png"
+    },
+    "player": {
+      "id": 134217,
+      "name": "M. Mohebi"
+    },
+    "assist": {
+      "id": 2691,
+      "name": "R. Rezaeian"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 65,
+      "extra": null
+    },
+    "team": {
+      "id": 22,
+      "name": "Iran",
+      "logo": "https://media.api-sports.io/football/teams/22.png"
+    },
+    "player": {
+      "id": 2699,
+      "name": "S. Ghoddos"
+    },
+    "assist": {
+      "id": 2685,
+      "name": "E. Hajsafi"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 68,
+      "extra": null
+    },
+    "team": {
+      "id": 4673,
+      "name": "New Zealand",
+      "logo": "https://media.api-sports.io/football/teams/4673.png"
+    },
+    "player": {
+      "id": 6931,
+      "name": "L. Cacace"
+    },
+    "assist": {
+      "id": 179856,
+      "name": "B. Old"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 68,
+      "extra": null
+    },
+    "team": {
+      "id": 4673,
+      "name": "New Zealand",
+      "logo": "https://media.api-sports.io/football/teams/4673.png"
+    },
+    "player": {
+      "id": 94322,
+      "name": "C. McCowatt"
+    },
+    "assist": {
+      "id": 242,
+      "name": "R. Thomas"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 78,
+      "extra": null
+    },
+    "team": {
+      "id": 4673,
+      "name": "New Zealand",
+      "logo": "https://media.api-sports.io/football/teams/4673.png"
+    },
+    "player": {
+      "id": 94346,
+      "name": "T. Payne"
+    },
+    "assist": {
+      "id": 6932,
+      "name": "C. Elliot"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 80,
+      "extra": null
+    },
+    "team": {
+      "id": 22,
+      "name": "Iran",
+      "logo": "https://media.api-sports.io/football/teams/22.png"
+    },
+    "player": {
+      "id": 42315,
+      "name": "M. Taremi"
+    },
+    "assist": {
+      "id": 29937,
+      "name": "A. Hosseinzadeh"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 89,
+      "extra": null
+    },
+    "team": {
+      "id": 22,
+      "name": "Iran",
+      "logo": "https://media.api-sports.io/football/teams/22.png"
+    },
+    "player": {
+      "id": 2685,
+      "name": "E. Hajsafi"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 2
+    },
+    "team": {
+      "id": 4673,
+      "name": "New Zealand",
+      "logo": "https://media.api-sports.io/football/teams/4673.png"
+    },
+    "player": {
+      "id": 6935,
+      "name": "S. Singh"
+    },
+    "assist": {
+      "id": 158688,
+      "name": "J. Randall"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 2
+    },
+    "team": {
+      "id": 4673,
+      "name": "New Zealand",
+      "logo": "https://media.api-sports.io/football/teams/4673.png"
+    },
+    "player": {
+      "id": 179862,
+      "name": "M. Stamenic"
+    },
+    "assist": {
+      "id": 430835,
+      "name": "T. Bindon"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  }
+]

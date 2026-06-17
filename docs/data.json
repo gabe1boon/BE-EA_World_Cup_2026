@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T20:33:16Z",
+  "updated_at": "2026-06-17T22:28:14Z",
   "leaderboard": [
     {
       "colleague": "Nicolas",
@@ -155,6 +155,22 @@
       "played": 1,
       "wins": 0,
       "draws": 1,
+      "goals_for": 2,
+      "clean_sheets": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Mark",
+      "team": "Croatia",
+      "team_id": 3,
+      "next_match_utc": "2026-06-23T23:00:00Z",
+      "next_match_vs": "Panama",
+      "points": 2,
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
       "goals_for": 2,
       "clean_sheets": 0,
       "yellow_cards": 0,
@@ -354,22 +370,6 @@
       "upset_bonus": 0
     },
     {
-      "colleague": "Mark",
-      "team": "Croatia",
-      "team_id": 3,
-      "next_match_utc": "2026-06-23T23:00:00Z",
-      "next_match_vs": "Panama",
-      "points": 0,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 0,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
       "colleague": "Tobias",
       "team": "Uzbekistan",
       "team_id": 1568,
@@ -532,7 +532,7 @@
     {
       "team_id": 10,
       "team": "England",
-      "points": 0
+      "points": 7
     },
     {
       "team_id": 2,
@@ -888,6 +888,19 @@
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-06-17T20:00:00Z",
+      "home_team": "England",
+      "away_team": "Croatia",
+      "home_score": 4,
+      "away_score": 2,
+      "home_group": "A",
+      "away_group": "A",
+      "venue": "AT&T Stadium",
+      "city": "Arlington",
+      "round": "Group Stage - 1",
+      "status": "FT"
+    },
     {
       "date": "2026-06-17T17:00:00Z",
       "home_team": "Portugal",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-16T23:22:55Z",
+  "updated_at": "2026-06-17T01:58:26Z",
   "leaderboard": [
     {
       "colleague": "Nicolas",
@@ -226,6 +226,22 @@
       "upset_bonus": 0
     },
     {
+      "colleague": "Xavier",
+      "team": "Iraq",
+      "team_id": 1567,
+      "next_match_utc": "2026-06-22T21:00:00Z",
+      "next_match_vs": "France",
+      "points": 0,
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 1,
+      "clean_sheets": 0,
+      "yellow_cards": 1,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
       "colleague": "Krystian",
       "team": "Qatar",
       "team_id": 1569,
@@ -309,8 +325,8 @@
       "colleague": "Sachin",
       "team": "Argentina",
       "team_id": 26,
-      "next_match_utc": "2026-06-17T01:00:00Z",
-      "next_match_vs": "Algeria",
+      "next_match_utc": "2026-06-22T17:00:00Z",
+      "next_match_vs": "Austria",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -327,22 +343,6 @@
       "team_id": 27,
       "next_match_utc": "2026-06-17T17:00:00Z",
       "next_match_vs": "Congo DR",
-      "points": 0,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 0,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
-      "colleague": "Xavier",
-      "team": "Iraq",
-      "team_id": 1567,
-      "next_match_utc": "2026-06-22T21:00:00Z",
-      "next_match_vs": "France",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -405,8 +405,8 @@
       "colleague": "Daniel",
       "team": "Algeria",
       "team_id": 1532,
-      "next_match_utc": "2026-06-17T01:00:00Z",
-      "next_match_vs": "Argentina",
+      "next_match_utc": "2026-06-23T03:00:00Z",
+      "next_match_vs": "Jordan",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -557,16 +557,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-17T01:00:00Z",
-      "home_team": "Argentina",
-      "away_team": "Algeria",
-      "home_group": "A",
-      "away_group": "D",
-      "venue": "Arrowhead Stadium",
-      "city": "Kansas City",
-      "round": "Group Stage - 1"
-    },
     {
       "date": "2026-06-17T04:00:00Z",
       "home_team": "Austria",
@@ -856,6 +846,16 @@
       "venue": "Estadio Akron",
       "city": "Guadalajara",
       "round": "Group Stage - 2"
+    },
+    {
+      "date": "2026-06-24T19:00:00Z",
+      "home_team": "Switzerland",
+      "away_team": "Canada",
+      "home_group": "B",
+      "away_group": "B",
+      "venue": "BC Place",
+      "city": "Vancouver",
+      "round": "Group Stage - 3"
     }
   ],
   "fifa_groups": {

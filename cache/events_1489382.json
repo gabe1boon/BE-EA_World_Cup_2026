@@ -1,0 +1,354 @@
+[
+  {
+    "time": {
+      "elapsed": 21,
+      "extra": null
+    },
+    "team": {
+      "id": 775,
+      "name": "Austria",
+      "logo": "https://media.api-sports.io/football/teams/775.png"
+    },
+    "player": {
+      "id": 7562,
+      "name": "R. Schmid"
+    },
+    "assist": {
+      "id": 1095,
+      "name": "X. Schlager"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 775,
+      "name": "Austria",
+      "logo": "https://media.api-sports.io/football/teams/775.png"
+    },
+    "player": {
+      "id": 7722,
+      "name": "S. Kalajdzic"
+    },
+    "assist": {
+      "id": 18830,
+      "name": "M. Arnautovic"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 50,
+      "extra": null
+    },
+    "team": {
+      "id": 1548,
+      "name": "Jordan",
+      "logo": "https://media.api-sports.io/football/teams/1548.png"
+    },
+    "player": {
+      "id": 164026,
+      "name": "A. Olwan"
+    },
+    "assist": {
+      "id": 140609,
+      "name": "N. Al Rawabdeh"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 59,
+      "extra": null
+    },
+    "team": {
+      "id": 775,
+      "name": "Austria",
+      "logo": "https://media.api-sports.io/football/teams/775.png"
+    },
+    "player": {
+      "id": 1095,
+      "name": "X. Schlager"
+    },
+    "assist": {
+      "id": 138935,
+      "name": "C. Chukwuemeka"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 59,
+      "extra": null
+    },
+    "team": {
+      "id": 775,
+      "name": "Austria",
+      "logo": "https://media.api-sports.io/football/teams/775.png"
+    },
+    "player": {
+      "id": 505,
+      "name": "D. Alaba"
+    },
+    "assist": {
+      "id": 25287,
+      "name": "K. Danso"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 59,
+      "extra": null
+    },
+    "team": {
+      "id": 775,
+      "name": "Austria",
+      "logo": "https://media.api-sports.io/football/teams/775.png"
+    },
+    "player": {
+      "id": 25915,
+      "name": "P. Mwene"
+    },
+    "assist": {
+      "id": 327895,
+      "name": "P. Wanner"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 67,
+      "extra": null
+    },
+    "team": {
+      "id": 775,
+      "name": "Austria",
+      "logo": "https://media.api-sports.io/football/teams/775.png"
+    },
+    "player": {
+      "id": 18830,
+      "name": "M. Arnautovic"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Var",
+    "detail": "Goal Disallowed - handball",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 72,
+      "extra": null
+    },
+    "team": {
+      "id": 1548,
+      "name": "Jordan",
+      "logo": "https://media.api-sports.io/football/teams/1548.png"
+    },
+    "player": {
+      "id": 102538,
+      "name": "M. Abualnadi"
+    },
+    "assist": {
+      "id": 72140,
+      "name": "S. Obaid"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 76,
+      "extra": null
+    },
+    "team": {
+      "id": 775,
+      "name": "Austria",
+      "logo": "https://media.api-sports.io/football/teams/775.png"
+    },
+    "player": {
+      "id": 53900,
+      "name": "Y. Al Arab"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 77,
+      "extra": null
+    },
+    "team": {
+      "id": 775,
+      "name": "Austria",
+      "logo": "https://media.api-sports.io/football/teams/775.png"
+    },
+    "player": {
+      "id": 1159,
+      "name": "M. Sabitzer"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Unsportsmanlike conduct"
+  },
+  {
+    "time": {
+      "elapsed": 81,
+      "extra": null
+    },
+    "team": {
+      "id": 1548,
+      "name": "Jordan",
+      "logo": "https://media.api-sports.io/football/teams/1548.png"
+    },
+    "player": {
+      "id": 310835,
+      "name": "A. Nasib"
+    },
+    "assist": {
+      "id": 213978,
+      "name": "S. Al Rosan"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 81,
+      "extra": null
+    },
+    "team": {
+      "id": 1548,
+      "name": "Jordan",
+      "logo": "https://media.api-sports.io/football/teams/1548.png"
+    },
+    "player": {
+      "id": 53902,
+      "name": "E. Haddad"
+    },
+    "assist": {
+      "id": 123530,
+      "name": "M. Al Mardi"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 83,
+      "extra": null
+    },
+    "team": {
+      "id": 775,
+      "name": "Austria",
+      "logo": "https://media.api-sports.io/football/teams/775.png"
+    },
+    "player": {
+      "id": 7562,
+      "name": "R. Schmid"
+    },
+    "assist": {
+      "id": 126642,
+      "name": "P. Wimmer"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 88,
+      "extra": null
+    },
+    "team": {
+      "id": 1548,
+      "name": "Jordan",
+      "logo": "https://media.api-sports.io/football/teams/1548.png"
+    },
+    "player": {
+      "id": 15286,
+      "name": "M. Tamari"
+    },
+    "assist": {
+      "id": 651096,
+      "name": "M. Al Daoud"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 89,
+      "extra": null
+    },
+    "team": {
+      "id": 1548,
+      "name": "Jordan",
+      "logo": "https://media.api-sports.io/football/teams/1548.png"
+    },
+    "player": {
+      "id": 568556,
+      "name": "O. Al Fakhouri"
+    },
+    "assist": {
+      "id": 575283,
+      "name": "A. Azaizeh"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 12
+    },
+    "team": {
+      "id": 775,
+      "name": "Austria",
+      "logo": "https://media.api-sports.io/football/teams/775.png"
+    },
+    "player": {
+      "id": 18830,
+      "name": "M. Arnautovic"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+  }
+]

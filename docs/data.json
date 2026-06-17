@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T01:58:26Z",
+  "updated_at": "2026-06-17T07:07:16Z",
   "leaderboard": [
     {
       "colleague": "Nicolas",
@@ -18,6 +18,22 @@
       "upset_bonus": 0
     },
     {
+      "colleague": "Sachin",
+      "team": "Argentina",
+      "team_id": 26,
+      "next_match_utc": "2026-06-22T17:00:00Z",
+      "next_match_vs": "Austria",
+      "points": 8,
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "goals_for": 3,
+      "clean_sheets": 1,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
       "colleague": "Iliasse",
       "team": "USA",
       "team_id": 2384,
@@ -28,6 +44,22 @@
       "wins": 1,
       "draws": 0,
       "goals_for": 4,
+      "clean_sheets": 0,
+      "yellow_cards": 1,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Valeria",
+      "team": "Austria",
+      "team_id": 775,
+      "next_match_utc": "2026-06-22T17:00:00Z",
+      "next_match_vs": "Argentina",
+      "points": 5,
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "goals_for": 3,
       "clean_sheets": 0,
       "yellow_cards": 1,
       "red_cards": 0,
@@ -194,6 +226,22 @@
       "upset_bonus": 0
     },
     {
+      "colleague": "Ji\u0159\u00ed",
+      "team": "Jordan",
+      "team_id": 1548,
+      "next_match_utc": "2026-06-23T03:00:00Z",
+      "next_match_vs": "Algeria",
+      "points": 1,
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 1,
+      "clean_sheets": 0,
+      "yellow_cards": 0,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
       "colleague": "Koums",
       "team": "Switzerland",
       "team_id": 15,
@@ -290,54 +338,6 @@
       "upset_bonus": 0
     },
     {
-      "colleague": "Valeria",
-      "team": "Austria",
-      "team_id": 775,
-      "next_match_utc": "2026-06-17T04:00:00Z",
-      "next_match_vs": "Jordan",
-      "points": 0,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 0,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
-      "colleague": "Ji\u0159\u00ed",
-      "team": "Jordan",
-      "team_id": 1548,
-      "next_match_utc": "2026-06-17T04:00:00Z",
-      "next_match_vs": "Austria",
-      "points": 0,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 0,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
-      "colleague": "Sachin",
-      "team": "Argentina",
-      "team_id": 26,
-      "next_match_utc": "2026-06-22T17:00:00Z",
-      "next_match_vs": "Austria",
-      "points": 0,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 0,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
       "colleague": "Mark",
       "team": "Portugal",
       "team_id": 27,
@@ -408,7 +408,7 @@
       "next_match_utc": "2026-06-23T03:00:00Z",
       "next_match_vs": "Jordan",
       "points": 0,
-      "played": 0,
+      "played": 1,
       "wins": 0,
       "draws": 0,
       "goals_for": 0,
@@ -557,16 +557,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-17T04:00:00Z",
-      "home_team": "Austria",
-      "away_team": "Jordan",
-      "home_group": "B",
-      "away_group": "D",
-      "venue": "Levi's Stadium",
-      "city": "San Francisco Bay Area",
-      "round": "Group Stage - 1"
-    },
     {
       "date": "2026-06-17T17:00:00Z",
       "home_team": "Portugal",
@@ -855,6 +845,16 @@
       "away_group": "B",
       "venue": "BC Place",
       "city": "Vancouver",
+      "round": "Group Stage - 3"
+    },
+    {
+      "date": "2026-06-24T19:00:00Z",
+      "home_team": "Bosnia & Herzegovina",
+      "away_team": "Qatar",
+      "home_group": "D",
+      "away_group": "D",
+      "venue": "Lumen Field",
+      "city": "Seattle",
       "round": "Group Stage - 3"
     }
   ],

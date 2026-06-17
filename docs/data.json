@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T11:20:06Z",
+  "updated_at": "2026-06-17T11:23:56Z",
   "leaderboard": [
     {
       "colleague": "Nicolas",
@@ -630,7 +630,7 @@
       "date": "2026-06-18T16:00:00Z",
       "home_team": "Czechia",
       "away_team": "South Africa",
-      "home_group": "",
+      "home_group": "C",
       "away_group": "D",
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
@@ -1129,7 +1129,7 @@
       "home_score": 2,
       "away_score": 1,
       "home_group": "B",
-      "away_group": "",
+      "away_group": "C",
       "venue": "Estadio Akron",
       "city": "Guadalajara",
       "round": "Group Stage - 1",
@@ -1185,7 +1185,7 @@
       "Egypt",
       "Ghana",
       "Iran",
-      "Czech Republic",
+      "Czechia",
       "Tunisia",
       "Australia",
       "Iraq",

@@ -68,6 +68,9 @@ def compute(fixtures, key):
     if not assigned:
         print("WARNING: No colleagues assigned yet in config.py — fill in after the draw.")
 
+    # Track ALL fixture teams so unassigned ones get points too (for the "still to pick" display).
+    # Card events are only fetched for matches involving assigned teams to avoid extra API calls.
+    all_tids = {fx["teams"][side]["id"] for fx in fixtures for side in ("home", "away")}
     stats = {
         tid: {
             "points": 0,
@@ -81,7 +84,7 @@ def compute(fixtures, key):
             "upset_bonus": 0,
             "_rounds": set(),  # tracks knockout rounds awarded (not serialised)
         }
-        for tid in assigned
+        for tid in all_tids
     }
 
     # Build FIFA group rank lookup: team_name_lower → int (A=1, B=2, C=3, D=4)
@@ -144,7 +147,7 @@ def compute(fixtures, key):
                 s["clean_sheets"] += 1
                 s["points"] += SCORING["clean_sheet"]
 
-        if not (home_id in stats or away_id in stats):
+        if not (home_id in assigned or away_id in assigned):
             continue
 
         events = _cached_events(fx_id)
@@ -171,6 +174,8 @@ def compute(fixtures, key):
 
 
 def build_output(stats, fixtures):
+    assigned = {tid for tid, name in ASSIGNMENTS.items() if name}
+
     names = {}
     for fx in fixtures:
         for side in ("home", "away"):

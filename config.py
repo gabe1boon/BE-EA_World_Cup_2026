@@ -29,7 +29,7 @@ ASSIGNMENTS = {
     3:    "Mark",      # Croatia
     27:   "Mark",      # Portugal
     4673: "Gabe",      # New Zealand
-    770:  "Gabe",      # Czech Republic
+    770:  "Gabe",      # Czechia
     1568: "Tobias",    # Uzbekistan
     2380: "Tobias",    # Paraguay
     1569: "Krystian",  # Qatar
@@ -70,7 +70,7 @@ FIFA_GROUPS = {
     ],
     "C": [
         "Türkiye", "Scotland", "Ivory Coast", "Egypt", "Ghana", "Iran",
-        "Czech Republic", "Tunisia", "Australia", "Iraq", "Saudi Arabia", "Panama",
+        "Czechia", "Tunisia", "Australia", "Iraq", "Saudi Arabia", "Panama",
     ],
     "D": [
         "Paraguay", "Algeria", "Congo DR", "Jordan", "South Africa", "Qatar",

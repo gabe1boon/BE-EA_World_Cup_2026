@@ -24,6 +24,11 @@ DATA_JSON = DOCS_DIR / "data.json"
 SNAPSHOTS_DIR = Path("snapshots")
 GENEVA_TZ = zoneinfo.ZoneInfo("Europe/Zurich")
 
+# Map API team names to preferred display names where they differ.
+NAME_OVERRIDES = {
+    "Czech Republic": "Czechia",
+}
+
 # Fixture statuses that count as a completed match
 FINISHED = {"FT", "AET", "PEN"}
 
@@ -93,12 +98,12 @@ def compute(fixtures, key):
         for _tname in _grp_teams:
             _group_rank[_tname.lower()] = _grp_idx
 
-    # Build team-ID → name mapping from fixture data
+    # Build team-ID → name mapping from fixture data (applying display overrides)
     _fx_names = {}
     for _fx in fixtures:
         for _side in ("home", "away"):
             _t = _fx["teams"][_side]
-            _fx_names[_t["id"]] = _t["name"]
+            _fx_names[_t["id"]] = NAME_OVERRIDES.get(_t["name"], _t["name"])
 
     for fx in fixtures:
         home_id = fx["teams"]["home"]["id"]
@@ -180,7 +185,7 @@ def build_output(stats, fixtures):
     for fx in fixtures:
         for side in ("home", "away"):
             t = fx["teams"][side]
-            names[t["id"]] = t["name"]
+            names[t["id"]] = NAME_OVERRIDES.get(t["name"], t["name"])
 
     # Find the next scheduled fixture for each assigned team
     now = datetime.now(timezone.utc)

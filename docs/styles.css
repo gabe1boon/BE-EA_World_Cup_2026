@@ -347,6 +347,15 @@ td.ub { color: #27AE60; font-weight: 700; }
   font-size: 0.88rem;
   display: flex;
   align-items: center;
+  gap: 0.35rem;
+}
+
+.avail-pts {
+  margin-left: auto;
+  font-size: 0.75rem;
+  font-weight: 700;
+  color: var(--muted);
+  flex-shrink: 0;
 }
 
 @media (max-width: 600px) {

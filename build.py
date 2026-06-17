@@ -210,7 +210,8 @@ def build_output(stats, fixtures):
                 }
 
     rows = []
-    for tid, s in stats.items():
+    for tid in assigned:
+        s = stats[tid]
         nm = next_matches.get(tid)
         rows.append({
             "colleague": ASSIGNMENTS[tid],
@@ -231,16 +232,12 @@ def build_output(stats, fixtures):
 
     rows.sort(key=lambda r: (-r["points"], -r["wins"], -r["goals_for"]))
 
-    # Available = teams listed in ASSIGNMENTS with no colleague yet,
-    # plus any fixture team not mentioned in ASSIGNMENTS at all.
-    picked_ids = {tid for tid, name in ASSIGNMENTS.items() if name}
-    available_ids = set()
-    for tid in names:
-        if tid not in picked_ids:
-            available_ids.add(tid)
+    # Available = any fixture team not assigned to a colleague.
+    available_ids = {tid for tid in names if tid not in assigned}
 
     available_teams = sorted(
-        [{"team_id": tid, "team": names[tid]} for tid in available_ids],
+        [{"team_id": tid, "team": names[tid], "points": stats[tid]["points"]}
+         for tid in available_ids if tid in stats],
         key=lambda t: t["team"],
     )
 

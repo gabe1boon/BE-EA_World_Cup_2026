@@ -217,7 +217,7 @@ function renderAvailable(teams) {
   }
 
   const rows = teams.map(t =>
-    `<tr><td>${flagImg(t.team)}${t.team}</td></tr>`
+    `<tr><td>${flagImg(t.team)}${t.team}<span class="avail-pts">[${t.points ?? 0}]</span></td></tr>`
   ).join("");
 
   section.innerHTML = `

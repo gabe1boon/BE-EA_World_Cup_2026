@@ -200,6 +200,7 @@ async function load() {
     render();
     renderAvailable(data.available_teams || []);
     renderUpcoming(data.upcoming_fixtures || []);
+    renderResults(data.recent_results || []);
     renderFifaGroups(data.fifa_groups || {});
     setInterval(render, 60000); // refresh countdown every minute
   } catch (e) {
@@ -229,48 +230,82 @@ function renderAvailable(teams) {
   `;
 }
 
+const GRP_CLS = { A: "grp-a", B: "grp-b", C: "grp-c", D: "grp-d" };
+
+function grpBadge(grp) {
+  if (!grp) return "";
+  return `<span class="grp-badge ${GRP_CLS[grp] || ""}">${grp}</span>`;
+}
+
+function matchCardHtml(fx, showScore) {
+  const tz = "Europe/Zurich";
+  const dt = new Date(fx.date);
+  const dateStr = dt.toLocaleDateString("en-GB", { weekday: "short", day: "numeric", month: "short", timeZone: tz });
+  const timeStr = dt.toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit", timeZone: tz });
+  const venue = [fx.venue, fx.city].filter(Boolean).join(", ");
+  const statusLabel = fx.status === "AET" ? " · AET" : fx.status === "PEN" ? " · Pens" : "";
+
+  const homeScore = showScore ? `<span class="match-score">${fx.home_score ?? "–"}</span>` : "";
+  const awayScore = showScore ? `<span class="match-score">${fx.away_score ?? "–"}</span>` : "";
+
+  return `
+    <div class="match-card">
+      <div class="match-card-meta">
+        <span class="match-card-time">${dateStr} &middot; ${timeStr}${statusLabel}</span>
+        <span class="match-card-venue">${venue}</span>
+      </div>
+      <div class="match-teams">
+        <div class="match-team">
+          <div class="match-team-name">${flagImg(fx.home_team)}${fx.home_team}</div>
+          ${homeScore}${grpBadge(fx.home_group)}
+        </div>
+        <div class="match-team">
+          <div class="match-team-name">${flagImg(fx.away_team)}${fx.away_team}</div>
+          ${awayScore}${grpBadge(fx.away_group)}
+        </div>
+      </div>
+    </div>`;
+}
+
 function renderUpcoming(fixtures) {
   const section = document.getElementById("upcoming-section");
   if (!fixtures || !fixtures.length) return;
 
   const show = fixtures.slice(0, 12);
 
-  const grpCls = { A: "grp-a", B: "grp-b", C: "grp-c", D: "grp-d" };
-
-  function grpBadge(grp) {
-    if (!grp) return "";
-    return `<span class="grp-badge ${grpCls[grp] || ""}">${grp}</span>`;
-  }
-
-  const cards = show.map(fx => {
-    const dt = new Date(fx.date);
-    const tz = "Europe/Zurich";
-    const dateStr = dt.toLocaleDateString("en-GB", { weekday: "short", day: "numeric", month: "short", timeZone: tz });
-    const timeStr = dt.toLocaleTimeString("en-GB", { hour: "2-digit", minute: "2-digit", timeZone: tz });
-    const venue = [fx.venue, fx.city].filter(Boolean).join(", ");
-
-    return `
-      <div class="match-card">
-        <div class="match-card-meta">
-          <span class="match-card-time">${dateStr} &middot; ${timeStr}</span>
-          <span class="match-card-venue">${venue}</span>
-        </div>
-        <div class="match-teams">
-          <div class="match-team">
-            <div class="match-team-name">${flagImg(fx.home_team)}${fx.home_team}</div>
-            ${grpBadge(fx.home_group)}
-          </div>
-          <div class="match-team">
-            <div class="match-team-name">${flagImg(fx.away_team)}${fx.away_team}</div>
-            ${grpBadge(fx.away_group)}
-          </div>
-        </div>
-      </div>`;
-  }).join("");
+  const cards = show.map(fx => matchCardHtml(fx, false)).join("");
 
   section.innerHTML = `
     <h2 class="section-heading">Upcoming Fixtures <span class="count">${show.length}</span></h2>
     <div class="match-grid">${cards}</div>`;
+}
+
+function renderResults(fixtures) {
+  const section = document.getElementById("results-section");
+  if (!fixtures || !fixtures.length) return;
+
+  const INITIAL = 12;
+  let showing = INITIAL;
+
+  function draw() {
+    const slice = fixtures.slice(0, showing);
+    const cards = slice.map(fx => matchCardHtml(fx, true)).join("");
+    const remaining = fixtures.length - showing;
+    const btn = remaining > 0
+      ? `<div class="show-more-wrap"><button class="show-more-btn" id="results-more">Show ${remaining} more</button></div>`
+      : "";
+    section.innerHTML = `
+      <h2 class="section-heading">Recent Results <span class="count">${fixtures.length}</span></h2>
+      <div class="match-grid">${cards}</div>${btn}`;
+    if (remaining > 0) {
+      document.getElementById("results-more").addEventListener("click", () => {
+        showing = fixtures.length;
+        draw();
+      });
+    }
+  }
+
+  draw();
 }
 
 function renderFifaGroups(groups) {

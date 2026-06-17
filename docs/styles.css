@@ -426,6 +426,42 @@ td.ub { color: #27AE60; font-weight: 700; }
   text-overflow: ellipsis;
 }
 
+/* ── Results section ── */
+#results-section {
+  margin-top: 2.5rem;
+}
+
+.match-score {
+  font-size: 0.9rem;
+  font-weight: 800;
+  color: var(--text);
+  min-width: 1.2rem;
+  text-align: center;
+  flex-shrink: 0;
+}
+
+.show-more-wrap {
+  margin-top: 0.75rem;
+  text-align: center;
+}
+
+.show-more-btn {
+  background: var(--white);
+  border: 2px solid var(--border);
+  border-radius: 8px;
+  color: var(--blue);
+  font-size: 0.85rem;
+  font-weight: 600;
+  padding: 0.5rem 1.5rem;
+  cursor: pointer;
+  transition: background 0.15s, border-color 0.15s;
+}
+
+.show-more-btn:hover {
+  background: var(--blue-light);
+  border-color: var(--blue);
+}
+
 .grp-badge {
   font-size: 0.62rem;
   font-weight: 700;

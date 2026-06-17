@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T08:52:31Z",
+  "updated_at": "2026-06-17T09:06:27Z",
   "leaderboard": [
     {
       "colleague": "Nicolas",
@@ -485,75 +485,93 @@
   "available_teams": [
     {
       "team_id": 20,
-      "team": "Australia"
+      "team": "Australia",
+      "points": 7
     },
     {
       "team_id": 1,
-      "team": "Belgium"
+      "team": "Belgium",
+      "points": 0
     },
     {
       "team_id": 6,
-      "team": "Brazil"
+      "team": "Brazil",
+      "points": 0
     },
     {
       "team_id": 5529,
-      "team": "Canada"
+      "team": "Canada",
+      "points": 0
     },
     {
       "team_id": 8,
-      "team": "Colombia"
+      "team": "Colombia",
+      "points": 0
     },
     {
       "team_id": 5530,
-      "team": "Cura\u00e7ao"
+      "team": "Cura\u00e7ao",
+      "points": 1
     },
     {
       "team_id": 770,
-      "team": "Czechia"
+      "team": "Czechia",
+      "points": 1
     },
     {
       "team_id": 10,
-      "team": "England"
+      "team": "England",
+      "points": 0
     },
     {
       "team_id": 2,
-      "team": "France"
+      "team": "France",
+      "points": 6
     },
     {
       "team_id": 25,
-      "team": "Germany"
+      "team": "Germany",
+      "points": 10
     },
     {
       "team_id": 22,
-      "team": "Iran"
+      "team": "Iran",
+      "points": 2
     },
     {
       "team_id": 1118,
-      "team": "Netherlands"
+      "team": "Netherlands",
+      "points": 0
     },
     {
       "team_id": 1090,
-      "team": "Norway"
+      "team": "Norway",
+      "points": 7
     },
     {
       "team_id": 11,
-      "team": "Panama"
+      "team": "Panama",
+      "points": 0
     },
     {
       "team_id": 13,
-      "team": "Senegal"
+      "team": "Senegal",
+      "points": 1
     },
     {
       "team_id": 1531,
-      "team": "South Africa"
+      "team": "South Africa",
+      "points": -6
     },
     {
       "team_id": 28,
-      "team": "Tunisia"
+      "team": "Tunisia",
+      "points": 0
     },
     {
       "team_id": 777,
-      "team": "T\u00fcrkiye"
+      "team": "T\u00fcrkiye",
+      "points": 0
     }
   ],
   "upcoming_fixtures": [

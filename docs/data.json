@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T14:40:34Z",
+  "updated_at": "2026-06-18T17:52:55Z",
   "leaderboard": [
     {
       "colleague": "Nicolas",
@@ -261,8 +261,8 @@
       "colleague": "Gabe",
       "team": "Czechia",
       "team_id": 770,
-      "next_match_utc": "2026-06-18T16:00:00Z",
-      "next_match_vs": "South Africa",
+      "next_match_utc": "2026-06-25T01:00:00Z",
+      "next_match_vs": "Mexico",
       "points": 1,
       "played": 1,
       "wins": 0,
@@ -587,16 +587,6 @@
   ],
   "upcoming_fixtures": [
     {
-      "date": "2026-06-18T16:00:00Z",
-      "home_team": "Czechia",
-      "away_team": "South Africa",
-      "home_group": "C",
-      "away_group": "D",
-      "venue": "Mercedes-Benz Stadium",
-      "city": "Atlanta",
-      "round": "Group Stage - 2"
-    },
-    {
       "date": "2026-06-18T19:00:00Z",
       "home_team": "Switzerland",
       "away_team": "Bosnia & Herzegovina",
@@ -884,6 +874,16 @@
       "away_group": "B",
       "venue": "Estadio BBVA",
       "city": "Monterrey",
+      "round": "Group Stage - 3"
+    },
+    {
+      "date": "2026-06-25T20:00:00Z",
+      "home_team": "Ecuador",
+      "away_team": "Germany",
+      "home_group": "B",
+      "away_group": "A",
+      "venue": "MetLife Stadium",
+      "city": "New York New Jersey",
       "round": "Group Stage - 3"
     }
   ],

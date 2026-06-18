@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T20:07:03Z",
+  "updated_at": "2026-06-18T22:28:26Z",
   "leaderboard": [
     {
       "colleague": "Nicolas",
@@ -30,6 +30,22 @@
       "goals_for": 3,
       "clean_sheets": 1,
       "yellow_cards": 0,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Koums",
+      "team": "Switzerland",
+      "team_id": 15,
+      "next_match_utc": "2026-06-24T19:00:00Z",
+      "next_match_vs": "Canada",
+      "points": 7,
+      "played": 2,
+      "wins": 1,
+      "draws": 1,
+      "goals_for": 5,
+      "clean_sheets": 0,
+      "yellow_cards": 2,
       "red_cards": 0,
       "upset_bonus": 0
     },
@@ -291,22 +307,6 @@
     },
     {
       "colleague": "Koums",
-      "team": "Switzerland",
-      "team_id": 15,
-      "next_match_utc": "2026-06-24T19:00:00Z",
-      "next_match_vs": "Canada",
-      "points": 1,
-      "played": 1,
-      "wins": 0,
-      "draws": 1,
-      "goals_for": 1,
-      "clean_sheets": 0,
-      "yellow_cards": 1,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
-      "colleague": "Koums",
       "team": "Saudi Arabia",
       "team_id": 23,
       "next_match_utc": "2026-06-21T16:00:00Z",
@@ -373,8 +373,8 @@
       "colleague": "Krystian",
       "team": "Qatar",
       "team_id": 1569,
-      "next_match_utc": "2026-06-18T22:00:00Z",
-      "next_match_vs": "Canada",
+      "next_match_utc": "2026-06-24T19:00:00Z",
+      "next_match_vs": "Bosnia & Herzegovina",
       "points": 0,
       "played": 1,
       "wins": 0,
@@ -434,22 +434,6 @@
       "upset_bonus": 0
     },
     {
-      "colleague": "Adele",
-      "team": "Bosnia & Herzegovina",
-      "team_id": 1113,
-      "next_match_utc": "2026-06-24T19:00:00Z",
-      "next_match_vs": "Qatar",
-      "points": -1,
-      "played": 1,
-      "wins": 0,
-      "draws": 1,
-      "goals_for": 1,
-      "clean_sheets": 0,
-      "yellow_cards": 3,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
       "colleague": "Willem",
       "team": "Ecuador",
       "team_id": 2382,
@@ -479,6 +463,22 @@
       "clean_sheets": 0,
       "yellow_cards": 1,
       "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Adele",
+      "team": "Bosnia & Herzegovina",
+      "team_id": 1113,
+      "next_match_utc": "2026-06-24T19:00:00Z",
+      "next_match_vs": "Qatar",
+      "points": -4,
+      "played": 2,
+      "wins": 0,
+      "draws": 1,
+      "goals_for": 2,
+      "clean_sheets": 0,
+      "yellow_cards": 5,
+      "red_cards": 1,
       "upset_bonus": 0
     },
     {
@@ -586,16 +586,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-18T22:00:00Z",
-      "home_team": "Canada",
-      "away_team": "Qatar",
-      "home_group": "B",
-      "away_group": "D",
-      "venue": "BC Place",
-      "city": "Vancouver",
-      "round": "Group Stage - 2"
-    },
     {
       "date": "2026-06-19T01:00:00Z",
       "home_team": "Mexico",
@@ -885,9 +875,32 @@
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
       "round": "Group Stage - 3"
+    },
+    {
+      "date": "2026-06-25T23:00:00Z",
+      "home_team": "Japan",
+      "away_team": "Sweden",
+      "home_group": "B",
+      "away_group": "B",
+      "venue": "AT&T Stadium",
+      "city": "Dallas",
+      "round": "Group Stage - 3"
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-06-18T19:00:00Z",
+      "home_team": "Switzerland",
+      "away_team": "Bosnia & Herzegovina",
+      "home_score": 4,
+      "away_score": 1,
+      "home_group": "B",
+      "away_group": "D",
+      "venue": "SoFi Stadium",
+      "city": "Inglewood",
+      "round": "Group Stage - 2",
+      "status": "FT"
+    },
     {
       "date": "2026-06-18T16:00:00Z",
       "home_team": "Czechia",

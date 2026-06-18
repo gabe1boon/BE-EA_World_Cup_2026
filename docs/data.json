@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-18T17:52:55Z",
+  "updated_at": "2026-06-18T19:59:41Z",
   "leaderboard": [
     {
       "colleague": "Nicolas",
@@ -178,6 +178,22 @@
       "upset_bonus": 0
     },
     {
+      "colleague": "Gabe",
+      "team": "Czechia",
+      "team_id": 770,
+      "next_match_utc": "2026-06-25T01:00:00Z",
+      "next_match_vs": "Mexico",
+      "points": 2,
+      "played": 2,
+      "wins": 0,
+      "draws": 1,
+      "goals_for": 2,
+      "clean_sheets": 0,
+      "yellow_cards": 1,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
       "colleague": "Mark",
       "team": "Croatia",
       "team_id": 3,
@@ -258,22 +274,6 @@
       "upset_bonus": 0
     },
     {
-      "colleague": "Gabe",
-      "team": "Czechia",
-      "team_id": 770,
-      "next_match_utc": "2026-06-25T01:00:00Z",
-      "next_match_vs": "Mexico",
-      "points": 1,
-      "played": 1,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 1,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
       "colleague": "Ji\u0159\u00ed",
       "team": "Jordan",
       "team_id": 1548,
@@ -293,8 +293,8 @@
       "colleague": "Koums",
       "team": "Switzerland",
       "team_id": 15,
-      "next_match_utc": "2026-06-18T19:00:00Z",
-      "next_match_vs": "Bosnia & Herzegovina",
+      "next_match_utc": "2026-06-24T19:00:00Z",
+      "next_match_vs": "Canada",
       "points": 1,
       "played": 1,
       "wins": 0,
@@ -437,8 +437,8 @@
       "colleague": "Adele",
       "team": "Bosnia & Herzegovina",
       "team_id": 1113,
-      "next_match_utc": "2026-06-18T19:00:00Z",
-      "next_match_vs": "Switzerland",
+      "next_match_utc": "2026-06-24T19:00:00Z",
+      "next_match_vs": "Qatar",
       "points": -1,
       "played": 1,
       "wins": 0,
@@ -586,16 +586,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-18T19:00:00Z",
-      "home_team": "Switzerland",
-      "away_team": "Bosnia & Herzegovina",
-      "home_group": "B",
-      "away_group": "D",
-      "venue": "SoFi Stadium",
-      "city": "Los Angeles",
-      "round": "Group Stage - 2"
-    },
     {
       "date": "2026-06-18T22:00:00Z",
       "home_team": "Canada",
@@ -885,9 +875,32 @@
       "venue": "MetLife Stadium",
       "city": "New York New Jersey",
       "round": "Group Stage - 3"
+    },
+    {
+      "date": "2026-06-25T20:00:00Z",
+      "home_team": "Cura\u00e7ao",
+      "away_team": "Ivory Coast",
+      "home_group": "D",
+      "away_group": "C",
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia",
+      "round": "Group Stage - 3"
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-06-18T16:00:00Z",
+      "home_team": "Czechia",
+      "away_team": "South Africa",
+      "home_score": 1,
+      "away_score": 1,
+      "home_group": "C",
+      "away_group": "D",
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "round": "Group Stage - 2",
+      "status": "FT"
+    },
     {
       "date": "2026-06-18T02:00:00Z",
       "home_team": "Uzbekistan",

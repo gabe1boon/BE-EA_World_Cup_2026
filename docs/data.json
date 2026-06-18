@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-17T23:55:53Z",
+  "updated_at": "2026-06-18T02:37:54Z",
   "leaderboard": [
     {
       "colleague": "Nicolas",
@@ -61,6 +61,22 @@
       "draws": 0,
       "goals_for": 3,
       "clean_sheets": 0,
+      "yellow_cards": 1,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Achille",
+      "team": "Ghana",
+      "team_id": 1504,
+      "next_match_utc": "2026-06-23T20:00:00Z",
+      "next_match_vs": "England",
+      "points": 5,
+      "played": 1,
+      "wins": 1,
+      "draws": 0,
+      "goals_for": 1,
+      "clean_sheets": 1,
       "yellow_cards": 1,
       "red_cards": 0,
       "upset_bonus": 0
@@ -373,24 +389,8 @@
       "colleague": "Tobias",
       "team": "Uzbekistan",
       "team_id": 1568,
-      "next_match_utc": "2026-06-18T02:00:00Z",
-      "next_match_vs": "Colombia",
-      "points": 0,
-      "played": 0,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 0,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
-      "colleague": "Achille",
-      "team": "Ghana",
-      "team_id": 1504,
-      "next_match_utc": "2026-06-23T20:00:00Z",
-      "next_match_vs": "England",
+      "next_match_utc": "2026-06-23T17:00:00Z",
+      "next_match_vs": "Portugal",
       "points": 0,
       "played": 0,
       "wins": 0,
@@ -562,7 +562,7 @@
     {
       "team_id": 11,
       "team": "Panama",
-      "points": 0
+      "points": -2
     },
     {
       "team_id": 13,
@@ -586,16 +586,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-18T02:00:00Z",
-      "home_team": "Uzbekistan",
-      "away_team": "Colombia",
-      "home_group": "D",
-      "away_group": "A",
-      "venue": "Estadio Azteca",
-      "city": "Mexico City",
-      "round": "Group Stage - 1"
-    },
     {
       "date": "2026-06-18T16:00:00Z",
       "home_team": "Czechia",
@@ -885,9 +875,32 @@
       "venue": "Estadio Azteca",
       "city": "Mexico City",
       "round": "Group Stage - 3"
+    },
+    {
+      "date": "2026-06-25T01:00:00Z",
+      "home_team": "South Africa",
+      "away_team": "South Korea",
+      "home_group": "D",
+      "away_group": "B",
+      "venue": "Estadio BBVA",
+      "city": "Monterrey",
+      "round": "Group Stage - 3"
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-06-17T23:00:00Z",
+      "home_team": "Ghana",
+      "away_team": "Panama",
+      "home_score": 1,
+      "away_score": 0,
+      "home_group": "C",
+      "away_group": "C",
+      "venue": "BMO Field",
+      "city": "Toronto",
+      "round": "Group Stage - 1",
+      "status": "FT"
+    },
     {
       "date": "2026-06-17T20:00:00Z",
       "home_team": "England",

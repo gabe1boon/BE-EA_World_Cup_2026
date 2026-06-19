@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-06-19T00:08:29Z",
+  "updated_at": "2026-06-19T05:30:53Z",
   "leaderboard": [
+    {
+      "colleague": "Iga",
+      "team": "Mexico",
+      "team_id": 16,
+      "next_match_utc": "2026-06-25T01:00:00Z",
+      "next_match_vs": "Czechia",
+      "points": 10,
+      "played": 2,
+      "wins": 2,
+      "draws": 0,
+      "goals_for": 3,
+      "clean_sheets": 2,
+      "yellow_cards": 1,
+      "red_cards": 1,
+      "upset_bonus": 0
+    },
     {
       "colleague": "Nicolas",
       "team": "Sweden",
@@ -98,38 +114,6 @@
       "upset_bonus": 0
     },
     {
-      "colleague": "Iga",
-      "team": "Mexico",
-      "team_id": 16,
-      "next_match_utc": "2026-06-19T01:00:00Z",
-      "next_match_vs": "South Korea",
-      "points": 4,
-      "played": 1,
-      "wins": 1,
-      "draws": 0,
-      "goals_for": 2,
-      "clean_sheets": 1,
-      "yellow_cards": 1,
-      "red_cards": 1,
-      "upset_bonus": 0
-    },
-    {
-      "colleague": "Francisco",
-      "team": "South Korea",
-      "team_id": 17,
-      "next_match_utc": "2026-06-19T01:00:00Z",
-      "next_match_vs": "Mexico",
-      "points": 4,
-      "played": 1,
-      "wins": 1,
-      "draws": 0,
-      "goals_for": 2,
-      "clean_sheets": 0,
-      "yellow_cards": 1,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
       "colleague": "Oliver",
       "team": "Ivory Coast",
       "team_id": 1501,
@@ -190,6 +174,22 @@
       "goals_for": 2,
       "clean_sheets": 0,
       "yellow_cards": 0,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Francisco",
+      "team": "South Korea",
+      "team_id": 17,
+      "next_match_utc": "2026-06-25T01:00:00Z",
+      "next_match_vs": "South Africa",
+      "points": 2,
+      "played": 2,
+      "wins": 1,
+      "draws": 0,
+      "goals_for": 2,
+      "clean_sheets": 0,
+      "yellow_cards": 3,
       "red_cards": 0,
       "upset_bonus": 0
     },
@@ -587,16 +587,6 @@
   ],
   "upcoming_fixtures": [
     {
-      "date": "2026-06-19T01:00:00Z",
-      "home_team": "Mexico",
-      "away_team": "South Korea",
-      "home_group": "B",
-      "away_group": "B",
-      "venue": "Estadio Akron",
-      "city": "Guadalajara",
-      "round": "Group Stage - 2"
-    },
-    {
       "date": "2026-06-19T19:00:00Z",
       "home_team": "USA",
       "away_team": "Australia",
@@ -885,9 +875,32 @@
       "venue": "AT&T Stadium",
       "city": "Dallas",
       "round": "Group Stage - 3"
+    },
+    {
+      "date": "2026-06-25T23:00:00Z",
+      "home_team": "Tunisia",
+      "away_team": "Netherlands",
+      "home_group": "C",
+      "away_group": "A",
+      "venue": "Arrowhead Stadium",
+      "city": "Kansas City",
+      "round": "Group Stage - 3"
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-06-19T01:00:00Z",
+      "home_team": "Mexico",
+      "away_team": "South Korea",
+      "home_score": 1,
+      "away_score": 0,
+      "home_group": "B",
+      "away_group": "B",
+      "venue": "Estadio Akron",
+      "city": "Guadalajara",
+      "round": "Group Stage - 2",
+      "status": "FT"
+    },
     {
       "date": "2026-06-18T22:00:00Z",
       "home_team": "Canada",

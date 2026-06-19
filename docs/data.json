@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-19T21:40:24Z",
+  "updated_at": "2026-06-19T22:42:11Z",
   "leaderboard": [
     {
       "colleague": "Iliasse",
@@ -133,8 +133,8 @@
       "colleague": "Koums",
       "team": "Scotland",
       "team_id": 1108,
-      "next_match_utc": "2026-06-19T22:00:00Z",
-      "next_match_vs": "Morocco",
+      "next_match_utc": "2026-06-24T22:00:00Z",
+      "next_match_vs": "Brazil",
       "points": 3,
       "played": 1,
       "wins": 1,
@@ -245,8 +245,8 @@
       "colleague": "Eva",
       "team": "Morocco",
       "team_id": 31,
-      "next_match_utc": "2026-06-19T22:00:00Z",
-      "next_match_vs": "Scotland",
+      "next_match_utc": "2026-06-24T22:00:00Z",
+      "next_match_vs": "Haiti",
       "points": 2,
       "played": 1,
       "wins": 0,
@@ -587,16 +587,6 @@
   ],
   "upcoming_fixtures": [
     {
-      "date": "2026-06-19T22:00:00Z",
-      "home_team": "Scotland",
-      "away_team": "Morocco",
-      "home_group": "C",
-      "away_group": "A",
-      "venue": "Gillette Stadium",
-      "city": "Boston",
-      "round": "Group Stage - 2"
-    },
-    {
       "date": "2026-06-20T00:30:00Z",
       "home_team": "Brazil",
       "away_team": "Haiti",
@@ -884,6 +874,16 @@
       "away_group": "B",
       "venue": "SoFi Stadium",
       "city": "Los Angeles",
+      "round": "Group Stage - 3"
+    },
+    {
+      "date": "2026-06-26T02:00:00Z",
+      "home_team": "Paraguay",
+      "away_team": "Australia",
+      "home_group": "D",
+      "away_group": "C",
+      "venue": "Levi's Stadium",
+      "city": "San Francisco Bay Area",
       "round": "Group Stage - 3"
     }
   ],

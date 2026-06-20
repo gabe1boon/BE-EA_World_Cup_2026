@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T18:08:08Z",
+  "updated_at": "2026-06-20T20:00:36Z",
   "leaderboard": [
     {
       "colleague": "Iliasse",
@@ -31,22 +31,6 @@
       "clean_sheets": 2,
       "yellow_cards": 1,
       "red_cards": 1,
-      "upset_bonus": 0
-    },
-    {
-      "colleague": "Nicolas",
-      "team": "Sweden",
-      "team_id": 5,
-      "next_match_utc": "2026-06-25T23:00:00Z",
-      "next_match_vs": "Japan",
-      "points": 8,
-      "played": 1,
-      "wins": 1,
-      "draws": 0,
-      "goals_for": 5,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
-      "red_cards": 0,
       "upset_bonus": 0
     },
     {
@@ -98,6 +82,22 @@
       "upset_bonus": 0
     },
     {
+      "colleague": "Nicolas",
+      "team": "Sweden",
+      "team_id": 5,
+      "next_match_utc": "2026-06-25T23:00:00Z",
+      "next_match_vs": "Japan",
+      "points": 6,
+      "played": 2,
+      "wins": 1,
+      "draws": 0,
+      "goals_for": 6,
+      "clean_sheets": 0,
+      "yellow_cards": 3,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
       "colleague": "Valeria",
       "team": "Austria",
       "team_id": 775,
@@ -133,8 +133,8 @@
       "colleague": "Oliver",
       "team": "Ivory Coast",
       "team_id": 1501,
-      "next_match_utc": "2026-06-20T20:00:00Z",
-      "next_match_vs": "Germany",
+      "next_match_utc": "2026-06-25T20:00:00Z",
+      "next_match_vs": "Cura\u00e7ao",
       "points": 4,
       "played": 1,
       "wins": 1,
@@ -552,7 +552,7 @@
     {
       "team_id": 1118,
       "team": "Netherlands",
-      "points": 0
+      "points": 8
     },
     {
       "team_id": 1090,
@@ -586,16 +586,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-20T20:00:00Z",
-      "home_team": "Germany",
-      "away_team": "Ivory Coast",
-      "home_group": "A",
-      "away_group": "C",
-      "venue": "BMO Field",
-      "city": "Toronto",
-      "round": "Group Stage - 2"
-    },
     {
       "date": "2026-06-21T00:00:00Z",
       "home_team": "Ecuador",
@@ -885,9 +875,32 @@
       "venue": "Estadio Akron",
       "city": "Guadalajara",
       "round": "Group Stage - 3"
+    },
+    {
+      "date": "2026-06-27T00:00:00Z",
+      "home_team": "Cape Verde Islands",
+      "away_team": "Saudi Arabia",
+      "home_group": "D",
+      "away_group": "C",
+      "venue": "NRG Stadium",
+      "city": "Houston",
+      "round": "Group Stage - 3"
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-06-20T17:00:00Z",
+      "home_team": "Netherlands",
+      "away_team": "Sweden",
+      "home_score": 5,
+      "away_score": 1,
+      "home_group": "A",
+      "away_group": "B",
+      "venue": "NRG Stadium",
+      "city": "Houston",
+      "round": "Group Stage - 2",
+      "status": "FT"
+    },
     {
       "date": "2026-06-20T03:00:00Z",
       "home_team": "T\u00fcrkiye",
@@ -1262,19 +1275,6 @@
       "away_group": "D",
       "venue": "SoFi Stadium",
       "city": "Inglewood",
-      "round": "Group Stage - 1",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-12T19:00:00Z",
-      "home_team": "Canada",
-      "away_team": "Bosnia & Herzegovina",
-      "home_score": 1,
-      "away_score": 1,
-      "home_group": "B",
-      "away_group": "D",
-      "venue": "BMO Field",
-      "city": "Toronto",
       "round": "Group Stage - 1",
       "status": "FT"
     }

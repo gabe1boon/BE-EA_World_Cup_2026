@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T16:58:17Z",
+  "updated_at": "2026-06-20T18:08:08Z",
   "leaderboard": [
     {
       "colleague": "Iliasse",
@@ -37,8 +37,8 @@
       "colleague": "Nicolas",
       "team": "Sweden",
       "team_id": 5,
-      "next_match_utc": "2026-06-20T17:00:00Z",
-      "next_match_vs": "Netherlands",
+      "next_match_utc": "2026-06-25T23:00:00Z",
+      "next_match_vs": "Japan",
       "points": 8,
       "played": 1,
       "wins": 1,
@@ -587,16 +587,6 @@
   ],
   "upcoming_fixtures": [
     {
-      "date": "2026-06-20T17:00:00Z",
-      "home_team": "Netherlands",
-      "away_team": "Sweden",
-      "home_group": "A",
-      "away_group": "B",
-      "venue": "NRG Stadium",
-      "city": "Houston",
-      "round": "Group Stage - 2"
-    },
-    {
       "date": "2026-06-20T20:00:00Z",
       "home_team": "Germany",
       "away_team": "Ivory Coast",
@@ -884,6 +874,16 @@
       "away_group": "A",
       "venue": "Gillette Stadium",
       "city": "Boston",
+      "round": "Group Stage - 3"
+    },
+    {
+      "date": "2026-06-27T00:00:00Z",
+      "home_team": "Uruguay",
+      "away_team": "Spain",
+      "home_group": "B",
+      "away_group": "A",
+      "venue": "Estadio Akron",
+      "city": "Guadalajara",
       "round": "Group Stage - 3"
     }
   ],

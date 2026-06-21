@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T21:49:10Z",
+  "updated_at": "2026-06-21T22:57:52Z",
   "leaderboard": [
     {
       "colleague": "Dusan",
@@ -261,8 +261,8 @@
       "colleague": "Euan",
       "team": "Uruguay",
       "team_id": 7,
-      "next_match_utc": "2026-06-21T22:00:00Z",
-      "next_match_vs": "Cape Verde Islands",
+      "next_match_utc": "2026-06-27T00:00:00Z",
+      "next_match_vs": "Spain",
       "points": 2,
       "played": 1,
       "wins": 0,
@@ -277,8 +277,8 @@
       "colleague": "Achille",
       "team": "Cape Verde Islands",
       "team_id": 1533,
-      "next_match_utc": "2026-06-21T22:00:00Z",
-      "next_match_vs": "Uruguay",
+      "next_match_utc": "2026-06-27T00:00:00Z",
+      "next_match_vs": "Saudi Arabia",
       "points": 2,
       "played": 1,
       "wins": 0,
@@ -587,16 +587,6 @@
   ],
   "upcoming_fixtures": [
     {
-      "date": "2026-06-21T22:00:00Z",
-      "home_team": "Uruguay",
-      "away_team": "Cape Verde Islands",
-      "home_group": "B",
-      "away_group": "D",
-      "venue": "Hard Rock Stadium",
-      "city": "Miami Gardens",
-      "round": "Group Stage - 2"
-    },
-    {
       "date": "2026-06-22T01:00:00Z",
       "home_team": "New Zealand",
       "away_team": "Egypt",
@@ -884,6 +874,16 @@
       "away_group": "A",
       "venue": "MetLife Stadium",
       "city": "New York New Jersey",
+      "round": "Group Stage - 3"
+    },
+    {
+      "date": "2026-06-27T23:30:00Z",
+      "home_team": "Colombia",
+      "away_team": "Portugal",
+      "home_group": "A",
+      "away_group": "A",
+      "venue": "Hard Rock Stadium",
+      "city": "Miami",
       "round": "Group Stage - 3"
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T17:15:41Z",
+  "updated_at": "2026-06-21T18:56:27Z",
   "leaderboard": [
     {
       "colleague": "Dusan",
@@ -14,6 +14,22 @@
       "goals_for": 6,
       "clean_sheets": 1,
       "yellow_cards": 0,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Naini",
+      "team": "Spain",
+      "team_id": 9,
+      "next_match_utc": "2026-06-27T00:00:00Z",
+      "next_match_vs": "Uruguay",
+      "points": 11,
+      "played": 2,
+      "wins": 1,
+      "draws": 1,
+      "goals_for": 4,
+      "clean_sheets": 2,
+      "yellow_cards": 1,
       "red_cards": 0,
       "upset_bonus": 0
     },
@@ -258,22 +274,6 @@
       "upset_bonus": 0
     },
     {
-      "colleague": "Naini",
-      "team": "Spain",
-      "team_id": 9,
-      "next_match_utc": "2026-06-27T00:00:00Z",
-      "next_match_vs": "Uruguay",
-      "points": 2,
-      "played": 1,
-      "wins": 0,
-      "draws": 1,
-      "goals_for": 0,
-      "clean_sheets": 1,
-      "yellow_cards": 1,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
       "colleague": "Achille",
       "team": "Cape Verde Islands",
       "team_id": 1533,
@@ -302,22 +302,6 @@
       "goals_for": 1,
       "clean_sheets": 0,
       "yellow_cards": 0,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
-      "colleague": "Koums",
-      "team": "Saudi Arabia",
-      "team_id": 23,
-      "next_match_utc": "2026-06-27T00:00:00Z",
-      "next_match_vs": "Cape Verde Islands",
-      "points": 1,
-      "played": 1,
-      "wins": 0,
-      "draws": 1,
-      "goals_for": 1,
-      "clean_sheets": 0,
-      "yellow_cards": 1,
       "red_cards": 0,
       "upset_bonus": 0
     },
@@ -430,6 +414,22 @@
       "goals_for": 0,
       "clean_sheets": 0,
       "yellow_cards": 0,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Koums",
+      "team": "Saudi Arabia",
+      "team_id": 23,
+      "next_match_utc": "2026-06-27T00:00:00Z",
+      "next_match_vs": "Cape Verde Islands",
+      "points": -1,
+      "played": 2,
+      "wins": 0,
+      "draws": 1,
+      "goals_for": 1,
+      "clean_sheets": 0,
+      "yellow_cards": 3,
       "red_cards": 0,
       "upset_bonus": 0
     },
@@ -593,7 +593,7 @@
       "home_group": "A",
       "away_group": "C",
       "venue": "SoFi Stadium",
-      "city": "Los Angeles",
+      "city": "Inglewood",
       "round": "Group Stage - 2"
     },
     {
@@ -888,6 +888,19 @@
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-06-21T16:00:00Z",
+      "home_team": "Spain",
+      "away_team": "Saudi Arabia",
+      "home_score": 4,
+      "away_score": 0,
+      "home_group": "A",
+      "away_group": "C",
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "round": "Group Stage - 2",
+      "status": "FT"
+    },
     {
       "date": "2026-06-21T04:00:00Z",
       "home_team": "Tunisia",
@@ -1262,19 +1275,6 @@
       "away_group": "C",
       "venue": "BC Place",
       "city": "Vancouver",
-      "round": "Group Stage - 1",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-14T01:00:00Z",
-      "home_team": "Haiti",
-      "away_team": "Scotland",
-      "home_score": 0,
-      "away_score": 1,
-      "home_group": "D",
-      "away_group": "C",
-      "venue": "Gillette Stadium",
-      "city": "Boston",
       "round": "Group Stage - 1",
       "status": "FT"
     }

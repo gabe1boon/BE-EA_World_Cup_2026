@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T15:43:43Z",
+  "updated_at": "2026-06-21T17:15:41Z",
   "leaderboard": [
     {
       "colleague": "Dusan",
@@ -261,8 +261,8 @@
       "colleague": "Naini",
       "team": "Spain",
       "team_id": 9,
-      "next_match_utc": "2026-06-21T16:00:00Z",
-      "next_match_vs": "Saudi Arabia",
+      "next_match_utc": "2026-06-27T00:00:00Z",
+      "next_match_vs": "Uruguay",
       "points": 2,
       "played": 1,
       "wins": 0,
@@ -309,8 +309,8 @@
       "colleague": "Koums",
       "team": "Saudi Arabia",
       "team_id": 23,
-      "next_match_utc": "2026-06-21T16:00:00Z",
-      "next_match_vs": "Spain",
+      "next_match_utc": "2026-06-27T00:00:00Z",
+      "next_match_vs": "Cape Verde Islands",
       "points": 1,
       "played": 1,
       "wins": 0,
@@ -586,16 +586,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-21T16:00:00Z",
-      "home_team": "Spain",
-      "away_team": "Saudi Arabia",
-      "home_group": "A",
-      "away_group": "C",
-      "venue": "Mercedes-Benz Stadium",
-      "city": "Atlanta",
-      "round": "Group Stage - 2"
-    },
     {
       "date": "2026-06-21T19:00:00Z",
       "home_team": "Belgium",
@@ -884,6 +874,16 @@
       "away_group": "A",
       "venue": "BC Place",
       "city": "Vancouver",
+      "round": "Group Stage - 3"
+    },
+    {
+      "date": "2026-06-27T21:00:00Z",
+      "home_team": "Croatia",
+      "away_team": "Ghana",
+      "home_group": "A",
+      "away_group": "C",
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia",
       "round": "Group Stage - 3"
     }
   ],

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-21T18:56:27Z",
+  "updated_at": "2026-06-21T20:20:50Z",
   "leaderboard": [
     {
       "colleague": "Dusan",
@@ -587,16 +587,6 @@
   ],
   "upcoming_fixtures": [
     {
-      "date": "2026-06-21T19:00:00Z",
-      "home_team": "Belgium",
-      "away_team": "Iran",
-      "home_group": "A",
-      "away_group": "C",
-      "venue": "SoFi Stadium",
-      "city": "Inglewood",
-      "round": "Group Stage - 2"
-    },
-    {
       "date": "2026-06-21T22:00:00Z",
       "home_team": "Uruguay",
       "away_team": "Cape Verde Islands",
@@ -884,6 +874,16 @@
       "away_group": "C",
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
+      "round": "Group Stage - 3"
+    },
+    {
+      "date": "2026-06-27T21:00:00Z",
+      "home_team": "Panama",
+      "away_team": "England",
+      "home_group": "C",
+      "away_group": "A",
+      "venue": "MetLife Stadium",
+      "city": "New York New Jersey",
       "round": "Group Stage - 3"
     }
   ],

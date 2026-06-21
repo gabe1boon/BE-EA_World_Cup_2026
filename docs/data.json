@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-20T23:59:46Z",
+  "updated_at": "2026-06-21T04:17:24Z",
   "leaderboard": [
     {
       "colleague": "Iliasse",
@@ -149,8 +149,8 @@
       "colleague": "Dusan",
       "team": "Japan",
       "team_id": 12,
-      "next_match_utc": "2026-06-21T04:00:00Z",
-      "next_match_vs": "Tunisia",
+      "next_match_utc": "2026-06-25T23:00:00Z",
+      "next_match_vs": "Sweden",
       "points": 3,
       "played": 1,
       "wins": 0,
@@ -338,6 +338,22 @@
       "upset_bonus": 0
     },
     {
+      "colleague": "Willem",
+      "team": "Ecuador",
+      "team_id": 2382,
+      "next_match_utc": "2026-06-25T20:00:00Z",
+      "next_match_vs": "Germany",
+      "points": 1,
+      "played": 2,
+      "wins": 0,
+      "draws": 1,
+      "goals_for": 0,
+      "clean_sheets": 1,
+      "yellow_cards": 2,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
       "colleague": "Tobias",
       "team": "Paraguay",
       "team_id": 2380,
@@ -434,22 +450,6 @@
       "upset_bonus": 0
     },
     {
-      "colleague": "Willem",
-      "team": "Ecuador",
-      "team_id": 2382,
-      "next_match_utc": "2026-06-21T00:00:00Z",
-      "next_match_vs": "Cura\u00e7ao",
-      "points": -1,
-      "played": 1,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 0,
-      "clean_sheets": 0,
-      "yellow_cards": 1,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
       "colleague": "Adele",
       "team": "Bosnia & Herzegovina",
       "team_id": 1113,
@@ -527,7 +527,7 @@
     {
       "team_id": 5530,
       "team": "Cura\u00e7ao",
-      "points": 1
+      "points": -1
     },
     {
       "team_id": 10,
@@ -586,26 +586,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-21T00:00:00Z",
-      "home_team": "Ecuador",
-      "away_team": "Cura\u00e7ao",
-      "home_group": "B",
-      "away_group": "D",
-      "venue": "Arrowhead Stadium",
-      "city": "Kansas City",
-      "round": "Group Stage - 2"
-    },
-    {
-      "date": "2026-06-21T04:00:00Z",
-      "home_team": "Tunisia",
-      "away_team": "Japan",
-      "home_group": "C",
-      "away_group": "B",
-      "venue": "Estadio BBVA",
-      "city": "Monterrey",
-      "round": "Group Stage - 2"
-    },
     {
       "date": "2026-06-21T16:00:00Z",
       "home_team": "Spain",
@@ -885,9 +865,42 @@
       "venue": "NRG Stadium",
       "city": "Houston",
       "round": "Group Stage - 3"
+    },
+    {
+      "date": "2026-06-27T03:00:00Z",
+      "home_team": "Egypt",
+      "away_team": "Iran",
+      "home_group": "C",
+      "away_group": "C",
+      "venue": "Lumen Field",
+      "city": "Seattle",
+      "round": "Group Stage - 3"
+    },
+    {
+      "date": "2026-06-27T03:00:00Z",
+      "home_team": "New Zealand",
+      "away_team": "Belgium",
+      "home_group": "D",
+      "away_group": "A",
+      "venue": "BC Place",
+      "city": "Vancouver",
+      "round": "Group Stage - 3"
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-06-21T00:00:00Z",
+      "home_team": "Ecuador",
+      "away_team": "Cura\u00e7ao",
+      "home_score": 0,
+      "away_score": 0,
+      "home_group": "B",
+      "away_group": "D",
+      "venue": "Arrowhead Stadium",
+      "city": "Kansas City",
+      "round": "Group Stage - 2",
+      "status": "FT"
+    },
     {
       "date": "2026-06-20T20:00:00Z",
       "home_team": "Germany",
@@ -1262,19 +1275,6 @@
       "away_group": "A",
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
-      "round": "Group Stage - 1",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-13T19:00:00Z",
-      "home_team": "Qatar",
-      "away_team": "Switzerland",
-      "home_score": 1,
-      "away_score": 1,
-      "home_group": "D",
-      "away_group": "B",
-      "venue": "Levi's Stadium",
-      "city": "Santa Clara",
       "round": "Group Stage - 1",
       "status": "FT"
     }

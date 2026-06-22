@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T00:07:00Z",
+  "updated_at": "2026-06-22T05:37:38Z",
   "leaderboard": [
     {
       "colleague": "Dusan",
@@ -130,6 +130,22 @@
       "upset_bonus": 0
     },
     {
+      "colleague": "Deepti",
+      "team": "Egypt",
+      "team_id": 32,
+      "next_match_utc": "2026-06-27T03:00:00Z",
+      "next_match_vs": "Iran",
+      "points": 5,
+      "played": 2,
+      "wins": 1,
+      "draws": 1,
+      "goals_for": 4,
+      "clean_sheets": 0,
+      "yellow_cards": 3,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
       "colleague": "Valeria",
       "team": "Austria",
       "team_id": 775,
@@ -194,22 +210,6 @@
       "upset_bonus": 0
     },
     {
-      "colleague": "Gabe",
-      "team": "New Zealand",
-      "team_id": 4673,
-      "next_match_utc": "2026-06-22T01:00:00Z",
-      "next_match_vs": "Egypt",
-      "points": 3,
-      "played": 1,
-      "wins": 0,
-      "draws": 1,
-      "goals_for": 2,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
       "colleague": "Achille",
       "team": "Cape Verde Islands",
       "team_id": 1533,
@@ -254,6 +254,22 @@
       "goals_for": 1,
       "clean_sheets": 1,
       "yellow_cards": 4,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Gabe",
+      "team": "New Zealand",
+      "team_id": 4673,
+      "next_match_utc": "2026-06-27T03:00:00Z",
+      "next_match_vs": "Belgium",
+      "points": 2,
+      "played": 2,
+      "wins": 0,
+      "draws": 1,
+      "goals_for": 3,
+      "clean_sheets": 0,
+      "yellow_cards": 2,
       "red_cards": 0,
       "upset_bonus": 0
     },
@@ -382,22 +398,6 @@
       "goals_for": 1,
       "clean_sheets": 0,
       "yellow_cards": 1,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
-      "colleague": "Deepti",
-      "team": "Egypt",
-      "team_id": 32,
-      "next_match_utc": "2026-06-22T01:00:00Z",
-      "next_match_vs": "New Zealand",
-      "points": 0,
-      "played": 1,
-      "wins": 0,
-      "draws": 1,
-      "goals_for": 1,
-      "clean_sheets": 0,
-      "yellow_cards": 2,
       "red_cards": 0,
       "upset_bonus": 0
     },
@@ -586,16 +586,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-22T01:00:00Z",
-      "home_team": "New Zealand",
-      "away_team": "Egypt",
-      "home_group": "D",
-      "away_group": "C",
-      "venue": "BC Place",
-      "city": "Vancouver",
-      "round": "Group Stage - 2"
-    },
     {
       "date": "2026-06-22T17:00:00Z",
       "home_team": "Argentina",
@@ -885,9 +875,32 @@
       "venue": "Hard Rock Stadium",
       "city": "Miami",
       "round": "Group Stage - 3"
+    },
+    {
+      "date": "2026-06-27T23:30:00Z",
+      "home_team": "Congo DR",
+      "away_team": "Uzbekistan",
+      "home_group": "D",
+      "away_group": "D",
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "round": "Group Stage - 3"
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-06-22T01:00:00Z",
+      "home_team": "New Zealand",
+      "away_team": "Egypt",
+      "home_score": 1,
+      "away_score": 3,
+      "home_group": "D",
+      "away_group": "C",
+      "venue": "BC Place",
+      "city": "Vancouver",
+      "round": "Group Stage - 2",
+      "status": "FT"
+    },
     {
       "date": "2026-06-21T22:00:00Z",
       "home_team": "Uruguay",
@@ -1262,19 +1275,6 @@
       "away_group": "B",
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
-      "round": "Group Stage - 1",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-14T20:00:00Z",
-      "home_team": "Netherlands",
-      "away_team": "Japan",
-      "home_score": 2,
-      "away_score": 2,
-      "home_group": "A",
-      "away_group": "B",
-      "venue": "AT&T Stadium",
-      "city": "Arlington",
       "round": "Group Stage - 1",
       "status": "FT"
     }

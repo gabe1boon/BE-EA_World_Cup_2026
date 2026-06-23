@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-22T23:10:25Z",
+  "updated_at": "2026-06-23T01:27:20Z",
   "leaderboard": [
     {
       "colleague": "Sachin",
@@ -370,22 +370,6 @@
       "upset_bonus": 1
     },
     {
-      "colleague": "Xavier",
-      "team": "Iraq",
-      "team_id": 1567,
-      "next_match_utc": "2026-06-26T19:00:00Z",
-      "next_match_vs": "Senegal",
-      "points": 0,
-      "played": 1,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 1,
-      "clean_sheets": 0,
-      "yellow_cards": 1,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
       "colleague": "Tobias",
       "team": "Uzbekistan",
       "team_id": 1568,
@@ -446,6 +430,22 @@
       "goals_for": 1,
       "clean_sheets": 0,
       "yellow_cards": 3,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Xavier",
+      "team": "Iraq",
+      "team_id": 1567,
+      "next_match_utc": "2026-06-26T19:00:00Z",
+      "next_match_vs": "Senegal",
+      "points": -1,
+      "played": 2,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 1,
+      "clean_sheets": 0,
+      "yellow_cards": 2,
       "red_cards": 0,
       "upset_bonus": 0
     },
@@ -537,7 +537,7 @@
     {
       "team_id": 2,
       "team": "France",
-      "points": 6
+      "points": 14
     },
     {
       "team_id": 25,
@@ -586,16 +586,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-23T00:00:00Z",
-      "home_team": "Norway",
-      "away_team": "Senegal",
-      "home_group": "B",
-      "away_group": "B",
-      "venue": "MetLife Stadium",
-      "city": "New York New Jersey",
-      "round": "Group Stage - 2"
-    },
     {
       "date": "2026-06-23T03:00:00Z",
       "home_team": "Jordan",
@@ -888,6 +878,19 @@
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-06-22T21:00:00Z",
+      "home_team": "France",
+      "away_team": "Iraq",
+      "home_score": 3,
+      "away_score": 0,
+      "home_group": "A",
+      "away_group": "C",
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia",
+      "round": "Group Stage - 2",
+      "status": "FT"
+    },
     {
       "date": "2026-06-22T17:00:00Z",
       "home_team": "Argentina",
@@ -1262,19 +1265,6 @@
       "away_group": "D",
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
-      "round": "Group Stage - 1",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-15T02:00:00Z",
-      "home_team": "Sweden",
-      "away_team": "Tunisia",
-      "home_score": 5,
-      "away_score": 1,
-      "home_group": "B",
-      "away_group": "C",
-      "venue": "Estadio BBVA",
-      "city": "Monterrey",
       "round": "Group Stage - 1",
       "status": "FT"
     }

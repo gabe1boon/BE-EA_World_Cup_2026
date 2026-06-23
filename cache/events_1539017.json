@@ -1,0 +1,332 @@
+[
+  {
+    "time": {
+      "elapsed": 6,
+      "extra": null
+    },
+    "team": {
+      "id": 1567,
+      "name": "Iraq",
+      "logo": "https://media.api-sports.io/football/teams/1567.png"
+    },
+    "player": {
+      "id": 47792,
+      "name": "Amir Al-Ammari"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Foul"
+  },
+  {
+    "time": {
+      "elapsed": 14,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 278,
+      "name": "Kylian Mbapp\u00e9"
+    },
+    "assist": {
+      "id": 19617,
+      "name": "Michael Olise"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 26,
+      "extra": null
+    },
+    "team": {
+      "id": 1567,
+      "name": "Iraq",
+      "logo": "https://media.api-sports.io/football/teams/1567.png"
+    },
+    "player": {
+      "id": 49451,
+      "name": "Aymen Hussein"
+    },
+    "assist": {
+      "id": 299813,
+      "name": "Ali Al-Hamadi"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 28,
+      "extra": null
+    },
+    "team": {
+      "id": 1567,
+      "name": "Iraq",
+      "logo": "https://media.api-sports.io/football/teams/1567.png"
+    },
+    "player": {
+      "id": 299813,
+      "name": "Ali Al-Hamadi"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Var",
+    "detail": null,
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 54,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 278,
+      "name": "Kylian Mbapp\u00e9"
+    },
+    "assist": {
+      "id": 153,
+      "name": "Ousmane Demb\u00e9l\u00e9"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 60,
+      "extra": null
+    },
+    "team": {
+      "id": 1567,
+      "name": "Iraq",
+      "logo": "https://media.api-sports.io/football/teams/1567.png"
+    },
+    "player": {
+      "id": 296373,
+      "name": "Zaid Tahseen"
+    },
+    "assist": {
+      "id": 42261,
+      "name": "Rebin Sulaka"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 60,
+      "extra": null
+    },
+    "team": {
+      "id": 1567,
+      "name": "Iraq",
+      "logo": "https://media.api-sports.io/football/teams/1567.png"
+    },
+    "player": {
+      "id": 626479,
+      "name": "Zaid Ismael"
+    },
+    "assist": {
+      "id": 282065,
+      "name": "Youssef Amyn"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 66,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 153,
+      "name": "Ousmane Demb\u00e9l\u00e9"
+    },
+    "assist": {
+      "id": 19617,
+      "name": "Michael Olise"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 68,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 153,
+      "name": "Ousmane Demb\u00e9l\u00e9"
+    },
+    "assist": {
+      "id": 343027,
+      "name": "D\u00e9sir\u00e9 Doue"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 68,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 19617,
+      "name": "Michael Olise"
+    },
+    "assist": {
+      "id": 156477,
+      "name": "Rayan Cherki"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 68,
+      "extra": null
+    },
+    "team": {
+      "id": 1567,
+      "name": "Iraq",
+      "logo": "https://media.api-sports.io/football/teams/1567.png"
+    },
+    "player": {
+      "id": 47792,
+      "name": "Amir Al-Ammari"
+    },
+    "assist": {
+      "id": 48129,
+      "name": "Aimar Sher"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 69,
+      "extra": null
+    },
+    "team": {
+      "id": 1567,
+      "name": "Iraq",
+      "logo": "https://media.api-sports.io/football/teams/1567.png"
+    },
+    "player": {
+      "id": 140747,
+      "name": "Ibrahim Bayesh"
+    },
+    "assist": {
+      "id": 265448,
+      "name": "Marko Farji"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 83,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 161904,
+      "name": "Bradley Barcola"
+    },
+    "assist": {
+      "id": 274300,
+      "name": "Maghnes Akliouche"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 83,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 1257,
+      "name": "Jules Kound\u00e9"
+    },
+    "assist": {
+      "id": 161907,
+      "name": "Malo Gusto"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 91,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 278,
+      "name": "Kylian Mbapp\u00e9"
+    },
+    "assist": {
+      "id": 21509,
+      "name": "Marcus Thuram"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  }
+]

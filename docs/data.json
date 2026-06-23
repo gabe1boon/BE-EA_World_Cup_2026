@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T05:36:22Z",
+  "updated_at": "2026-06-23T11:50:31Z",
   "leaderboard": [
     {
       "colleague": "Sachin",
@@ -210,6 +210,22 @@
       "upset_bonus": 0
     },
     {
+      "colleague": "Carys",
+      "team": "Australia",
+      "team_id": 20,
+      "next_match_utc": "2026-06-26T02:00:00Z",
+      "next_match_vs": "Paraguay",
+      "points": 3,
+      "played": 2,
+      "wins": 1,
+      "draws": 0,
+      "goals_for": 2,
+      "clean_sheets": 1,
+      "yellow_cards": 4,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
       "colleague": "Euan",
       "team": "Uruguay",
       "team_id": 7,
@@ -222,6 +238,22 @@
       "goals_for": 3,
       "clean_sheets": 0,
       "yellow_cards": 2,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Carys",
+      "team": "Senegal",
+      "team_id": 13,
+      "next_match_utc": "2026-06-26T19:00:00Z",
+      "next_match_vs": "Iraq",
+      "points": 3,
+      "played": 2,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 3,
+      "clean_sheets": 0,
+      "yellow_cards": 0,
       "red_cards": 0,
       "upset_bonus": 0
     },
@@ -386,6 +418,22 @@
       "upset_bonus": 1
     },
     {
+      "colleague": "Naini",
+      "team": "Tunisia",
+      "team_id": 28,
+      "next_match_utc": "2026-06-25T23:00:00Z",
+      "next_match_vs": "Netherlands",
+      "points": 0,
+      "played": 2,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 1,
+      "clean_sheets": 0,
+      "yellow_cards": 1,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
       "colleague": "Tobias",
       "team": "Uzbekistan",
       "team_id": 1568,
@@ -500,11 +548,6 @@
   ],
   "available_teams": [
     {
-      "team_id": 20,
-      "team": "Australia",
-      "points": 3
-    },
-    {
       "team_id": 1,
       "team": "Belgium",
       "points": 3
@@ -565,24 +608,14 @@
       "points": -2
     },
     {
-      "team_id": 13,
-      "team": "Senegal",
-      "points": 3
-    },
-    {
       "team_id": 1531,
       "team": "South Africa",
       "points": -6
     },
     {
-      "team_id": 28,
-      "team": "Tunisia",
-      "points": 0
-    },
-    {
       "team_id": 777,
       "team": "T\u00fcrkiye",
-      "points": -2
+      "points": -3
     }
   ],
   "upcoming_fixtures": [

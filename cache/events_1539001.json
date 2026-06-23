@@ -1,0 +1,288 @@
+[
+  {
+    "time": {
+      "elapsed": 27,
+      "extra": null
+    },
+    "team": {
+      "id": 20,
+      "name": "Australia",
+      "logo": "https://media.api-sports.io/football/teams/20.png"
+    },
+    "player": {
+      "id": 338014,
+      "name": "N. Irankunda"
+    },
+    "assist": {
+      "id": 441269,
+      "name": "P. Okon-Engstler"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 777,
+      "name": "T\u00fcrkiye",
+      "logo": "https://media.api-sports.io/football/teams/777.png"
+    },
+    "player": {
+      "id": 63274,
+      "name": "B. Yilmaz"
+    },
+    "assist": {
+      "id": 339883,
+      "name": "K. Yildiz"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 61,
+      "extra": null
+    },
+    "team": {
+      "id": 20,
+      "name": "Australia",
+      "logo": "https://media.api-sports.io/football/teams/20.png"
+    },
+    "player": {
+      "id": 338014,
+      "name": "N. Irankunda"
+    },
+    "assist": {
+      "id": 312459,
+      "name": "N. Velupillay"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 62,
+      "extra": null
+    },
+    "team": {
+      "id": 777,
+      "name": "T\u00fcrkiye",
+      "logo": "https://media.api-sports.io/football/teams/777.png"
+    },
+    "player": {
+      "id": 37155,
+      "name": "O. Kokcu"
+    },
+    "assist": {
+      "id": 454,
+      "name": "Y. Akgun"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 74,
+      "extra": null
+    },
+    "team": {
+      "id": 20,
+      "name": "Australia",
+      "logo": "https://media.api-sports.io/football/teams/20.png"
+    },
+    "player": {
+      "id": 6808,
+      "name": "J. Italiano"
+    },
+    "assist": {
+      "id": 33847,
+      "name": "J. Geria"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 74,
+      "extra": null
+    },
+    "team": {
+      "id": 20,
+      "name": "Australia",
+      "logo": "https://media.api-sports.io/football/teams/20.png"
+    },
+    "player": {
+      "id": 198352,
+      "name": "M. Toure"
+    },
+    "assist": {
+      "id": 296645,
+      "name": "T. Yengi"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 75,
+      "extra": null
+    },
+    "team": {
+      "id": 20,
+      "name": "Australia",
+      "logo": "https://media.api-sports.io/football/teams/20.png"
+    },
+    "player": {
+      "id": 6904,
+      "name": "C. Metcalfe"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 81,
+      "extra": null
+    },
+    "team": {
+      "id": 777,
+      "name": "T\u00fcrkiye",
+      "logo": "https://media.api-sports.io/football/teams/777.png"
+    },
+    "player": {
+      "id": 22222,
+      "name": "Z. Celik"
+    },
+    "assist": {
+      "id": 1719,
+      "name": "M. Muldur"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 81,
+      "extra": null
+    },
+    "team": {
+      "id": 777,
+      "name": "T\u00fcrkiye",
+      "logo": "https://media.api-sports.io/football/teams/777.png"
+    },
+    "player": {
+      "id": 214463,
+      "name": "I. Yuksek"
+    },
+    "assist": {
+      "id": 24807,
+      "name": "S. Ozcan"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 84,
+      "extra": null
+    },
+    "team": {
+      "id": 20,
+      "name": "Australia",
+      "logo": "https://media.api-sports.io/football/teams/20.png"
+    },
+    "player": {
+      "id": 337587,
+      "name": "J. Bos"
+    },
+    "assist": {
+      "id": 225,
+      "name": "A. Behich"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 84,
+      "extra": null
+    },
+    "team": {
+      "id": 20,
+      "name": "Australia",
+      "logo": "https://media.api-sports.io/football/teams/20.png"
+    },
+    "player": {
+      "id": 441269,
+      "name": "P. Okon-Engstler"
+    },
+    "assist": {
+      "id": 2749,
+      "name": "J. Irvine"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 85,
+      "extra": null
+    },
+    "team": {
+      "id": 777,
+      "name": "T\u00fcrkiye",
+      "logo": "https://media.api-sports.io/football/teams/777.png"
+    },
+    "player": {
+      "id": 142959,
+      "name": "K. Akturkoglu"
+    },
+    "assist": {
+      "id": 388570,
+      "name": "D. Gul"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 86,
+      "extra": null
+    },
+    "team": {
+      "id": 777,
+      "name": "T\u00fcrkiye",
+      "logo": "https://media.api-sports.io/football/teams/777.png"
+    },
+    "player": {
+      "id": 454,
+      "name": "Yunus Akg\u00fcn"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Foul"
+  }
+]

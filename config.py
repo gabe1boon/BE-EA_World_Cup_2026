@@ -41,6 +41,9 @@ ASSIGNMENTS = {
     23:   "Koums",     # Saudi Arabia
     15:   "Koums",     # Switzerland
     9:    "Naini",     # Spain
+    28:   "Naini",     # Tunisia
+    20:   "Carys",     # Australia
+    13:   "Carys",     # Senegal
     1113: "Adele",     # Bosnia & Herzegovina
     26:   "Sachin",    # Argentina
     2386: "Basiten",   # Haiti

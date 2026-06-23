@@ -57,6 +57,7 @@ ASSIGNMENTS = {
     5:    "Nicolas",   # Sweden
     17:   "Francisco", # South Korea
     1532: "Daniel",    # Algeria
+    6:    "Marija",    # Brazil
 }
 
 # FIFA ranking groups for WC2026 (A = highest-ranked, D = lowest).

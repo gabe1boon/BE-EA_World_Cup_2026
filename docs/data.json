@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T19:00:15Z",
+  "updated_at": "2026-06-23T21:10:17Z",
   "leaderboard": [
     {
       "colleague": "Sachin",
@@ -197,8 +197,8 @@
       "colleague": "Achille",
       "team": "Ghana",
       "team_id": 1504,
-      "next_match_utc": "2026-06-23T20:00:00Z",
-      "next_match_vs": "England",
+      "next_match_utc": "2026-06-27T21:00:00Z",
+      "next_match_vs": "Croatia",
       "points": 5,
       "played": 1,
       "wins": 1,
@@ -641,16 +641,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-23T20:00:00Z",
-      "home_team": "England",
-      "away_team": "Ghana",
-      "home_group": "A",
-      "away_group": "C",
-      "venue": "Gillette Stadium",
-      "city": "Boston",
-      "round": "Group Stage - 2"
-    },
     {
       "date": "2026-06-23T23:00:00Z",
       "home_team": "Panama",

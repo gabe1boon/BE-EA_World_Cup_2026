@@ -1,0 +1,266 @@
+[
+  {
+    "time": {
+      "elapsed": 60,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 278,
+      "name": "Kylian Mbapp\u00e9"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Var",
+    "detail": "Penalty cancelled",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 66,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 278,
+      "name": "K. Mbappe"
+    },
+    "assist": {
+      "id": 19617,
+      "name": "M. Olise"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 75,
+      "extra": null
+    },
+    "team": {
+      "id": 13,
+      "name": "Senegal",
+      "logo": "https://media.api-sports.io/football/teams/13.png"
+    },
+    "player": {
+      "id": 2218,
+      "name": "I. Sarr"
+    },
+    "assist": {
+      "id": 446249,
+      "name": "I. Mbaye"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 76,
+      "extra": null
+    },
+    "team": {
+      "id": 13,
+      "name": "Senegal",
+      "logo": "https://media.api-sports.io/football/teams/13.png"
+    },
+    "player": {
+      "id": 374058,
+      "name": "L. Camara"
+    },
+    "assist": {
+      "id": 327631,
+      "name": "H. Diarra"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 80,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 153,
+      "name": "O. Dembele"
+    },
+    "assist": {
+      "id": 161904,
+      "name": "B. Barcola"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 82,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 161904,
+      "name": "B. Barcola"
+    },
+    "assist": {
+      "id": 272,
+      "name": "A. Rabiot"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 83,
+      "extra": null
+    },
+    "team": {
+      "id": 13,
+      "name": "Senegal",
+      "logo": "https://media.api-sports.io/football/teams/13.png"
+    },
+    "player": {
+      "id": 283058,
+      "name": "N. Jackson"
+    },
+    "assist": {
+      "id": 284072,
+      "name": "B. Dieng"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 83,
+      "extra": null
+    },
+    "team": {
+      "id": 13,
+      "name": "Senegal",
+      "logo": "https://media.api-sports.io/football/teams/13.png"
+    },
+    "player": {
+      "id": 20696,
+      "name": "P. Gueye"
+    },
+    "assist": {
+      "id": 18592,
+      "name": "I. Ndiaye"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 87,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 343027,
+      "name": "D. Doue"
+    },
+    "assist": {
+      "id": 156477,
+      "name": "R. Cherki"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 88,
+      "extra": null
+    },
+    "team": {
+      "id": 13,
+      "name": "Senegal",
+      "logo": "https://media.api-sports.io/football/teams/13.png"
+    },
+    "player": {
+      "id": 2990,
+      "name": "I. Gueye"
+    },
+    "assist": {
+      "id": 41552,
+      "name": "P. Ciss"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": null
+    },
+    "team": {
+      "id": 13,
+      "name": "Senegal",
+      "logo": "https://media.api-sports.io/football/teams/13.png"
+    },
+    "player": {
+      "id": 446249,
+      "name": "I. Mbaye"
+    },
+    "assist": {
+      "id": 18592,
+      "name": "I. Ndiaye"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 278,
+      "name": "K. Mbappe"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  }
+]

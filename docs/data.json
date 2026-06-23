@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T21:10:17Z",
+  "updated_at": "2026-06-23T22:42:47Z",
   "leaderboard": [
     {
       "colleague": "Sachin",
@@ -146,6 +146,22 @@
       "upset_bonus": 0
     },
     {
+      "colleague": "Achille",
+      "team": "Ghana",
+      "team_id": 1504,
+      "next_match_utc": "2026-06-27T21:00:00Z",
+      "next_match_vs": "Croatia",
+      "points": 7,
+      "played": 2,
+      "wins": 1,
+      "draws": 1,
+      "goals_for": 1,
+      "clean_sheets": 2,
+      "yellow_cards": 2,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
       "colleague": "Nicolas",
       "team": "Sweden",
       "team_id": 5,
@@ -192,22 +208,6 @@
       "yellow_cards": 3,
       "red_cards": 0,
       "upset_bonus": 1
-    },
-    {
-      "colleague": "Achille",
-      "team": "Ghana",
-      "team_id": 1504,
-      "next_match_utc": "2026-06-27T21:00:00Z",
-      "next_match_vs": "Croatia",
-      "points": 5,
-      "played": 1,
-      "wins": 1,
-      "draws": 0,
-      "goals_for": 1,
-      "clean_sheets": 1,
-      "yellow_cards": 1,
-      "red_cards": 0,
-      "upset_bonus": 0
     },
     {
       "colleague": "Daniel",
@@ -602,7 +602,7 @@
     {
       "team_id": 10,
       "team": "England",
-      "points": 7
+      "points": 9
     },
     {
       "team_id": 2,
@@ -903,6 +903,19 @@
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-06-23T20:00:00Z",
+      "home_team": "England",
+      "away_team": "Ghana",
+      "home_score": 0,
+      "away_score": 0,
+      "home_group": "A",
+      "away_group": "C",
+      "venue": "Gillette Stadium",
+      "city": "Boston",
+      "round": "Group Stage - 2",
+      "status": "FT"
+    },
     {
       "date": "2026-06-23T17:00:00Z",
       "home_team": "Portugal",
@@ -1277,19 +1290,6 @@
       "away_group": "B",
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
-      "round": "Group Stage - 1",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-16T01:00:00Z",
-      "home_team": "Iran",
-      "away_team": "New Zealand",
-      "home_score": 2,
-      "away_score": 2,
-      "home_group": "C",
-      "away_group": "D",
-      "venue": "SoFi Stadium",
-      "city": "Inglewood",
       "round": "Group Stage - 1",
       "status": "FT"
     }

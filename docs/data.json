@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-23T14:16:24Z",
+  "updated_at": "2026-06-23T15:20:57Z",
   "leaderboard": [
     {
       "colleague": "Sachin",
@@ -514,6 +514,22 @@
       "upset_bonus": 0
     },
     {
+      "colleague": "Cosima",
+      "team": "Panama",
+      "team_id": 11,
+      "next_match_utc": "2026-06-23T23:00:00Z",
+      "next_match_vs": "Croatia",
+      "points": -2,
+      "played": 1,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 0,
+      "clean_sheets": 0,
+      "yellow_cards": 2,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
       "colleague": "Adele",
       "team": "Bosnia & Herzegovina",
       "team_id": 1113,
@@ -612,11 +628,6 @@
       "team_id": 1090,
       "team": "Norway",
       "points": 13
-    },
-    {
-      "team_id": 11,
-      "team": "Panama",
-      "points": -2
     },
     {
       "team_id": 1531,

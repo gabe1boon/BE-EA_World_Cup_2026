@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-24T17:24:14Z",
+  "updated_at": "2026-06-24T19:07:26Z",
   "leaderboard": [
     {
       "colleague": "Sachin",
@@ -101,8 +101,8 @@
       "colleague": "Koums",
       "team": "Switzerland",
       "team_id": 15,
-      "next_match_utc": "2026-06-24T19:00:00Z",
-      "next_match_vs": "Canada",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 7,
       "played": 2,
       "wins": 1,
@@ -533,8 +533,8 @@
       "colleague": "Adele",
       "team": "Bosnia & Herzegovina",
       "team_id": 1113,
-      "next_match_utc": "2026-06-24T19:00:00Z",
-      "next_match_vs": "Qatar",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": -4,
       "played": 2,
       "wins": 0,
@@ -565,8 +565,8 @@
       "colleague": "Krystian",
       "team": "Qatar",
       "team_id": 1569,
-      "next_match_utc": "2026-06-24T19:00:00Z",
-      "next_match_vs": "Bosnia & Herzegovina",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": -5,
       "played": 2,
       "wins": 0,
@@ -641,26 +641,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-24T19:00:00Z",
-      "home_team": "Switzerland",
-      "away_team": "Canada",
-      "home_group": "B",
-      "away_group": "B",
-      "venue": "BC Place",
-      "city": "Vancouver",
-      "round": "Group Stage - 3"
-    },
-    {
-      "date": "2026-06-24T19:00:00Z",
-      "home_team": "Bosnia & Herzegovina",
-      "away_team": "Qatar",
-      "home_group": "D",
-      "away_group": "D",
-      "venue": "Lumen Field",
-      "city": "Seattle",
-      "round": "Group Stage - 3"
-    },
     {
       "date": "2026-06-24T22:00:00Z",
       "home_team": "Morocco",

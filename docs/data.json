@@ -1,6 +1,22 @@
 {
-  "updated_at": "2026-06-25T02:27:06Z",
+  "updated_at": "2026-06-25T06:30:58Z",
   "leaderboard": [
+    {
+      "colleague": "Iga",
+      "team": "Mexico",
+      "team_id": 16,
+      "next_match_utc": null,
+      "next_match_vs": null,
+      "points": 17,
+      "played": 3,
+      "wins": 3,
+      "draws": 0,
+      "goals_for": 6,
+      "clean_sheets": 3,
+      "yellow_cards": 2,
+      "red_cards": 1,
+      "upset_bonus": 0
+    },
     {
       "colleague": "Eva",
       "team": "Morocco",
@@ -111,22 +127,6 @@
       "clean_sheets": 1,
       "yellow_cards": 4,
       "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
-      "colleague": "Iga",
-      "team": "Mexico",
-      "team_id": 16,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 10,
-      "played": 2,
-      "wins": 2,
-      "draws": 0,
-      "goals_for": 3,
-      "clean_sheets": 2,
-      "yellow_cards": 1,
-      "red_cards": 1,
       "upset_bonus": 0
     },
     {
@@ -322,22 +322,6 @@
       "upset_bonus": 0
     },
     {
-      "colleague": "Francisco",
-      "team": "South Korea",
-      "team_id": 17,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 2,
-      "played": 2,
-      "wins": 1,
-      "draws": 0,
-      "goals_for": 2,
-      "clean_sheets": 0,
-      "yellow_cards": 3,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
       "colleague": "Gabe",
       "team": "New Zealand",
       "team_id": 4673,
@@ -360,7 +344,7 @@
       "next_match_utc": null,
       "next_match_vs": null,
       "points": 2,
-      "played": 2,
+      "played": 3,
       "wins": 0,
       "draws": 1,
       "goals_for": 2,
@@ -383,6 +367,22 @@
       "clean_sheets": 0,
       "yellow_cards": 6,
       "red_cards": 1,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Francisco",
+      "team": "South Korea",
+      "team_id": 17,
+      "next_match_utc": null,
+      "next_match_vs": null,
+      "points": 1,
+      "played": 3,
+      "wins": 1,
+      "draws": 0,
+      "goals_for": 2,
+      "clean_sheets": 0,
+      "yellow_cards": 4,
+      "red_cards": 0,
       "upset_bonus": 0
     },
     {
@@ -632,7 +632,7 @@
     {
       "team_id": 1531,
       "team": "South Africa",
-      "points": -6
+      "points": 2
     },
     {
       "team_id": 777,
@@ -823,6 +823,32 @@
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-06-25T01:00:00Z",
+      "home_team": "Czechia",
+      "away_team": "Mexico",
+      "home_score": 0,
+      "away_score": 3,
+      "home_group": "C",
+      "away_group": "B",
+      "venue": "Estadio Azteca",
+      "city": "Mexico City",
+      "round": "Group Stage - 3",
+      "status": "FT"
+    },
+    {
+      "date": "2026-06-25T01:00:00Z",
+      "home_team": "South Africa",
+      "away_team": "South Korea",
+      "home_score": 1,
+      "away_score": 0,
+      "home_group": "D",
+      "away_group": "B",
+      "venue": "Estadio BBVA",
+      "city": "Monterrey",
+      "round": "Group Stage - 3",
+      "status": "FT"
+    },
     {
       "date": "2026-06-24T22:00:00Z",
       "home_team": "Morocco",
@@ -1185,32 +1211,6 @@
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
       "round": "Group Stage - 2",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-18T02:00:00Z",
-      "home_team": "Uzbekistan",
-      "away_team": "Colombia",
-      "home_score": 1,
-      "away_score": 3,
-      "home_group": "D",
-      "away_group": "A",
-      "venue": "Estadio Azteca",
-      "city": "Mexico City",
-      "round": "Group Stage - 1",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-17T23:00:00Z",
-      "home_team": "Ghana",
-      "away_team": "Panama",
-      "home_score": 1,
-      "away_score": 0,
-      "home_group": "C",
-      "away_group": "C",
-      "venue": "BMO Field",
-      "city": "Toronto",
-      "round": "Group Stage - 1",
       "status": "FT"
     }
   ],

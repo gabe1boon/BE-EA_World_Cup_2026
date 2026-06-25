@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T20:26:56Z",
+  "updated_at": "2026-06-25T21:58:36Z",
   "leaderboard": [
     {
       "colleague": "Iga",
@@ -96,6 +96,22 @@
       "yellow_cards": 3,
       "red_cards": 0,
       "upset_bonus": 0
+    },
+    {
+      "colleague": "Oliver",
+      "team": "Ivory Coast",
+      "team_id": 1501,
+      "next_match_utc": null,
+      "next_match_vs": null,
+      "points": 11,
+      "played": 3,
+      "wins": 2,
+      "draws": 0,
+      "goals_for": 4,
+      "clean_sheets": 2,
+      "yellow_cards": 4,
+      "red_cards": 0,
+      "upset_bonus": 1
     },
     {
       "colleague": "Naini",
@@ -208,22 +224,6 @@
       "yellow_cards": 3,
       "red_cards": 0,
       "upset_bonus": 0
-    },
-    {
-      "colleague": "Oliver",
-      "team": "Ivory Coast",
-      "team_id": 1501,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 5,
-      "played": 2,
-      "wins": 1,
-      "draws": 0,
-      "goals_for": 2,
-      "clean_sheets": 1,
-      "yellow_cards": 3,
-      "red_cards": 0,
-      "upset_bonus": 1
     },
     {
       "colleague": "Daniel",
@@ -597,7 +597,7 @@
     {
       "team_id": 5530,
       "team": "Cura\u00e7ao",
-      "points": -1
+      "points": -3
     },
     {
       "team_id": 10,
@@ -813,6 +813,19 @@
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-06-25T20:00:00Z",
+      "home_team": "Cura\u00e7ao",
+      "away_team": "Ivory Coast",
+      "home_score": 0,
+      "away_score": 2,
+      "home_group": "D",
+      "away_group": "C",
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia",
+      "round": "Group Stage - 3",
+      "status": "FT"
+    },
     {
       "date": "2026-06-25T01:00:00Z",
       "home_team": "Czechia",
@@ -1187,19 +1200,6 @@
       "away_group": "D",
       "venue": "SoFi Stadium",
       "city": "Inglewood",
-      "round": "Group Stage - 2",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-18T16:00:00Z",
-      "home_team": "Czechia",
-      "away_team": "South Africa",
-      "home_score": 1,
-      "away_score": 1,
-      "home_group": "C",
-      "away_group": "D",
-      "venue": "Mercedes-Benz Stadium",
-      "city": "Atlanta",
       "round": "Group Stage - 2",
       "status": "FT"
     }

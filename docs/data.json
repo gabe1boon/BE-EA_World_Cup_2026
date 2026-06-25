@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T06:30:58Z",
+  "updated_at": "2026-06-25T10:00:31Z",
   "leaderboard": [
     {
       "colleague": "Iga",
@@ -587,7 +587,7 @@
     {
       "team_id": 5529,
       "team": "Canada",
-      "points": 9
+      "points": 11
     },
     {
       "team_id": 8,
@@ -632,7 +632,7 @@
     {
       "team_id": 1531,
       "team": "South Africa",
-      "points": 2
+      "points": 4
     },
     {
       "team_id": 777,
@@ -728,7 +728,7 @@
       "home_group": "B",
       "away_group": "A",
       "venue": "Estadio Akron",
-      "city": "Guadalajara",
+      "city": "Zapopan",
       "round": "Group Stage - 3"
     },
     {
@@ -820,6 +820,16 @@
       "venue": "AT&T Stadium",
       "city": "Dallas",
       "round": "Group Stage - 3"
+    },
+    {
+      "date": "2026-06-28T19:00:00Z",
+      "home_team": "South Africa",
+      "away_team": "Canada",
+      "home_group": "D",
+      "away_group": "B",
+      "venue": "SoFi Stadium",
+      "city": "",
+      "round": "Round of 32"
     }
   ],
   "recent_results": [
@@ -831,7 +841,7 @@
       "away_score": 3,
       "home_group": "C",
       "away_group": "B",
-      "venue": "Estadio Azteca",
+      "venue": "Estadio Banorte",
       "city": "Mexico City",
       "round": "Group Stage - 3",
       "status": "FT"
@@ -910,7 +920,7 @@
       "home_group": "A",
       "away_group": "D",
       "venue": "Estadio Akron",
-      "city": "Guadalajara",
+      "city": "Zapopan",
       "round": "Group Stage - 2",
       "status": "FT"
     },
@@ -1170,7 +1180,7 @@
       "home_group": "B",
       "away_group": "B",
       "venue": "Estadio Akron",
-      "city": "Guadalajara",
+      "city": "Zapopan",
       "round": "Group Stage - 2",
       "status": "FT"
     },

@@ -1,6 +1,38 @@
 {
-  "updated_at": "2026-06-24T23:56:06Z",
+  "updated_at": "2026-06-25T02:27:06Z",
   "leaderboard": [
+    {
+      "colleague": "Eva",
+      "team": "Morocco",
+      "team_id": 31,
+      "next_match_utc": null,
+      "next_match_vs": null,
+      "points": 14,
+      "played": 3,
+      "wins": 2,
+      "draws": 1,
+      "goals_for": 6,
+      "clean_sheets": 1,
+      "yellow_cards": 1,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Marija",
+      "team": "Brazil",
+      "team_id": 6,
+      "next_match_utc": null,
+      "next_match_vs": null,
+      "points": 13,
+      "played": 3,
+      "wins": 2,
+      "draws": 1,
+      "goals_for": 7,
+      "clean_sheets": 2,
+      "yellow_cards": 5,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
     {
       "colleague": "Sachin",
       "team": "Argentina",
@@ -85,8 +117,8 @@
       "colleague": "Iga",
       "team": "Mexico",
       "team_id": 16,
-      "next_match_utc": "2026-06-25T01:00:00Z",
-      "next_match_vs": "Czechia",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 10,
       "played": 2,
       "wins": 2,
@@ -114,22 +146,6 @@
       "upset_bonus": 0
     },
     {
-      "colleague": "Marija",
-      "team": "Brazil",
-      "team_id": 6,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 7,
-      "played": 2,
-      "wins": 1,
-      "draws": 1,
-      "goals_for": 4,
-      "clean_sheets": 1,
-      "yellow_cards": 3,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
       "colleague": "Mark",
       "team": "Croatia",
       "team_id": 3,
@@ -140,22 +156,6 @@
       "wins": 1,
       "draws": 0,
       "goals_for": 3,
-      "clean_sheets": 1,
-      "yellow_cards": 1,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
-      "colleague": "Eva",
-      "team": "Morocco",
-      "team_id": 31,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 7,
-      "played": 2,
-      "wins": 1,
-      "draws": 1,
-      "goals_for": 2,
       "clean_sheets": 1,
       "yellow_cards": 1,
       "red_cards": 0,
@@ -325,8 +325,8 @@
       "colleague": "Francisco",
       "team": "South Korea",
       "team_id": 17,
-      "next_match_utc": "2026-06-25T01:00:00Z",
-      "next_match_vs": "South Africa",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 2,
       "played": 2,
       "wins": 1,
@@ -334,22 +334,6 @@
       "goals_for": 2,
       "clean_sheets": 0,
       "yellow_cards": 3,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
-      "colleague": "Koums",
-      "team": "Scotland",
-      "team_id": 1108,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 2,
-      "played": 2,
-      "wins": 1,
-      "draws": 0,
-      "goals_for": 1,
-      "clean_sheets": 1,
-      "yellow_cards": 4,
       "red_cards": 0,
       "upset_bonus": 0
     },
@@ -373,8 +357,8 @@
       "colleague": "Gabe",
       "team": "Czechia",
       "team_id": 770,
-      "next_match_utc": "2026-06-25T01:00:00Z",
-      "next_match_vs": "Mexico",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 2,
       "played": 2,
       "wins": 0,
@@ -399,6 +383,22 @@
       "clean_sheets": 0,
       "yellow_cards": 6,
       "red_cards": 1,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Koums",
+      "team": "Scotland",
+      "team_id": 1108,
+      "next_match_utc": null,
+      "next_match_vs": null,
+      "points": 1,
+      "played": 3,
+      "wins": 1,
+      "draws": 0,
+      "goals_for": 1,
+      "clean_sheets": 1,
+      "yellow_cards": 5,
+      "red_cards": 0,
       "upset_bonus": 0
     },
     {
@@ -546,22 +546,6 @@
       "upset_bonus": 0
     },
     {
-      "colleague": "Basiten",
-      "team": "Haiti",
-      "team_id": 2386,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": -4,
-      "played": 2,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 0,
-      "clean_sheets": 0,
-      "yellow_cards": 4,
-      "red_cards": 0,
-      "upset_bonus": 0
-    },
-    {
       "colleague": "Krystian",
       "team": "Qatar",
       "team_id": 1569,
@@ -575,6 +559,22 @@
       "clean_sheets": 0,
       "yellow_cards": 4,
       "red_cards": 2,
+      "upset_bonus": 0
+    },
+    {
+      "colleague": "Basiten",
+      "team": "Haiti",
+      "team_id": 2386,
+      "next_match_utc": null,
+      "next_match_vs": null,
+      "points": -5,
+      "played": 3,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 2,
+      "clean_sheets": 0,
+      "yellow_cards": 7,
+      "red_cards": 0,
       "upset_bonus": 0
     }
   ],
@@ -641,26 +641,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-25T01:00:00Z",
-      "home_team": "Czechia",
-      "away_team": "Mexico",
-      "home_group": "C",
-      "away_group": "B",
-      "venue": "Estadio Azteca",
-      "city": "Mexico City",
-      "round": "Group Stage - 3"
-    },
-    {
-      "date": "2026-06-25T01:00:00Z",
-      "home_team": "South Africa",
-      "away_team": "South Korea",
-      "home_group": "D",
-      "away_group": "B",
-      "venue": "Estadio BBVA",
-      "city": "Monterrey",
-      "round": "Group Stage - 3"
-    },
     {
       "date": "2026-06-25T20:00:00Z",
       "home_team": "Ecuador",
@@ -843,6 +823,32 @@
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-06-24T22:00:00Z",
+      "home_team": "Morocco",
+      "away_team": "Haiti",
+      "home_score": 4,
+      "away_score": 2,
+      "home_group": "A",
+      "away_group": "D",
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "round": "Group Stage - 3",
+      "status": "FT"
+    },
+    {
+      "date": "2026-06-24T22:00:00Z",
+      "home_team": "Scotland",
+      "away_team": "Brazil",
+      "home_score": 0,
+      "away_score": 3,
+      "home_group": "C",
+      "away_group": "A",
+      "venue": "Hard Rock Stadium",
+      "city": "Miami Gardens",
+      "round": "Group Stage - 3",
+      "status": "FT"
+    },
     {
       "date": "2026-06-24T19:00:00Z",
       "home_team": "Switzerland",
@@ -1204,32 +1210,6 @@
       "away_group": "C",
       "venue": "BMO Field",
       "city": "Toronto",
-      "round": "Group Stage - 1",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-17T20:00:00Z",
-      "home_team": "England",
-      "away_team": "Croatia",
-      "home_score": 4,
-      "away_score": 2,
-      "home_group": "A",
-      "away_group": "A",
-      "venue": "AT&T Stadium",
-      "city": "Arlington",
-      "round": "Group Stage - 1",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-17T17:00:00Z",
-      "home_team": "Portugal",
-      "away_team": "Congo DR",
-      "home_score": 1,
-      "away_score": 1,
-      "home_group": "A",
-      "away_group": "D",
-      "venue": "NRG Stadium",
-      "city": "Houston",
       "round": "Group Stage - 1",
       "status": "FT"
     }

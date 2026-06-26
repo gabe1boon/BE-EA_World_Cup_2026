@@ -88,6 +88,7 @@ def compute(fixtures, key):
             "red_cards": 0,
             "upset_bonus": 0,
             "_rounds": set(),  # tracks knockout rounds awarded (not serialised)
+            "eliminated": False,  # True once confirmed knocked out
         }
         for tid in all_tids
     }
@@ -122,6 +123,15 @@ def compute(fixtures, key):
 
         if status not in FINISHED:
             continue
+
+        # Mark the loser of a finished knockout match as eliminated.
+        # Use the API's winner flag (handles AET and PEN correctly).
+        if is_knockout:
+            home_won = fx["teams"]["home"].get("winner")
+            if home_won is True and away_id in stats:
+                stats[away_id]["eliminated"] = True
+            elif home_won is False and home_id in stats:
+                stats[home_id]["eliminated"] = True
 
         home_g = fx["goals"]["home"] or 0
         away_g = fx["goals"]["away"] or 0
@@ -187,6 +197,15 @@ def build_output(stats, fixtures):
             t = fx["teams"][side]
             names[t["id"]] = NAME_OVERRIDES.get(t["name"], t["name"])
 
+    # Once any knockout fixture has real (non-TBD) teams, the bracket is populated.
+    # Any assigned team absent from all knockout fixtures is group-stage eliminated.
+    knockout_bracket_live = any(
+        not fx["league"]["round"].startswith(GROUP_STAGE_PREFIX)
+        and fx["teams"]["home"]["id"] != 0
+        and fx["teams"]["away"]["id"] != 0
+        for fx in fixtures
+    )
+
     # Find the next scheduled fixture for each assigned team
     now = datetime.now(timezone.utc)
     next_matches = {}
@@ -233,6 +252,7 @@ def build_output(stats, fixtures):
             "yellow_cards": s["yellow_cards"],
             "red_cards": s["red_cards"],
             "upset_bonus": s["upset_bonus"],
+            "eliminated": s["eliminated"] or (knockout_bracket_live and not s["_rounds"]),
         })
 
     rows.sort(key=lambda r: (-r["points"], -r["wins"], -r["goals_for"]))

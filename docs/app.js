@@ -123,7 +123,9 @@ function flagImg(teamName) {
 
 function nextMatchCell(row) {
   if (!row.next_match_utc) {
-    return `<td class="next-match knocked-out">Out</td>`;
+    return row.eliminated
+      ? `<td class="next-match knocked-out">Out</td>`
+      : `<td class="next-match">—</td>`;
   }
   const dt = new Date(row.next_match_utc);
   const diffMs = dt - Date.now();

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-25T23:15:43Z",
+  "updated_at": "2026-06-26T01:34:03Z",
   "leaderboard": [
     {
       "colleague": "Iga",
@@ -71,13 +71,13 @@
       "team_id": 12,
       "next_match_utc": null,
       "next_match_vs": null,
-      "points": 12,
-      "played": 2,
+      "points": 13,
+      "played": 3,
       "wins": 1,
-      "draws": 1,
-      "goals_for": 6,
+      "draws": 2,
+      "goals_for": 7,
       "clean_sheets": 1,
-      "yellow_cards": 0,
+      "yellow_cards": 1,
       "red_cards": 0,
       "upset_bonus": 0
     },
@@ -200,12 +200,12 @@
       "next_match_utc": null,
       "next_match_vs": null,
       "points": 6,
-      "played": 2,
+      "played": 3,
       "wins": 1,
-      "draws": 0,
-      "goals_for": 6,
+      "draws": 1,
+      "goals_for": 7,
       "clean_sheets": 0,
-      "yellow_cards": 3,
+      "yellow_cards": 5,
       "red_cards": 0,
       "upset_bonus": 0
     },
@@ -434,6 +434,22 @@
       "upset_bonus": 0
     },
     {
+      "colleague": "Naini",
+      "team": "Tunisia",
+      "team_id": 28,
+      "next_match_utc": null,
+      "next_match_vs": null,
+      "points": 1,
+      "played": 3,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 2,
+      "clean_sheets": 0,
+      "yellow_cards": 1,
+      "red_cards": 0,
+      "upset_bonus": 0
+    },
+    {
       "colleague": "Tobias",
       "team": "Paraguay",
       "team_id": 2380,
@@ -448,22 +464,6 @@
       "yellow_cards": 6,
       "red_cards": 1,
       "upset_bonus": 1
-    },
-    {
-      "colleague": "Naini",
-      "team": "Tunisia",
-      "team_id": 28,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 0,
-      "played": 2,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 1,
-      "clean_sheets": 0,
-      "yellow_cards": 1,
-      "red_cards": 0,
-      "upset_bonus": 0
     },
     {
       "colleague": "Sebastian",
@@ -622,7 +622,7 @@
     {
       "team_id": 1118,
       "team": "Netherlands",
-      "points": 8
+      "points": 14
     },
     {
       "team_id": 1090,
@@ -793,6 +793,32 @@
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-06-25T23:00:00Z",
+      "home_team": "Japan",
+      "away_team": "Sweden",
+      "home_score": 1,
+      "away_score": 1,
+      "home_group": "B",
+      "away_group": "B",
+      "venue": "AT&T Stadium",
+      "city": "Dallas",
+      "round": "Group Stage - 3",
+      "status": "FT"
+    },
+    {
+      "date": "2026-06-25T23:00:00Z",
+      "home_team": "Tunisia",
+      "away_team": "Netherlands",
+      "home_score": 1,
+      "away_score": 3,
+      "home_group": "C",
+      "away_group": "A",
+      "venue": "Arrowhead Stadium",
+      "city": "Kansas City",
+      "round": "Group Stage - 3",
+      "status": "FT"
+    },
     {
       "date": "2026-06-25T20:00:00Z",
       "home_team": "Ecuador",
@@ -1154,32 +1180,6 @@
       "away_group": "C",
       "venue": "Lumen Field",
       "city": "Seattle",
-      "round": "Group Stage - 2",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-19T01:00:00Z",
-      "home_team": "Mexico",
-      "away_team": "South Korea",
-      "home_score": 1,
-      "away_score": 0,
-      "home_group": "B",
-      "away_group": "B",
-      "venue": "Estadio Akron",
-      "city": "Zapopan",
-      "round": "Group Stage - 2",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-18T22:00:00Z",
-      "home_team": "Canada",
-      "away_team": "Qatar",
-      "home_score": 6,
-      "away_score": 0,
-      "home_group": "B",
-      "away_group": "D",
-      "venue": "BC Place",
-      "city": "Vancouver",
       "round": "Group Stage - 2",
       "status": "FT"
     }

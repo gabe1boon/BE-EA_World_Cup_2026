@@ -1,0 +1,310 @@
+[
+  {
+    "time": {
+      "elapsed": 3,
+      "extra": null
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 21587,
+      "name": "Ellyes Skhiri"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 7,
+      "extra": null
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 38750,
+      "name": "Brian Brobbey"
+    },
+    "assist": {
+      "id": 290,
+      "name": "Virgil van Dijk"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 54,
+      "extra": null
+    },
+    "team": {
+      "id": 28,
+      "name": "Tunisia",
+      "logo": "https://media.api-sports.io/football/teams/28.png"
+    },
+    "player": {
+      "id": 344862,
+      "name": "Hazem Mastouri"
+    },
+    "assist": {
+      "id": 180560,
+      "name": "Hannibal Mejbri"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 62,
+      "extra": null
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 38695,
+      "name": "Jan Paul van Hecke"
+    },
+    "assist": {
+      "id": 36902,
+      "name": "Tijjani Reijnders"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 67,
+      "extra": null
+    },
+    "team": {
+      "id": 28,
+      "name": "Tunisia",
+      "logo": "https://media.api-sports.io/football/teams/28.png"
+    },
+    "player": {
+      "id": 25300,
+      "name": "Rani Khedira"
+    },
+    "assist": {
+      "id": 67195,
+      "name": "Mohamed Hadj Mahmoud"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 68,
+      "extra": null
+    },
+    "team": {
+      "id": 28,
+      "name": "Tunisia",
+      "logo": "https://media.api-sports.io/football/teams/28.png"
+    },
+    "player": {
+      "id": 199310,
+      "name": "Anis Ben Slimane"
+    },
+    "assist": {
+      "id": 42012,
+      "name": "Elias Achouri"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 68,
+      "extra": null
+    },
+    "team": {
+      "id": 28,
+      "name": "Tunisia",
+      "logo": "https://media.api-sports.io/football/teams/28.png"
+    },
+    "player": {
+      "id": 135059,
+      "name": "Mohamed Amine Ben Hamida"
+    },
+    "assist": {
+      "id": 49469,
+      "name": "Mortadha Ben Ouanes"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 72,
+      "extra": null
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 538,
+      "name": "Frenkie de Jong"
+    },
+    "assist": {
+      "id": 36899,
+      "name": "Teun Koopmeiners"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 72,
+      "extra": null
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 36902,
+      "name": "Tijjani Reijnders"
+    },
+    "assist": {
+      "id": 792,
+      "name": "Justin Kluivert"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 72,
+      "extra": null
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 249,
+      "name": "Donyell Malen"
+    },
+    "assist": {
+      "id": 37724,
+      "name": "Crysencio Summerville"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 75,
+      "extra": null
+    },
+    "team": {
+      "id": 28,
+      "name": "Tunisia",
+      "logo": "https://media.api-sports.io/football/teams/28.png"
+    },
+    "player": {
+      "id": 310196,
+      "name": "Ismael Gharbi"
+    },
+    "assist": {
+      "id": 2962,
+      "name": "Firas Chaouat"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 77,
+      "extra": null
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 38750,
+      "name": "Brian Brobbey"
+    },
+    "assist": {
+      "id": 667,
+      "name": "Memphis Depay"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 84,
+      "extra": null
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 247,
+      "name": "Cody Gakpo"
+    },
+    "assist": {
+      "id": 544,
+      "name": "Noa Lang"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": null
+    },
+    "team": {
+      "id": 28,
+      "name": "Tunisia",
+      "logo": "https://media.api-sports.io/football/teams/28.png"
+    },
+    "player": {
+      "id": 344862,
+      "name": "Hazem Mastouri"
+    },
+    "assist": {
+      "id": 57518,
+      "name": "Sebastian Tounekti"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  }
+]

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T18:20:50Z",
+  "updated_at": "2026-06-26T20:14:59Z",
   "leaderboard": [
     {
       "colleague": "Iga",
@@ -345,8 +345,8 @@
       "colleague": "Carys",
       "team": "Senegal",
       "team_id": 13,
-      "next_match_utc": "2026-06-26T19:00:00Z",
-      "next_match_vs": "Iraq",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 3,
       "played": 2,
       "wins": 0,
@@ -532,8 +532,8 @@
       "colleague": "Xavier",
       "team": "Iraq",
       "team_id": 1567,
-      "next_match_utc": "2026-06-26T19:00:00Z",
-      "next_match_vs": "Senegal",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": -1,
       "played": 2,
       "wins": 0,
@@ -677,26 +677,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-26T19:00:00Z",
-      "home_team": "Senegal",
-      "away_team": "Iraq",
-      "home_group": "B",
-      "away_group": "C",
-      "venue": "BMO Field",
-      "city": "Toronto",
-      "round": "Group Stage - 3"
-    },
-    {
-      "date": "2026-06-26T19:00:00Z",
-      "home_team": "Norway",
-      "away_team": "France",
-      "home_group": "B",
-      "away_group": "A",
-      "venue": "Gillette Stadium",
-      "city": "Boston",
-      "round": "Group Stage - 3"
-    },
     {
       "date": "2026-06-27T00:00:00Z",
       "home_team": "Uruguay",

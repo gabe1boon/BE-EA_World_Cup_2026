@@ -1,0 +1,332 @@
+[
+  {
+    "time": {
+      "elapsed": 32,
+      "extra": null
+    },
+    "team": {
+      "id": 5,
+      "name": "Sweden",
+      "logo": "https://media.api-sports.io/football/teams/5.png"
+    },
+    "player": {
+      "id": 137976,
+      "name": "Isak Hien"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Foul"
+  },
+  {
+    "time": {
+      "elapsed": 37,
+      "extra": null
+    },
+    "team": {
+      "id": 5,
+      "name": "Sweden",
+      "logo": "https://media.api-sports.io/football/teams/5.png"
+    },
+    "player": {
+      "id": 137976,
+      "name": "Isak Hien"
+    },
+    "assist": {
+      "id": 347316,
+      "name": "Lucas Bergvall"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 39,
+      "extra": null
+    },
+    "team": {
+      "id": 12,
+      "name": "Japan",
+      "logo": "https://media.api-sports.io/football/teams/12.png"
+    },
+    "player": {
+      "id": 38114,
+      "name": "Ko Itakura"
+    },
+    "assist": {
+      "id": 32954,
+      "name": "Shogo Taniguchi"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 56,
+      "extra": null
+    },
+    "team": {
+      "id": 12,
+      "name": "Japan",
+      "logo": "https://media.api-sports.io/football/teams/12.png"
+    },
+    "player": {
+      "id": 33224,
+      "name": "Daizen Maeda"
+    },
+    "assist": {
+      "id": 2598,
+      "name": "Ritsu Doan"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 62,
+      "extra": null
+    },
+    "team": {
+      "id": 5,
+      "name": "Sweden",
+      "logo": "https://media.api-sports.io/football/teams/5.png"
+    },
+    "player": {
+      "id": 153430,
+      "name": "Anthony Elanga"
+    },
+    "assist": {
+      "id": 18979,
+      "name": "Viktor Gy\u00f6keres"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 66,
+      "extra": null
+    },
+    "team": {
+      "id": 12,
+      "name": "Japan",
+      "logo": "https://media.api-sports.io/football/teams/12.png"
+    },
+    "player": {
+      "id": 72155,
+      "name": "Ayase Ueda"
+    },
+    "assist": {
+      "id": 33289,
+      "name": "Koki Ogawa"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 67,
+      "extra": null
+    },
+    "team": {
+      "id": 12,
+      "name": "Japan",
+      "logo": "https://media.api-sports.io/football/teams/12.png"
+    },
+    "player": {
+      "id": 2598,
+      "name": "Ritsu Doan"
+    },
+    "assist": {
+      "id": 1942,
+      "name": "Junya Ito"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 75,
+      "extra": null
+    },
+    "team": {
+      "id": 5,
+      "name": "Sweden",
+      "logo": "https://media.api-sports.io/football/teams/5.png"
+    },
+    "player": {
+      "id": 47696,
+      "name": "Alexander Bernhardsson"
+    },
+    "assist": {
+      "id": 198654,
+      "name": "Daniel Svensson"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 75,
+      "extra": null
+    },
+    "team": {
+      "id": 5,
+      "name": "Sweden",
+      "logo": "https://media.api-sports.io/football/teams/5.png"
+    },
+    "player": {
+      "id": 226765,
+      "name": "Elliot Stroud"
+    },
+    "assist": {
+      "id": 2860,
+      "name": "Ken Sema"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 75,
+      "extra": null
+    },
+    "team": {
+      "id": 12,
+      "name": "Japan",
+      "logo": "https://media.api-sports.io/football/teams/12.png"
+    },
+    "player": {
+      "id": 33321,
+      "name": "Keito Nakamura"
+    },
+    "assist": {
+      "id": 440,
+      "name": "Yuto Nagatomo"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 75,
+      "extra": null
+    },
+    "team": {
+      "id": 12,
+      "name": "Japan",
+      "logo": "https://media.api-sports.io/football/teams/12.png"
+    },
+    "player": {
+      "id": 33165,
+      "name": "Ayumu Seko"
+    },
+    "assist": {
+      "id": 32858,
+      "name": "Tsuyoshi Watanabe"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 77,
+      "extra": null
+    },
+    "team": {
+      "id": 12,
+      "name": "Japan",
+      "logo": "https://media.api-sports.io/football/teams/12.png"
+    },
+    "player": {
+      "id": 32954,
+      "name": "Shogo Taniguchi"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Foul"
+  },
+  {
+    "time": {
+      "elapsed": 85,
+      "extra": null
+    },
+    "team": {
+      "id": 5,
+      "name": "Sweden",
+      "logo": "https://media.api-sports.io/football/teams/5.png"
+    },
+    "player": {
+      "id": 18979,
+      "name": "Viktor Gy\u00f6keres"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Foul"
+  },
+  {
+    "time": {
+      "elapsed": 87,
+      "extra": null
+    },
+    "team": {
+      "id": 5,
+      "name": "Sweden",
+      "logo": "https://media.api-sports.io/football/teams/5.png"
+    },
+    "player": {
+      "id": 889,
+      "name": "Victor Lindel\u00f6f"
+    },
+    "assist": {
+      "id": 47988,
+      "name": "Carl Starfelt"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 88,
+      "extra": null
+    },
+    "team": {
+      "id": 5,
+      "name": "Sweden",
+      "logo": "https://media.api-sports.io/football/teams/5.png"
+    },
+    "player": {
+      "id": 47969,
+      "name": "Gabriel Gudmundsson"
+    },
+    "assist": {
+      "id": 48002,
+      "name": "Benjamin Nygren"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  }
+]

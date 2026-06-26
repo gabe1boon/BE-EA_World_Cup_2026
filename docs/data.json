@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-26T20:14:59Z",
+  "updated_at": "2026-06-26T21:44:57Z",
   "leaderboard": [
     {
       "colleague": "Iga",
@@ -135,6 +135,23 @@
       "yellow_cards": 4,
       "red_cards": 0,
       "upset_bonus": 1,
+      "eliminated": true
+    },
+    {
+      "colleague": "Carys",
+      "team": "Senegal",
+      "team_id": 13,
+      "next_match_utc": null,
+      "next_match_vs": null,
+      "points": 11,
+      "played": 3,
+      "wins": 1,
+      "draws": 0,
+      "goals_for": 8,
+      "clean_sheets": 1,
+      "yellow_cards": 2,
+      "red_cards": 0,
+      "upset_bonus": 0,
       "eliminated": true
     },
     {
@@ -342,23 +359,6 @@
       "eliminated": true
     },
     {
-      "colleague": "Carys",
-      "team": "Senegal",
-      "team_id": 13,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 3,
-      "played": 2,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 3,
-      "clean_sheets": 0,
-      "yellow_cards": 0,
-      "red_cards": 0,
-      "upset_bonus": 0,
-      "eliminated": true
-    },
-    {
       "colleague": "Achille",
       "team": "Cape Verde Islands",
       "team_id": 1533,
@@ -529,23 +529,6 @@
       "eliminated": true
     },
     {
-      "colleague": "Xavier",
-      "team": "Iraq",
-      "team_id": 1567,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": -1,
-      "played": 2,
-      "wins": 0,
-      "draws": 0,
-      "goals_for": 1,
-      "clean_sheets": 0,
-      "yellow_cards": 2,
-      "red_cards": 0,
-      "upset_bonus": 0,
-      "eliminated": true
-    },
-    {
       "colleague": "Tobias",
       "team": "Uzbekistan",
       "team_id": 1568,
@@ -612,6 +595,23 @@
       "red_cards": 0,
       "upset_bonus": 0,
       "eliminated": true
+    },
+    {
+      "colleague": "Xavier",
+      "team": "Iraq",
+      "team_id": 1567,
+      "next_match_utc": null,
+      "next_match_vs": null,
+      "points": -5,
+      "played": 3,
+      "wins": 0,
+      "draws": 0,
+      "goals_for": 1,
+      "clean_sheets": 0,
+      "yellow_cards": 4,
+      "red_cards": 1,
+      "upset_bonus": 0,
+      "eliminated": true
     }
   ],
   "available_teams": [
@@ -643,7 +643,7 @@
     {
       "team_id": 2,
       "team": "France",
-      "points": 14
+      "points": 21
     },
     {
       "team_id": 25,
@@ -663,7 +663,7 @@
     {
       "team_id": 1090,
       "team": "Norway",
-      "points": 13
+      "points": 14
     },
     {
       "team_id": 1531,
@@ -819,6 +819,32 @@
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-06-26T19:00:00Z",
+      "home_team": "Senegal",
+      "away_team": "Iraq",
+      "home_score": 5,
+      "away_score": 0,
+      "home_group": "B",
+      "away_group": "C",
+      "venue": "BMO Field",
+      "city": "Toronto",
+      "round": "Group Stage - 3",
+      "status": "FT"
+    },
+    {
+      "date": "2026-06-26T19:00:00Z",
+      "home_team": "Norway",
+      "away_team": "France",
+      "home_score": 1,
+      "away_score": 4,
+      "home_group": "B",
+      "away_group": "A",
+      "venue": "Gillette Stadium",
+      "city": "Boston",
+      "round": "Group Stage - 3",
+      "status": "FT"
+    },
     {
       "date": "2026-06-26T02:00:00Z",
       "home_team": "T\u00fcrkiye",
@@ -1180,32 +1206,6 @@
       "away_group": "B",
       "venue": "NRG Stadium",
       "city": "Houston",
-      "round": "Group Stage - 2",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-20T03:00:00Z",
-      "home_team": "T\u00fcrkiye",
-      "away_team": "Paraguay",
-      "home_score": 0,
-      "away_score": 1,
-      "home_group": "C",
-      "away_group": "D",
-      "venue": "Levi's Stadium",
-      "city": "Santa Clara",
-      "round": "Group Stage - 2",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-20T00:30:00Z",
-      "home_team": "Brazil",
-      "away_team": "Haiti",
-      "home_score": 3,
-      "away_score": 0,
-      "home_group": "A",
-      "away_group": "D",
-      "venue": "Lincoln Financial Field",
-      "city": "Philadelphia",
       "round": "Group Stage - 2",
       "status": "FT"
     }

@@ -1,0 +1,398 @@
+[
+  {
+    "time": {
+      "elapsed": 28,
+      "extra": null
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 1946,
+      "name": "L. Trossard"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 4673,
+      "name": "New Zealand",
+      "logo": "https://media.api-sports.io/football/teams/4673.png"
+    },
+    "player": {
+      "id": 6935,
+      "name": "S. Singh"
+    },
+    "assist": {
+      "id": 158688,
+      "name": "J. Randall"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 4673,
+      "name": "New Zealand",
+      "logo": "https://media.api-sports.io/football/teams/4673.png"
+    },
+    "player": {
+      "id": 242,
+      "name": "R. Thomas"
+    },
+    "assist": {
+      "id": 179856,
+      "name": "B. Old"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 4673,
+      "name": "New Zealand",
+      "logo": "https://media.api-sports.io/football/teams/4673.png"
+    },
+    "player": {
+      "id": 179862,
+      "name": "M. Stamenic"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 50,
+      "extra": null
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 1946,
+      "name": "L. Trossard"
+    },
+    "assist": {
+      "id": 78,
+      "name": "H. Vanaken"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 56,
+      "extra": null
+    },
+    "team": {
+      "id": 4673,
+      "name": "New Zealand",
+      "logo": "https://media.api-sports.io/football/teams/4673.png"
+    },
+    "player": {
+      "id": 94333,
+      "name": "E. Just"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Holding"
+  },
+  {
+    "time": {
+      "elapsed": 56,
+      "extra": null
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 1422,
+      "name": "J. Doku"
+    },
+    "assist": {
+      "id": 340077,
+      "name": "M. Fernandez-Pardo"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 64,
+      "extra": null
+    },
+    "team": {
+      "id": 4673,
+      "name": "New Zealand",
+      "logo": "https://media.api-sports.io/football/teams/4673.png"
+    },
+    "player": {
+      "id": 94346,
+      "name": "T. Payne"
+    },
+    "assist": {
+      "id": 51149,
+      "name": "M. Boxall"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 64,
+      "extra": null
+    },
+    "team": {
+      "id": 4673,
+      "name": "New Zealand",
+      "logo": "https://media.api-sports.io/football/teams/4673.png"
+    },
+    "player": {
+      "id": 94541,
+      "name": "J. Bell"
+    },
+    "assist": {
+      "id": 94322,
+      "name": "C. McCowatt"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 66,
+      "extra": null
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 629,
+      "name": "K. De Bruyne"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 72,
+      "extra": null
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 1946,
+      "name": "L. Trossard"
+    },
+    "assist": {
+      "id": 1417,
+      "name": "A. Saelemaekers"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 72,
+      "extra": null
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 629,
+      "name": "K. De Bruyne"
+    },
+    "assist": {
+      "id": 162714,
+      "name": "A. Onana"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 79,
+      "extra": null
+    },
+    "team": {
+      "id": 4673,
+      "name": "New Zealand",
+      "logo": "https://media.api-sports.io/football/teams/4673.png"
+    },
+    "player": {
+      "id": 6931,
+      "name": "L. Cacace"
+    },
+    "assist": {
+      "id": 94405,
+      "name": "F. De Vries"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 84,
+      "extra": null
+    },
+    "team": {
+      "id": 4673,
+      "name": "New Zealand",
+      "logo": "https://media.api-sports.io/football/teams/4673.png"
+    },
+    "player": {
+      "id": 94333,
+      "name": "E. Just"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 85,
+      "extra": null
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 147859,
+      "name": "C. De Ketelaere"
+    },
+    "assist": {
+      "id": 907,
+      "name": "R. Lukaku"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 85,
+      "extra": null
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 2926,
+      "name": "Y. Tielemans"
+    },
+    "assist": {
+      "id": 2120,
+      "name": "N. Raskin"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 86,
+      "extra": null
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 907,
+      "name": "R. Lukaku"
+    },
+    "assist": {
+      "id": 2120,
+      "name": "N. Raskin"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 4
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 1417,
+      "name": "A. Saelemaekers"
+    },
+    "assist": {
+      "id": 907,
+      "name": "R. Lukaku"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  }
+]

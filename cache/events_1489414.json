@@ -1,0 +1,420 @@
+[
+  {
+    "time": {
+      "elapsed": 5,
+      "extra": null
+    },
+    "team": {
+      "id": 32,
+      "name": "Egypt",
+      "logo": "https://media.api-sports.io/football/teams/32.png"
+    },
+    "player": {
+      "id": 69196,
+      "name": "M. Saber"
+    },
+    "assist": {
+      "id": 2664,
+      "name": "Trezeguet"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 11,
+      "extra": null
+    },
+    "team": {
+      "id": 22,
+      "name": "Iran",
+      "logo": "https://media.api-sports.io/football/teams/22.png"
+    },
+    "player": {
+      "id": 42315,
+      "name": "M. Taremi"
+    },
+    "assist": {
+      "id": 42315,
+      "name": "M. Taremi"
+    },
+    "type": "Goal",
+    "detail": "Missed Penalty",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 14,
+      "extra": null
+    },
+    "team": {
+      "id": 22,
+      "name": "Iran",
+      "logo": "https://media.api-sports.io/football/teams/22.png"
+    },
+    "player": {
+      "id": 2691,
+      "name": "R. Rezaeian"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 14,
+      "extra": null
+    },
+    "team": {
+      "id": 32,
+      "name": "Egypt",
+      "logo": "https://media.api-sports.io/football/teams/32.png"
+    },
+    "player": {
+      "id": 196343,
+      "name": "M. Abdelmonem"
+    },
+    "assist": {
+      "id": 16804,
+      "name": "Y. Ibrahim"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 19,
+      "extra": null
+    },
+    "team": {
+      "id": 22,
+      "name": "Iran",
+      "logo": "https://media.api-sports.io/football/teams/22.png"
+    },
+    "player": {
+      "id": 2687,
+      "name": "H. Kanaani"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 20,
+      "extra": null
+    },
+    "team": {
+      "id": 32,
+      "name": "Egypt",
+      "logo": "https://media.api-sports.io/football/teams/32.png"
+    },
+    "player": {
+      "id": 69196,
+      "name": "M. Saber"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  },
+  {
+    "time": {
+      "elapsed": 42,
+      "extra": null
+    },
+    "team": {
+      "id": 32,
+      "name": "Egypt",
+      "logo": "https://media.api-sports.io/football/teams/32.png"
+    },
+    "player": {
+      "id": 16804,
+      "name": "Y. Ibrahim"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Foul"
+  },
+  {
+    "time": {
+      "elapsed": 43,
+      "extra": null
+    },
+    "team": {
+      "id": 22,
+      "name": "Iran",
+      "logo": "https://media.api-sports.io/football/teams/22.png"
+    },
+    "player": {
+      "id": 533035,
+      "name": "A. Nemati"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 22,
+      "name": "Iran",
+      "logo": "https://media.api-sports.io/football/teams/22.png"
+    },
+    "player": {
+      "id": 2687,
+      "name": "H. Kanaani"
+    },
+    "assist": {
+      "id": 136880,
+      "name": "S. Hardani"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 32,
+      "name": "Egypt",
+      "logo": "https://media.api-sports.io/football/teams/32.png"
+    },
+    "player": {
+      "id": 17269,
+      "name": "E. Ashour"
+    },
+    "assist": {
+      "id": 81573,
+      "name": "O. Marmoush"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 32,
+      "name": "Egypt",
+      "logo": "https://media.api-sports.io/football/teams/32.png"
+    },
+    "player": {
+      "id": 69196,
+      "name": "M. Saber"
+    },
+    "assist": {
+      "id": 190575,
+      "name": "M. Attia"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 57,
+      "extra": null
+    },
+    "team": {
+      "id": 32,
+      "name": "Egypt",
+      "logo": "https://media.api-sports.io/football/teams/32.png"
+    },
+    "player": {
+      "id": 306,
+      "name": "M. Salah"
+    },
+    "assist": {
+      "id": 16871,
+      "name": "Zizo"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 67,
+      "extra": null
+    },
+    "team": {
+      "id": 22,
+      "name": "Iran",
+      "logo": "https://media.api-sports.io/football/teams/22.png"
+    },
+    "player": {
+      "id": 2699,
+      "name": "S. Ghoddos"
+    },
+    "assist": {
+      "id": 89982,
+      "name": "S. Moghanlou"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 76,
+      "extra": null
+    },
+    "team": {
+      "id": 32,
+      "name": "Egypt",
+      "logo": "https://media.api-sports.io/football/teams/32.png"
+    },
+    "player": {
+      "id": 395075,
+      "name": "M. Ziko"
+    },
+    "assist": {
+      "id": 550547,
+      "name": "H. Abdelkarim"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 79,
+      "extra": null
+    },
+    "team": {
+      "id": 22,
+      "name": "Iran",
+      "logo": "https://media.api-sports.io/football/teams/22.png"
+    },
+    "player": {
+      "id": 19614,
+      "name": "S. Ezatolahi"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 1
+    },
+    "team": {
+      "id": 22,
+      "name": "Iran",
+      "logo": "https://media.api-sports.io/football/teams/22.png"
+    },
+    "player": {
+      "id": 134217,
+      "name": "M. Mohebi"
+    },
+    "assist": {
+      "id": 2700,
+      "name": "A. Jahanbakhsh"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 2
+    },
+    "team": {
+      "id": 32,
+      "name": "Egypt",
+      "logo": "https://media.api-sports.io/football/teams/32.png"
+    },
+    "player": {
+      "id": 16841,
+      "name": "M. Lasheen"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 3
+    },
+    "team": {
+      "id": 22,
+      "name": "Iran",
+      "logo": "https://media.api-sports.io/football/teams/22.png"
+    },
+    "player": {
+      "id": 29704,
+      "name": "S. Khalilzadeh"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Var",
+    "detail": "Goal Disallowed - offside",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 4
+    },
+    "team": {
+      "id": 22,
+      "name": "Iran",
+      "logo": "https://media.api-sports.io/football/teams/22.png"
+    },
+    "player": {
+      "id": 29704,
+      "name": "S. Khalilzadeh"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Unsportsmanlike conduct"
+  }
+]

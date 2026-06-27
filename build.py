@@ -197,13 +197,20 @@ def build_output(stats, fixtures):
             t = fx["teams"][side]
             names[t["id"]] = NAME_OVERRIDES.get(t["name"], t["name"])
 
-    # Once any knockout fixture has real (non-TBD) teams, the bracket is populated.
-    # Any assigned team absent from all knockout fixtures is group-stage eliminated.
-    knockout_bracket_live = any(
-        not fx["league"]["round"].startswith(GROUP_STAGE_PREFIX)
-        and fx["teams"]["home"]["id"] != 0
-        and fx["teams"]["away"]["id"] != 0
+    # Find the first knockout round name (e.g. "Round of 32" or "Round of 16").
+    _first_ko_round = None
+    for _fx in fixtures:
+        if not _fx["league"]["round"].startswith(GROUP_STAGE_PREFIX):
+            _first_ko_round = _fx["league"]["round"]
+            break
+
+    # Only declare group-stage elimination once EVERY first-round knockout fixture
+    # has confirmed (non-placeholder) team IDs. Until then we can't distinguish
+    # "genuinely eliminated" from "through but fixture not yet confirmed".
+    knockout_bracket_complete = bool(_first_ko_round) and all(
+        fx["teams"]["home"]["id"] != 0 and fx["teams"]["away"]["id"] != 0
         for fx in fixtures
+        if fx["league"]["round"] == _first_ko_round
     )
 
     # Find the next scheduled fixture for each assigned team
@@ -252,7 +259,7 @@ def build_output(stats, fixtures):
             "yellow_cards": s["yellow_cards"],
             "red_cards": s["red_cards"],
             "upset_bonus": s["upset_bonus"],
-            "eliminated": s["eliminated"] or (knockout_bracket_live and not s["_rounds"]),
+            "eliminated": s["eliminated"] or (knockout_bracket_complete and not s["_rounds"]),
         })
 
     rows.sort(key=lambda r: (-r["points"], -r["wins"], -r["goals_for"]))

@@ -16,7 +16,7 @@
       "yellow_cards": 2,
       "red_cards": 1,
       "upset_bonus": 0,
-      "eliminated": true
+      "eliminated": false
     },
     {
       "colleague": "Eva",
@@ -50,7 +50,7 @@
       "yellow_cards": 2,
       "red_cards": 0,
       "upset_bonus": 0,
-      "eliminated": true
+      "eliminated": false
     },
     {
       "colleague": "Marija",
@@ -152,7 +152,7 @@
       "yellow_cards": 3,
       "red_cards": 0,
       "upset_bonus": 0,
-      "eliminated": true
+      "eliminated": false
     },
     {
       "colleague": "Carys",
@@ -169,7 +169,7 @@
       "yellow_cards": 2,
       "red_cards": 0,
       "upset_bonus": 0,
-      "eliminated": true
+      "eliminated": false
     },
     {
       "colleague": "Mark",
@@ -237,7 +237,7 @@
       "yellow_cards": 5,
       "red_cards": 0,
       "upset_bonus": 0,
-      "eliminated": true
+      "eliminated": false
     },
     {
       "colleague": "Deepti",
@@ -254,7 +254,7 @@
       "yellow_cards": 3,
       "red_cards": 0,
       "upset_bonus": 0,
-      "eliminated": true
+      "eliminated": false
     },
     {
       "colleague": "Carys",
@@ -271,7 +271,7 @@
       "yellow_cards": 5,
       "red_cards": 0,
       "upset_bonus": 0,
-      "eliminated": true
+      "eliminated": false
     },
     {
       "colleague": "Achille",
@@ -288,7 +288,7 @@
       "yellow_cards": 4,
       "red_cards": 0,
       "upset_bonus": 0,
-      "eliminated": true
+      "eliminated": false
     },
     {
       "colleague": "Willem",
@@ -305,7 +305,7 @@
       "yellow_cards": 5,
       "red_cards": 0,
       "upset_bonus": 1,
-      "eliminated": true
+      "eliminated": false
     },
     {
       "colleague": "Daniel",
@@ -373,7 +373,7 @@
       "yellow_cards": 7,
       "red_cards": 1,
       "upset_bonus": 1,
-      "eliminated": true
+      "eliminated": false
     },
     {
       "colleague": "Gabe",
@@ -390,7 +390,7 @@
       "yellow_cards": 2,
       "red_cards": 0,
       "upset_bonus": 0,
-      "eliminated": true
+      "eliminated": false
     },
     {
       "colleague": "Gabe",
@@ -407,7 +407,7 @@
       "yellow_cards": 1,
       "red_cards": 0,
       "upset_bonus": 0,
-      "eliminated": true
+      "eliminated": false
     },
     {
       "colleague": "Francisco",
@@ -424,7 +424,7 @@
       "yellow_cards": 4,
       "red_cards": 0,
       "upset_bonus": 0,
-      "eliminated": true
+      "eliminated": false
     },
     {
       "colleague": "Koums",
@@ -441,7 +441,7 @@
       "yellow_cards": 5,
       "red_cards": 0,
       "upset_bonus": 0,
-      "eliminated": true
+      "eliminated": false
     },
     {
       "colleague": "Ji\u0159\u00ed",
@@ -475,7 +475,7 @@
       "yellow_cards": 1,
       "red_cards": 0,
       "upset_bonus": 0,
-      "eliminated": true
+      "eliminated": false
     },
     {
       "colleague": "Sebastian",
@@ -509,7 +509,7 @@
       "yellow_cards": 6,
       "red_cards": 0,
       "upset_bonus": 0,
-      "eliminated": true
+      "eliminated": false
     },
     {
       "colleague": "Tobias",
@@ -543,7 +543,7 @@
       "yellow_cards": 5,
       "red_cards": 1,
       "upset_bonus": 0,
-      "eliminated": true
+      "eliminated": false
     },
     {
       "colleague": "Cosima",
@@ -577,7 +577,7 @@
       "yellow_cards": 4,
       "red_cards": 2,
       "upset_bonus": 0,
-      "eliminated": true
+      "eliminated": false
     },
     {
       "colleague": "Basiten",
@@ -594,7 +594,7 @@
       "yellow_cards": 7,
       "red_cards": 0,
       "upset_bonus": 0,
-      "eliminated": true
+      "eliminated": false
     },
     {
       "colleague": "Xavier",
@@ -611,7 +611,7 @@
       "yellow_cards": 4,
       "red_cards": 1,
       "upset_bonus": 0,
-      "eliminated": true
+      "eliminated": false
     }
   ],
   "available_teams": [

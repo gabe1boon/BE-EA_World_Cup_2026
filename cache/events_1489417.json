@@ -1,0 +1,332 @@
+[
+  {
+    "time": {
+      "elapsed": 42,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 182219,
+      "name": "A. Baena"
+    },
+    "assist": {
+      "id": 753,
+      "name": "M. Llorente"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 45,
+      "extra": null
+    },
+    "team": {
+      "id": 7,
+      "name": "Uruguay",
+      "logo": "https://media.api-sports.io/football/teams/7.png"
+    },
+    "player": {
+      "id": 51494,
+      "name": "M. Ugarte"
+    },
+    "assist": {
+      "id": 5995,
+      "name": "N. de la Cruz"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 7,
+      "name": "Uruguay",
+      "logo": "https://media.api-sports.io/football/teams/7.png"
+    },
+    "player": {
+      "id": 429,
+      "name": "F. Muslera"
+    },
+    "assist": {
+      "id": 50077,
+      "name": "S. Rochet"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 182219,
+      "name": "A. Baena"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Holding"
+  },
+  {
+    "time": {
+      "elapsed": 54,
+      "extra": null
+    },
+    "team": {
+      "id": 7,
+      "name": "Uruguay",
+      "logo": "https://media.api-sports.io/football/teams/7.png"
+    },
+    "player": {
+      "id": 162891,
+      "name": "J. Sanabria"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 57,
+      "extra": null
+    },
+    "team": {
+      "id": 7,
+      "name": "Uruguay",
+      "logo": "https://media.api-sports.io/football/teams/7.png"
+    },
+    "player": {
+      "id": 756,
+      "name": "F. Valverde"
+    },
+    "assist": {
+      "id": 51530,
+      "name": "F. Vinas"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 58,
+      "extra": null
+    },
+    "team": {
+      "id": 7,
+      "name": "Uruguay",
+      "logo": "https://media.api-sports.io/football/teams/7.png"
+    },
+    "player": {
+      "id": 1290,
+      "name": "G. Varela"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Elbowing"
+  },
+  {
+    "time": {
+      "elapsed": 60,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 133609,
+      "name": "Pedri"
+    },
+    "assist": {
+      "id": 328,
+      "name": "F. Ruiz"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 60,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 47311,
+      "name": "M. Merino"
+    },
+    "assist": {
+      "id": 1323,
+      "name": "D. Olmo"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 66,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 182219,
+      "name": "A. Baena"
+    },
+    "assist": {
+      "id": 184226,
+      "name": "Y. Pino"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 70,
+      "extra": null
+    },
+    "team": {
+      "id": 7,
+      "name": "Uruguay",
+      "logo": "https://media.api-sports.io/football/teams/7.png"
+    },
+    "player": {
+      "id": 162891,
+      "name": "J. Sanabria"
+    },
+    "assist": {
+      "id": 51618,
+      "name": "B. Rodriguez"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 76,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 386828,
+      "name": "Lamine Yamal"
+    },
+    "assist": {
+      "id": 183799,
+      "name": "N. Williams"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 76,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 47323,
+      "name": "M. Oyarzabal"
+    },
+    "assist": {
+      "id": 931,
+      "name": "F. Torres"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 3
+    },
+    "team": {
+      "id": 7,
+      "name": "Uruguay",
+      "logo": "https://media.api-sports.io/football/teams/7.png"
+    },
+    "player": {
+      "id": 5995,
+      "name": "N. de la Cruz"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 5
+    },
+    "team": {
+      "id": 7,
+      "name": "Uruguay",
+      "logo": "https://media.api-sports.io/football/teams/7.png"
+    },
+    "player": {
+      "id": 51603,
+      "name": "A. Canobbio"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Red Card",
+    "comments": "Serious foul"
+  }
+]

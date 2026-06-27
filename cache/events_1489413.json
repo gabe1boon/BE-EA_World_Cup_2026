@@ -1,0 +1,310 @@
+[
+  {
+    "time": {
+      "elapsed": 4,
+      "extra": null
+    },
+    "team": {
+      "id": 23,
+      "name": "Saudi Arabia",
+      "logo": "https://media.api-sports.io/football/teams/23.png"
+    },
+    "player": {
+      "id": 44594,
+      "name": "S. Abdulhamid"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Foul"
+  },
+  {
+    "time": {
+      "elapsed": 8,
+      "extra": null
+    },
+    "team": {
+      "id": 1533,
+      "name": "Cape Verde Islands",
+      "logo": "https://media.api-sports.io/football/teams/1533.png"
+    },
+    "player": {
+      "id": 332056,
+      "name": "W. Pina"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Elbowing"
+  },
+  {
+    "time": {
+      "elapsed": 33,
+      "extra": null
+    },
+    "team": {
+      "id": 23,
+      "name": "Saudi Arabia",
+      "logo": "https://media.api-sports.io/football/teams/23.png"
+    },
+    "player": {
+      "id": 44362,
+      "name": "H. Tambakti"
+    },
+    "assist": {
+      "id": 44507,
+      "name": "A. Lajami"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 23,
+      "name": "Saudi Arabia",
+      "logo": "https://media.api-sports.io/football/teams/23.png"
+    },
+    "player": {
+      "id": 44315,
+      "name": "A. Al Khaibari"
+    },
+    "assist": {
+      "id": 306380,
+      "name": "M. Al Juwayr"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 61,
+      "extra": null
+    },
+    "team": {
+      "id": 1533,
+      "name": "Cape Verde Islands",
+      "logo": "https://media.api-sports.io/football/teams/1533.png"
+    },
+    "player": {
+      "id": 343287,
+      "name": "D. Livramento"
+    },
+    "assist": {
+      "id": 22265,
+      "name": "N. Da Costa"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 61,
+      "extra": null
+    },
+    "team": {
+      "id": 1533,
+      "name": "Cape Verde Islands",
+      "logo": "https://media.api-sports.io/football/teams/1533.png"
+    },
+    "player": {
+      "id": 113580,
+      "name": "W. Semedo"
+    },
+    "assist": {
+      "id": 291024,
+      "name": "H. Varela"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 66,
+      "extra": null
+    },
+    "team": {
+      "id": 23,
+      "name": "Saudi Arabia",
+      "logo": "https://media.api-sports.io/football/teams/23.png"
+    },
+    "player": {
+      "id": 44340,
+      "name": "S. Al Dawsari"
+    },
+    "assist": {
+      "id": 403087,
+      "name": "M. Abu Al Shamat"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 66,
+      "extra": null
+    },
+    "team": {
+      "id": 23,
+      "name": "Saudi Arabia",
+      "logo": "https://media.api-sports.io/football/teams/23.png"
+    },
+    "player": {
+      "id": 2639,
+      "name": "S. Mandash"
+    },
+    "assist": {
+      "id": 44382,
+      "name": "A. Al Hamdan"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 67,
+      "extra": null
+    },
+    "team": {
+      "id": 23,
+      "name": "Saudi Arabia",
+      "logo": "https://media.api-sports.io/football/teams/23.png"
+    },
+    "player": {
+      "id": 44339,
+      "name": "N. Al Dawsari"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Holding"
+  },
+  {
+    "time": {
+      "elapsed": 71,
+      "extra": null
+    },
+    "team": {
+      "id": 1533,
+      "name": "Cape Verde Islands",
+      "logo": "https://media.api-sports.io/football/teams/1533.png"
+    },
+    "player": {
+      "id": 50270,
+      "name": "R. Mendes"
+    },
+    "assist": {
+      "id": 44612,
+      "name": "G. Rodrigues"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 71,
+      "extra": null
+    },
+    "team": {
+      "id": 1533,
+      "name": "Cape Verde Islands",
+      "logo": "https://media.api-sports.io/football/teams/1533.png"
+    },
+    "player": {
+      "id": 50745,
+      "name": "J. Monteiro"
+    },
+    "assist": {
+      "id": 37436,
+      "name": "L. Duarte"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 82,
+      "extra": null
+    },
+    "team": {
+      "id": 23,
+      "name": "Saudi Arabia",
+      "logo": "https://media.api-sports.io/football/teams/23.png"
+    },
+    "player": {
+      "id": 134995,
+      "name": "N. Boushal"
+    },
+    "assist": {
+      "id": 202381,
+      "name": "M. Al Harbi"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 3
+    },
+    "team": {
+      "id": 23,
+      "name": "Saudi Arabia",
+      "logo": "https://media.api-sports.io/football/teams/23.png"
+    },
+    "player": {
+      "id": 44324,
+      "name": "F. Al Buraikan"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Foul"
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 4
+    },
+    "team": {
+      "id": 1533,
+      "name": "Cape Verde Islands",
+      "logo": "https://media.api-sports.io/football/teams/1533.png"
+    },
+    "player": {
+      "id": 332056,
+      "name": "W. Pina"
+    },
+    "assist": {
+      "id": 22139,
+      "name": "S. Moreira"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  }
+]

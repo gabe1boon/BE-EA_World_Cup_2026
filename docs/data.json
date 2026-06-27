@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-27T00:00:38Z",
+  "updated_at": "2026-06-27T04:30:38Z",
   "leaderboard": [
     {
       "colleague": "Iga",
@@ -34,6 +34,23 @@
       "red_cards": 0,
       "upset_bonus": 0,
       "eliminated": false
+    },
+    {
+      "colleague": "Naini",
+      "team": "Spain",
+      "team_id": 9,
+      "next_match_utc": null,
+      "next_match_vs": null,
+      "points": 16,
+      "played": 3,
+      "wins": 2,
+      "draws": 1,
+      "goals_for": 5,
+      "clean_sheets": 3,
+      "yellow_cards": 2,
+      "red_cards": 0,
+      "upset_bonus": 0,
+      "eliminated": true
     },
     {
       "colleague": "Marija",
@@ -104,6 +121,23 @@
       "eliminated": true
     },
     {
+      "colleague": "Oliver",
+      "team": "Ivory Coast",
+      "team_id": 1501,
+      "next_match_utc": "2026-06-30T17:00:00Z",
+      "next_match_vs": "Norway",
+      "points": 13,
+      "played": 3,
+      "wins": 2,
+      "draws": 0,
+      "goals_for": 4,
+      "clean_sheets": 2,
+      "yellow_cards": 4,
+      "red_cards": 0,
+      "upset_bonus": 1,
+      "eliminated": false
+    },
+    {
       "colleague": "Koums",
       "team": "Switzerland",
       "team_id": 15,
@@ -121,23 +155,6 @@
       "eliminated": true
     },
     {
-      "colleague": "Oliver",
-      "team": "Ivory Coast",
-      "team_id": 1501,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 11,
-      "played": 3,
-      "wins": 2,
-      "draws": 0,
-      "goals_for": 4,
-      "clean_sheets": 2,
-      "yellow_cards": 4,
-      "red_cards": 0,
-      "upset_bonus": 1,
-      "eliminated": true
-    },
-    {
       "colleague": "Carys",
       "team": "Senegal",
       "team_id": 13,
@@ -150,23 +167,6 @@
       "goals_for": 8,
       "clean_sheets": 1,
       "yellow_cards": 2,
-      "red_cards": 0,
-      "upset_bonus": 0,
-      "eliminated": true
-    },
-    {
-      "colleague": "Naini",
-      "team": "Spain",
-      "team_id": 9,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 11,
-      "played": 2,
-      "wins": 1,
-      "draws": 1,
-      "goals_for": 4,
-      "clean_sheets": 2,
-      "yellow_cards": 1,
       "red_cards": 0,
       "upset_bonus": 0,
       "eliminated": true
@@ -243,8 +243,8 @@
       "colleague": "Deepti",
       "team": "Egypt",
       "team_id": 32,
-      "next_match_utc": "2026-06-27T03:00:00Z",
-      "next_match_vs": "Iran",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 5,
       "played": 2,
       "wins": 1,
@@ -269,6 +269,23 @@
       "goals_for": 2,
       "clean_sheets": 2,
       "yellow_cards": 5,
+      "red_cards": 0,
+      "upset_bonus": 0,
+      "eliminated": true
+    },
+    {
+      "colleague": "Achille",
+      "team": "Cape Verde Islands",
+      "team_id": 1533,
+      "next_match_utc": null,
+      "next_match_vs": null,
+      "points": 5,
+      "played": 3,
+      "wins": 0,
+      "draws": 3,
+      "goals_for": 2,
+      "clean_sheets": 2,
+      "yellow_cards": 4,
       "red_cards": 0,
       "upset_bonus": 0,
       "eliminated": true
@@ -342,40 +359,6 @@
       "eliminated": true
     },
     {
-      "colleague": "Euan",
-      "team": "Uruguay",
-      "team_id": 7,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 3,
-      "played": 2,
-      "wins": 0,
-      "draws": 2,
-      "goals_for": 3,
-      "clean_sheets": 0,
-      "yellow_cards": 2,
-      "red_cards": 0,
-      "upset_bonus": 0,
-      "eliminated": true
-    },
-    {
-      "colleague": "Achille",
-      "team": "Cape Verde Islands",
-      "team_id": 1533,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 3,
-      "played": 2,
-      "wins": 0,
-      "draws": 2,
-      "goals_for": 2,
-      "clean_sheets": 1,
-      "yellow_cards": 3,
-      "red_cards": 0,
-      "upset_bonus": 0,
-      "eliminated": true
-    },
-    {
       "colleague": "Tobias",
       "team": "Paraguay",
       "team_id": 2380,
@@ -396,8 +379,8 @@
       "colleague": "Gabe",
       "team": "New Zealand",
       "team_id": 4673,
-      "next_match_utc": "2026-06-27T03:00:00Z",
-      "next_match_vs": "Belgium",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 2,
       "played": 2,
       "wins": 0,
@@ -518,12 +501,12 @@
       "next_match_utc": null,
       "next_match_vs": null,
       "points": -1,
-      "played": 2,
+      "played": 3,
       "wins": 0,
-      "draws": 1,
+      "draws": 2,
       "goals_for": 1,
-      "clean_sheets": 0,
-      "yellow_cards": 3,
+      "clean_sheets": 1,
+      "yellow_cards": 6,
       "red_cards": 0,
       "upset_bonus": 0,
       "eliminated": true
@@ -542,6 +525,23 @@
       "clean_sheets": 0,
       "yellow_cards": 2,
       "red_cards": 0,
+      "upset_bonus": 0,
+      "eliminated": true
+    },
+    {
+      "colleague": "Euan",
+      "team": "Uruguay",
+      "team_id": 7,
+      "next_match_utc": null,
+      "next_match_vs": null,
+      "points": -2,
+      "played": 3,
+      "wins": 0,
+      "draws": 2,
+      "goals_for": 3,
+      "clean_sheets": 0,
+      "yellow_cards": 5,
+      "red_cards": 1,
       "upset_bonus": 0,
       "eliminated": true
     },
@@ -663,7 +663,7 @@
     {
       "team_id": 1090,
       "team": "Norway",
-      "points": 14
+      "points": 16
     },
     {
       "team_id": 1531,
@@ -677,26 +677,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-27T03:00:00Z",
-      "home_team": "Egypt",
-      "away_team": "Iran",
-      "home_group": "C",
-      "away_group": "C",
-      "venue": "Lumen Field",
-      "city": "Seattle",
-      "round": "Group Stage - 3"
-    },
-    {
-      "date": "2026-06-27T03:00:00Z",
-      "home_team": "New Zealand",
-      "away_team": "Belgium",
-      "home_group": "D",
-      "away_group": "A",
-      "venue": "BC Place",
-      "city": "Vancouver",
-      "round": "Group Stage - 3"
-    },
     {
       "date": "2026-06-27T21:00:00Z",
       "home_team": "Croatia",
@@ -788,6 +768,16 @@
       "round": "Round of 32"
     },
     {
+      "date": "2026-06-30T17:00:00Z",
+      "home_team": "Ivory Coast",
+      "away_team": "Norway",
+      "home_group": "C",
+      "away_group": "B",
+      "venue": "",
+      "city": "",
+      "round": "Round of 32"
+    },
+    {
       "date": "2026-07-02T00:00:00Z",
       "home_team": "USA",
       "away_team": "Bosnia & Herzegovina",
@@ -799,6 +789,32 @@
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-06-27T00:00:00Z",
+      "home_team": "Uruguay",
+      "away_team": "Spain",
+      "home_score": 0,
+      "away_score": 1,
+      "home_group": "B",
+      "away_group": "A",
+      "venue": "Estadio Akron",
+      "city": "Zapopan",
+      "round": "Group Stage - 3",
+      "status": "FT"
+    },
+    {
+      "date": "2026-06-27T00:00:00Z",
+      "home_team": "Cape Verde Islands",
+      "away_team": "Saudi Arabia",
+      "home_score": 0,
+      "away_score": 0,
+      "home_group": "D",
+      "away_group": "C",
+      "venue": "NRG Stadium",
+      "city": "Houston",
+      "round": "Group Stage - 3",
+      "status": "FT"
+    },
     {
       "date": "2026-06-26T19:00:00Z",
       "home_team": "Senegal",
@@ -1160,32 +1176,6 @@
       "away_group": "D",
       "venue": "Arrowhead Stadium",
       "city": "Kansas City",
-      "round": "Group Stage - 2",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-20T20:00:00Z",
-      "home_team": "Germany",
-      "away_team": "Ivory Coast",
-      "home_score": 2,
-      "away_score": 1,
-      "home_group": "A",
-      "away_group": "C",
-      "venue": "BMO Field",
-      "city": "Toronto",
-      "round": "Group Stage - 2",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-20T17:00:00Z",
-      "home_team": "Netherlands",
-      "away_team": "Sweden",
-      "home_score": 5,
-      "away_score": 1,
-      "home_group": "A",
-      "away_group": "B",
-      "venue": "NRG Stadium",
-      "city": "Houston",
       "round": "Group Stage - 2",
       "status": "FT"
     }

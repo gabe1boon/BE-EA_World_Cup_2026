@@ -1,0 +1,332 @@
+[
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 11,
+      "name": "Panama",
+      "logo": "https://media.api-sports.io/football/teams/11.png"
+    },
+    "player": {
+      "id": 57910,
+      "name": "T. Rodriguez"
+    },
+    "assist": {
+      "id": 2983,
+      "name": "J. Fajardo"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 53,
+      "extra": null
+    },
+    "team": {
+      "id": 11,
+      "name": "Panama",
+      "logo": "https://media.api-sports.io/football/teams/11.png"
+    },
+    "player": {
+      "id": 2983,
+      "name": "J. Fajardo"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Holding"
+  },
+  {
+    "time": {
+      "elapsed": 60,
+      "extra": null
+    },
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "player": {
+      "id": 158698,
+      "name": "J. Quansah"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  },
+  {
+    "time": {
+      "elapsed": 62,
+      "extra": null
+    },
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "player": {
+      "id": 129718,
+      "name": "J. Bellingham"
+    },
+    "assist": {
+      "id": 1460,
+      "name": "B. Saka"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 63,
+      "extra": null
+    },
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "player": {
+      "id": 158698,
+      "name": "J. Quansah"
+    },
+    "assist": {
+      "id": 19235,
+      "name": "D. Spence"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 63,
+      "extra": null
+    },
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "player": {
+      "id": 1460,
+      "name": "B. Saka"
+    },
+    "assist": {
+      "id": 136723,
+      "name": "N. Madueke"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 67,
+      "extra": null
+    },
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "player": {
+      "id": 184,
+      "name": "H. Kane"
+    },
+    "assist": {
+      "id": 129718,
+      "name": "J. Bellingham"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 71,
+      "extra": null
+    },
+    "team": {
+      "id": 11,
+      "name": "Panama",
+      "logo": "https://media.api-sports.io/football/teams/11.png"
+    },
+    "player": {
+      "id": 46855,
+      "name": "Y. Barcenas"
+    },
+    "assist": {
+      "id": 96615,
+      "name": "I. Diaz"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 71,
+      "extra": null
+    },
+    "team": {
+      "id": 11,
+      "name": "Panama",
+      "logo": "https://media.api-sports.io/football/teams/11.png"
+    },
+    "player": {
+      "id": 2979,
+      "name": "J. Rodriguez"
+    },
+    "assist": {
+      "id": 292396,
+      "name": "A. Londono"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 71,
+      "extra": null
+    },
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "player": {
+      "id": 129718,
+      "name": "J. Bellingham"
+    },
+    "assist": {
+      "id": 19586,
+      "name": "E. Eze"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 84,
+      "extra": null
+    },
+    "team": {
+      "id": 11,
+      "name": "Panama",
+      "logo": "https://media.api-sports.io/football/teams/11.png"
+    },
+    "player": {
+      "id": 7197,
+      "name": "A. Andrade"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Holding"
+  },
+  {
+    "time": {
+      "elapsed": 84,
+      "extra": null
+    },
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "player": {
+      "id": 138908,
+      "name": "E. Anderson"
+    },
+    "assist": {
+      "id": 292,
+      "name": "J. Henderson"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 84,
+      "extra": null
+    },
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "player": {
+      "id": 184,
+      "name": "H. Kane"
+    },
+    "assist": {
+      "id": 19366,
+      "name": "O. Watkins"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 88,
+      "extra": null
+    },
+    "team": {
+      "id": 11,
+      "name": "Panama",
+      "logo": "https://media.api-sports.io/football/teams/11.png"
+    },
+    "player": {
+      "id": 71230,
+      "name": "C. Harvey"
+    },
+    "assist": {
+      "id": 2978,
+      "name": "A. Quintero"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 88,
+      "extra": null
+    },
+    "team": {
+      "id": 11,
+      "name": "Panama",
+      "logo": "https://media.api-sports.io/football/teams/11.png"
+    },
+    "player": {
+      "id": 57803,
+      "name": "J. Gutierrez"
+    },
+    "assist": {
+      "id": 2970,
+      "name": "E. Davis"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  }
+]

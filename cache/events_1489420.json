@@ -1,0 +1,310 @@
+[
+  {
+    "time": {
+      "elapsed": 31,
+      "extra": null
+    },
+    "team": {
+      "id": 3,
+      "name": "Croatia",
+      "logo": "https://media.api-sports.io/football/teams/3.png"
+    },
+    "player": {
+      "id": 348205,
+      "name": "P. Sucic"
+    },
+    "assist": {
+      "id": 2291,
+      "name": "M. Kovacic"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 1504,
+      "name": "Ghana",
+      "logo": "https://media.api-sports.io/football/teams/1504.png"
+    },
+    "player": {
+      "id": 369425,
+      "name": "J. Adjetey"
+    },
+    "assist": {
+      "id": 404172,
+      "name": "K. Peprah"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 1504,
+      "name": "Ghana",
+      "logo": "https://media.api-sports.io/football/teams/1504.png"
+    },
+    "player": {
+      "id": 21010,
+      "name": "E. Owusu"
+    },
+    "assist": {
+      "id": 303467,
+      "name": "I. Fatawu"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 66,
+      "extra": null
+    },
+    "team": {
+      "id": 3,
+      "name": "Croatia",
+      "logo": "https://media.api-sports.io/football/teams/3.png"
+    },
+    "player": {
+      "id": 46746,
+      "name": "A. Budimir"
+    },
+    "assist": {
+      "id": 202696,
+      "name": "I. Matanovic"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 68,
+      "extra": null
+    },
+    "team": {
+      "id": 3,
+      "name": "Croatia",
+      "logo": "https://media.api-sports.io/football/teams/3.png"
+    },
+    "player": {
+      "id": 207,
+      "name": "I. Perisic"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  },
+  {
+    "time": {
+      "elapsed": 71,
+      "extra": null
+    },
+    "team": {
+      "id": 1504,
+      "name": "Ghana",
+      "logo": "https://media.api-sports.io/football/teams/1504.png"
+    },
+    "player": {
+      "id": 3428,
+      "name": "J. Ayew"
+    },
+    "assist": {
+      "id": 82090,
+      "name": "B. Thomas-Asante"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 71,
+      "extra": null
+    },
+    "team": {
+      "id": 1504,
+      "name": "Ghana",
+      "logo": "https://media.api-sports.io/football/teams/1504.png"
+    },
+    "player": {
+      "id": 199837,
+      "name": "K. Sulemana"
+    },
+    "assist": {
+      "id": 350856,
+      "name": "E. Nuamah"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 73,
+      "extra": null
+    },
+    "team": {
+      "id": 1504,
+      "name": "Ghana",
+      "logo": "https://media.api-sports.io/football/teams/1504.png"
+    },
+    "player": {
+      "id": 25341,
+      "name": "D. Luckassen"
+    },
+    "assist": {
+      "id": 350856,
+      "name": "E. Nuamah"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 78,
+      "extra": null
+    },
+    "team": {
+      "id": 3,
+      "name": "Croatia",
+      "logo": "https://media.api-sports.io/football/teams/3.png"
+    },
+    "player": {
+      "id": 2291,
+      "name": "M. Kovacic"
+    },
+    "assist": {
+      "id": 2763,
+      "name": "M. Pasalic"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 83,
+      "extra": null
+    },
+    "team": {
+      "id": 3,
+      "name": "Croatia",
+      "logo": "https://media.api-sports.io/football/teams/3.png"
+    },
+    "player": {
+      "id": 842,
+      "name": "N. Vlasic"
+    },
+    "assist": {
+      "id": 754,
+      "name": "L. Modric"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 85,
+      "extra": null
+    },
+    "team": {
+      "id": 1504,
+      "name": "Ghana",
+      "logo": "https://media.api-sports.io/football/teams/1504.png"
+    },
+    "player": {
+      "id": 3608,
+      "name": "K. Sibo"
+    },
+    "assist": {
+      "id": 475575,
+      "name": "C. Yirenkyi"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 88,
+      "extra": null
+    },
+    "team": {
+      "id": 3,
+      "name": "Croatia",
+      "logo": "https://media.api-sports.io/football/teams/3.png"
+    },
+    "player": {
+      "id": 295026,
+      "name": "M. Baturina"
+    },
+    "assist": {
+      "id": 260865,
+      "name": "M. Pasalic"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 88,
+      "extra": null
+    },
+    "team": {
+      "id": 3,
+      "name": "Croatia",
+      "logo": "https://media.api-sports.io/football/teams/3.png"
+    },
+    "player": {
+      "id": 842,
+      "name": "N. Vlasic"
+    },
+    "assist": {
+      "id": 129033,
+      "name": "J. Gvardiol"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 4
+    },
+    "team": {
+      "id": 1504,
+      "name": "Ghana",
+      "logo": "https://media.api-sports.io/football/teams/1504.png"
+    },
+    "player": {
+      "id": 404172,
+      "name": "K. Peprah"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  }
+]

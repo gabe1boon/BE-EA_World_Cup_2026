@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-28T18:59:04Z",
+  "updated_at": "2026-06-28T20:12:38Z",
   "leaderboard": [
     {
       "colleague": "Sachin",
@@ -677,16 +677,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-28T19:00:00Z",
-      "home_team": "South Africa",
-      "away_team": "Canada",
-      "home_group": "D",
-      "away_group": "B",
-      "venue": "SoFi Stadium",
-      "city": "Inglewood",
-      "round": "Round of 32"
-    },
     {
       "date": "2026-06-29T17:00:00Z",
       "home_team": "Brazil",

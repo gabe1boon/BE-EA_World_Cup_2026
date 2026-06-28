@@ -1,0 +1,354 @@
+[
+  {
+    "time": {
+      "elapsed": 11,
+      "extra": null
+    },
+    "team": {
+      "id": 775,
+      "name": "Austria",
+      "logo": "https://media.api-sports.io/football/teams/775.png"
+    },
+    "player": {
+      "id": 18830,
+      "name": "M. Arnautovic"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  },
+  {
+    "time": {
+      "elapsed": 28,
+      "extra": null
+    },
+    "team": {
+      "id": 775,
+      "name": "Austria",
+      "logo": "https://media.api-sports.io/football/teams/775.png"
+    },
+    "player": {
+      "id": 18830,
+      "name": "M. Arnautovic"
+    },
+    "assist": {
+      "id": 505,
+      "name": "D. Alaba"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 45,
+      "extra": null
+    },
+    "team": {
+      "id": 1532,
+      "name": "Algeria",
+      "logo": "https://media.api-sports.io/football/teams/1532.png"
+    },
+    "player": {
+      "id": 303362,
+      "name": "R. Belghali"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 775,
+      "name": "Austria",
+      "logo": "https://media.api-sports.io/football/teams/775.png"
+    },
+    "player": {
+      "id": 18830,
+      "name": "M. Arnautovic"
+    },
+    "assist": {
+      "id": 25297,
+      "name": "M. Gregoritsch"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 775,
+      "name": "Austria",
+      "logo": "https://media.api-sports.io/football/teams/775.png"
+    },
+    "player": {
+      "id": 1095,
+      "name": "X. Schlager"
+    },
+    "assist": {
+      "id": 719,
+      "name": "F. Grillitsch"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 775,
+      "name": "Austria",
+      "logo": "https://media.api-sports.io/football/teams/775.png"
+    },
+    "player": {
+      "id": 7562,
+      "name": "R. Schmid"
+    },
+    "assist": {
+      "id": 327895,
+      "name": "P. Wanner"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 55,
+      "extra": null
+    },
+    "team": {
+      "id": 775,
+      "name": "Austria",
+      "logo": "https://media.api-sports.io/football/teams/775.png"
+    },
+    "player": {
+      "id": 1159,
+      "name": "M. Sabitzer"
+    },
+    "assist": {
+      "id": 1157,
+      "name": "K. Laimer"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 60,
+      "extra": null
+    },
+    "team": {
+      "id": 1532,
+      "name": "Algeria",
+      "logo": "https://media.api-sports.io/football/teams/1532.png"
+    },
+    "player": {
+      "id": 635,
+      "name": "R. Mahrez"
+    },
+    "assist": {
+      "id": 658,
+      "name": "H. Aouar"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 62,
+      "extra": null
+    },
+    "team": {
+      "id": 775,
+      "name": "Austria",
+      "logo": "https://media.api-sports.io/football/teams/775.png"
+    },
+    "player": {
+      "id": 505,
+      "name": "D. Alaba"
+    },
+    "assist": {
+      "id": 25287,
+      "name": "K. Danso"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 71,
+      "extra": null
+    },
+    "team": {
+      "id": 1532,
+      "name": "Algeria",
+      "logo": "https://media.api-sports.io/football/teams/1532.png"
+    },
+    "player": {
+      "id": 271539,
+      "name": "J. Hadjam"
+    },
+    "assist": {
+      "id": 21138,
+      "name": "R. Ait-Nouri"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 71,
+      "extra": null
+    },
+    "team": {
+      "id": 1532,
+      "name": "Algeria",
+      "logo": "https://media.api-sports.io/football/teams/1532.png"
+    },
+    "player": {
+      "id": 85041,
+      "name": "A. Gouiri"
+    },
+    "assist": {
+      "id": 4561,
+      "name": "Z. Belaid"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 71,
+      "extra": null
+    },
+    "team": {
+      "id": 1532,
+      "name": "Algeria",
+      "logo": "https://media.api-sports.io/football/teams/1532.png"
+    },
+    "player": {
+      "id": 303362,
+      "name": "R. Belghali"
+    },
+    "assist": {
+      "id": 20869,
+      "name": "S. Chergui"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 3
+    },
+    "team": {
+      "id": 1532,
+      "name": "Algeria",
+      "logo": "https://media.api-sports.io/football/teams/1532.png"
+    },
+    "player": {
+      "id": 635,
+      "name": "R. Mahrez"
+    },
+    "assist": {
+      "id": 658,
+      "name": "H. Aouar"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 4
+    },
+    "team": {
+      "id": 1532,
+      "name": "Algeria",
+      "logo": "https://media.api-sports.io/football/teams/1532.png"
+    },
+    "player": {
+      "id": 658,
+      "name": "H. Aouar"
+    },
+    "assist": {
+      "id": 334915,
+      "name": "F. Ghedjemis"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 5
+    },
+    "team": {
+      "id": 775,
+      "name": "Austria",
+      "logo": "https://media.api-sports.io/football/teams/775.png"
+    },
+    "player": {
+      "id": 25915,
+      "name": "P. Mwene"
+    },
+    "assist": {
+      "id": 7722,
+      "name": "S. Kalajdzic"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 6
+    },
+    "team": {
+      "id": 775,
+      "name": "Austria",
+      "logo": "https://media.api-sports.io/football/teams/775.png"
+    },
+    "player": {
+      "id": 7722,
+      "name": "S. Kalajdzic"
+    },
+    "assist": {
+      "id": 25297,
+      "name": "M. Gregoritsch"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  }
+]

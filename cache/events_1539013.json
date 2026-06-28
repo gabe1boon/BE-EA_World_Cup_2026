@@ -1,0 +1,442 @@
+[
+  {
+    "time": {
+      "elapsed": 10,
+      "extra": null
+    },
+    "team": {
+      "id": 1568,
+      "name": "Uzbekistan",
+      "logo": "https://media.api-sports.io/football/teams/1568.png"
+    },
+    "player": {
+      "id": 53535,
+      "name": "E. Shomurodov"
+    },
+    "assist": {
+      "id": 73522,
+      "name": "A. Mozgovoy"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 17,
+      "extra": null
+    },
+    "team": {
+      "id": 1508,
+      "name": "Congo DR",
+      "logo": "https://media.api-sports.io/football/teams/1508.png"
+    },
+    "player": {
+      "id": 129670,
+      "name": "N. Mbuku"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Var",
+    "detail": "Goal Disallowed - Foul",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 21,
+      "extra": null
+    },
+    "team": {
+      "id": 1508,
+      "name": "Congo DR",
+      "logo": "https://media.api-sports.io/football/teams/1508.png"
+    },
+    "player": {
+      "id": 365331,
+      "name": "N. Sadiki"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  },
+  {
+    "time": {
+      "elapsed": 43,
+      "extra": null
+    },
+    "team": {
+      "id": 1568,
+      "name": "Uzbekistan",
+      "logo": "https://media.api-sports.io/football/teams/1568.png"
+    },
+    "player": {
+      "id": 360114,
+      "name": "A. Khusanov"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 45,
+      "extra": 5
+    },
+    "team": {
+      "id": 1508,
+      "name": "Congo DR",
+      "logo": "https://media.api-sports.io/football/teams/1508.png"
+    },
+    "player": {
+      "id": 129670,
+      "name": "N. Mbuku"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  },
+  {
+    "time": {
+      "elapsed": 48,
+      "extra": null
+    },
+    "team": {
+      "id": 1568,
+      "name": "Uzbekistan",
+      "logo": "https://media.api-sports.io/football/teams/1568.png"
+    },
+    "player": {
+      "id": 73514,
+      "name": "S. Nasrullaev"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Holding"
+  },
+  {
+    "time": {
+      "elapsed": 51,
+      "extra": null
+    },
+    "team": {
+      "id": 1508,
+      "name": "Congo DR",
+      "logo": "https://media.api-sports.io/football/teams/1508.png"
+    },
+    "player": {
+      "id": 3033,
+      "name": "C. Bakambu"
+    },
+    "assist": {
+      "id": 179699,
+      "name": "F. Mayele"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 59,
+      "extra": null
+    },
+    "team": {
+      "id": 1568,
+      "name": "Uzbekistan",
+      "logo": "https://media.api-sports.io/football/teams/1568.png"
+    },
+    "player": {
+      "id": 50272,
+      "name": "O. Shukurov"
+    },
+    "assist": {
+      "id": 53835,
+      "name": "O. Khamrobekov"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 59,
+      "extra": null
+    },
+    "team": {
+      "id": 1568,
+      "name": "Uzbekistan",
+      "logo": "https://media.api-sports.io/football/teams/1568.png"
+    },
+    "player": {
+      "id": 53834,
+      "name": "D. Khamdamov"
+    },
+    "assist": {
+      "id": 73520,
+      "name": "A. Ganiev"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 62,
+      "extra": null
+    },
+    "team": {
+      "id": 1508,
+      "name": "Congo DR",
+      "logo": "https://media.api-sports.io/football/teams/1508.png"
+    },
+    "player": {
+      "id": 21101,
+      "name": "S. Moutoussamy"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 68,
+      "extra": null
+    },
+    "team": {
+      "id": 1508,
+      "name": "Congo DR",
+      "logo": "https://media.api-sports.io/football/teams/1508.png"
+    },
+    "player": {
+      "id": 20649,
+      "name": "Y. Wissa"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 72,
+      "extra": null
+    },
+    "team": {
+      "id": 1508,
+      "name": "Congo DR",
+      "logo": "https://media.api-sports.io/football/teams/1508.png"
+    },
+    "player": {
+      "id": 279482,
+      "name": "B. Cipenga"
+    },
+    "assist": {
+      "id": 8627,
+      "name": "T. Bongonda"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 72,
+      "extra": null
+    },
+    "team": {
+      "id": 1508,
+      "name": "Congo DR",
+      "logo": "https://media.api-sports.io/football/teams/1508.png"
+    },
+    "player": {
+      "id": 21101,
+      "name": "S. Moutoussamy"
+    },
+    "assist": {
+      "id": 375598,
+      "name": "N. Mukau"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 72,
+      "extra": null
+    },
+    "team": {
+      "id": 1508,
+      "name": "Congo DR",
+      "logo": "https://media.api-sports.io/football/teams/1508.png"
+    },
+    "player": {
+      "id": 129670,
+      "name": "N. Mbuku"
+    },
+    "assist": {
+      "id": 3034,
+      "name": "M. Elia"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 73,
+      "extra": null
+    },
+    "team": {
+      "id": 1568,
+      "name": "Uzbekistan",
+      "logo": "https://media.api-sports.io/football/teams/1568.png"
+    },
+    "player": {
+      "id": 263676,
+      "name": "A. Fayzullaev"
+    },
+    "assist": {
+      "id": 72127,
+      "name": "O. Urunov"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 78,
+      "extra": null
+    },
+    "team": {
+      "id": 1508,
+      "name": "Congo DR",
+      "logo": "https://media.api-sports.io/football/teams/1508.png"
+    },
+    "player": {
+      "id": 179699,
+      "name": "F. Mayele"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 82,
+      "extra": null
+    },
+    "team": {
+      "id": 1568,
+      "name": "Uzbekistan",
+      "logo": "https://media.api-sports.io/football/teams/1568.png"
+    },
+    "player": {
+      "id": 358427,
+      "name": "J. Urozov"
+    },
+    "assist": {
+      "id": 72128,
+      "name": "I. Sergeev"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 82,
+      "extra": null
+    },
+    "team": {
+      "id": 1568,
+      "name": "Uzbekistan",
+      "logo": "https://media.api-sports.io/football/teams/1568.png"
+    },
+    "player": {
+      "id": 73522,
+      "name": "A. Mozgovoy"
+    },
+    "assist": {
+      "id": 65576,
+      "name": "J. Iskanderov"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 83,
+      "extra": null
+    },
+    "team": {
+      "id": 1508,
+      "name": "Congo DR",
+      "logo": "https://media.api-sports.io/football/teams/1508.png"
+    },
+    "player": {
+      "id": 18816,
+      "name": "A. Masuaku"
+    },
+    "assist": {
+      "id": 21098,
+      "name": "J. Kayembe"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 1
+    },
+    "team": {
+      "id": 1508,
+      "name": "Congo DR",
+      "logo": "https://media.api-sports.io/football/teams/1508.png"
+    },
+    "player": {
+      "id": 20649,
+      "name": "Y. Wissa"
+    },
+    "assist": {
+      "id": 3034,
+      "name": "M. Elia"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  }
+]

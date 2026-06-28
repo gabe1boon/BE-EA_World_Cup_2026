@@ -1,0 +1,266 @@
+[
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 27,
+      "name": "Portugal",
+      "logo": "https://media.api-sports.io/football/teams/27.png"
+    },
+    "player": {
+      "id": 2676,
+      "name": "R. Neves"
+    },
+    "assist": {
+      "id": 335051,
+      "name": "J. Neves"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 27,
+      "name": "Portugal",
+      "logo": "https://media.api-sports.io/football/teams/27.png"
+    },
+    "player": {
+      "id": 855,
+      "name": "J. Cancelo"
+    },
+    "assist": {
+      "id": 886,
+      "name": "D. Dalot"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 60,
+      "extra": null
+    },
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    "player": {
+      "id": 2490,
+      "name": "J. Lerma"
+    },
+    "assist": {
+      "id": 195104,
+      "name": "R. Rios"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 60,
+      "extra": null
+    },
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    "player": {
+      "id": 24810,
+      "name": "J. Cordoba"
+    },
+    "assist": {
+      "id": 47237,
+      "name": "L. Suarez"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 70,
+      "extra": null
+    },
+    "team": {
+      "id": 27,
+      "name": "Portugal",
+      "logo": "https://media.api-sports.io/football/teams/27.png"
+    },
+    "player": {
+      "id": 583,
+      "name": "Joao Felix"
+    },
+    "assist": {
+      "id": 22236,
+      "name": "R. Leao"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 70,
+      "extra": null
+    },
+    "team": {
+      "id": 27,
+      "name": "Portugal",
+      "logo": "https://media.api-sports.io/football/teams/27.png"
+    },
+    "player": {
+      "id": 128384,
+      "name": "Vitinha"
+    },
+    "assist": {
+      "id": 190485,
+      "name": "Samu Costa"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 76,
+      "extra": null
+    },
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    "player": {
+      "id": 13708,
+      "name": "J. Arias"
+    },
+    "assist": {
+      "id": 289592,
+      "name": "K. Castano"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 76,
+      "extra": null
+    },
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    "player": {
+      "id": 517,
+      "name": "J. Rodriguez"
+    },
+    "assist": {
+      "id": 6005,
+      "name": "J. Quintero"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 86,
+      "extra": null
+    },
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    "player": {
+      "id": 324034,
+      "name": "G. Puerta"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  },
+  {
+    "time": {
+      "elapsed": 87,
+      "extra": null
+    },
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    "player": {
+      "id": 30,
+      "name": "S. Arias"
+    },
+    "assist": {
+      "id": 13736,
+      "name": "D. Munoz"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 2
+    },
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    "player": {
+      "id": 168,
+      "name": "D. Sanchez"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Var",
+    "detail": "Goal Disallowed - offside",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 3
+    },
+    "team": {
+      "id": 27,
+      "name": "Portugal",
+      "logo": "https://media.api-sports.io/football/teams/27.png"
+    },
+    "player": {
+      "id": 263482,
+      "name": "N. Mendes"
+    },
+    "assist": {
+      "id": 41621,
+      "name": "M. Nunes"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  }
+]

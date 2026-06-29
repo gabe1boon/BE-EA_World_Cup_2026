@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T16:31:42Z",
+  "updated_at": "2026-06-29T18:56:14Z",
   "leaderboard": [
     {
       "colleague": "Sachin",
@@ -73,8 +73,8 @@
       "colleague": "Marija",
       "team": "Brazil",
       "team_id": 6,
-      "next_match_utc": "2026-06-29T17:00:00Z",
-      "next_match_vs": "Japan",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 15,
       "played": 3,
       "wins": 2,
@@ -90,8 +90,8 @@
       "colleague": "Dusan",
       "team": "Japan",
       "team_id": 12,
-      "next_match_utc": "2026-06-29T17:00:00Z",
-      "next_match_vs": "Brazil",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 15,
       "played": 3,
       "wins": 1,
@@ -677,16 +677,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-29T17:00:00Z",
-      "home_team": "Brazil",
-      "away_team": "Japan",
-      "home_group": "A",
-      "away_group": "B",
-      "venue": "NRG Stadium",
-      "city": "Houston",
-      "round": "Round of 32"
-    },
     {
       "date": "2026-06-29T20:30:00Z",
       "home_team": "Germany",

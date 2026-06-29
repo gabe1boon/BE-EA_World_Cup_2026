@@ -1,0 +1,728 @@
+[
+  {
+    "time": {
+      "elapsed": 42,
+      "extra": null
+    },
+    "team": {
+      "id": 2380,
+      "name": "Paraguay",
+      "logo": "https://media.api-sports.io/football/teams/2380.png"
+    },
+    "player": {
+      "id": 70747,
+      "name": "J. Enciso"
+    },
+    "assist": {
+      "id": 305832,
+      "name": "M. Galarza"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 25,
+      "name": "Germany",
+      "logo": "https://media.api-sports.io/football/teams/25.png"
+    },
+    "player": {
+      "id": 637,
+      "name": "F. Nmecha"
+    },
+    "assist": {
+      "id": 511,
+      "name": "L. Goretzka"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 54,
+      "extra": null
+    },
+    "team": {
+      "id": 25,
+      "name": "Germany",
+      "logo": "https://media.api-sports.io/football/teams/25.png"
+    },
+    "player": {
+      "id": 978,
+      "name": "K. Havertz"
+    },
+    "assist": {
+      "id": 203224,
+      "name": "F. Wirtz"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 55,
+      "extra": null
+    },
+    "team": {
+      "id": 2380,
+      "name": "Paraguay",
+      "logo": "https://media.api-sports.io/football/teams/2380.png"
+    },
+    "player": {
+      "id": 6483,
+      "name": "G. Avalos"
+    },
+    "assist": {
+      "id": 119128,
+      "name": "G. Caballero"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 57,
+      "extra": null
+    },
+    "team": {
+      "id": 2380,
+      "name": "Paraguay",
+      "logo": "https://media.api-sports.io/football/teams/2380.png"
+    },
+    "player": {
+      "id": 70747,
+      "name": "J. Enciso"
+    },
+    "assist": {
+      "id": 106485,
+      "name": "Mauricio"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 63,
+      "extra": null
+    },
+    "team": {
+      "id": 25,
+      "name": "Germany",
+      "logo": "https://media.api-sports.io/football/teams/25.png"
+    },
+    "player": {
+      "id": 26475,
+      "name": "D. Undav"
+    },
+    "assist": {
+      "id": 181812,
+      "name": "J. Musiala"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 65,
+      "extra": null
+    },
+    "team": {
+      "id": 2380,
+      "name": "Paraguay",
+      "logo": "https://media.api-sports.io/football/teams/2380.png"
+    },
+    "player": {
+      "id": 6236,
+      "name": "A. Cubas"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  },
+  {
+    "time": {
+      "elapsed": 79,
+      "extra": null
+    },
+    "team": {
+      "id": 25,
+      "name": "Germany",
+      "logo": "https://media.api-sports.io/football/teams/25.png"
+    },
+    "player": {
+      "id": 328033,
+      "name": "A. Pavlovic"
+    },
+    "assist": {
+      "id": 25368,
+      "name": "W. Anton"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 88,
+      "extra": null
+    },
+    "team": {
+      "id": 25,
+      "name": "Germany",
+      "logo": "https://media.api-sports.io/football/teams/25.png"
+    },
+    "player": {
+      "id": 644,
+      "name": "L. Sane"
+    },
+    "assist": {
+      "id": 158054,
+      "name": "N. Woltemade"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 91,
+      "extra": null
+    },
+    "team": {
+      "id": 2380,
+      "name": "Paraguay",
+      "logo": "https://media.api-sports.io/football/teams/2380.png"
+    },
+    "player": {
+      "id": 2507,
+      "name": "M. Almiron"
+    },
+    "assist": {
+      "id": 35808,
+      "name": "G. Velazquez"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 99,
+      "extra": null
+    },
+    "team": {
+      "id": 2380,
+      "name": "Paraguay",
+      "logo": "https://media.api-sports.io/football/teams/2380.png"
+    },
+    "player": {
+      "id": 195992,
+      "name": "J. Caceres"
+    },
+    "assist": {
+      "id": 70767,
+      "name": "B. Ojeda"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 99,
+      "extra": null
+    },
+    "team": {
+      "id": 2380,
+      "name": "Paraguay",
+      "logo": "https://media.api-sports.io/football/teams/2380.png"
+    },
+    "player": {
+      "id": 195107,
+      "name": "D. Bobadilla"
+    },
+    "assist": {
+      "id": 2522,
+      "name": "A. Sanabria"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 102,
+      "extra": null
+    },
+    "team": {
+      "id": 25,
+      "name": "Germany",
+      "logo": "https://media.api-sports.io/football/teams/25.png"
+    },
+    "player": {
+      "id": 972,
+      "name": "J. Tah"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Var",
+    "detail": "Goal Disallowed - Foul",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 105,
+      "extra": null
+    },
+    "team": {
+      "id": 2380,
+      "name": "Paraguay",
+      "logo": "https://media.api-sports.io/football/teams/2380.png"
+    },
+    "player": {
+      "id": null,
+      "name": "G. Alfaro"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 105,
+      "extra": 1
+    },
+    "team": {
+      "id": 25,
+      "name": "Germany",
+      "logo": "https://media.api-sports.io/football/teams/25.png"
+    },
+    "player": {
+      "id": 406880,
+      "name": "J. Nagelsmann"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 106,
+      "extra": null
+    },
+    "team": {
+      "id": 25,
+      "name": "Germany",
+      "logo": "https://media.api-sports.io/football/teams/25.png"
+    },
+    "player": {
+      "id": 978,
+      "name": "K. Havertz"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Foul"
+  },
+  {
+    "time": {
+      "elapsed": 110,
+      "extra": null
+    },
+    "team": {
+      "id": 25,
+      "name": "Germany",
+      "logo": "https://media.api-sports.io/football/teams/25.png"
+    },
+    "player": {
+      "id": 203224,
+      "name": "F. Wirtz"
+    },
+    "assist": {
+      "id": 714,
+      "name": "N. Amiri"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 110,
+      "extra": null
+    },
+    "team": {
+      "id": 25,
+      "name": "Germany",
+      "logo": "https://media.api-sports.io/football/teams/25.png"
+    },
+    "player": {
+      "id": 2285,
+      "name": "A. Rudiger"
+    },
+    "assist": {
+      "id": 163189,
+      "name": "M. Thiaw"
+    },
+    "type": "subst",
+    "detail": "Substitution 6",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 115,
+      "extra": null
+    },
+    "team": {
+      "id": 25,
+      "name": "Germany",
+      "logo": "https://media.api-sports.io/football/teams/25.png"
+    },
+    "player": {
+      "id": 181812,
+      "name": "J. Musiala"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  },
+  {
+    "time": {
+      "elapsed": 117,
+      "extra": null
+    },
+    "team": {
+      "id": 2380,
+      "name": "Paraguay",
+      "logo": "https://media.api-sports.io/football/teams/2380.png"
+    },
+    "player": {
+      "id": 305832,
+      "name": "M. Galarza"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Foul"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 2
+    },
+    "team": {
+      "id": 2380,
+      "name": "Paraguay",
+      "logo": "https://media.api-sports.io/football/teams/2380.png"
+    },
+    "player": {
+      "id": 2499,
+      "name": "J. Alonso"
+    },
+    "assist": {
+      "id": 2500,
+      "name": "Fabian Balbuena"
+    },
+    "type": "subst",
+    "detail": "Substitution 6",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 1
+    },
+    "team": {
+      "id": 25,
+      "name": "Germany",
+      "logo": "https://media.api-sports.io/football/teams/25.png"
+    },
+    "player": {
+      "id": 978,
+      "name": "K. Havertz"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Missed Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 1
+    },
+    "team": {
+      "id": 2380,
+      "name": "Paraguay",
+      "logo": "https://media.api-sports.io/football/teams/2380.png"
+    },
+    "player": {
+      "id": 106485,
+      "name": "Mauricio"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 2
+    },
+    "team": {
+      "id": 25,
+      "name": "Germany",
+      "logo": "https://media.api-sports.io/football/teams/25.png"
+    },
+    "player": {
+      "id": 502,
+      "name": "J. Kimmich"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 2
+    },
+    "team": {
+      "id": 2380,
+      "name": "Paraguay",
+      "logo": "https://media.api-sports.io/football/teams/2380.png"
+    },
+    "player": {
+      "id": 2502,
+      "name": "G. Gomez"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 3
+    },
+    "team": {
+      "id": 25,
+      "name": "Germany",
+      "logo": "https://media.api-sports.io/football/teams/25.png"
+    },
+    "player": {
+      "id": 181812,
+      "name": "J. Musiala"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 3
+    },
+    "team": {
+      "id": 2380,
+      "name": "Paraguay",
+      "logo": "https://media.api-sports.io/football/teams/2380.png"
+    },
+    "player": {
+      "id": 305832,
+      "name": "M. Galarza"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 4
+    },
+    "team": {
+      "id": 25,
+      "name": "Germany",
+      "logo": "https://media.api-sports.io/football/teams/25.png"
+    },
+    "player": {
+      "id": 158054,
+      "name": "N. Woltemade"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Missed Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 4
+    },
+    "team": {
+      "id": 2380,
+      "name": "Paraguay",
+      "logo": "https://media.api-sports.io/football/teams/2380.png"
+    },
+    "player": {
+      "id": 2522,
+      "name": "A. Sanabria"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Missed Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 5
+    },
+    "team": {
+      "id": 25,
+      "name": "Germany",
+      "logo": "https://media.api-sports.io/football/teams/25.png"
+    },
+    "player": {
+      "id": 714,
+      "name": "N. Amiri"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 5
+    },
+    "team": {
+      "id": 2380,
+      "name": "Paraguay",
+      "logo": "https://media.api-sports.io/football/teams/2380.png"
+    },
+    "player": {
+      "id": 2500,
+      "name": "Fabian Balbuena"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Missed Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 6
+    },
+    "team": {
+      "id": 25,
+      "name": "Germany",
+      "logo": "https://media.api-sports.io/football/teams/25.png"
+    },
+    "player": {
+      "id": 972,
+      "name": "J. Tah"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Missed Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 6
+    },
+    "team": {
+      "id": 2380,
+      "name": "Paraguay",
+      "logo": "https://media.api-sports.io/football/teams/2380.png"
+    },
+    "player": {
+      "id": 70732,
+      "name": "J. Canale"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": "Penalty Shootout"
+  }
+]

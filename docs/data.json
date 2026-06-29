@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T18:56:14Z",
+  "updated_at": "2026-06-29T20:46:31Z",
   "leaderboard": [
     {
       "colleague": "Sachin",
@@ -36,6 +36,23 @@
       "eliminated": false
     },
     {
+      "colleague": "Marija",
+      "team": "Brazil",
+      "team_id": 6,
+      "next_match_utc": null,
+      "next_match_vs": null,
+      "points": 18,
+      "played": 4,
+      "wins": 3,
+      "draws": 1,
+      "goals_for": 9,
+      "clean_sheets": 2,
+      "yellow_cards": 7,
+      "red_cards": 0,
+      "upset_bonus": 0,
+      "eliminated": false
+    },
+    {
       "colleague": "Naini",
       "team": "Spain",
       "team_id": 9,
@@ -63,40 +80,6 @@
       "wins": 2,
       "draws": 1,
       "goals_for": 6,
-      "clean_sheets": 1,
-      "yellow_cards": 1,
-      "red_cards": 0,
-      "upset_bonus": 0,
-      "eliminated": false
-    },
-    {
-      "colleague": "Marija",
-      "team": "Brazil",
-      "team_id": 6,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 15,
-      "played": 3,
-      "wins": 2,
-      "draws": 1,
-      "goals_for": 7,
-      "clean_sheets": 2,
-      "yellow_cards": 5,
-      "red_cards": 0,
-      "upset_bonus": 0,
-      "eliminated": false
-    },
-    {
-      "colleague": "Dusan",
-      "team": "Japan",
-      "team_id": 12,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 15,
-      "played": 3,
-      "wins": 1,
-      "draws": 2,
-      "goals_for": 7,
       "clean_sheets": 1,
       "yellow_cards": 1,
       "red_cards": 0,
@@ -170,6 +153,23 @@
       "red_cards": 0,
       "upset_bonus": 1,
       "eliminated": false
+    },
+    {
+      "colleague": "Dusan",
+      "team": "Japan",
+      "team_id": 12,
+      "next_match_utc": null,
+      "next_match_vs": null,
+      "points": 13,
+      "played": 4,
+      "wins": 1,
+      "draws": 2,
+      "goals_for": 8,
+      "clean_sheets": 1,
+      "yellow_cards": 4,
+      "red_cards": 0,
+      "upset_bonus": 0,
+      "eliminated": true
     },
     {
       "colleague": "Carys",
@@ -362,8 +362,8 @@
       "colleague": "Tobias",
       "team": "Paraguay",
       "team_id": 2380,
-      "next_match_utc": "2026-06-29T20:30:00Z",
-      "next_match_vs": "Germany",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 4,
       "played": 3,
       "wins": 1,
@@ -678,16 +678,6 @@
   ],
   "upcoming_fixtures": [
     {
-      "date": "2026-06-29T20:30:00Z",
-      "home_team": "Germany",
-      "away_team": "Paraguay",
-      "home_group": "A",
-      "away_group": "D",
-      "venue": "Gillette Stadium",
-      "city": "Boston",
-      "round": "Round of 32"
-    },
-    {
       "date": "2026-06-30T01:00:00Z",
       "home_team": "Netherlands",
       "away_team": "Morocco",
@@ -819,6 +809,19 @@
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-06-29T17:00:00Z",
+      "home_team": "Brazil",
+      "away_team": "Japan",
+      "home_score": 2,
+      "away_score": 1,
+      "home_group": "A",
+      "away_group": "B",
+      "venue": "NRG Stadium",
+      "city": "Houston",
+      "round": "Round of 32",
+      "status": "FT"
+    },
     {
       "date": "2026-06-28T19:00:00Z",
       "home_team": "South Africa",
@@ -1193,19 +1196,6 @@
       "away_group": "D",
       "venue": "NRG Stadium",
       "city": "Houston",
-      "round": "Group Stage - 2",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-23T03:00:00Z",
-      "home_team": "Jordan",
-      "away_team": "Algeria",
-      "home_score": 1,
-      "away_score": 2,
-      "home_group": "D",
-      "away_group": "D",
-      "venue": "Levi's Stadium",
-      "city": "Santa Clara",
       "round": "Group Stage - 2",
       "status": "FT"
     }

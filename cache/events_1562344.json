@@ -1,0 +1,376 @@
+[
+  {
+    "time": {
+      "elapsed": 12,
+      "extra": null
+    },
+    "team": {
+      "id": 12,
+      "name": "Japan",
+      "logo": "https://media.api-sports.io/football/teams/12.png"
+    },
+    "player": {
+      "id": 33889,
+      "name": "K. Sano"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  },
+  {
+    "time": {
+      "elapsed": 14,
+      "extra": null
+    },
+    "team": {
+      "id": 6,
+      "name": "Brazil",
+      "logo": "https://media.api-sports.io/football/teams/6.png"
+    },
+    "player": {
+      "id": 747,
+      "name": "Casemiro"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 29,
+      "extra": null
+    },
+    "team": {
+      "id": 12,
+      "name": "Japan",
+      "logo": "https://media.api-sports.io/football/teams/12.png"
+    },
+    "player": {
+      "id": 33889,
+      "name": "K. Sano"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 45,
+      "extra": null
+    },
+    "team": {
+      "id": 12,
+      "name": "Japan",
+      "logo": "https://media.api-sports.io/football/teams/12.png"
+    },
+    "player": {
+      "id": 2601,
+      "name": "D. Kamada"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Holding"
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 6,
+      "name": "Brazil",
+      "logo": "https://media.api-sports.io/football/teams/6.png"
+    },
+    "player": {
+      "id": 1646,
+      "name": "Lucas Paqueta"
+    },
+    "assist": {
+      "id": 377122,
+      "name": "Endrick"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 48,
+      "extra": null
+    },
+    "team": {
+      "id": 6,
+      "name": "Brazil",
+      "logo": "https://media.api-sports.io/football/teams/6.png"
+    },
+    "player": {
+      "id": 618,
+      "name": "Danilo"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Elbowing"
+  },
+  {
+    "time": {
+      "elapsed": 56,
+      "extra": null
+    },
+    "team": {
+      "id": 6,
+      "name": "Brazil",
+      "logo": "https://media.api-sports.io/football/teams/6.png"
+    },
+    "player": {
+      "id": 747,
+      "name": "Casemiro"
+    },
+    "assist": {
+      "id": 22224,
+      "name": "Gabriel"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 66,
+      "extra": null
+    },
+    "team": {
+      "id": 6,
+      "name": "Brazil",
+      "logo": "https://media.api-sports.io/football/teams/6.png"
+    },
+    "player": {
+      "id": 1165,
+      "name": "M. Cunha"
+    },
+    "assist": {
+      "id": 127769,
+      "name": "G. Martinelli"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 66,
+      "extra": null
+    },
+    "team": {
+      "id": 12,
+      "name": "Japan",
+      "logo": "https://media.api-sports.io/football/teams/12.png"
+    },
+    "player": {
+      "id": 2598,
+      "name": "R. Doan"
+    },
+    "assist": {
+      "id": 32887,
+      "name": "Y. Sugawara"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 66,
+      "extra": null
+    },
+    "team": {
+      "id": 12,
+      "name": "Japan",
+      "logo": "https://media.api-sports.io/football/teams/12.png"
+    },
+    "player": {
+      "id": 33321,
+      "name": "K. Nakamura"
+    },
+    "assist": {
+      "id": 351014,
+      "name": "J. Suzuki"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 78,
+      "extra": null
+    },
+    "team": {
+      "id": 12,
+      "name": "Japan",
+      "logo": "https://media.api-sports.io/football/teams/12.png"
+    },
+    "player": {
+      "id": 2601,
+      "name": "D. Kamada"
+    },
+    "assist": {
+      "id": 32966,
+      "name": "A. Tanaka"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 78,
+      "extra": null
+    },
+    "team": {
+      "id": 12,
+      "name": "Japan",
+      "logo": "https://media.api-sports.io/football/teams/12.png"
+    },
+    "player": {
+      "id": 1942,
+      "name": "J. Ito"
+    },
+    "assist": {
+      "id": 106851,
+      "name": "S. Machino"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 84,
+      "extra": null
+    },
+    "team": {
+      "id": 12,
+      "name": "Japan",
+      "logo": "https://media.api-sports.io/football/teams/12.png"
+    },
+    "player": {
+      "id": 351014,
+      "name": "J. Suzuki"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 3
+    },
+    "team": {
+      "id": 6,
+      "name": "Brazil",
+      "logo": "https://media.api-sports.io/football/teams/6.png"
+    },
+    "player": {
+      "id": 747,
+      "name": "Casemiro"
+    },
+    "assist": {
+      "id": 299,
+      "name": "Fabinho"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 5
+    },
+    "team": {
+      "id": 6,
+      "name": "Brazil",
+      "logo": "https://media.api-sports.io/football/teams/6.png"
+    },
+    "player": {
+      "id": 127769,
+      "name": "G. Martinelli"
+    },
+    "assist": {
+      "id": 10135,
+      "name": "Bruno Guimaraes"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 7
+    },
+    "team": {
+      "id": 12,
+      "name": "Japan",
+      "logo": "https://media.api-sports.io/football/teams/12.png"
+    },
+    "player": {
+      "id": 33224,
+      "name": "D. Maeda"
+    },
+    "assist": {
+      "id": 33289,
+      "name": "K. Ogawa"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 8
+    },
+    "team": {
+      "id": 6,
+      "name": "Brazil",
+      "logo": "https://media.api-sports.io/football/teams/6.png"
+    },
+    "player": {
+      "id": 10135,
+      "name": "Bruno Guimaraes"
+    },
+    "assist": {
+      "id": 275170,
+      "name": "Danilo Santos"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  }
+]

@@ -1,0 +1,310 @@
+[
+  {
+    "time": {
+      "elapsed": 21,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 278,
+      "name": "K. Mbappe"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Var",
+    "detail": "Goal Disallowed - offside",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 45,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 278,
+      "name": "K. Mbappe"
+    },
+    "assist": {
+      "id": 153,
+      "name": "O. Dembele"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 53,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 161904,
+      "name": "B. Barcola"
+    },
+    "assist": {
+      "id": 19617,
+      "name": "M. Olise"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 66,
+      "extra": null
+    },
+    "team": {
+      "id": 5,
+      "name": "Sweden",
+      "logo": "https://media.api-sports.io/football/teams/5.png"
+    },
+    "player": {
+      "id": 226765,
+      "name": "E. Stroud"
+    },
+    "assist": {
+      "id": 160925,
+      "name": "T. Ali"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 66,
+      "extra": null
+    },
+    "team": {
+      "id": 5,
+      "name": "Sweden",
+      "logo": "https://media.api-sports.io/football/teams/5.png"
+    },
+    "player": {
+      "id": 347316,
+      "name": "L. Bergvall"
+    },
+    "assist": {
+      "id": 350850,
+      "name": "B. Zeneli"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 74,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 278,
+      "name": "K. Mbappe"
+    },
+    "assist": {
+      "id": 19617,
+      "name": "M. Olise"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 75,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 1257,
+      "name": "J. Kounde"
+    },
+    "assist": {
+      "id": 161907,
+      "name": "M. Gusto"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 75,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 153,
+      "name": "O. Dembele"
+    },
+    "assist": {
+      "id": 343027,
+      "name": "D. Doue"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 78,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 2724,
+      "name": "L. Digne"
+    },
+    "assist": {
+      "id": 47300,
+      "name": "T. Hernandez"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 82,
+      "extra": null
+    },
+    "team": {
+      "id": 5,
+      "name": "Sweden",
+      "logo": "https://media.api-sports.io/football/teams/5.png"
+    },
+    "player": {
+      "id": 198654,
+      "name": "D. Svensson"
+    },
+    "assist": {
+      "id": 30484,
+      "name": "M. Svanberg"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 82,
+      "extra": null
+    },
+    "team": {
+      "id": 5,
+      "name": "Sweden",
+      "logo": "https://media.api-sports.io/football/teams/5.png"
+    },
+    "player": {
+      "id": 265820,
+      "name": "Y. Ayari"
+    },
+    "assist": {
+      "id": 48002,
+      "name": "B. Nygren"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 85,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 278,
+      "name": "K. Mbappe"
+    },
+    "assist": {
+      "id": 25927,
+      "name": "J. Mateta"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 85,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 19617,
+      "name": "M. Olise"
+    },
+    "assist": {
+      "id": 156477,
+      "name": "R. Cherki"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 89,
+      "extra": null
+    },
+    "team": {
+      "id": 5,
+      "name": "Sweden",
+      "logo": "https://media.api-sports.io/football/teams/5.png"
+    },
+    "player": {
+      "id": 2864,
+      "name": "A. Isak"
+    },
+    "assist": {
+      "id": 15683,
+      "name": "G. Nilsson"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  }
+]

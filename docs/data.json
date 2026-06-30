@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T17:20:17Z",
+  "updated_at": "2026-06-30T19:13:46Z",
   "leaderboard": [
     {
       "colleague": "Sachin",
@@ -14,6 +14,23 @@
       "goals_for": 8,
       "clean_sheets": 2,
       "yellow_cards": 2,
+      "red_cards": 0,
+      "upset_bonus": 0,
+      "eliminated": false
+    },
+    {
+      "colleague": "Marija",
+      "team": "Brazil",
+      "team_id": 6,
+      "next_match_utc": "2026-07-05T20:00:00Z",
+      "next_match_vs": "Norway",
+      "points": 20,
+      "played": 4,
+      "wins": 3,
+      "draws": 1,
+      "goals_for": 9,
+      "clean_sheets": 2,
+      "yellow_cards": 7,
       "red_cards": 0,
       "upset_bonus": 0,
       "eliminated": false
@@ -53,23 +70,6 @@
       "eliminated": false
     },
     {
-      "colleague": "Marija",
-      "team": "Brazil",
-      "team_id": 6,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 18,
-      "played": 4,
-      "wins": 3,
-      "draws": 1,
-      "goals_for": 9,
-      "clean_sheets": 2,
-      "yellow_cards": 7,
-      "red_cards": 0,
-      "upset_bonus": 0,
-      "eliminated": false
-    },
-    {
       "colleague": "Naini",
       "team": "Spain",
       "team_id": 9,
@@ -85,6 +85,23 @@
       "red_cards": 0,
       "upset_bonus": 0,
       "eliminated": false
+    },
+    {
+      "colleague": "Oliver",
+      "team": "Ivory Coast",
+      "team_id": 1501,
+      "next_match_utc": null,
+      "next_match_vs": null,
+      "points": 14,
+      "played": 4,
+      "wins": 2,
+      "draws": 0,
+      "goals_for": 5,
+      "clean_sheets": 2,
+      "yellow_cards": 4,
+      "red_cards": 0,
+      "upset_bonus": 1,
+      "eliminated": true
     },
     {
       "colleague": "Iliasse",
@@ -135,23 +152,6 @@
       "yellow_cards": 2,
       "red_cards": 0,
       "upset_bonus": 0,
-      "eliminated": false
-    },
-    {
-      "colleague": "Oliver",
-      "team": "Ivory Coast",
-      "team_id": 1501,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 13,
-      "played": 3,
-      "wins": 2,
-      "draws": 0,
-      "goals_for": 4,
-      "clean_sheets": 2,
-      "yellow_cards": 4,
-      "red_cards": 0,
-      "upset_bonus": 1,
       "eliminated": false
     },
     {
@@ -663,7 +663,7 @@
     {
       "team_id": 1090,
       "team": "Norway",
-      "points": 16
+      "points": 22
     },
     {
       "team_id": 1531,
@@ -796,9 +796,32 @@
       "venue": "NRG Stadium",
       "city": "Houston",
       "round": "Round of 16"
+    },
+    {
+      "date": "2026-07-05T20:00:00Z",
+      "home_team": "Brazil",
+      "away_team": "Norway",
+      "home_group": "A",
+      "away_group": "B",
+      "venue": "",
+      "city": "",
+      "round": "Round of 16"
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-06-30T17:00:00Z",
+      "home_team": "Ivory Coast",
+      "away_team": "Norway",
+      "home_score": 1,
+      "away_score": 2,
+      "home_group": "C",
+      "away_group": "B",
+      "venue": "AT&T Stadium",
+      "city": "Dallas",
+      "round": "Round of 32",
+      "status": "FT"
+    },
     {
       "date": "2026-06-30T01:00:00Z",
       "home_team": "Netherlands",
@@ -1173,19 +1196,6 @@
       "away_group": "D",
       "venue": "Estadio Akron",
       "city": "Zapopan",
-      "round": "Group Stage - 2",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-23T23:00:00Z",
-      "home_team": "Panama",
-      "away_team": "Croatia",
-      "home_score": 0,
-      "away_score": 1,
-      "home_group": "C",
-      "away_group": "A",
-      "venue": "BMO Field",
-      "city": "Toronto",
       "round": "Group Stage - 2",
       "status": "FT"
     }

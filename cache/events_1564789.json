@@ -1,0 +1,266 @@
+[
+  {
+    "time": {
+      "elapsed": 39,
+      "extra": null
+    },
+    "team": {
+      "id": 1090,
+      "name": "Norway",
+      "logo": "https://media.api-sports.io/football/teams/1090.png"
+    },
+    "player": {
+      "id": 314511,
+      "name": "A. Nusa"
+    },
+    "assist": {
+      "id": 37127,
+      "name": "M. Odegaard"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 45,
+      "extra": 1
+    },
+    "team": {
+      "id": 1090,
+      "name": "Norway",
+      "logo": "https://media.api-sports.io/football/teams/1090.png"
+    },
+    "player": {
+      "id": 314511,
+      "name": "A. Nusa"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 60,
+      "extra": null
+    },
+    "team": {
+      "id": 1501,
+      "name": "Ivory Coast",
+      "logo": "https://media.api-sports.io/football/teams/1501.png"
+    },
+    "player": {
+      "id": 474591,
+      "name": "C. Inao Oulai"
+    },
+    "assist": {
+      "id": 157997,
+      "name": "A. Diallo"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 60,
+      "extra": null
+    },
+    "team": {
+      "id": 1501,
+      "name": "Ivory Coast",
+      "logo": "https://media.api-sports.io/football/teams/1501.png"
+    },
+    "player": {
+      "id": 275651,
+      "name": "A. Bonny"
+    },
+    "assist": {
+      "id": 162707,
+      "name": "E. Wahi"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 71,
+      "extra": null
+    },
+    "team": {
+      "id": 1090,
+      "name": "Norway",
+      "logo": "https://media.api-sports.io/football/teams/1090.png"
+    },
+    "player": {
+      "id": 8492,
+      "name": "A. Sorloth"
+    },
+    "assist": {
+      "id": 278133,
+      "name": "O. Bobb"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 71,
+      "extra": null
+    },
+    "team": {
+      "id": 1090,
+      "name": "Norway",
+      "logo": "https://media.api-sports.io/football/teams/1090.png"
+    },
+    "player": {
+      "id": 314511,
+      "name": "A. Nusa"
+    },
+    "assist": {
+      "id": 301528,
+      "name": "A. Schjelderup"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 74,
+      "extra": null
+    },
+    "team": {
+      "id": 1501,
+      "name": "Ivory Coast",
+      "logo": "https://media.api-sports.io/football/teams/1501.png"
+    },
+    "player": {
+      "id": 157997,
+      "name": "A. Diallo"
+    },
+    "assist": {
+      "id": 3246,
+      "name": "N. Pepe"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 83,
+      "extra": null
+    },
+    "team": {
+      "id": 1090,
+      "name": "Norway",
+      "logo": "https://media.api-sports.io/football/teams/1090.png"
+    },
+    "player": {
+      "id": 39362,
+      "name": "M. Pedersen"
+    },
+    "assist": {
+      "id": 39043,
+      "name": "F. Aursnes"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 86,
+      "extra": null
+    },
+    "team": {
+      "id": 1090,
+      "name": "Norway",
+      "logo": "https://media.api-sports.io/football/teams/1090.png"
+    },
+    "player": {
+      "id": 1100,
+      "name": "E. Haaland"
+    },
+    "assist": {
+      "id": 39064,
+      "name": "P. Berg"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 87,
+      "extra": null
+    },
+    "team": {
+      "id": 1501,
+      "name": "Ivory Coast",
+      "logo": "https://media.api-sports.io/football/teams/1501.png"
+    },
+    "player": {
+      "id": 3246,
+      "name": "N. Pepe"
+    },
+    "assist": {
+      "id": 334429,
+      "name": "O. Diakite"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 3
+    },
+    "team": {
+      "id": 1501,
+      "name": "Ivory Coast",
+      "logo": "https://media.api-sports.io/football/teams/1501.png"
+    },
+    "player": {
+      "id": 513776,
+      "name": "Y. Diomande"
+    },
+    "assist": {
+      "id": 137303,
+      "name": "E. Guessand"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 3
+    },
+    "team": {
+      "id": 1501,
+      "name": "Ivory Coast",
+      "logo": "https://media.api-sports.io/football/teams/1501.png"
+    },
+    "player": {
+      "id": 22002,
+      "name": "G. Konan"
+    },
+    "assist": {
+      "id": 387643,
+      "name": "B. Toure"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  }
+]

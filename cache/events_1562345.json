@@ -1,0 +1,530 @@
+[
+  {
+    "time": {
+      "elapsed": 47,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 18814,
+      "name": "I. Diop"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Foul"
+  },
+  {
+    "time": {
+      "elapsed": 71,
+      "extra": null
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 18861,
+      "name": "N. Ake"
+    },
+    "assist": {
+      "id": 36899,
+      "name": "T. Koopmeiners"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 71,
+      "extra": null
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 38750,
+      "name": "B. Brobbey"
+    },
+    "assist": {
+      "id": 25416,
+      "name": "W. Weghorst"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 72,
+      "extra": null
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 247,
+      "name": "C. Gakpo"
+    },
+    "assist": {
+      "id": 37724,
+      "name": "C. Summerville"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 75,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 278898,
+      "name": "C. Riad"
+    },
+    "assist": {
+      "id": 162451,
+      "name": "A. Salah-Eddine"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 79,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 744,
+      "name": "B. Diaz"
+    },
+    "assist": {
+      "id": 369544,
+      "name": "G. Yassine"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 79,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 438688,
+      "name": "A. Bouaddi"
+    },
+    "assist": {
+      "id": 415431,
+      "name": "S. El Mourabet"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 86,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 129678,
+      "name": "A. Ounahi"
+    },
+    "assist": {
+      "id": 36579,
+      "name": "S. Rahimi"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 86,
+      "extra": null
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 152849,
+      "name": "M. van de Ven"
+    },
+    "assist": {
+      "id": 341642,
+      "name": "J. Hato"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 86,
+      "extra": null
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 542,
+      "name": "R. Gravenberch"
+    },
+    "assist": {
+      "id": 38747,
+      "name": "Q. Timber"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 87,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 340573,
+      "name": "B. El Khannouss"
+    },
+    "assist": {
+      "id": 336659,
+      "name": "C. Talbi"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 1
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 18814,
+      "name": "I. Diop"
+    },
+    "assist": {
+      "id": 336659,
+      "name": "C. Talbi"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 110,
+      "extra": null
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 538,
+      "name": "F. de Jong"
+    },
+    "assist": {
+      "id": 30432,
+      "name": "M. De Roon"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 113,
+      "extra": null
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 247,
+      "name": "C. Gakpo"
+    },
+    "assist": {
+      "id": 792,
+      "name": "J. Kluivert"
+    },
+    "type": "subst",
+    "detail": "Substitution 6",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 1
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 36899,
+      "name": "T. Koopmeiners"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 1
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 277003,
+      "name": "N. El Aynaoui"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Missed Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 2
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 792,
+      "name": "J. Kluivert"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Missed Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 2
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 36579,
+      "name": "S. Rahimi"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 3
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 25416,
+      "name": "W. Weghorst"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 3
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 336659,
+      "name": "C. Talbi"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 4
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 38747,
+      "name": "Q. Timber"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Missed Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 4
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 9,
+      "name": "A. Hakimi"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Missed Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 5
+    },
+    "team": {
+      "id": 1118,
+      "name": "Netherlands",
+      "logo": "https://media.api-sports.io/football/teams/1118.png"
+    },
+    "player": {
+      "id": 37724,
+      "name": "C. Summerville"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Missed Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 5
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 161897,
+      "name": "I. Saibari"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": "Penalty Shootout"
+  }
+]

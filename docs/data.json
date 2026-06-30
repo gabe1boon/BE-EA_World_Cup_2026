@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T02:02:55Z",
+  "updated_at": "2026-06-30T06:35:33Z",
   "leaderboard": [
     {
       "colleague": "Sachin",
@@ -36,6 +36,23 @@
       "eliminated": false
     },
     {
+      "colleague": "Eva",
+      "team": "Morocco",
+      "team_id": 31,
+      "next_match_utc": "2026-07-04T17:00:00Z",
+      "next_match_vs": "Canada",
+      "points": 19,
+      "played": 4,
+      "wins": 2,
+      "draws": 2,
+      "goals_for": 7,
+      "clean_sheets": 1,
+      "yellow_cards": 2,
+      "red_cards": 0,
+      "upset_bonus": 0,
+      "eliminated": false
+    },
+    {
       "colleague": "Marija",
       "team": "Brazil",
       "team_id": 6,
@@ -65,23 +82,6 @@
       "goals_for": 5,
       "clean_sheets": 3,
       "yellow_cards": 2,
-      "red_cards": 0,
-      "upset_bonus": 0,
-      "eliminated": false
-    },
-    {
-      "colleague": "Eva",
-      "team": "Morocco",
-      "team_id": 31,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 16,
-      "played": 3,
-      "wins": 2,
-      "draws": 1,
-      "goals_for": 6,
-      "clean_sheets": 1,
-      "yellow_cards": 1,
       "red_cards": 0,
       "upset_bonus": 0,
       "eliminated": false
@@ -623,7 +623,7 @@
     {
       "team_id": 5529,
       "team": "Canada",
-      "points": 17
+      "points": 19
     },
     {
       "team_id": 8,
@@ -658,7 +658,7 @@
     {
       "team_id": 1118,
       "team": "Netherlands",
-      "points": 16
+      "points": 18
     },
     {
       "team_id": 1090,
@@ -703,7 +703,7 @@
       "away_team": "Ecuador",
       "home_group": "B",
       "away_group": "B",
-      "venue": "Estadio Azteca",
+      "venue": "Estadio Banorte",
       "city": "Mexico City",
       "round": "Round of 32"
     },
@@ -796,9 +796,32 @@
       "venue": "Arrowhead Stadium",
       "city": "Kansas City",
       "round": "Round of 32"
+    },
+    {
+      "date": "2026-07-04T17:00:00Z",
+      "home_team": "Canada",
+      "away_team": "Morocco",
+      "home_group": "B",
+      "away_group": "A",
+      "venue": "NRG Stadium",
+      "city": "Houston",
+      "round": "Round of 16"
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-06-30T01:00:00Z",
+      "home_team": "Netherlands",
+      "away_team": "Morocco",
+      "home_score": 1,
+      "away_score": 1,
+      "home_group": "A",
+      "away_group": "A",
+      "venue": "Estadio BBVA",
+      "city": "Monterrey",
+      "round": "Round of 32",
+      "status": "PEN"
+    },
     {
       "date": "2026-06-29T20:30:00Z",
       "home_team": "Germany",
@@ -1173,19 +1196,6 @@
       "away_group": "A",
       "venue": "BMO Field",
       "city": "Toronto",
-      "round": "Group Stage - 2",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-23T20:00:00Z",
-      "home_team": "England",
-      "away_team": "Ghana",
-      "home_score": 0,
-      "away_score": 0,
-      "home_group": "A",
-      "away_group": "C",
-      "venue": "Gillette Stadium",
-      "city": "Boston",
       "round": "Group Stage - 2",
       "status": "FT"
     }

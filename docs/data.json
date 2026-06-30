@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-29T23:31:00Z",
+  "updated_at": "2026-06-30T02:02:55Z",
   "leaderboard": [
     {
       "colleague": "Sachin",
@@ -73,8 +73,8 @@
       "colleague": "Eva",
       "team": "Morocco",
       "team_id": 31,
-      "next_match_utc": "2026-06-30T01:00:00Z",
-      "next_match_vs": "Netherlands",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 16,
       "played": 3,
       "wins": 2,
@@ -677,16 +677,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-30T01:00:00Z",
-      "home_team": "Netherlands",
-      "away_team": "Morocco",
-      "home_group": "A",
-      "away_group": "A",
-      "venue": "Estadio BBVA",
-      "city": "Monterrey",
-      "round": "Round of 32"
-    },
     {
       "date": "2026-06-30T17:00:00Z",
       "home_team": "Ivory Coast",

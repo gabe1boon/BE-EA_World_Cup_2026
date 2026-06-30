@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T15:07:14Z",
+  "updated_at": "2026-06-30T17:20:17Z",
   "leaderboard": [
     {
       "colleague": "Sachin",
@@ -141,8 +141,8 @@
       "colleague": "Oliver",
       "team": "Ivory Coast",
       "team_id": 1501,
-      "next_match_utc": "2026-06-30T17:00:00Z",
-      "next_match_vs": "Norway",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 13,
       "played": 3,
       "wins": 2,
@@ -677,16 +677,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-30T17:00:00Z",
-      "home_team": "Ivory Coast",
-      "away_team": "Norway",
-      "home_group": "C",
-      "away_group": "B",
-      "venue": "AT&T Stadium",
-      "city": "Dallas",
-      "round": "Round of 32"
-    },
     {
       "date": "2026-06-30T21:00:00Z",
       "home_team": "France",

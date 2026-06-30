@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T19:13:46Z",
+  "updated_at": "2026-06-30T21:11:09Z",
   "leaderboard": [
     {
       "colleague": "Sachin",
@@ -243,8 +243,8 @@
       "colleague": "Nicolas",
       "team": "Sweden",
       "team_id": 5,
-      "next_match_utc": "2026-06-30T21:00:00Z",
-      "next_match_vs": "France",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 8,
       "played": 3,
       "wins": 1,
@@ -677,16 +677,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-06-30T21:00:00Z",
-      "home_team": "France",
-      "away_team": "Sweden",
-      "home_group": "A",
-      "away_group": "B",
-      "venue": "MetLife Stadium",
-      "city": "New-York",
-      "round": "Round of 32"
-    },
     {
       "date": "2026-07-01T01:00:00Z",
       "home_team": "Mexico",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-06-30T23:55:50Z",
+  "updated_at": "2026-07-01T02:30:34Z",
   "leaderboard": [
     {
       "colleague": "Sachin",
@@ -39,8 +39,8 @@
       "colleague": "Iga",
       "team": "Mexico",
       "team_id": 16,
-      "next_match_utc": "2026-07-01T01:00:00Z",
-      "next_match_vs": "Ecuador",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 19,
       "played": 3,
       "wins": 3,
@@ -328,8 +328,8 @@
       "colleague": "Willem",
       "team": "Ecuador",
       "team_id": 2382,
-      "next_match_utc": "2026-07-01T01:00:00Z",
-      "next_match_vs": "Mexico",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 6,
       "played": 3,
       "wins": 1,
@@ -677,16 +677,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-07-01T01:00:00Z",
-      "home_team": "Mexico",
-      "away_team": "Ecuador",
-      "home_group": "B",
-      "away_group": "B",
-      "venue": "Estadio Banorte",
-      "city": "Mexico City",
-      "round": "Round of 32"
-    },
     {
       "date": "2026-07-01T16:00:00Z",
       "home_team": "England",

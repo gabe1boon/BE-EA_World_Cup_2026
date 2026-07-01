@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-01T21:55:44Z",
+  "updated_at": "2026-07-01T23:01:15Z",
   "leaderboard": [
     {
       "colleague": "Iga",
@@ -104,6 +104,23 @@
       "eliminated": true
     },
     {
+      "colleague": "Carys",
+      "team": "Senegal",
+      "team_id": 13,
+      "next_match_utc": null,
+      "next_match_vs": null,
+      "points": 14,
+      "played": 4,
+      "wins": 1,
+      "draws": 0,
+      "goals_for": 10,
+      "clean_sheets": 1,
+      "yellow_cards": 3,
+      "red_cards": 0,
+      "upset_bonus": 0,
+      "eliminated": true
+    },
+    {
       "colleague": "Iliasse",
       "team": "USA",
       "team_id": 2384,
@@ -170,23 +187,6 @@
       "red_cards": 0,
       "upset_bonus": 0,
       "eliminated": true
-    },
-    {
-      "colleague": "Carys",
-      "team": "Senegal",
-      "team_id": 13,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 13,
-      "played": 3,
-      "wins": 1,
-      "draws": 0,
-      "goals_for": 8,
-      "clean_sheets": 1,
-      "yellow_cards": 2,
-      "red_cards": 0,
-      "upset_bonus": 0,
-      "eliminated": false
     },
     {
       "colleague": "Mark",
@@ -618,7 +618,7 @@
     {
       "team_id": 1,
       "team": "Belgium",
-      "points": 13
+      "points": 17
     },
     {
       "team_id": 5529,
@@ -779,6 +779,19 @@
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-07-01T20:00:00Z",
+      "home_team": "Belgium",
+      "away_team": "Senegal",
+      "home_score": 3,
+      "away_score": 2,
+      "home_group": "A",
+      "away_group": "B",
+      "venue": "Lumen Field",
+      "city": "Seattle",
+      "round": "Round of 32",
+      "status": "AET"
+    },
     {
       "date": "2026-07-01T16:00:00Z",
       "home_team": "England",
@@ -1153,19 +1166,6 @@
       "away_group": "D",
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
-      "round": "Group Stage - 3",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-24T22:00:00Z",
-      "home_team": "Scotland",
-      "away_team": "Brazil",
-      "home_score": 0,
-      "away_score": 3,
-      "home_group": "C",
-      "away_group": "A",
-      "venue": "Hard Rock Stadium",
-      "city": "Miami Gardens",
       "round": "Group Stage - 3",
       "status": "FT"
     }

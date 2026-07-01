@@ -1,0 +1,442 @@
+[
+  {
+    "time": {
+      "elapsed": 25,
+      "extra": null
+    },
+    "team": {
+      "id": 13,
+      "name": "Senegal",
+      "logo": "https://media.api-sports.io/football/teams/13.png"
+    },
+    "player": {
+      "id": 327631,
+      "name": "H. Diarra"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 147859,
+      "name": "C. De Ketelaere"
+    },
+    "assist": {
+      "id": 907,
+      "name": "R. Lukaku"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 51,
+      "extra": null
+    },
+    "team": {
+      "id": 13,
+      "name": "Senegal",
+      "logo": "https://media.api-sports.io/football/teams/13.png"
+    },
+    "player": {
+      "id": 2218,
+      "name": "I. Sarr"
+    },
+    "assist": {
+      "id": 25916,
+      "name": "M. Niakhate"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 56,
+      "extra": null
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 629,
+      "name": "K. De Bruyne"
+    },
+    "assist": {
+      "id": 2120,
+      "name": "N. Raskin"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 56,
+      "extra": null
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 1422,
+      "name": "J. Doku"
+    },
+    "assist": {
+      "id": 25458,
+      "name": "D. Lukebakio"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 63,
+      "extra": null
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 78,
+      "name": "H. Vanaken"
+    },
+    "assist": {
+      "id": 335056,
+      "name": "D. Moreira"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 64,
+      "extra": null
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 69,
+      "name": "B. Mechele"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  },
+  {
+    "time": {
+      "elapsed": 66,
+      "extra": null
+    },
+    "team": {
+      "id": 13,
+      "name": "Senegal",
+      "logo": "https://media.api-sports.io/football/teams/13.png"
+    },
+    "player": {
+      "id": 20696,
+      "name": "P. Gueye"
+    },
+    "assist": {
+      "id": 374058,
+      "name": "L. Camara"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 67,
+      "extra": null
+    },
+    "team": {
+      "id": 13,
+      "name": "Senegal",
+      "logo": "https://media.api-sports.io/football/teams/13.png"
+    },
+    "player": {
+      "id": 374058,
+      "name": "L. Camara"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  },
+  {
+    "time": {
+      "elapsed": 73,
+      "extra": null
+    },
+    "team": {
+      "id": 13,
+      "name": "Senegal",
+      "logo": "https://media.api-sports.io/football/teams/13.png"
+    },
+    "player": {
+      "id": 18592,
+      "name": "I. Ndiaye"
+    },
+    "assist": {
+      "id": 446249,
+      "name": "I. Mbaye"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 73,
+      "extra": null
+    },
+    "team": {
+      "id": 13,
+      "name": "Senegal",
+      "logo": "https://media.api-sports.io/football/teams/13.png"
+    },
+    "player": {
+      "id": 327631,
+      "name": "H. Diarra"
+    },
+    "assist": {
+      "id": 237129,
+      "name": "P. M. Sarr"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 78,
+      "extra": null
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 162007,
+      "name": "M. De Cuyper"
+    },
+    "assist": {
+      "id": 264,
+      "name": "T. Meunier"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 86,
+      "extra": null
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 907,
+      "name": "R. Lukaku"
+    },
+    "assist": {
+      "id": 264,
+      "name": "T. Meunier"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 89,
+      "extra": null
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 2926,
+      "name": "Y. Tielemans"
+    },
+    "assist": {
+      "id": 1946,
+      "name": "L. Trossard"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": null
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": null,
+      "name": "R. Garcia"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 93,
+      "extra": null
+    },
+    "team": {
+      "id": 13,
+      "name": "Senegal",
+      "logo": "https://media.api-sports.io/football/teams/13.png"
+    },
+    "player": {
+      "id": 304,
+      "name": "S. Mane"
+    },
+    "assist": {
+      "id": 283058,
+      "name": "N. Jackson"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 93,
+      "extra": null
+    },
+    "team": {
+      "id": 13,
+      "name": "Senegal",
+      "logo": "https://media.api-sports.io/football/teams/13.png"
+    },
+    "player": {
+      "id": 158121,
+      "name": "I. Jakobs"
+    },
+    "assist": {
+      "id": 409303,
+      "name": "M. Diouf"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 96,
+      "extra": null
+    },
+    "team": {
+      "id": 13,
+      "name": "Senegal",
+      "logo": "https://media.api-sports.io/football/teams/13.png"
+    },
+    "player": {
+      "id": 2990,
+      "name": "I. Gueye"
+    },
+    "assist": {
+      "id": 630895,
+      "name": "B. Sapoko Ndiaye"
+    },
+    "type": "subst",
+    "detail": "Substitution 6",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 109,
+      "extra": null
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 1946,
+      "name": "L. Trossard"
+    },
+    "assist": {
+      "id": 162714,
+      "name": "A. Onana"
+    },
+    "type": "subst",
+    "detail": "Substitution 6",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 5
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 2926,
+      "name": "Y. Tielemans"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+  }
+]

@@ -1,0 +1,310 @@
+[
+  {
+    "time": {
+      "elapsed": 7,
+      "extra": null
+    },
+    "team": {
+      "id": 1508,
+      "name": "Congo DR",
+      "logo": "https://media.api-sports.io/football/teams/1508.png"
+    },
+    "player": {
+      "id": 279482,
+      "name": "B. Cipenga"
+    },
+    "assist": {
+      "id": 375,
+      "name": "C. Mbemba"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 19,
+      "extra": null
+    },
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "player": {
+      "id": 129718,
+      "name": "J. Bellingham"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 28,
+      "extra": null
+    },
+    "team": {
+      "id": 1508,
+      "name": "Congo DR",
+      "logo": "https://media.api-sports.io/football/teams/1508.png"
+    },
+    "player": {
+      "id": 365331,
+      "name": "N. Sadiki"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 61,
+      "extra": null
+    },
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "player": {
+      "id": 909,
+      "name": "M. Rashford"
+    },
+    "assist": {
+      "id": 138787,
+      "name": "A. Gordon"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 61,
+      "extra": null
+    },
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "player": {
+      "id": 136723,
+      "name": "N. Madueke"
+    },
+    "assist": {
+      "id": 1460,
+      "name": "B. Saka"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 64,
+      "extra": null
+    },
+    "team": {
+      "id": 1508,
+      "name": "Congo DR",
+      "logo": "https://media.api-sports.io/football/teams/1508.png"
+    },
+    "player": {
+      "id": 129670,
+      "name": "N. Mbuku"
+    },
+    "assist": {
+      "id": 3034,
+      "name": "M. Elia"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 70,
+      "extra": null
+    },
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "player": {
+      "id": 19235,
+      "name": "D. Spence"
+    },
+    "assist": {
+      "id": 19586,
+      "name": "E. Eze"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 75,
+      "extra": null
+    },
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "player": {
+      "id": 184,
+      "name": "H. Kane"
+    },
+    "assist": {
+      "id": 138787,
+      "name": "A. Gordon"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 76,
+      "extra": null
+    },
+    "team": {
+      "id": 1508,
+      "name": "Congo DR",
+      "logo": "https://media.api-sports.io/football/teams/1508.png"
+    },
+    "player": {
+      "id": 375598,
+      "name": "N. Mukau"
+    },
+    "assist": {
+      "id": 1424,
+      "name": "E. Kayembe"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 76,
+      "extra": null
+    },
+    "team": {
+      "id": 1508,
+      "name": "Congo DR",
+      "logo": "https://media.api-sports.io/football/teams/1508.png"
+    },
+    "player": {
+      "id": 279482,
+      "name": "B. Cipenga"
+    },
+    "assist": {
+      "id": 8627,
+      "name": "T. Bongonda"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 86,
+      "extra": null
+    },
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "player": {
+      "id": 184,
+      "name": "H. Kane"
+    },
+    "assist": {
+      "id": 138787,
+      "name": "A. Gordon"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 89,
+      "extra": null
+    },
+    "team": {
+      "id": 1508,
+      "name": "Congo DR",
+      "logo": "https://media.api-sports.io/football/teams/1508.png"
+    },
+    "player": {
+      "id": 18816,
+      "name": "A. Masuaku"
+    },
+    "assist": {
+      "id": 21098,
+      "name": "J. Kayembe"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 89,
+      "extra": null
+    },
+    "team": {
+      "id": 1508,
+      "name": "Congo DR",
+      "logo": "https://media.api-sports.io/football/teams/1508.png"
+    },
+    "player": {
+      "id": 21101,
+      "name": "S. Moutoussamy"
+    },
+    "assist": {
+      "id": 179699,
+      "name": "F. Mayele"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 1
+    },
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "player": {
+      "id": 2937,
+      "name": "D. Rice"
+    },
+    "assist": {
+      "id": 626,
+      "name": "J. Stones"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  }
+]

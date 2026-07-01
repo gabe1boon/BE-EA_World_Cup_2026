@@ -1,6 +1,23 @@
 {
-  "updated_at": "2026-07-01T02:30:34Z",
+  "updated_at": "2026-07-01T07:01:17Z",
   "leaderboard": [
+    {
+      "colleague": "Iga",
+      "team": "Mexico",
+      "team_id": 16,
+      "next_match_utc": null,
+      "next_match_vs": null,
+      "points": 26,
+      "played": 4,
+      "wins": 4,
+      "draws": 0,
+      "goals_for": 8,
+      "clean_sheets": 4,
+      "yellow_cards": 2,
+      "red_cards": 1,
+      "upset_bonus": 0,
+      "eliminated": false
+    },
     {
       "colleague": "Sachin",
       "team": "Argentina",
@@ -32,23 +49,6 @@
       "clean_sheets": 2,
       "yellow_cards": 7,
       "red_cards": 0,
-      "upset_bonus": 0,
-      "eliminated": false
-    },
-    {
-      "colleague": "Iga",
-      "team": "Mexico",
-      "team_id": 16,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 19,
-      "played": 3,
-      "wins": 3,
-      "draws": 0,
-      "goals_for": 6,
-      "clean_sheets": 3,
-      "yellow_cards": 2,
-      "red_cards": 1,
       "upset_bonus": 0,
       "eliminated": false
     },
@@ -325,23 +325,6 @@
       "eliminated": false
     },
     {
-      "colleague": "Willem",
-      "team": "Ecuador",
-      "team_id": 2382,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 6,
-      "played": 3,
-      "wins": 1,
-      "draws": 1,
-      "goals_for": 2,
-      "clean_sheets": 1,
-      "yellow_cards": 5,
-      "red_cards": 0,
-      "upset_bonus": 1,
-      "eliminated": false
-    },
-    {
       "colleague": "Sebastian",
       "team": "Congo DR",
       "team_id": 1508,
@@ -359,6 +342,23 @@
       "eliminated": false
     },
     {
+      "colleague": "Tobias",
+      "team": "Paraguay",
+      "team_id": 2380,
+      "next_match_utc": "2026-07-04T21:00:00Z",
+      "next_match_vs": "France",
+      "points": 5,
+      "played": 4,
+      "wins": 1,
+      "draws": 2,
+      "goals_for": 3,
+      "clean_sheets": 2,
+      "yellow_cards": 10,
+      "red_cards": 1,
+      "upset_bonus": 1,
+      "eliminated": false
+    },
+    {
       "colleague": "Adele",
       "team": "Bosnia & Herzegovina",
       "team_id": 1113,
@@ -373,23 +373,6 @@
       "yellow_cards": 6,
       "red_cards": 1,
       "upset_bonus": 0,
-      "eliminated": false
-    },
-    {
-      "colleague": "Tobias",
-      "team": "Paraguay",
-      "team_id": 2380,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 3,
-      "played": 4,
-      "wins": 1,
-      "draws": 2,
-      "goals_for": 3,
-      "clean_sheets": 2,
-      "yellow_cards": 10,
-      "red_cards": 1,
-      "upset_bonus": 1,
       "eliminated": false
     },
     {
@@ -424,6 +407,23 @@
       "yellow_cards": 4,
       "red_cards": 0,
       "upset_bonus": 0,
+      "eliminated": true
+    },
+    {
+      "colleague": "Willem",
+      "team": "Ecuador",
+      "team_id": 2382,
+      "next_match_utc": null,
+      "next_match_vs": null,
+      "points": 1,
+      "played": 4,
+      "wins": 1,
+      "draws": 1,
+      "goals_for": 2,
+      "clean_sheets": 1,
+      "yellow_cards": 8,
+      "red_cards": 1,
+      "upset_bonus": 1,
       "eliminated": true
     },
     {
@@ -643,7 +643,7 @@
     {
       "team_id": 2,
       "team": "France",
-      "points": 31
+      "points": 33
     },
     {
       "team_id": 25,
@@ -778,6 +778,16 @@
       "round": "Round of 16"
     },
     {
+      "date": "2026-07-04T21:00:00Z",
+      "home_team": "Paraguay",
+      "away_team": "France",
+      "home_group": "D",
+      "away_group": "A",
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia",
+      "round": "Round of 16"
+    },
+    {
       "date": "2026-07-05T20:00:00Z",
       "home_team": "Brazil",
       "away_team": "Norway",
@@ -789,6 +799,19 @@
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-07-01T01:00:00Z",
+      "home_team": "Mexico",
+      "away_team": "Ecuador",
+      "home_score": 2,
+      "away_score": 0,
+      "home_group": "B",
+      "away_group": "B",
+      "venue": "Estadio Banorte",
+      "city": "Mexico City",
+      "round": "Round of 32",
+      "status": "FT"
+    },
     {
       "date": "2026-06-30T21:00:00Z",
       "home_team": "France",
@@ -1163,19 +1186,6 @@
       "away_group": "B",
       "venue": "BC Place",
       "city": "Vancouver",
-      "round": "Group Stage - 3",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-24T19:00:00Z",
-      "home_team": "Bosnia & Herzegovina",
-      "away_team": "Qatar",
-      "home_score": 3,
-      "away_score": 1,
-      "home_group": "D",
-      "away_group": "D",
-      "venue": "Lumen Field",
-      "city": "Seattle",
       "round": "Group Stage - 3",
       "status": "FT"
     }

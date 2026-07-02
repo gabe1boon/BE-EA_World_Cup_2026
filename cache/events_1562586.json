@@ -1,0 +1,288 @@
+[
+  {
+    "time": {
+      "elapsed": 45,
+      "extra": null
+    },
+    "team": {
+      "id": 2384,
+      "name": "USA",
+      "logo": "https://media.api-sports.io/football/teams/2384.png"
+    },
+    "player": {
+      "id": 138835,
+      "name": "F. Balogun"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 51,
+      "extra": null
+    },
+    "team": {
+      "id": 1113,
+      "name": "Bosnia & Herzegovina",
+      "logo": "https://media.api-sports.io/football/teams/1113.png"
+    },
+    "player": {
+      "id": 70514,
+      "name": "A. Gigovic"
+    },
+    "assist": {
+      "id": 329409,
+      "name": "E. Bajraktarevic"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 51,
+      "extra": null
+    },
+    "team": {
+      "id": 1113,
+      "name": "Bosnia & Herzegovina",
+      "logo": "https://media.api-sports.io/football/teams/1113.png"
+    },
+    "player": {
+      "id": 1324,
+      "name": "I. Sunjic"
+    },
+    "assist": {
+      "id": 264094,
+      "name": "B. Tahirovic"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 51,
+      "extra": null
+    },
+    "team": {
+      "id": 1113,
+      "name": "Bosnia & Herzegovina",
+      "logo": "https://media.api-sports.io/football/teams/1113.png"
+    },
+    "player": {
+      "id": 790,
+      "name": "E. Dzeko"
+    },
+    "assist": {
+      "id": 340173,
+      "name": "E. Mahmic"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 64,
+      "extra": null
+    },
+    "team": {
+      "id": 2384,
+      "name": "USA",
+      "logo": "https://media.api-sports.io/football/teams/2384.png"
+    },
+    "player": {
+      "id": 138835,
+      "name": "F. Balogun"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Red Card",
+    "comments": "Serious foul"
+  },
+  {
+    "time": {
+      "elapsed": 75,
+      "extra": null
+    },
+    "team": {
+      "id": 1113,
+      "name": "Bosnia & Herzegovina",
+      "logo": "https://media.api-sports.io/football/teams/1113.png"
+    },
+    "player": {
+      "id": 1442,
+      "name": "S. Kolasinac"
+    },
+    "assist": {
+      "id": 28382,
+      "name": "H. Tabakovic"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 75,
+      "extra": null
+    },
+    "team": {
+      "id": 1113,
+      "name": "Bosnia & Herzegovina",
+      "logo": "https://media.api-sports.io/football/teams/1113.png"
+    },
+    "player": {
+      "id": 1741,
+      "name": "N. Katic"
+    },
+    "assist": {
+      "id": 322101,
+      "name": "A. Memic"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 80,
+      "extra": null
+    },
+    "team": {
+      "id": 1113,
+      "name": "Bosnia & Herzegovina",
+      "logo": "https://media.api-sports.io/football/teams/1113.png"
+    },
+    "player": {
+      "id": null,
+      "name": "S. Barbarez"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 80,
+      "extra": null
+    },
+    "team": {
+      "id": 1113,
+      "name": "Bosnia & Herzegovina",
+      "logo": "https://media.api-sports.io/football/teams/1113.png"
+    },
+    "player": {
+      "id": 14301,
+      "name": "S. Radeljic"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Holding"
+  },
+  {
+    "time": {
+      "elapsed": 82,
+      "extra": null
+    },
+    "team": {
+      "id": 2384,
+      "name": "USA",
+      "logo": "https://media.api-sports.io/football/teams/2384.png"
+    },
+    "player": {
+      "id": 162037,
+      "name": "M. Tillman"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 87,
+      "extra": null
+    },
+    "team": {
+      "id": 2384,
+      "name": "USA",
+      "logo": "https://media.api-sports.io/football/teams/2384.png"
+    },
+    "player": {
+      "id": 38735,
+      "name": "S. Dest"
+    },
+    "assist": {
+      "id": 201713,
+      "name": "S. Berhalter"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 88,
+      "extra": null
+    },
+    "team": {
+      "id": 2384,
+      "name": "USA",
+      "logo": "https://media.api-sports.io/football/teams/2384.png"
+    },
+    "player": {
+      "id": 17,
+      "name": "C. Pulisic"
+    },
+    "assist": {
+      "id": 73868,
+      "name": "R. Pepi"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 5
+    },
+    "team": {
+      "id": 2384,
+      "name": "USA",
+      "logo": "https://media.api-sports.io/football/teams/2384.png"
+    },
+    "player": {
+      "id": 415,
+      "name": "W. McKennie"
+    },
+    "assist": {
+      "id": 161921,
+      "name": "G. Reyna"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  }
+]

@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-07-02T01:28:50Z",
+  "updated_at": "2026-07-02T05:30:01Z",
   "leaderboard": [
     {
       "colleague": "Iga",
       "team": "Mexico",
       "team_id": 16,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 26,
+      "next_match_utc": "2026-07-06T00:00:00Z",
+      "next_match_vs": "England",
+      "points": 28,
       "played": 4,
       "wins": 4,
       "draws": 0,
@@ -32,6 +32,23 @@
       "clean_sheets": 2,
       "yellow_cards": 2,
       "red_cards": 0,
+      "upset_bonus": 0,
+      "eliminated": false
+    },
+    {
+      "colleague": "Iliasse",
+      "team": "USA",
+      "team_id": 2384,
+      "next_match_utc": "2026-07-07T00:00:00Z",
+      "next_match_vs": "Belgium",
+      "points": 20,
+      "played": 4,
+      "wins": 3,
+      "draws": 0,
+      "goals_for": 10,
+      "clean_sheets": 2,
+      "yellow_cards": 5,
+      "red_cards": 1,
       "upset_bonus": 0,
       "eliminated": false
     },
@@ -119,23 +136,6 @@
       "red_cards": 0,
       "upset_bonus": 0,
       "eliminated": true
-    },
-    {
-      "colleague": "Iliasse",
-      "team": "USA",
-      "team_id": 2384,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 13,
-      "played": 3,
-      "wins": 2,
-      "draws": 0,
-      "goals_for": 8,
-      "clean_sheets": 1,
-      "yellow_cards": 5,
-      "red_cards": 0,
-      "upset_bonus": 0,
-      "eliminated": false
     },
     {
       "colleague": "Koums",
@@ -359,23 +359,6 @@
       "eliminated": false
     },
     {
-      "colleague": "Adele",
-      "team": "Bosnia & Herzegovina",
-      "team_id": 1113,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 3,
-      "played": 3,
-      "wins": 1,
-      "draws": 1,
-      "goals_for": 5,
-      "clean_sheets": 0,
-      "yellow_cards": 6,
-      "red_cards": 1,
-      "upset_bonus": 0,
-      "eliminated": false
-    },
-    {
       "colleague": "Gabe",
       "team": "Czechia",
       "team_id": 770,
@@ -389,6 +372,23 @@
       "clean_sheets": 0,
       "yellow_cards": 1,
       "red_cards": 0,
+      "upset_bonus": 0,
+      "eliminated": true
+    },
+    {
+      "colleague": "Adele",
+      "team": "Bosnia & Herzegovina",
+      "team_id": 1113,
+      "next_match_utc": null,
+      "next_match_vs": null,
+      "points": 1,
+      "played": 4,
+      "wins": 1,
+      "draws": 1,
+      "goals_for": 5,
+      "clean_sheets": 0,
+      "yellow_cards": 8,
+      "red_cards": 1,
       "upset_bonus": 0,
       "eliminated": true
     },
@@ -618,7 +618,7 @@
     {
       "team_id": 1,
       "team": "Belgium",
-      "points": 17
+      "points": 19
     },
     {
       "team_id": 5529,
@@ -638,7 +638,7 @@
     {
       "team_id": 10,
       "team": "England",
-      "points": 21
+      "points": 23
     },
     {
       "team_id": 2,
@@ -763,12 +763,45 @@
       "away_team": "Norway",
       "home_group": "A",
       "away_group": "B",
-      "venue": "",
+      "venue": "MetLife Stadium",
+      "city": "",
+      "round": "Round of 16"
+    },
+    {
+      "date": "2026-07-06T00:00:00Z",
+      "home_team": "Mexico",
+      "away_team": "England",
+      "home_group": "B",
+      "away_group": "A",
+      "venue": "Estadio Banorte",
+      "city": "Mexico City",
+      "round": "Round of 16"
+    },
+    {
+      "date": "2026-07-07T00:00:00Z",
+      "home_team": "USA",
+      "away_team": "Belgium",
+      "home_group": "B",
+      "away_group": "A",
+      "venue": "Lumen Field",
       "city": "",
       "round": "Round of 16"
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-07-02T00:00:00Z",
+      "home_team": "USA",
+      "away_team": "Bosnia & Herzegovina",
+      "home_score": 2,
+      "away_score": 0,
+      "home_group": "B",
+      "away_group": "D",
+      "venue": "Levi's Stadium",
+      "city": "San-Francisco",
+      "round": "Round of 32",
+      "status": "FT"
+    },
     {
       "date": "2026-07-01T20:00:00Z",
       "home_team": "Belgium",
@@ -1143,19 +1176,6 @@
       "away_group": "B",
       "venue": "Estadio BBVA",
       "city": "Monterrey",
-      "round": "Group Stage - 3",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-24T22:00:00Z",
-      "home_team": "Morocco",
-      "away_team": "Haiti",
-      "home_score": 4,
-      "away_score": 2,
-      "home_group": "A",
-      "away_group": "D",
-      "venue": "Mercedes-Benz Stadium",
-      "city": "Atlanta",
       "round": "Group Stage - 3",
       "status": "FT"
     }

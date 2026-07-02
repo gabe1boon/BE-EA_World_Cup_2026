@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T22:54:27Z",
+  "updated_at": "2026-07-02T23:53:54Z",
   "leaderboard": [
     {
       "colleague": "Iga",
@@ -158,8 +158,8 @@
       "colleague": "Mark",
       "team": "Croatia",
       "team_id": 3,
-      "next_match_utc": "2026-07-02T23:00:00Z",
-      "next_match_vs": "Portugal",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 13,
       "played": 3,
       "wins": 2,
@@ -192,8 +192,8 @@
       "colleague": "Mark",
       "team": "Portugal",
       "team_id": 27,
-      "next_match_utc": "2026-07-02T23:00:00Z",
-      "next_match_vs": "Croatia",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 13,
       "played": 3,
       "wins": 1,
@@ -677,16 +677,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-07-02T23:00:00Z",
-      "home_team": "Portugal",
-      "away_team": "Croatia",
-      "home_group": "A",
-      "away_group": "A",
-      "venue": "BMO Field",
-      "city": "Toronto",
-      "round": "Round of 32"
-    },
     {
       "date": "2026-07-03T03:00:00Z",
       "home_team": "Switzerland",

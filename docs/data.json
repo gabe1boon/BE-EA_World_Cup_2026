@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T18:53:57Z",
+  "updated_at": "2026-07-02T20:13:00Z",
   "leaderboard": [
     {
       "colleague": "Iga",
@@ -90,8 +90,8 @@
       "colleague": "Naini",
       "team": "Spain",
       "team_id": 9,
-      "next_match_utc": "2026-07-02T19:00:00Z",
-      "next_match_vs": "Austria",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 18,
       "played": 3,
       "wins": 2,
@@ -260,8 +260,8 @@
       "colleague": "Valeria",
       "team": "Austria",
       "team_id": 775,
-      "next_match_utc": "2026-07-02T19:00:00Z",
-      "next_match_vs": "Spain",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 8,
       "played": 3,
       "wins": 1,
@@ -677,16 +677,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-07-02T19:00:00Z",
-      "home_team": "Spain",
-      "away_team": "Austria",
-      "home_group": "A",
-      "away_group": "B",
-      "venue": "SoFi Stadium",
-      "city": "Inglewood",
-      "round": "Round of 32"
-    },
     {
       "date": "2026-07-02T23:00:00Z",
       "home_team": "Portugal",

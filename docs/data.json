@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T01:45:01Z",
+  "updated_at": "2026-07-03T05:40:39Z",
   "leaderboard": [
     {
       "colleague": "Iga",
@@ -87,6 +87,23 @@
       "eliminated": false
     },
     {
+      "colleague": "Koums",
+      "team": "Switzerland",
+      "team_id": 15,
+      "next_match_utc": null,
+      "next_match_vs": null,
+      "points": 20,
+      "played": 4,
+      "wins": 3,
+      "draws": 1,
+      "goals_for": 9,
+      "clean_sheets": 1,
+      "yellow_cards": 3,
+      "red_cards": 0,
+      "upset_bonus": 0,
+      "eliminated": false
+    },
+    {
       "colleague": "Eva",
       "team": "Morocco",
       "team_id": 31,
@@ -155,23 +172,6 @@
       "eliminated": true
     },
     {
-      "colleague": "Koums",
-      "team": "Switzerland",
-      "team_id": 15,
-      "next_match_utc": "2026-07-03T03:00:00Z",
-      "next_match_vs": "Algeria",
-      "points": 13,
-      "played": 3,
-      "wins": 2,
-      "draws": 1,
-      "goals_for": 7,
-      "clean_sheets": 0,
-      "yellow_cards": 3,
-      "red_cards": 0,
-      "upset_bonus": 0,
-      "eliminated": false
-    },
-    {
       "colleague": "Dusan",
       "team": "Japan",
       "team_id": 12,
@@ -206,23 +206,6 @@
       "eliminated": true
     },
     {
-      "colleague": "Daniel",
-      "team": "Algeria",
-      "team_id": 1532,
-      "next_match_utc": "2026-07-03T03:00:00Z",
-      "next_match_vs": "Switzerland",
-      "points": 10,
-      "played": 3,
-      "wins": 1,
-      "draws": 1,
-      "goals_for": 5,
-      "clean_sheets": 0,
-      "yellow_cards": 1,
-      "red_cards": 0,
-      "upset_bonus": 0,
-      "eliminated": false
-    },
-    {
       "colleague": "Achille",
       "team": "Ghana",
       "team_id": 1504,
@@ -252,6 +235,23 @@
       "goals_for": 7,
       "clean_sheets": 0,
       "yellow_cards": 5,
+      "red_cards": 0,
+      "upset_bonus": 0,
+      "eliminated": true
+    },
+    {
+      "colleague": "Daniel",
+      "team": "Algeria",
+      "team_id": 1532,
+      "next_match_utc": null,
+      "next_match_vs": null,
+      "points": 8,
+      "played": 4,
+      "wins": 1,
+      "draws": 1,
+      "goals_for": 5,
+      "clean_sheets": 0,
+      "yellow_cards": 3,
       "red_cards": 0,
       "upset_bonus": 0,
       "eliminated": true
@@ -678,16 +678,6 @@
   ],
   "upcoming_fixtures": [
     {
-      "date": "2026-07-03T03:00:00Z",
-      "home_team": "Switzerland",
-      "away_team": "Algeria",
-      "home_group": "B",
-      "away_group": "D",
-      "venue": "BC Place",
-      "city": "Vancouver",
-      "round": "Round of 32"
-    },
-    {
       "date": "2026-07-03T18:00:00Z",
       "home_team": "Australia",
       "away_team": "Egypt",
@@ -769,6 +759,19 @@
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-07-03T03:00:00Z",
+      "home_team": "Switzerland",
+      "away_team": "Algeria",
+      "home_score": 2,
+      "away_score": 0,
+      "home_group": "B",
+      "away_group": "D",
+      "venue": "BC Place",
+      "city": "Vancouver",
+      "round": "Round of 32",
+      "status": "FT"
+    },
     {
       "date": "2026-07-02T23:00:00Z",
       "home_team": "Portugal",
@@ -1143,19 +1146,6 @@
       "away_group": "A",
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
-      "round": "Group Stage - 3",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-25T20:00:00Z",
-      "home_team": "Cura\u00e7ao",
-      "away_team": "Ivory Coast",
-      "home_score": 0,
-      "away_score": 2,
-      "home_group": "D",
-      "away_group": "C",
-      "venue": "Lincoln Financial Field",
-      "city": "Philadelphia",
       "round": "Group Stage - 3",
       "status": "FT"
     }

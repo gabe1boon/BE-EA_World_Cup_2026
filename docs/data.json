@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T20:07:42Z",
+  "updated_at": "2026-07-03T21:36:51Z",
   "leaderboard": [
     {
       "colleague": "Iga",
@@ -206,6 +206,23 @@
       "eliminated": true
     },
     {
+      "colleague": "Carys",
+      "team": "Australia",
+      "team_id": 20,
+      "next_match_utc": null,
+      "next_match_vs": null,
+      "points": 9,
+      "played": 4,
+      "wins": 1,
+      "draws": 2,
+      "goals_for": 3,
+      "clean_sheets": 2,
+      "yellow_cards": 5,
+      "red_cards": 0,
+      "upset_bonus": 0,
+      "eliminated": true
+    },
+    {
       "colleague": "Achille",
       "team": "Ghana",
       "team_id": 1504,
@@ -274,23 +291,6 @@
       "eliminated": true
     },
     {
-      "colleague": "Carys",
-      "team": "Australia",
-      "team_id": 20,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 7,
-      "played": 3,
-      "wins": 1,
-      "draws": 1,
-      "goals_for": 2,
-      "clean_sheets": 2,
-      "yellow_cards": 5,
-      "red_cards": 0,
-      "upset_bonus": 0,
-      "eliminated": false
-    },
-    {
       "colleague": "Achille",
       "team": "Cape Verde Islands",
       "team_id": 1533,
@@ -314,12 +314,12 @@
       "next_match_utc": null,
       "next_match_vs": null,
       "points": 6,
-      "played": 3,
+      "played": 4,
       "wins": 1,
-      "draws": 2,
-      "goals_for": 5,
+      "draws": 3,
+      "goals_for": 6,
       "clean_sheets": 0,
-      "yellow_cards": 6,
+      "yellow_cards": 8,
       "red_cards": 0,
       "upset_bonus": 0,
       "eliminated": false
@@ -760,6 +760,19 @@
   ],
   "recent_results": [
     {
+      "date": "2026-07-03T18:00:00Z",
+      "home_team": "Australia",
+      "away_team": "Egypt",
+      "home_score": 1,
+      "away_score": 1,
+      "home_group": "C",
+      "away_group": "C",
+      "venue": "AT&T Stadium",
+      "city": "Dallas",
+      "round": "Round of 32",
+      "status": "PEN"
+    },
+    {
       "date": "2026-07-03T03:00:00Z",
       "home_team": "Switzerland",
       "away_team": "Algeria",
@@ -1133,19 +1146,6 @@
       "away_group": "A",
       "venue": "Arrowhead Stadium",
       "city": "Kansas City",
-      "round": "Group Stage - 3",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-25T20:00:00Z",
-      "home_team": "Ecuador",
-      "away_team": "Germany",
-      "home_score": 2,
-      "away_score": 1,
-      "home_group": "B",
-      "away_group": "A",
-      "venue": "MetLife Stadium",
-      "city": "East Rutherford",
       "round": "Group Stage - 3",
       "status": "FT"
     }

@@ -1,0 +1,508 @@
+[
+  {
+    "time": {
+      "elapsed": 13,
+      "extra": null
+    },
+    "team": {
+      "id": 32,
+      "name": "Egypt",
+      "logo": "https://media.api-sports.io/football/teams/32.png"
+    },
+    "player": {
+      "id": 17269,
+      "name": "E. Ashour"
+    },
+    "assist": {
+      "id": 2656,
+      "name": "K. Hafez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 20,
+      "name": "Australia",
+      "logo": "https://media.api-sports.io/football/teams/20.png"
+    },
+    "player": {
+      "id": 337587,
+      "name": "J. Bos"
+    },
+    "assist": {
+      "id": 153622,
+      "name": "K. Trewin"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 55,
+      "extra": null
+    },
+    "team": {
+      "id": 20,
+      "name": "Australia",
+      "logo": "https://media.api-sports.io/football/teams/20.png"
+    },
+    "player": {
+      "id": 2654,
+      "name": "M. Hany"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 67,
+      "extra": null
+    },
+    "team": {
+      "id": 32,
+      "name": "Egypt",
+      "logo": "https://media.api-sports.io/football/teams/32.png"
+    },
+    "player": {
+      "id": 395075,
+      "name": "M. Ziko"
+    },
+    "assist": {
+      "id": 20844,
+      "name": "H. Hassan"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 67,
+      "extra": null
+    },
+    "team": {
+      "id": 32,
+      "name": "Egypt",
+      "logo": "https://media.api-sports.io/football/teams/32.png"
+    },
+    "player": {
+      "id": 16813,
+      "name": "H. Fathy"
+    },
+    "assist": {
+      "id": 269621,
+      "name": "H. Abdelmaguid"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 74,
+      "extra": null
+    },
+    "team": {
+      "id": 20,
+      "name": "Australia",
+      "logo": "https://media.api-sports.io/football/teams/20.png"
+    },
+    "player": {
+      "id": 342035,
+      "name": "C. Volpato"
+    },
+    "assist": {
+      "id": 38123,
+      "name": "A. Hrustic"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 74,
+      "extra": null
+    },
+    "team": {
+      "id": 20,
+      "name": "Australia",
+      "logo": "https://media.api-sports.io/football/teams/20.png"
+    },
+    "player": {
+      "id": 338014,
+      "name": "N. Irankunda"
+    },
+    "assist": {
+      "id": 198352,
+      "name": "M. Toure"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 80,
+      "extra": null
+    },
+    "team": {
+      "id": 32,
+      "name": "Egypt",
+      "logo": "https://media.api-sports.io/football/teams/32.png"
+    },
+    "player": {
+      "id": 2656,
+      "name": "K. Hafez"
+    },
+    "assist": {
+      "id": 2664,
+      "name": "Trezeguet"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 91,
+      "extra": null
+    },
+    "team": {
+      "id": 20,
+      "name": "Australia",
+      "logo": "https://media.api-sports.io/football/teams/20.png"
+    },
+    "player": {
+      "id": 7050,
+      "name": "A. O'Neill"
+    },
+    "assist": {
+      "id": 441269,
+      "name": "P. Okon-Engstler"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 91,
+      "extra": null
+    },
+    "team": {
+      "id": 20,
+      "name": "Australia",
+      "logo": "https://media.api-sports.io/football/teams/20.png"
+    },
+    "player": {
+      "id": 6904,
+      "name": "C. Metcalfe"
+    },
+    "assist": {
+      "id": 2755,
+      "name": "A. Mabil"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 105,
+      "extra": null
+    },
+    "team": {
+      "id": 32,
+      "name": "Egypt",
+      "logo": "https://media.api-sports.io/football/teams/32.png"
+    },
+    "player": {
+      "id": 20844,
+      "name": "H. Hassan"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Holding"
+  },
+  {
+    "time": {
+      "elapsed": 106,
+      "extra": null
+    },
+    "team": {
+      "id": 32,
+      "name": "Egypt",
+      "logo": "https://media.api-sports.io/football/teams/32.png"
+    },
+    "player": {
+      "id": 81573,
+      "name": "O. Marmoush"
+    },
+    "assist": {
+      "id": 550547,
+      "name": "H. Abdelkarim"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 119,
+      "extra": null
+    },
+    "team": {
+      "id": 20,
+      "name": "Australia",
+      "logo": "https://media.api-sports.io/football/teams/20.png"
+    },
+    "player": {
+      "id": 353883,
+      "name": "P. Beach"
+    },
+    "assist": {
+      "id": 2741,
+      "name": "M. Ryan"
+    },
+    "type": "subst",
+    "detail": "Substitution 6",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": null
+    },
+    "team": {
+      "id": 32,
+      "name": "Egypt",
+      "logo": "https://media.api-sports.io/football/teams/32.png"
+    },
+    "player": {
+      "id": 16804,
+      "name": "Y. Ibrahim"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 1
+    },
+    "team": {
+      "id": 32,
+      "name": "Egypt",
+      "logo": "https://media.api-sports.io/football/teams/32.png"
+    },
+    "player": {
+      "id": 190575,
+      "name": "M. Attia"
+    },
+    "assist": {
+      "id": 69196,
+      "name": "M. Saber"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 1
+    },
+    "team": {
+      "id": 20,
+      "name": "Australia",
+      "logo": "https://media.api-sports.io/football/teams/20.png"
+    },
+    "player": {
+      "id": 20079,
+      "name": "H. Souttar"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Missed Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 1
+    },
+    "team": {
+      "id": 32,
+      "name": "Egypt",
+      "logo": "https://media.api-sports.io/football/teams/32.png"
+    },
+    "player": {
+      "id": 69196,
+      "name": "M. Saber"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 2
+    },
+    "team": {
+      "id": 20,
+      "name": "Australia",
+      "logo": "https://media.api-sports.io/football/teams/20.png"
+    },
+    "player": {
+      "id": 2749,
+      "name": "J. Irvine"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 2
+    },
+    "team": {
+      "id": 32,
+      "name": "Egypt",
+      "logo": "https://media.api-sports.io/football/teams/32.png"
+    },
+    "player": {
+      "id": 16805,
+      "name": "R. Rabia"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 3
+    },
+    "team": {
+      "id": 20,
+      "name": "Australia",
+      "logo": "https://media.api-sports.io/football/teams/20.png"
+    },
+    "player": {
+      "id": 2755,
+      "name": "A. Mabil"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 3
+    },
+    "team": {
+      "id": 32,
+      "name": "Egypt",
+      "logo": "https://media.api-sports.io/football/teams/32.png"
+    },
+    "player": {
+      "id": 306,
+      "name": "M. Salah"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 4
+    },
+    "team": {
+      "id": 20,
+      "name": "Australia",
+      "logo": "https://media.api-sports.io/football/teams/20.png"
+    },
+    "player": {
+      "id": 426480,
+      "name": "L. Herrington"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Missed Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 4
+    },
+    "team": {
+      "id": 32,
+      "name": "Egypt",
+      "logo": "https://media.api-sports.io/football/teams/32.png"
+    },
+    "player": {
+      "id": 269621,
+      "name": "H. Abdelmaguid"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": "Penalty Shootout"
+  }
+]

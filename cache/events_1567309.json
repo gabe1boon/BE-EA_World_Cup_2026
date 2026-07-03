@@ -1,0 +1,398 @@
+[
+  {
+    "time": {
+      "elapsed": 17,
+      "extra": null
+    },
+    "team": {
+      "id": 27,
+      "name": "Portugal",
+      "logo": "https://media.api-sports.io/football/teams/27.png"
+    },
+    "player": {
+      "id": 567,
+      "name": "R. Dias"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Elbowing"
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 3,
+      "name": "Croatia",
+      "logo": "https://media.api-sports.io/football/teams/3.png"
+    },
+    "player": {
+      "id": 46746,
+      "name": "A. Budimir"
+    },
+    "assist": {
+      "id": 202696,
+      "name": "I. Matanovic"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 53,
+      "extra": null
+    },
+    "team": {
+      "id": 3,
+      "name": "Croatia",
+      "logo": "https://media.api-sports.io/football/teams/3.png"
+    },
+    "player": {
+      "id": 207,
+      "name": "I. Perisic"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 59,
+      "extra": null
+    },
+    "team": {
+      "id": 3,
+      "name": "Croatia",
+      "logo": "https://media.api-sports.io/football/teams/3.png"
+    },
+    "player": {
+      "id": 754,
+      "name": "L. Modric"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 61,
+      "extra": null
+    },
+    "team": {
+      "id": 27,
+      "name": "Portugal",
+      "logo": "https://media.api-sports.io/football/teams/27.png"
+    },
+    "player": {
+      "id": 874,
+      "name": "C. Ronaldo"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Var",
+    "detail": "Goal Disallowed - offside",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 62,
+      "extra": null
+    },
+    "team": {
+      "id": 27,
+      "name": "Portugal",
+      "logo": "https://media.api-sports.io/football/teams/27.png"
+    },
+    "player": {
+      "id": 128384,
+      "name": "Vitinha"
+    },
+    "assist": {
+      "id": 636,
+      "name": "B. Silva"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 63,
+      "extra": null
+    },
+    "team": {
+      "id": 27,
+      "name": "Portugal",
+      "logo": "https://media.api-sports.io/football/teams/27.png"
+    },
+    "player": {
+      "id": 1864,
+      "name": "P. Neto"
+    },
+    "assist": {
+      "id": 161585,
+      "name": "F. Conceicao"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 63,
+      "extra": null
+    },
+    "team": {
+      "id": 27,
+      "name": "Portugal",
+      "logo": "https://media.api-sports.io/football/teams/27.png"
+    },
+    "player": {
+      "id": 1485,
+      "name": "B. Fernandes"
+    },
+    "assist": {
+      "id": 130,
+      "name": "N. Semedo"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 63,
+      "extra": null
+    },
+    "team": {
+      "id": 27,
+      "name": "Portugal",
+      "logo": "https://media.api-sports.io/football/teams/27.png"
+    },
+    "player": {
+      "id": 855,
+      "name": "J. Cancelo"
+    },
+    "assist": {
+      "id": 41585,
+      "name": "G. Ramos"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 68,
+      "extra": null
+    },
+    "team": {
+      "id": 27,
+      "name": "Portugal",
+      "logo": "https://media.api-sports.io/football/teams/27.png"
+    },
+    "player": {
+      "id": 874,
+      "name": "C. Ronaldo"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 68,
+      "extra": null
+    },
+    "team": {
+      "id": 3,
+      "name": "Croatia",
+      "logo": "https://media.api-sports.io/football/teams/3.png"
+    },
+    "player": {
+      "id": 295026,
+      "name": "M. Baturina"
+    },
+    "assist": {
+      "id": 2763,
+      "name": "M. Pasalic"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 81,
+      "extra": null
+    },
+    "team": {
+      "id": 3,
+      "name": "Croatia",
+      "logo": "https://media.api-sports.io/football/teams/3.png"
+    },
+    "player": {
+      "id": 348205,
+      "name": "P. Sucic"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Var",
+    "detail": "Goal Disallowed - offside",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 81,
+      "extra": null
+    },
+    "team": {
+      "id": 27,
+      "name": "Portugal",
+      "logo": "https://media.api-sports.io/football/teams/27.png"
+    },
+    "player": {
+      "id": 874,
+      "name": "C. Ronaldo"
+    },
+    "assist": {
+      "id": 2676,
+      "name": "R. Neves"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 2
+    },
+    "team": {
+      "id": 3,
+      "name": "Croatia",
+      "logo": "https://media.api-sports.io/football/teams/3.png"
+    },
+    "player": {
+      "id": 842,
+      "name": "N. Vlasic"
+    },
+    "assist": {
+      "id": 129033,
+      "name": "J. Gvardiol"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 4
+    },
+    "team": {
+      "id": 27,
+      "name": "Portugal",
+      "logo": "https://media.api-sports.io/football/teams/27.png"
+    },
+    "player": {
+      "id": 41585,
+      "name": "G. Ramos"
+    },
+    "assist": {
+      "id": 22236,
+      "name": "R. Leao"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 6
+    },
+    "team": {
+      "id": 3,
+      "name": "Croatia",
+      "logo": "https://media.api-sports.io/football/teams/3.png"
+    },
+    "player": {
+      "id": 2291,
+      "name": "M. Kovacic"
+    },
+    "assist": {
+      "id": 726,
+      "name": "A. Kramaric"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 8
+    },
+    "team": {
+      "id": 3,
+      "name": "Croatia",
+      "logo": "https://media.api-sports.io/football/teams/3.png"
+    },
+    "player": {
+      "id": 207,
+      "name": "I. Perisic"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Unsportsmanlike conduct"
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 13
+    },
+    "team": {
+      "id": 3,
+      "name": "Croatia",
+      "logo": "https://media.api-sports.io/football/teams/3.png"
+    },
+    "player": {
+      "id": 129033,
+      "name": "J. Gvardiol"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Var",
+    "detail": "Goal Disallowed - offside",
+    "comments": null
+  }
+]

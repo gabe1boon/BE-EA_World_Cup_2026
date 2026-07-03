@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-02T23:53:54Z",
+  "updated_at": "2026-07-03T01:45:01Z",
   "leaderboard": [
     {
       "colleague": "Iga",
@@ -104,6 +104,23 @@
       "eliminated": false
     },
     {
+      "colleague": "Mark",
+      "team": "Portugal",
+      "team_id": 27,
+      "next_match_utc": null,
+      "next_match_vs": null,
+      "points": 17,
+      "played": 4,
+      "wins": 2,
+      "draws": 2,
+      "goals_for": 8,
+      "clean_sheets": 2,
+      "yellow_cards": 5,
+      "red_cards": 0,
+      "upset_bonus": 0,
+      "eliminated": false
+    },
+    {
       "colleague": "Oliver",
       "team": "Ivory Coast",
       "team_id": 1501,
@@ -155,23 +172,6 @@
       "eliminated": false
     },
     {
-      "colleague": "Mark",
-      "team": "Croatia",
-      "team_id": 3,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 13,
-      "played": 3,
-      "wins": 2,
-      "draws": 0,
-      "goals_for": 5,
-      "clean_sheets": 1,
-      "yellow_cards": 2,
-      "red_cards": 0,
-      "upset_bonus": 0,
-      "eliminated": false
-    },
-    {
       "colleague": "Dusan",
       "team": "Japan",
       "team_id": 12,
@@ -190,20 +190,20 @@
     },
     {
       "colleague": "Mark",
-      "team": "Portugal",
-      "team_id": 27,
+      "team": "Croatia",
+      "team_id": 3,
       "next_match_utc": null,
       "next_match_vs": null,
-      "points": 13,
-      "played": 3,
-      "wins": 1,
-      "draws": 2,
+      "points": 12,
+      "played": 4,
+      "wins": 2,
+      "draws": 0,
       "goals_for": 6,
-      "clean_sheets": 2,
+      "clean_sheets": 1,
       "yellow_cards": 4,
       "red_cards": 0,
       "upset_bonus": 0,
-      "eliminated": false
+      "eliminated": true
     },
     {
       "colleague": "Daniel",
@@ -770,6 +770,19 @@
   ],
   "recent_results": [
     {
+      "date": "2026-07-02T23:00:00Z",
+      "home_team": "Portugal",
+      "away_team": "Croatia",
+      "home_score": 2,
+      "away_score": 1,
+      "home_group": "A",
+      "away_group": "A",
+      "venue": "BMO Field",
+      "city": "Toronto",
+      "round": "Round of 32",
+      "status": "FT"
+    },
+    {
       "date": "2026-07-02T19:00:00Z",
       "home_team": "Spain",
       "away_team": "Austria",
@@ -1143,19 +1156,6 @@
       "away_group": "C",
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
-      "round": "Group Stage - 3",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-25T01:00:00Z",
-      "home_team": "Czechia",
-      "away_team": "Mexico",
-      "home_score": 0,
-      "away_score": 3,
-      "home_group": "C",
-      "away_group": "B",
-      "venue": "Estadio Banorte",
-      "city": "Mexico City",
       "round": "Group Stage - 3",
       "status": "FT"
     }

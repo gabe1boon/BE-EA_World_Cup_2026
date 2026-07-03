@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T05:40:39Z",
+  "updated_at": "2026-07-03T08:44:36Z",
   "leaderboard": [
     {
       "colleague": "Iga",
@@ -22,9 +22,9 @@
       "colleague": "Naini",
       "team": "Spain",
       "team_id": 9,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 26,
+      "next_match_utc": "2026-07-06T19:00:00Z",
+      "next_match_vs": "Portugal",
+      "points": 28,
       "played": 4,
       "wins": 3,
       "draws": 1,
@@ -104,6 +104,23 @@
       "eliminated": false
     },
     {
+      "colleague": "Mark",
+      "team": "Portugal",
+      "team_id": 27,
+      "next_match_utc": "2026-07-06T19:00:00Z",
+      "next_match_vs": "Spain",
+      "points": 19,
+      "played": 4,
+      "wins": 2,
+      "draws": 2,
+      "goals_for": 8,
+      "clean_sheets": 2,
+      "yellow_cards": 5,
+      "red_cards": 0,
+      "upset_bonus": 0,
+      "eliminated": false
+    },
+    {
       "colleague": "Eva",
       "team": "Morocco",
       "team_id": 31,
@@ -116,23 +133,6 @@
       "goals_for": 7,
       "clean_sheets": 1,
       "yellow_cards": 2,
-      "red_cards": 0,
-      "upset_bonus": 0,
-      "eliminated": false
-    },
-    {
-      "colleague": "Mark",
-      "team": "Portugal",
-      "team_id": 27,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 17,
-      "played": 4,
-      "wins": 2,
-      "draws": 2,
-      "goals_for": 8,
-      "clean_sheets": 2,
-      "yellow_cards": 5,
       "red_cards": 0,
       "upset_bonus": 0,
       "eliminated": false
@@ -745,6 +745,16 @@
       "away_group": "A",
       "venue": "Estadio Banorte",
       "city": "Mexico City",
+      "round": "Round of 16"
+    },
+    {
+      "date": "2026-07-06T19:00:00Z",
+      "home_team": "Portugal",
+      "away_team": "Spain",
+      "home_group": "A",
+      "away_group": "A",
+      "venue": "",
+      "city": "",
       "round": "Round of 16"
     },
     {

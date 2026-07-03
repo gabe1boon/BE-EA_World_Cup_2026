@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-03T21:36:51Z",
+  "updated_at": "2026-07-03T22:52:00Z",
   "leaderboard": [
     {
       "colleague": "Iga",
@@ -39,8 +39,8 @@
       "colleague": "Sachin",
       "team": "Argentina",
       "team_id": 26,
-      "next_match_utc": "2026-07-03T22:00:00Z",
-      "next_match_vs": "Cape Verde Islands",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 21,
       "played": 3,
       "wins": 3,
@@ -294,8 +294,8 @@
       "colleague": "Achille",
       "team": "Cape Verde Islands",
       "team_id": 1533,
-      "next_match_utc": "2026-07-03T22:00:00Z",
-      "next_match_vs": "Argentina",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 7,
       "played": 3,
       "wins": 0,
@@ -677,16 +677,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-07-03T22:00:00Z",
-      "home_team": "Argentina",
-      "away_team": "Cape Verde Islands",
-      "home_group": "A",
-      "away_group": "D",
-      "venue": "Hard Rock Stadium",
-      "city": "Miami",
-      "round": "Round of 32"
-    },
     {
       "date": "2026-07-04T01:30:00Z",
       "home_team": "Colombia",

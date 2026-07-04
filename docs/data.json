@@ -1,6 +1,23 @@
 {
-  "updated_at": "2026-07-04T01:44:21Z",
+  "updated_at": "2026-07-04T05:33:58Z",
   "leaderboard": [
+    {
+      "colleague": "Sachin",
+      "team": "Argentina",
+      "team_id": 26,
+      "next_match_utc": "2026-07-07T16:00:00Z",
+      "next_match_vs": "Egypt",
+      "points": 28,
+      "played": 4,
+      "wins": 4,
+      "draws": 0,
+      "goals_for": 11,
+      "clean_sheets": 2,
+      "yellow_cards": 3,
+      "red_cards": 0,
+      "upset_bonus": 0,
+      "eliminated": false
+    },
     {
       "colleague": "Iga",
       "team": "Mexico",
@@ -36,17 +53,17 @@
       "eliminated": false
     },
     {
-      "colleague": "Sachin",
-      "team": "Argentina",
-      "team_id": 26,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 26,
+      "colleague": "Koums",
+      "team": "Switzerland",
+      "team_id": 15,
+      "next_match_utc": "2026-07-07T20:00:00Z",
+      "next_match_vs": "Colombia",
+      "points": 22,
       "played": 4,
-      "wins": 4,
-      "draws": 0,
-      "goals_for": 11,
-      "clean_sheets": 2,
+      "wins": 3,
+      "draws": 1,
+      "goals_for": 9,
+      "clean_sheets": 1,
       "yellow_cards": 3,
       "red_cards": 0,
       "upset_bonus": 0,
@@ -82,23 +99,6 @@
       "goals_for": 9,
       "clean_sheets": 2,
       "yellow_cards": 7,
-      "red_cards": 0,
-      "upset_bonus": 0,
-      "eliminated": false
-    },
-    {
-      "colleague": "Koums",
-      "team": "Switzerland",
-      "team_id": 15,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 20,
-      "played": 4,
-      "wins": 3,
-      "draws": 1,
-      "goals_for": 9,
-      "clean_sheets": 1,
-      "yellow_cards": 3,
       "red_cards": 0,
       "upset_bonus": 0,
       "eliminated": false
@@ -223,23 +223,6 @@
       "eliminated": true
     },
     {
-      "colleague": "Achille",
-      "team": "Ghana",
-      "team_id": 1504,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 9,
-      "played": 3,
-      "wins": 1,
-      "draws": 1,
-      "goals_for": 2,
-      "clean_sheets": 2,
-      "yellow_cards": 3,
-      "red_cards": 0,
-      "upset_bonus": 0,
-      "eliminated": false
-    },
-    {
       "colleague": "Nicolas",
       "team": "Sweden",
       "team_id": 5,
@@ -255,6 +238,23 @@
       "red_cards": 0,
       "upset_bonus": 0,
       "eliminated": true
+    },
+    {
+      "colleague": "Deepti",
+      "team": "Egypt",
+      "team_id": 32,
+      "next_match_utc": "2026-07-07T16:00:00Z",
+      "next_match_vs": "Argentina",
+      "points": 8,
+      "played": 4,
+      "wins": 1,
+      "draws": 3,
+      "goals_for": 6,
+      "clean_sheets": 0,
+      "yellow_cards": 8,
+      "red_cards": 0,
+      "upset_bonus": 0,
+      "eliminated": false
     },
     {
       "colleague": "Daniel",
@@ -308,21 +308,21 @@
       "eliminated": true
     },
     {
-      "colleague": "Deepti",
-      "team": "Egypt",
-      "team_id": 32,
+      "colleague": "Achille",
+      "team": "Ghana",
+      "team_id": 1504,
       "next_match_utc": null,
       "next_match_vs": null,
       "points": 6,
       "played": 4,
       "wins": 1,
-      "draws": 3,
-      "goals_for": 6,
-      "clean_sheets": 0,
-      "yellow_cards": 8,
+      "draws": 1,
+      "goals_for": 2,
+      "clean_sheets": 2,
+      "yellow_cards": 6,
       "red_cards": 0,
       "upset_bonus": 0,
-      "eliminated": false
+      "eliminated": true
     },
     {
       "colleague": "Sebastian",
@@ -628,7 +628,7 @@
     {
       "team_id": 8,
       "team": "Colombia",
-      "points": 13
+      "points": 19
     },
     {
       "team_id": 5530,
@@ -736,9 +736,42 @@
       "venue": "Lumen Field",
       "city": "",
       "round": "Round of 16"
+    },
+    {
+      "date": "2026-07-07T16:00:00Z",
+      "home_team": "Argentina",
+      "away_team": "Egypt",
+      "home_group": "A",
+      "away_group": "C",
+      "venue": "",
+      "city": "",
+      "round": "Round of 16"
+    },
+    {
+      "date": "2026-07-07T20:00:00Z",
+      "home_team": "Switzerland",
+      "away_team": "Colombia",
+      "home_group": "B",
+      "away_group": "A",
+      "venue": "",
+      "city": "",
+      "round": "Round of 16"
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-07-04T01:30:00Z",
+      "home_team": "Colombia",
+      "away_team": "Ghana",
+      "home_score": 1,
+      "away_score": 0,
+      "home_group": "A",
+      "away_group": "C",
+      "venue": "Arrowhead Stadium",
+      "city": "Kansas City",
+      "round": "Round of 32",
+      "status": "FT"
+    },
     {
       "date": "2026-07-03T22:00:00Z",
       "home_team": "Argentina",
@@ -1113,19 +1146,6 @@
       "away_group": "C",
       "venue": "Levi's Stadium",
       "city": "Santa Clara",
-      "round": "Group Stage - 3",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-25T23:00:00Z",
-      "home_team": "Japan",
-      "away_team": "Sweden",
-      "home_score": 1,
-      "away_score": 1,
-      "home_group": "B",
-      "away_group": "B",
-      "venue": "AT&T Stadium",
-      "city": "Arlington",
       "round": "Group Stage - 3",
       "status": "FT"
     }

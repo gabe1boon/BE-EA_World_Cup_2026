@@ -1,0 +1,354 @@
+[
+  {
+    "time": {
+      "elapsed": 8,
+      "extra": null
+    },
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    "player": {
+      "id": 24810,
+      "name": "J. Cordoba"
+    },
+    "assist": {
+      "id": 47237,
+      "name": "L. Suarez"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 12,
+      "extra": null
+    },
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    "player": {
+      "id": 13708,
+      "name": "J. Arias"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 13,
+      "extra": null
+    },
+    "team": {
+      "id": 1504,
+      "name": "Ghana",
+      "logo": "https://media.api-sports.io/football/teams/1504.png"
+    },
+    "player": {
+      "id": 191240,
+      "name": "M. Senaya"
+    },
+    "assist": {
+      "id": 196187,
+      "name": "A. Seidu"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 14,
+      "extra": null
+    },
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    "player": {
+      "id": 13708,
+      "name": "J. Arias"
+    },
+    "assist": {
+      "id": 47237,
+      "name": "L. Suarez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    "player": {
+      "id": 517,
+      "name": "J. Rodriguez"
+    },
+    "assist": {
+      "id": 195104,
+      "name": "R. Rios"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 49,
+      "extra": null
+    },
+    "team": {
+      "id": 1504,
+      "name": "Ghana",
+      "logo": "https://media.api-sports.io/football/teams/1504.png"
+    },
+    "player": {
+      "id": 475575,
+      "name": "C. Yirenkyi"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Holding"
+  },
+  {
+    "time": {
+      "elapsed": 56,
+      "extra": null
+    },
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    "player": {
+      "id": 2489,
+      "name": "L. Diaz"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Var",
+    "detail": "Goal Disallowed - offside",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 62,
+      "extra": null
+    },
+    "team": {
+      "id": 1504,
+      "name": "Ghana",
+      "logo": "https://media.api-sports.io/football/teams/1504.png"
+    },
+    "player": {
+      "id": 47294,
+      "name": "I. Williams"
+    },
+    "assist": {
+      "id": 303467,
+      "name": "I. Fatawu"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 62,
+      "extra": null
+    },
+    "team": {
+      "id": 1504,
+      "name": "Ghana",
+      "logo": "https://media.api-sports.io/football/teams/1504.png"
+    },
+    "player": {
+      "id": 3608,
+      "name": "K. Sibo"
+    },
+    "assist": {
+      "id": 21010,
+      "name": "E. Owusu"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 66,
+      "extra": null
+    },
+    "team": {
+      "id": 1504,
+      "name": "Ghana",
+      "logo": "https://media.api-sports.io/football/teams/1504.png"
+    },
+    "player": {
+      "id": 303467,
+      "name": "I. Fatawu"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Unsportsmanlike conduct"
+  },
+  {
+    "time": {
+      "elapsed": 73,
+      "extra": null
+    },
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    "player": {
+      "id": 13708,
+      "name": "J. Arias"
+    },
+    "assist": {
+      "id": 6005,
+      "name": "J. Quintero"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 76,
+      "extra": null
+    },
+    "team": {
+      "id": 1504,
+      "name": "Ghana",
+      "logo": "https://media.api-sports.io/football/teams/1504.png"
+    },
+    "player": {
+      "id": 196187,
+      "name": "A. Seidu"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 78,
+      "extra": null
+    },
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    "player": {
+      "id": 195104,
+      "name": "R. Rios"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 79,
+      "extra": null
+    },
+    "team": {
+      "id": 1504,
+      "name": "Ghana",
+      "logo": "https://media.api-sports.io/football/teams/1504.png"
+    },
+    "player": {
+      "id": 3428,
+      "name": "J. Ayew"
+    },
+    "assist": {
+      "id": 350856,
+      "name": "E. Nuamah"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 79,
+      "extra": null
+    },
+    "team": {
+      "id": 1504,
+      "name": "Ghana",
+      "logo": "https://media.api-sports.io/football/teams/1504.png"
+    },
+    "player": {
+      "id": 475575,
+      "name": "C. Yirenkyi"
+    },
+    "assist": {
+      "id": 410016,
+      "name": "P. Adu"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": null
+    },
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    "player": {
+      "id": 2489,
+      "name": "L. Diaz"
+    },
+    "assist": {
+      "id": 13376,
+      "name": "J. Campaz"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  }
+]

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T22:24:29Z",
+  "updated_at": "2026-07-04T23:27:44Z",
   "leaderboard": [
     {
       "colleague": "Sachin",
@@ -348,7 +348,7 @@
       "next_match_utc": null,
       "next_match_vs": null,
       "points": 5,
-      "played": 4,
+      "played": 5,
       "wins": 1,
       "draws": 2,
       "goals_for": 3,
@@ -356,7 +356,7 @@
       "yellow_cards": 10,
       "red_cards": 1,
       "upset_bonus": 1,
-      "eliminated": false
+      "eliminated": true
     },
     {
       "colleague": "Gabe",
@@ -643,7 +643,7 @@
     {
       "team_id": 2,
       "team": "France",
-      "points": 33
+      "points": 36
     },
     {
       "team_id": 25,
@@ -739,6 +739,19 @@
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-07-04T21:00:00Z",
+      "home_team": "Paraguay",
+      "away_team": "France",
+      "home_score": 0,
+      "away_score": 1,
+      "home_group": "D",
+      "away_group": "A",
+      "venue": "Lincoln Financial Field",
+      "city": "Philadelphia",
+      "round": "Round of 16",
+      "status": "FT"
+    },
     {
       "date": "2026-07-04T17:00:00Z",
       "home_team": "Canada",
@@ -1113,19 +1126,6 @@
       "away_group": "A",
       "venue": "Gillette Stadium",
       "city": "Boston",
-      "round": "Group Stage - 3",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-26T02:00:00Z",
-      "home_team": "T\u00fcrkiye",
-      "away_team": "USA",
-      "home_score": 3,
-      "away_score": 2,
-      "home_group": "C",
-      "away_group": "B",
-      "venue": "SoFi Stadium",
-      "city": "Inglewood",
       "round": "Group Stage - 3",
       "status": "FT"
     }

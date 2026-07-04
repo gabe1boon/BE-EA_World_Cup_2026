@@ -1,0 +1,464 @@
+[
+  {
+    "time": {
+      "elapsed": 20,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 326183,
+      "name": "R. Halhal"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  },
+  {
+    "time": {
+      "elapsed": 22,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 161897,
+      "name": "I. Saibari"
+    },
+    "assist": {
+      "id": 36579,
+      "name": "S. Rahimi"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 40,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 9,
+      "name": "A. Hakimi"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Unsportsmanlike conduct"
+  },
+  {
+    "time": {
+      "elapsed": 40,
+      "extra": null
+    },
+    "team": {
+      "id": 5529,
+      "name": "Canada",
+      "logo": "https://media.api-sports.io/football/teams/5529.png"
+    },
+    "player": {
+      "id": 50816,
+      "name": "R. Laryea"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Unsportsmanlike conduct"
+  },
+  {
+    "time": {
+      "elapsed": 43,
+      "extra": null
+    },
+    "team": {
+      "id": 5529,
+      "name": "Canada",
+      "logo": "https://media.api-sports.io/football/teams/5529.png"
+    },
+    "player": {
+      "id": 8489,
+      "name": "J. David"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Holding"
+  },
+  {
+    "time": {
+      "elapsed": 45,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 129678,
+      "name": "A. Ounahi"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 45,
+      "extra": 6
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 340573,
+      "name": "B. El Khannouss"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  },
+  {
+    "time": {
+      "elapsed": 49,
+      "extra": null
+    },
+    "team": {
+      "id": 5529,
+      "name": "Canada",
+      "logo": "https://media.api-sports.io/football/teams/5529.png"
+    },
+    "player": {
+      "id": 327738,
+      "name": "L. De Fougerolles"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 50,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 129678,
+      "name": "A. Ounahi"
+    },
+    "assist": {
+      "id": 9,
+      "name": "A. Hakimi"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 63,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 438688,
+      "name": "A. Bouaddi"
+    },
+    "assist": {
+      "id": 74,
+      "name": "S. Amrabat"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 63,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 340573,
+      "name": "B. El Khannouss"
+    },
+    "assist": {
+      "id": 336659,
+      "name": "C. Talbi"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 63,
+      "extra": null
+    },
+    "team": {
+      "id": 5529,
+      "name": "Canada",
+      "logo": "https://media.api-sports.io/football/teams/5529.png"
+    },
+    "player": {
+      "id": 351587,
+      "name": "T. Oluwaseyi"
+    },
+    "assist": {
+      "id": 2001,
+      "name": "C. Larin"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 67,
+      "extra": null
+    },
+    "team": {
+      "id": 5529,
+      "name": "Canada",
+      "logo": "https://media.api-sports.io/football/teams/5529.png"
+    },
+    "player": {
+      "id": 2001,
+      "name": "C. Larin"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Foul"
+  },
+  {
+    "time": {
+      "elapsed": 78,
+      "extra": null
+    },
+    "team": {
+      "id": 5529,
+      "name": "Canada",
+      "logo": "https://media.api-sports.io/football/teams/5529.png"
+    },
+    "player": {
+      "id": 362145,
+      "name": "A. Ahmed"
+    },
+    "assist": {
+      "id": 313353,
+      "name": "P. David"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 78,
+      "extra": null
+    },
+    "team": {
+      "id": 5529,
+      "name": "Canada",
+      "logo": "https://media.api-sports.io/football/teams/5529.png"
+    },
+    "player": {
+      "id": 50816,
+      "name": "R. Laryea"
+    },
+    "assist": {
+      "id": 50826,
+      "name": "J. Shaffelburg"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 82,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 129678,
+      "name": "A. Ounahi"
+    },
+    "assist": {
+      "id": 744,
+      "name": "B. Diaz"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 87,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 18814,
+      "name": "I. Diop"
+    },
+    "assist": {
+      "id": 50042,
+      "name": "M. Saadane"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 87,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 129678,
+      "name": "A. Ounahi"
+    },
+    "assist": {
+      "id": 415431,
+      "name": "S. El Mourabet"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 87,
+      "extra": null
+    },
+    "team": {
+      "id": 5529,
+      "name": "Canada",
+      "logo": "https://media.api-sports.io/football/teams/5529.png"
+    },
+    "player": {
+      "id": 51016,
+      "name": "T. Buchanan"
+    },
+    "assist": {
+      "id": 193279,
+      "name": "J. Nelson"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 87,
+      "extra": null
+    },
+    "team": {
+      "id": 5529,
+      "name": "Canada",
+      "logo": "https://media.api-sports.io/football/teams/5529.png"
+    },
+    "player": {
+      "id": 416901,
+      "name": "N. Sigur"
+    },
+    "assist": {
+      "id": 50817,
+      "name": "J. Osorio"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 8
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 36579,
+      "name": "S. Rahimi"
+    },
+    "assist": {
+      "id": 744,
+      "name": "B. Diaz"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  }
+]

@@ -1,0 +1,398 @@
+[
+  {
+    "time": {
+      "elapsed": 29,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 154,
+      "name": "L. Messi"
+    },
+    "assist": {
+      "id": 2467,
+      "name": "L. Martinez"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 59,
+      "extra": null
+    },
+    "team": {
+      "id": 1533,
+      "name": "Cape Verde Islands",
+      "logo": "https://media.api-sports.io/football/teams/1533.png"
+    },
+    "player": {
+      "id": 37435,
+      "name": "D. Duarte"
+    },
+    "assist": {
+      "id": 50270,
+      "name": "R. Mendes"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 63,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 217,
+      "name": "L. Martinez"
+    },
+    "assist": {
+      "id": 6009,
+      "name": "J. Alvarez"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 64,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 6067,
+      "name": "T. Almada"
+    },
+    "assist": {
+      "id": 26315,
+      "name": "N. Gonzalez"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 67,
+      "extra": null
+    },
+    "team": {
+      "id": 1533,
+      "name": "Cape Verde Islands",
+      "logo": "https://media.api-sports.io/football/teams/1533.png"
+    },
+    "player": {
+      "id": 37436,
+      "name": "L. Duarte"
+    },
+    "assist": {
+      "id": 50745,
+      "name": "J. Monteiro"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 67,
+      "extra": null
+    },
+    "team": {
+      "id": 1533,
+      "name": "Cape Verde Islands",
+      "logo": "https://media.api-sports.io/football/teams/1533.png"
+    },
+    "player": {
+      "id": 22265,
+      "name": "N. Da Costa"
+    },
+    "assist": {
+      "id": 343287,
+      "name": "D. Livramento"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 68,
+      "extra": null
+    },
+    "team": {
+      "id": 1533,
+      "name": "Cape Verde Islands",
+      "logo": "https://media.api-sports.io/football/teams/1533.png"
+    },
+    "player": {
+      "id": 96512,
+      "name": "K. Lenini"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Holding"
+  },
+  {
+    "time": {
+      "elapsed": 80,
+      "extra": null
+    },
+    "team": {
+      "id": 1533,
+      "name": "Cape Verde Islands",
+      "logo": "https://media.api-sports.io/football/teams/1533.png"
+    },
+    "player": {
+      "id": 50270,
+      "name": "R. Mendes"
+    },
+    "assist": {
+      "id": 113580,
+      "name": "W. Semedo"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 80,
+      "extra": null
+    },
+    "team": {
+      "id": 1533,
+      "name": "Cape Verde Islands",
+      "logo": "https://media.api-sports.io/football/teams/1533.png"
+    },
+    "player": {
+      "id": 1494,
+      "name": "J. Cabral"
+    },
+    "assist": {
+      "id": 291024,
+      "name": "H. Varela"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 84,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 2472,
+      "name": "R. de Paul"
+    },
+    "assist": {
+      "id": 271,
+      "name": "L. Paredes"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 86,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 6231,
+      "name": "F. Medina"
+    },
+    "assist": {
+      "id": 529,
+      "name": "N. Tagliafico"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 92,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 2467,
+      "name": "L. Martinez"
+    },
+    "assist": {
+      "id": 6716,
+      "name": "A. Mac Allister"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 100,
+      "extra": null
+    },
+    "team": {
+      "id": 1533,
+      "name": "Cape Verde Islands",
+      "logo": "https://media.api-sports.io/football/teams/1533.png"
+    },
+    "player": {
+      "id": 37435,
+      "name": "D. Duarte"
+    },
+    "assist": {
+      "id": 128007,
+      "name": "Y. Semedo"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 100,
+      "extra": null
+    },
+    "team": {
+      "id": 1533,
+      "name": "Cape Verde Islands",
+      "logo": "https://media.api-sports.io/football/teams/1533.png"
+    },
+    "player": {
+      "id": 96512,
+      "name": "K. Lenini"
+    },
+    "assist": {
+      "id": 309182,
+      "name": "Benchimol"
+    },
+    "type": "subst",
+    "detail": "Substitution 6",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 103,
+      "extra": null
+    },
+    "team": {
+      "id": 1533,
+      "name": "Cape Verde Islands",
+      "logo": "https://media.api-sports.io/football/teams/1533.png"
+    },
+    "player": {
+      "id": 308689,
+      "name": "S. Lopes Cabral"
+    },
+    "assist": {
+      "id": 128007,
+      "name": "Y. Semedo"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 104,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 6503,
+      "name": "N. Molina"
+    },
+    "assist": {
+      "id": 2468,
+      "name": "G. Montiel"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 111,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 41608,
+      "name": "D. Borges"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Own Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 115,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 2468,
+      "name": "G. Montiel"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  }
+]

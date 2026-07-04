@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-04T20:02:51Z",
+  "updated_at": "2026-07-04T21:25:03Z",
   "leaderboard": [
     {
       "colleague": "Sachin",
@@ -345,8 +345,8 @@
       "colleague": "Tobias",
       "team": "Paraguay",
       "team_id": 2380,
-      "next_match_utc": "2026-07-04T21:00:00Z",
-      "next_match_vs": "France",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 5,
       "played": 4,
       "wins": 1,
@@ -677,16 +677,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-07-04T21:00:00Z",
-      "home_team": "Paraguay",
-      "away_team": "France",
-      "home_group": "D",
-      "away_group": "A",
-      "venue": "Lincoln Financial Field",
-      "city": "Philadelphia",
-      "round": "Round of 16"
-    },
     {
       "date": "2026-07-05T20:00:00Z",
       "home_team": "Brazil",

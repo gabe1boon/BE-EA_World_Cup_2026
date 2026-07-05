@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T18:56:42Z",
+  "updated_at": "2026-07-05T20:07:25Z",
   "leaderboard": [
     {
       "colleague": "Sachin",
@@ -107,8 +107,8 @@
       "colleague": "Marija",
       "team": "Brazil",
       "team_id": 6,
-      "next_match_utc": "2026-07-05T20:00:00Z",
-      "next_match_vs": "Norway",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 20,
       "played": 4,
       "wins": 3,
@@ -677,16 +677,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-07-05T20:00:00Z",
-      "home_team": "Brazil",
-      "away_team": "Norway",
-      "home_group": "A",
-      "away_group": "B",
-      "venue": "MetLife Stadium",
-      "city": "East Rutherford",
-      "round": "Round of 16"
-    },
     {
       "date": "2026-07-06T00:00:00Z",
       "home_team": "Mexico",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T21:31:04Z",
+  "updated_at": "2026-07-05T22:47:09Z",
   "leaderboard": [
     {
       "colleague": "Sachin",
@@ -87,6 +87,23 @@
       "eliminated": false
     },
     {
+      "colleague": "Marija",
+      "team": "Brazil",
+      "team_id": 6,
+      "next_match_utc": null,
+      "next_match_vs": null,
+      "points": 20,
+      "played": 5,
+      "wins": 3,
+      "draws": 1,
+      "goals_for": 10,
+      "clean_sheets": 2,
+      "yellow_cards": 8,
+      "red_cards": 0,
+      "upset_bonus": 0,
+      "eliminated": true
+    },
+    {
       "colleague": "Iliasse",
       "team": "USA",
       "team_id": 2384,
@@ -100,23 +117,6 @@
       "clean_sheets": 2,
       "yellow_cards": 5,
       "red_cards": 1,
-      "upset_bonus": 0,
-      "eliminated": false
-    },
-    {
-      "colleague": "Marija",
-      "team": "Brazil",
-      "team_id": 6,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 20,
-      "played": 4,
-      "wins": 3,
-      "draws": 1,
-      "goals_for": 9,
-      "clean_sheets": 2,
-      "yellow_cards": 7,
-      "red_cards": 0,
       "upset_bonus": 0,
       "eliminated": false
     },
@@ -663,7 +663,7 @@
     {
       "team_id": 1090,
       "team": "Norway",
-      "points": 22
+      "points": 28
     },
     {
       "team_id": 1531,
@@ -683,7 +683,7 @@
       "away_team": "England",
       "home_group": "B",
       "away_group": "A",
-      "venue": "Estadio Banorte",
+      "venue": "Estadio Azteca",
       "city": "Mexico City",
       "round": "Round of 16"
     },
@@ -739,6 +739,19 @@
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-07-05T20:00:00Z",
+      "home_team": "Brazil",
+      "away_team": "Norway",
+      "home_score": 1,
+      "away_score": 2,
+      "home_group": "A",
+      "away_group": "B",
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "round": "Round of 16",
+      "status": "FT"
+    },
     {
       "date": "2026-07-04T21:00:00Z",
       "home_team": "Paraguay",
@@ -1113,19 +1126,6 @@
       "away_group": "C",
       "venue": "BMO Field",
       "city": "Toronto",
-      "round": "Group Stage - 3",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-26T19:00:00Z",
-      "home_team": "Norway",
-      "away_team": "France",
-      "home_score": 1,
-      "away_score": 4,
-      "home_group": "B",
-      "away_group": "A",
-      "venue": "Gillette Stadium",
-      "city": "Boston",
       "round": "Group Stage - 3",
       "status": "FT"
     }

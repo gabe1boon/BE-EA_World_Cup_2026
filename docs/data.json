@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-05T05:15:24Z",
+  "updated_at": "2026-07-05T08:22:58Z",
   "leaderboard": [
     {
       "colleague": "Sachin",
@@ -56,9 +56,9 @@
       "colleague": "Eva",
       "team": "Morocco",
       "team_id": 31,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 23,
+      "next_match_utc": "2026-07-09T20:00:00Z",
+      "next_match_vs": "France",
+      "points": 25,
       "played": 5,
       "wins": 3,
       "draws": 2,
@@ -643,7 +643,7 @@
     {
       "team_id": 2,
       "team": "France",
-      "points": 36
+      "points": 38
     },
     {
       "team_id": 25,
@@ -736,6 +736,16 @@
       "venue": "",
       "city": "",
       "round": "Round of 16"
+    },
+    {
+      "date": "2026-07-09T20:00:00Z",
+      "home_team": "France",
+      "away_team": "Morocco",
+      "home_group": "A",
+      "away_group": "A",
+      "venue": "",
+      "city": "",
+      "round": "Quarter-finals"
     }
   ],
   "recent_results": [

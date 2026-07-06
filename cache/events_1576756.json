@@ -1,0 +1,288 @@
+[
+  {
+    "time": {
+      "elapsed": 56,
+      "extra": null
+    },
+    "team": {
+      "id": 27,
+      "name": "Portugal",
+      "logo": "https://media.api-sports.io/football/teams/27.png"
+    },
+    "player": {
+      "id": 263482,
+      "name": "N. Mendes"
+    },
+    "assist": {
+      "id": 130,
+      "name": "N. Semedo"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 71,
+      "extra": null
+    },
+    "team": {
+      "id": 27,
+      "name": "Portugal",
+      "logo": "https://media.api-sports.io/football/teams/27.png"
+    },
+    "player": {
+      "id": 583,
+      "name": "Joao Felix"
+    },
+    "assist": {
+      "id": 22236,
+      "name": "R. Leao"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 71,
+      "extra": null
+    },
+    "team": {
+      "id": 27,
+      "name": "Portugal",
+      "logo": "https://media.api-sports.io/football/teams/27.png"
+    },
+    "player": {
+      "id": 855,
+      "name": "J. Cancelo"
+    },
+    "assist": {
+      "id": 886,
+      "name": "D. Dalot"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 75,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 182219,
+      "name": "A. Baena"
+    },
+    "assist": {
+      "id": 931,
+      "name": "F. Torres"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 83,
+      "extra": null
+    },
+    "team": {
+      "id": 27,
+      "name": "Portugal",
+      "logo": "https://media.api-sports.io/football/teams/27.png"
+    },
+    "player": {
+      "id": 1864,
+      "name": "P. Neto"
+    },
+    "assist": {
+      "id": 161585,
+      "name": "F. Conceicao"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 83,
+      "extra": null
+    },
+    "team": {
+      "id": 27,
+      "name": "Portugal",
+      "logo": "https://media.api-sports.io/football/teams/27.png"
+    },
+    "player": {
+      "id": 128384,
+      "name": "Vitinha"
+    },
+    "assist": {
+      "id": 636,
+      "name": "B. Silva"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 85,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 133609,
+      "name": "Pedri"
+    },
+    "assist": {
+      "id": 328,
+      "name": "F. Ruiz"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 85,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 1323,
+      "name": "D. Olmo"
+    },
+    "assist": {
+      "id": 47311,
+      "name": "M. Merino"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 89,
+      "extra": null
+    },
+    "team": {
+      "id": 27,
+      "name": "Portugal",
+      "logo": "https://media.api-sports.io/football/teams/27.png"
+    },
+    "player": {
+      "id": 636,
+      "name": "B. Silva"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 1
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 47311,
+      "name": "M. Merino"
+    },
+    "assist": {
+      "id": 931,
+      "name": "F. Torres"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 4
+    },
+    "team": {
+      "id": 27,
+      "name": "Portugal",
+      "logo": "https://media.api-sports.io/football/teams/27.png"
+    },
+    "player": {
+      "id": 336671,
+      "name": "R. Veiga"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Holding"
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 7
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 47323,
+      "name": "M. Oyarzabal"
+    },
+    "assist": {
+      "id": 47348,
+      "name": "B. Iglesias"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 8
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 931,
+      "name": "F. Torres"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  }
+]

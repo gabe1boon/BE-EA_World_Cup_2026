@@ -1,6 +1,23 @@
 {
-  "updated_at": "2026-07-06T19:28:50Z",
+  "updated_at": "2026-07-06T21:09:23Z",
   "leaderboard": [
+    {
+      "colleague": "Naini",
+      "team": "Spain",
+      "team_id": 9,
+      "next_match_utc": null,
+      "next_match_vs": null,
+      "points": 33,
+      "played": 5,
+      "wins": 4,
+      "draws": 1,
+      "goals_for": 9,
+      "clean_sheets": 5,
+      "yellow_cards": 3,
+      "red_cards": 0,
+      "upset_bonus": 0,
+      "eliminated": false
+    },
     {
       "colleague": "Sachin",
       "team": "Argentina",
@@ -34,23 +51,6 @@
       "red_cards": 1,
       "upset_bonus": 0,
       "eliminated": true
-    },
-    {
-      "colleague": "Naini",
-      "team": "Spain",
-      "team_id": 9,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 28,
-      "played": 4,
-      "wins": 3,
-      "draws": 1,
-      "goals_for": 8,
-      "clean_sheets": 4,
-      "yellow_cards": 2,
-      "red_cards": 0,
-      "upset_bonus": 0,
-      "eliminated": false
     },
     {
       "colleague": "Eva",
@@ -126,16 +126,16 @@
       "team_id": 27,
       "next_match_utc": null,
       "next_match_vs": null,
-      "points": 19,
-      "played": 4,
+      "points": 17,
+      "played": 5,
       "wins": 2,
       "draws": 2,
       "goals_for": 8,
       "clean_sheets": 2,
-      "yellow_cards": 5,
+      "yellow_cards": 7,
       "red_cards": 0,
       "upset_bonus": 0,
-      "eliminated": false
+      "eliminated": true
     },
     {
       "colleague": "Oliver",
@@ -730,6 +730,19 @@
   ],
   "recent_results": [
     {
+      "date": "2026-07-06T19:00:00Z",
+      "home_team": "Portugal",
+      "away_team": "Spain",
+      "home_score": 0,
+      "away_score": 1,
+      "home_group": "A",
+      "away_group": "A",
+      "venue": "AT&T Stadium",
+      "city": "Dallas",
+      "round": "Round of 16",
+      "status": "FT"
+    },
+    {
       "date": "2026-07-06T01:00:00Z",
       "home_team": "Mexico",
       "away_team": "England",
@@ -1103,19 +1116,6 @@
       "away_group": "A",
       "venue": "Estadio Akron",
       "city": "Zapopan",
-      "round": "Group Stage - 3",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-27T00:00:00Z",
-      "home_team": "Cape Verde Islands",
-      "away_team": "Saudi Arabia",
-      "home_score": 0,
-      "away_score": 0,
-      "home_group": "D",
-      "away_group": "C",
-      "venue": "NRG Stadium",
-      "city": "Houston",
       "round": "Group Stage - 3",
       "status": "FT"
     }

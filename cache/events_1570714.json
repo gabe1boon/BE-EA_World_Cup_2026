@@ -1,0 +1,464 @@
+[
+  {
+    "time": {
+      "elapsed": 1,
+      "extra": null
+    },
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "player": {
+      "id": 2937,
+      "name": "D. Rice"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  },
+  {
+    "time": {
+      "elapsed": 36,
+      "extra": null
+    },
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "player": {
+      "id": 129718,
+      "name": "J. Bellingham"
+    },
+    "assist": {
+      "id": 1460,
+      "name": "B. Saka"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 38,
+      "extra": null
+    },
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "player": {
+      "id": 129718,
+      "name": "J. Bellingham"
+    },
+    "assist": {
+      "id": 184,
+      "name": "H. Kane"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 42,
+      "extra": null
+    },
+    "team": {
+      "id": 16,
+      "name": "Mexico",
+      "logo": "https://media.api-sports.io/football/teams/16.png"
+    },
+    "player": {
+      "id": 35532,
+      "name": "J. Quinones"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 16,
+      "name": "Mexico",
+      "logo": "https://media.api-sports.io/football/teams/16.png"
+    },
+    "player": {
+      "id": 2873,
+      "name": "C. Montes"
+    },
+    "assist": {
+      "id": 2869,
+      "name": "E. Alvarez"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 54,
+      "extra": null
+    },
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "player": {
+      "id": 158698,
+      "name": "J. Quansah"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Red Card",
+    "comments": "Serious foul"
+  },
+  {
+    "time": {
+      "elapsed": 57,
+      "extra": null
+    },
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "player": {
+      "id": 1460,
+      "name": "B. Saka"
+    },
+    "assist": {
+      "id": 626,
+      "name": "J. Stones"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 60,
+      "extra": null
+    },
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "player": {
+      "id": 184,
+      "name": "H. Kane"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 61,
+      "extra": null
+    },
+    "team": {
+      "id": 16,
+      "name": "Mexico",
+      "logo": "https://media.api-sports.io/football/teams/16.png"
+    },
+    "player": {
+      "id": 482605,
+      "name": "G. Mora"
+    },
+    "assist": {
+      "id": 94562,
+      "name": "S. Gimenez"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 61,
+      "extra": null
+    },
+    "team": {
+      "id": 16,
+      "name": "Mexico",
+      "logo": "https://media.api-sports.io/football/teams/16.png"
+    },
+    "player": {
+      "id": 35970,
+      "name": "L. Romo"
+    },
+    "assist": {
+      "id": 212233,
+      "name": "B. Gutierrez"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 68,
+      "extra": null
+    },
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "player": {
+      "id": 67971,
+      "name": "M. Guehi"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Unsportsmanlike conduct"
+  },
+  {
+    "time": {
+      "elapsed": 69,
+      "extra": null
+    },
+    "team": {
+      "id": 16,
+      "name": "Mexico",
+      "logo": "https://media.api-sports.io/football/teams/16.png"
+    },
+    "player": {
+      "id": 2887,
+      "name": "R. Jimenez"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 71,
+      "extra": null
+    },
+    "team": {
+      "id": 16,
+      "name": "Mexico",
+      "logo": "https://media.api-sports.io/football/teams/16.png"
+    },
+    "player": {
+      "id": 2878,
+      "name": "J. Sanchez"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Unsportsmanlike conduct"
+  },
+  {
+    "time": {
+      "elapsed": 72,
+      "extra": null
+    },
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "player": {
+      "id": 307123,
+      "name": "N. O'Reilly"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Unsportsmanlike conduct"
+  },
+  {
+    "time": {
+      "elapsed": 74,
+      "extra": null
+    },
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "player": {
+      "id": 307123,
+      "name": "N. O'Reilly"
+    },
+    "assist": {
+      "id": 19235,
+      "name": "D. Spence"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 75,
+      "extra": null
+    },
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "player": {
+      "id": 138908,
+      "name": "E. Anderson"
+    },
+    "assist": {
+      "id": 18961,
+      "name": "D. Burn"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 79,
+      "extra": null
+    },
+    "team": {
+      "id": 16,
+      "name": "Mexico",
+      "logo": "https://media.api-sports.io/football/teams/16.png"
+    },
+    "player": {
+      "id": 2878,
+      "name": "J. Sanchez"
+    },
+    "assist": {
+      "id": 750,
+      "name": "A. Fidalgo"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 81,
+      "extra": null
+    },
+    "team": {
+      "id": 16,
+      "name": "Mexico",
+      "logo": "https://media.api-sports.io/football/teams/16.png"
+    },
+    "player": {
+      "id": 35532,
+      "name": "J. Quinones"
+    },
+    "assist": {
+      "id": 36088,
+      "name": "G. Martinez"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": null
+    },
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "player": {
+      "id": 184,
+      "name": "H. Kane"
+    },
+    "assist": {
+      "id": 19170,
+      "name": "M. Rogers"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 8
+    },
+    "team": {
+      "id": 16,
+      "name": "Mexico",
+      "logo": "https://media.api-sports.io/football/teams/16.png"
+    },
+    "player": {
+      "id": 35544,
+      "name": "J. Vasquez"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Unsportsmanlike conduct"
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 8
+    },
+    "team": {
+      "id": 10,
+      "name": "England",
+      "logo": "https://media.api-sports.io/football/teams/10.png"
+    },
+    "player": {
+      "id": 292,
+      "name": "J. Henderson"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": null
+  }
+]

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-06T11:10:01Z",
+  "updated_at": "2026-07-06T14:40:26Z",
   "leaderboard": [
     {
       "colleague": "Sachin",
@@ -703,7 +703,7 @@
       "away_team": "Egypt",
       "home_group": "A",
       "away_group": "C",
-      "venue": "",
+      "venue": "Mercedes-Benz Stadium",
       "city": "",
       "round": "Round of 16"
     },
@@ -713,7 +713,7 @@
       "away_team": "Colombia",
       "home_group": "B",
       "away_group": "A",
-      "venue": "",
+      "venue": "BC Place",
       "city": "",
       "round": "Round of 16"
     },
@@ -723,7 +723,7 @@
       "away_team": "Morocco",
       "home_group": "A",
       "away_group": "A",
-      "venue": "",
+      "venue": "Gillette Stadium",
       "city": "",
       "round": "Quarter-finals"
     },
@@ -747,7 +747,7 @@
       "away_score": 3,
       "home_group": "B",
       "away_group": "A",
-      "venue": "Estadio Azteca",
+      "venue": "Estadio Banorte",
       "city": "Mexico City",
       "round": "Round of 16",
       "status": "FT"

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T19:30:32Z",
+  "updated_at": "2026-07-07T21:05:55Z",
   "leaderboard": [
     {
       "colleague": "Naini",
@@ -73,8 +73,8 @@
       "colleague": "Koums",
       "team": "Switzerland",
       "team_id": 15,
-      "next_match_utc": "2026-07-07T20:00:00Z",
-      "next_match_vs": "Colombia",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 22,
       "played": 4,
       "wins": 3,
@@ -677,16 +677,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-07-07T20:00:00Z",
-      "home_team": "Switzerland",
-      "away_team": "Colombia",
-      "home_group": "B",
-      "away_group": "A",
-      "venue": "BC Place",
-      "city": "Vancouver",
-      "round": "Round of 16"
-    },
     {
       "date": "2026-07-09T20:00:00Z",
       "home_team": "France",

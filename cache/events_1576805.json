@@ -1,0 +1,574 @@
+[
+  {
+    "time": {
+      "elapsed": 46,
+      "extra": null
+    },
+    "team": {
+      "id": 15,
+      "name": "Switzerland",
+      "logo": "https://media.api-sports.io/football/teams/15.png"
+    },
+    "player": {
+      "id": 264705,
+      "name": "A. Jashari"
+    },
+    "assist": {
+      "id": 957,
+      "name": "D. Sow"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 51,
+      "extra": null
+    },
+    "team": {
+      "id": 15,
+      "name": "Switzerland",
+      "logo": "https://media.api-sports.io/football/teams/15.png"
+    },
+    "player": {
+      "id": 1464,
+      "name": "G. Xhaka"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 59,
+      "extra": null
+    },
+    "team": {
+      "id": 15,
+      "name": "Switzerland",
+      "logo": "https://media.api-sports.io/football/teams/15.png"
+    },
+    "player": {
+      "id": 2810,
+      "name": "D. Zakaria"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Tripping"
+  },
+  {
+    "time": {
+      "elapsed": 60,
+      "extra": null
+    },
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    "player": {
+      "id": 47237,
+      "name": "L. Suarez"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Holding"
+  },
+  {
+    "time": {
+      "elapsed": 66,
+      "extra": null
+    },
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    "player": {
+      "id": 517,
+      "name": "J. Rodriguez"
+    },
+    "assist": {
+      "id": 6005,
+      "name": "J. Quintero"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 66,
+      "extra": null
+    },
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    "player": {
+      "id": 13708,
+      "name": "J. Arias"
+    },
+    "assist": {
+      "id": 13376,
+      "name": "J. Campaz"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 71,
+      "extra": null
+    },
+    "team": {
+      "id": 15,
+      "name": "Switzerland",
+      "logo": "https://media.api-sports.io/football/teams/15.png"
+    },
+    "player": {
+      "id": 1631,
+      "name": "R. Rodriguez"
+    },
+    "assist": {
+      "id": 48489,
+      "name": "M. Muheim"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 82,
+      "extra": null
+    },
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    "player": {
+      "id": 47237,
+      "name": "L. Suarez"
+    },
+    "assist": {
+      "id": 47582,
+      "name": "C. Hernandez"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 82,
+      "extra": null
+    },
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    "player": {
+      "id": 2490,
+      "name": "J. Lerma"
+    },
+    "assist": {
+      "id": 195104,
+      "name": "R. Rios"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 87,
+      "extra": null
+    },
+    "team": {
+      "id": 15,
+      "name": "Switzerland",
+      "logo": "https://media.api-sports.io/football/teams/15.png"
+    },
+    "player": {
+      "id": 421,
+      "name": "B. Embolo"
+    },
+    "assist": {
+      "id": 48497,
+      "name": "C. Itten"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 87,
+      "extra": null
+    },
+    "team": {
+      "id": 15,
+      "name": "Switzerland",
+      "logo": "https://media.api-sports.io/football/teams/15.png"
+    },
+    "player": {
+      "id": 2810,
+      "name": "D. Zakaria"
+    },
+    "assist": {
+      "id": 48378,
+      "name": "S. Widmer"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 2
+    },
+    "team": {
+      "id": 15,
+      "name": "Switzerland",
+      "logo": "https://media.api-sports.io/football/teams/15.png"
+    },
+    "player": {
+      "id": 48648,
+      "name": "D. Ndoye"
+    },
+    "assist": {
+      "id": 48471,
+      "name": "R. Vargas"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 95,
+      "extra": null
+    },
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    "player": {
+      "id": 168,
+      "name": "D. Sanchez"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Holding"
+  },
+  {
+    "time": {
+      "elapsed": 103,
+      "extra": null
+    },
+    "team": {
+      "id": 15,
+      "name": "Switzerland",
+      "logo": "https://media.api-sports.io/football/teams/15.png"
+    },
+    "player": {
+      "id": 163032,
+      "name": "F. Rieder"
+    },
+    "assist": {
+      "id": 123469,
+      "name": "Z. Amdouni"
+    },
+    "type": "subst",
+    "detail": "Substitution 6",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 105,
+      "extra": null
+    },
+    "team": {
+      "id": 15,
+      "name": "Switzerland",
+      "logo": "https://media.api-sports.io/football/teams/15.png"
+    },
+    "player": {
+      "id": 48489,
+      "name": "M. Muheim"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  },
+  {
+    "time": {
+      "elapsed": 119,
+      "extra": null
+    },
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    "player": {
+      "id": 1929,
+      "name": "J. Lucumi"
+    },
+    "assist": {
+      "id": 2484,
+      "name": "Y. Mina"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 1
+    },
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    "player": {
+      "id": 6005,
+      "name": "J. Quintero"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 1
+    },
+    "team": {
+      "id": 15,
+      "name": "Switzerland",
+      "logo": "https://media.api-sports.io/football/teams/15.png"
+    },
+    "player": {
+      "id": 1464,
+      "name": "G. Xhaka"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 2
+    },
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    "player": {
+      "id": 168,
+      "name": "D. Sanchez"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Missed Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 2
+    },
+    "team": {
+      "id": 15,
+      "name": "Switzerland",
+      "logo": "https://media.api-sports.io/football/teams/15.png"
+    },
+    "player": {
+      "id": 123469,
+      "name": "Z. Amdouni"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 3
+    },
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    "player": {
+      "id": 13376,
+      "name": "J. Campaz"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 3
+    },
+    "team": {
+      "id": 15,
+      "name": "Switzerland",
+      "logo": "https://media.api-sports.io/football/teams/15.png"
+    },
+    "player": {
+      "id": 5,
+      "name": "M. Akanji"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Missed Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 4
+    },
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    "player": {
+      "id": 47582,
+      "name": "C. Hernandez"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Missed Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 4
+    },
+    "team": {
+      "id": 15,
+      "name": "Switzerland",
+      "logo": "https://media.api-sports.io/football/teams/15.png"
+    },
+    "player": {
+      "id": 48497,
+      "name": "C. Itten"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 5
+    },
+    "team": {
+      "id": 8,
+      "name": "Colombia",
+      "logo": "https://media.api-sports.io/football/teams/8.png"
+    },
+    "player": {
+      "id": 2489,
+      "name": "L. Diaz"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": "Penalty Shootout"
+  },
+  {
+    "time": {
+      "elapsed": 120,
+      "extra": 5
+    },
+    "team": {
+      "id": 15,
+      "name": "Switzerland",
+      "logo": "https://media.api-sports.io/football/teams/15.png"
+    },
+    "player": {
+      "id": 48471,
+      "name": "R. Vargas"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Penalty",
+    "comments": "Penalty Shootout"
+  }
+]

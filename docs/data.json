@@ -1,6 +1,23 @@
 {
-  "updated_at": "2026-07-07T22:34:12Z",
+  "updated_at": "2026-07-07T23:43:46Z",
   "leaderboard": [
+    {
+      "colleague": "Sachin",
+      "team": "Argentina",
+      "team_id": 26,
+      "next_match_utc": "2026-07-12T01:00:00Z",
+      "next_match_vs": "Switzerland",
+      "points": 36,
+      "played": 5,
+      "wins": 5,
+      "draws": 0,
+      "goals_for": 14,
+      "clean_sheets": 2,
+      "yellow_cards": 3,
+      "red_cards": 0,
+      "upset_bonus": 0,
+      "eliminated": false
+    },
     {
       "colleague": "Naini",
       "team": "Spain",
@@ -13,23 +30,6 @@
       "draws": 1,
       "goals_for": 9,
       "clean_sheets": 5,
-      "yellow_cards": 3,
-      "red_cards": 0,
-      "upset_bonus": 0,
-      "eliminated": false
-    },
-    {
-      "colleague": "Sachin",
-      "team": "Argentina",
-      "team_id": 26,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 34,
-      "played": 5,
-      "wins": 5,
-      "draws": 0,
-      "goals_for": 14,
-      "clean_sheets": 2,
       "yellow_cards": 3,
       "red_cards": 0,
       "upset_bonus": 0,
@@ -73,15 +73,15 @@
       "colleague": "Koums",
       "team": "Switzerland",
       "team_id": 15,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 22,
-      "played": 4,
+      "next_match_utc": "2026-07-12T01:00:00Z",
+      "next_match_vs": "Argentina",
+      "points": 24,
+      "played": 5,
       "wins": 3,
-      "draws": 1,
+      "draws": 2,
       "goals_for": 9,
-      "clean_sheets": 1,
-      "yellow_cards": 3,
+      "clean_sheets": 2,
+      "yellow_cards": 6,
       "red_cards": 0,
       "upset_bonus": 0,
       "eliminated": false
@@ -628,7 +628,7 @@
     {
       "team_id": 8,
       "team": "Colombia",
-      "points": 19
+      "points": 20
     },
     {
       "team_id": 5530,
@@ -706,9 +706,32 @@
       "venue": "Hard Rock Stadium",
       "city": "Miami",
       "round": "Quarter-finals"
+    },
+    {
+      "date": "2026-07-12T01:00:00Z",
+      "home_team": "Argentina",
+      "away_team": "Switzerland",
+      "home_group": "A",
+      "away_group": "B",
+      "venue": "",
+      "city": "",
+      "round": "Quarter-finals"
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-07-07T20:00:00Z",
+      "home_team": "Switzerland",
+      "away_team": "Colombia",
+      "home_score": 0,
+      "away_score": 0,
+      "home_group": "B",
+      "away_group": "A",
+      "venue": "BC Place",
+      "city": "Vancouver",
+      "round": "Round of 16",
+      "status": "PEN"
+    },
     {
       "date": "2026-07-07T16:00:00Z",
       "home_team": "Argentina",
@@ -1083,19 +1106,6 @@
       "away_group": "A",
       "venue": "MetLife Stadium",
       "city": "East Rutherford",
-      "round": "Group Stage - 3",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-27T03:00:00Z",
-      "home_team": "Egypt",
-      "away_team": "Iran",
-      "home_score": 1,
-      "away_score": 1,
-      "home_group": "C",
-      "away_group": "C",
-      "venue": "Lumen Field",
-      "city": "Seattle",
       "round": "Group Stage - 3",
       "status": "FT"
     }

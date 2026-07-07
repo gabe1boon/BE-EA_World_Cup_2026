@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T15:38:19Z",
+  "updated_at": "2026-07-07T17:49:21Z",
   "leaderboard": [
     {
       "colleague": "Naini",
@@ -22,8 +22,8 @@
       "colleague": "Sachin",
       "team": "Argentina",
       "team_id": 26,
-      "next_match_utc": "2026-07-07T16:00:00Z",
-      "next_match_vs": "Egypt",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 28,
       "played": 4,
       "wins": 4,
@@ -243,8 +243,8 @@
       "colleague": "Deepti",
       "team": "Egypt",
       "team_id": 32,
-      "next_match_utc": "2026-07-07T16:00:00Z",
-      "next_match_vs": "Argentina",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 8,
       "played": 4,
       "wins": 1,
@@ -677,16 +677,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-07-07T16:00:00Z",
-      "home_team": "Argentina",
-      "away_team": "Egypt",
-      "home_group": "A",
-      "away_group": "C",
-      "venue": "Mercedes-Benz Stadium",
-      "city": "Atlanta",
-      "round": "Round of 16"
-    },
     {
       "date": "2026-07-07T20:00:00Z",
       "home_team": "Switzerland",

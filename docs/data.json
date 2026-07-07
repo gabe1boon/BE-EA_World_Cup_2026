@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-07T17:49:21Z",
+  "updated_at": "2026-07-07T19:30:32Z",
   "leaderboard": [
     {
       "colleague": "Naini",
@@ -24,11 +24,11 @@
       "team_id": 26,
       "next_match_utc": null,
       "next_match_vs": null,
-      "points": 28,
-      "played": 4,
-      "wins": 4,
+      "points": 34,
+      "played": 5,
+      "wins": 5,
       "draws": 0,
-      "goals_for": 11,
+      "goals_for": 14,
       "clean_sheets": 2,
       "yellow_cards": 3,
       "red_cards": 0,
@@ -240,23 +240,6 @@
       "eliminated": true
     },
     {
-      "colleague": "Deepti",
-      "team": "Egypt",
-      "team_id": 32,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 8,
-      "played": 4,
-      "wins": 1,
-      "draws": 3,
-      "goals_for": 6,
-      "clean_sheets": 0,
-      "yellow_cards": 8,
-      "red_cards": 0,
-      "upset_bonus": 0,
-      "eliminated": false
-    },
-    {
       "colleague": "Daniel",
       "team": "Algeria",
       "team_id": 1532,
@@ -320,6 +303,23 @@
       "goals_for": 2,
       "clean_sheets": 2,
       "yellow_cards": 6,
+      "red_cards": 0,
+      "upset_bonus": 0,
+      "eliminated": true
+    },
+    {
+      "colleague": "Deepti",
+      "team": "Egypt",
+      "team_id": 32,
+      "next_match_utc": null,
+      "next_match_vs": null,
+      "points": 5,
+      "played": 5,
+      "wins": 1,
+      "draws": 3,
+      "goals_for": 8,
+      "clean_sheets": 0,
+      "yellow_cards": 13,
       "red_cards": 0,
       "upset_bonus": 0,
       "eliminated": true
@@ -720,6 +720,19 @@
   ],
   "recent_results": [
     {
+      "date": "2026-07-07T16:00:00Z",
+      "home_team": "Argentina",
+      "away_team": "Egypt",
+      "home_score": 3,
+      "away_score": 2,
+      "home_group": "A",
+      "away_group": "C",
+      "venue": "Mercedes-Benz Stadium",
+      "city": "Atlanta",
+      "round": "Round of 16",
+      "status": "FT"
+    },
+    {
       "date": "2026-07-07T00:00:00Z",
       "home_team": "USA",
       "away_team": "Belgium",
@@ -1093,19 +1106,6 @@
       "away_group": "C",
       "venue": "Lumen Field",
       "city": "Seattle",
-      "round": "Group Stage - 3",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-27T03:00:00Z",
-      "home_team": "New Zealand",
-      "away_team": "Belgium",
-      "home_score": 1,
-      "away_score": 5,
-      "home_group": "D",
-      "away_group": "A",
-      "venue": "BC Place",
-      "city": "Vancouver",
       "round": "Group Stage - 3",
       "status": "FT"
     }

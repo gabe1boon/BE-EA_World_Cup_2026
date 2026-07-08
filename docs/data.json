@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-08T13:24:36Z",
+  "updated_at": "2026-07-08T15:39:00Z",
   "leaderboard": [
     {
       "colleague": "Sachin",
@@ -713,8 +713,8 @@
       "away_team": "Switzerland",
       "home_group": "A",
       "away_group": "B",
-      "venue": "",
-      "city": "",
+      "venue": "Arrowhead Stadium",
+      "city": "Kansas City",
       "round": "Quarter-finals"
     }
   ],

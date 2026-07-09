@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-09T20:59:06Z",
+  "updated_at": "2026-07-09T22:26:15Z",
   "leaderboard": [
     {
       "colleague": "Sachin",
@@ -58,16 +58,16 @@
       "team_id": 31,
       "next_match_utc": null,
       "next_match_vs": null,
-      "points": 25,
-      "played": 5,
+      "points": 24,
+      "played": 6,
       "wins": 3,
       "draws": 2,
       "goals_for": 10,
       "clean_sheets": 2,
-      "yellow_cards": 6,
+      "yellow_cards": 7,
       "red_cards": 0,
       "upset_bonus": 0,
-      "eliminated": false
+      "eliminated": true
     },
     {
       "colleague": "Koums",
@@ -643,7 +643,7 @@
     {
       "team_id": 2,
       "team": "France",
-      "points": 38
+      "points": 45
     },
     {
       "team_id": 25,
@@ -709,6 +709,19 @@
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-07-09T20:00:00Z",
+      "home_team": "France",
+      "away_team": "Morocco",
+      "home_score": 2,
+      "away_score": 0,
+      "home_group": "A",
+      "away_group": "A",
+      "venue": "Gillette Stadium",
+      "city": "Boston",
+      "round": "Quarter-finals",
+      "status": "FT"
+    },
     {
       "date": "2026-07-07T20:00:00Z",
       "home_team": "Switzerland",
@@ -1083,19 +1096,6 @@
       "away_group": "C",
       "venue": "Lincoln Financial Field",
       "city": "Philadelphia",
-      "round": "Group Stage - 3",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-27T21:00:00Z",
-      "home_team": "Panama",
-      "away_team": "England",
-      "home_score": 0,
-      "away_score": 2,
-      "home_group": "C",
-      "away_group": "A",
-      "venue": "MetLife Stadium",
-      "city": "East Rutherford",
       "round": "Group Stage - 3",
       "status": "FT"
     }

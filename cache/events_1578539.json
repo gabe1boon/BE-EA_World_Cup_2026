@@ -1,0 +1,288 @@
+[
+  {
+    "time": {
+      "elapsed": 28,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 278,
+      "name": "K. Mbappe"
+    },
+    "assist": {
+      "id": 278,
+      "name": "K. Mbappe"
+    },
+    "type": "Goal",
+    "detail": "Missed Penalty",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 60,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 278,
+      "name": "K. Mbappe"
+    },
+    "assist": {
+      "id": 343027,
+      "name": "D. Doue"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 62,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 438688,
+      "name": "A. Bouaddi"
+    },
+    "assist": {
+      "id": 74,
+      "name": "S. Amrabat"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 62,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 340573,
+      "name": "B. El Khannouss"
+    },
+    "assist": {
+      "id": 36579,
+      "name": "S. Rahimi"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 63,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 18814,
+      "name": "I. Diop"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 66,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 153,
+      "name": "O. Dembele"
+    },
+    "assist": {
+      "id": 278,
+      "name": "K. Mbappe"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 71,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 22147,
+      "name": "M. Kone"
+    },
+    "assist": {
+      "id": 336657,
+      "name": "W. Zaire-Emery"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 74,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 744,
+      "name": "B. Diaz"
+    },
+    "assist": {
+      "id": 369544,
+      "name": "G. Yassine"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 74,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 162451,
+      "name": "A. Salah-Eddine"
+    },
+    "assist": {
+      "id": 283252,
+      "name": "Z. El Ouahdi"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 77,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 278,
+      "name": "K. Mbappe"
+    },
+    "assist": {
+      "id": 25927,
+      "name": "J. Mateta"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 77,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 343027,
+      "name": "D. Doue"
+    },
+    "assist": {
+      "id": 161904,
+      "name": "B. Barcola"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 85,
+      "extra": null
+    },
+    "team": {
+      "id": 31,
+      "name": "Morocco",
+      "logo": "https://media.api-sports.io/football/teams/31.png"
+    },
+    "player": {
+      "id": 336659,
+      "name": "C. Talbi"
+    },
+    "assist": {
+      "id": 191289,
+      "name": "A. Sbai"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 87,
+      "extra": null
+    },
+    "team": {
+      "id": 2,
+      "name": "France",
+      "logo": "https://media.api-sports.io/football/teams/2.png"
+    },
+    "player": {
+      "id": 1257,
+      "name": "J. Kounde"
+    },
+    "assist": {
+      "id": 161907,
+      "name": "M. Gusto"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  }
+]

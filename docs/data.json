@@ -1,6 +1,23 @@
 {
-  "updated_at": "2026-07-10T20:59:15Z",
+  "updated_at": "2026-07-10T22:01:16Z",
   "leaderboard": [
+    {
+      "colleague": "Naini",
+      "team": "Spain",
+      "team_id": 9,
+      "next_match_utc": "2026-07-14T19:00:00Z",
+      "next_match_vs": "France",
+      "points": 40,
+      "played": 6,
+      "wins": 5,
+      "draws": 1,
+      "goals_for": 11,
+      "clean_sheets": 5,
+      "yellow_cards": 5,
+      "red_cards": 0,
+      "upset_bonus": 0,
+      "eliminated": false
+    },
     {
       "colleague": "Sachin",
       "team": "Argentina",
@@ -13,23 +30,6 @@
       "draws": 0,
       "goals_for": 14,
       "clean_sheets": 2,
-      "yellow_cards": 3,
-      "red_cards": 0,
-      "upset_bonus": 0,
-      "eliminated": false
-    },
-    {
-      "colleague": "Naini",
-      "team": "Spain",
-      "team_id": 9,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 35,
-      "played": 5,
-      "wins": 4,
-      "draws": 1,
-      "goals_for": 9,
-      "clean_sheets": 5,
       "yellow_cards": 3,
       "red_cards": 0,
       "upset_bonus": 0,
@@ -618,7 +618,7 @@
     {
       "team_id": 1,
       "team": "Belgium",
-      "points": 28
+      "points": 27
     },
     {
       "team_id": 5529,
@@ -643,7 +643,7 @@
     {
       "team_id": 2,
       "team": "France",
-      "points": 45
+      "points": 47
     },
     {
       "team_id": 25,
@@ -696,9 +696,32 @@
       "venue": "Arrowhead Stadium",
       "city": "Kansas City",
       "round": "Quarter-finals"
+    },
+    {
+      "date": "2026-07-14T19:00:00Z",
+      "home_team": "France",
+      "away_team": "Spain",
+      "home_group": "A",
+      "away_group": "A",
+      "venue": "",
+      "city": "",
+      "round": "Semi-finals"
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-07-10T19:00:00Z",
+      "home_team": "Spain",
+      "away_team": "Belgium",
+      "home_score": 2,
+      "away_score": 1,
+      "home_group": "A",
+      "away_group": "A",
+      "venue": "SoFi Stadium",
+      "city": "Los Angeles",
+      "round": "Quarter-finals",
+      "status": "FT"
+    },
     {
       "date": "2026-07-09T20:00:00Z",
       "home_team": "France",
@@ -1073,19 +1096,6 @@
       "away_group": "D",
       "venue": "Mercedes-Benz Stadium",
       "city": "Atlanta",
-      "round": "Group Stage - 3",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-27T21:00:00Z",
-      "home_team": "Croatia",
-      "away_team": "Ghana",
-      "home_score": 2,
-      "away_score": 1,
-      "home_group": "A",
-      "away_group": "C",
-      "venue": "Lincoln Financial Field",
-      "city": "Philadelphia",
       "round": "Group Stage - 3",
       "status": "FT"
     }

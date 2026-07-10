@@ -1,0 +1,354 @@
+[
+  {
+    "time": {
+      "elapsed": 30,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 328,
+      "name": "F. Ruiz"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 41,
+      "extra": null
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 147859,
+      "name": "C. De Ketelaere"
+    },
+    "assist": {
+      "id": 2920,
+      "name": "T. Castagne"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 43,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 396623,
+      "name": "P. Cubarsi"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Holding"
+  },
+  {
+    "time": {
+      "elapsed": 55,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 182219,
+      "name": "A. Baena"
+    },
+    "assist": {
+      "id": 931,
+      "name": "F. Torres"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 55,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 328,
+      "name": "F. Ruiz"
+    },
+    "assist": {
+      "id": 133609,
+      "name": "Pedri"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 60,
+      "extra": null
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 1946,
+      "name": "L. Trossard"
+    },
+    "assist": {
+      "id": 20,
+      "name": "A. Witsel"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 60,
+      "extra": null
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 78,
+      "name": "H. Vanaken"
+    },
+    "assist": {
+      "id": 907,
+      "name": "R. Lukaku"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 61,
+      "extra": null
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 162007,
+      "name": "M. De Cuyper"
+    },
+    "assist": {
+      "id": 375974,
+      "name": "J. Seys"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 71,
+      "extra": null
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 730,
+      "name": "T. Courtois"
+    },
+    "assist": {
+      "id": 162511,
+      "name": "S. Lammens"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 79,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 47323,
+      "name": "M. Oyarzabal"
+    },
+    "assist": {
+      "id": 183799,
+      "name": "N. Williams"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 85,
+      "extra": null
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 629,
+      "name": "K. De Bruyne"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Holding"
+  },
+  {
+    "time": {
+      "elapsed": 86,
+      "extra": null
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 629,
+      "name": "K. De Bruyne"
+    },
+    "assist": {
+      "id": 1417,
+      "name": "A. Saelemaekers"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 86,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 1323,
+      "name": "D. Olmo"
+    },
+    "assist": {
+      "id": 47311,
+      "name": "M. Merino"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 88,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 47311,
+      "name": "M. Merino"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 3
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 622,
+      "name": "A. Laporte"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 5
+    },
+    "team": {
+      "id": 1,
+      "name": "Belgium",
+      "logo": "https://media.api-sports.io/football/teams/1.png"
+    },
+    "player": {
+      "id": 20,
+      "name": "A. Witsel"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Roughing"
+  }
+]

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11T23:40:53Z",
+  "updated_at": "2026-07-12T01:23:32Z",
   "leaderboard": [
     {
       "colleague": "Naini",
@@ -22,8 +22,8 @@
       "colleague": "Sachin",
       "team": "Argentina",
       "team_id": 26,
-      "next_match_utc": "2026-07-12T01:00:00Z",
-      "next_match_vs": "Switzerland",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 36,
       "played": 5,
       "wins": 5,
@@ -73,8 +73,8 @@
       "colleague": "Koums",
       "team": "Switzerland",
       "team_id": 15,
-      "next_match_utc": "2026-07-12T01:00:00Z",
-      "next_match_vs": "Argentina",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 24,
       "played": 5,
       "wins": 3,
@@ -638,7 +638,7 @@
     {
       "team_id": 10,
       "team": "England",
-      "points": 25
+      "points": 30
     },
     {
       "team_id": 2,
@@ -663,7 +663,7 @@
     {
       "team_id": 1090,
       "team": "Norway",
-      "points": 30
+      "points": 31
     },
     {
       "team_id": 1531,
@@ -678,16 +678,6 @@
   ],
   "upcoming_fixtures": [
     {
-      "date": "2026-07-12T01:00:00Z",
-      "home_team": "Argentina",
-      "away_team": "Switzerland",
-      "home_group": "A",
-      "away_group": "B",
-      "venue": "Arrowhead Stadium",
-      "city": "Kansas City",
-      "round": "Quarter-finals"
-    },
-    {
       "date": "2026-07-14T19:00:00Z",
       "home_team": "France",
       "away_team": "Spain",
@@ -699,6 +689,19 @@
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-07-11T21:00:00Z",
+      "home_team": "Norway",
+      "away_team": "England",
+      "home_score": 1,
+      "away_score": 2,
+      "home_group": "B",
+      "away_group": "A",
+      "venue": "Hard Rock Stadium",
+      "city": "Miami",
+      "round": "Quarter-finals",
+      "status": "AET"
+    },
     {
       "date": "2026-07-10T19:00:00Z",
       "home_team": "Spain",
@@ -1073,19 +1076,6 @@
       "away_group": "A",
       "venue": "Hard Rock Stadium",
       "city": "Miami Gardens",
-      "round": "Group Stage - 3",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-27T23:30:00Z",
-      "home_team": "Congo DR",
-      "away_team": "Uzbekistan",
-      "home_score": 3,
-      "away_score": 1,
-      "home_group": "D",
-      "away_group": "D",
-      "venue": "Mercedes-Benz Stadium",
-      "city": "Atlanta",
       "round": "Group Stage - 3",
       "status": "FT"
     }

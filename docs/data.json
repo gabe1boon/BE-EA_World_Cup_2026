@@ -1,6 +1,23 @@
 {
-  "updated_at": "2026-07-12T04:45:22Z",
+  "updated_at": "2026-07-12T07:23:16Z",
   "leaderboard": [
+    {
+      "colleague": "Sachin",
+      "team": "Argentina",
+      "team_id": 26,
+      "next_match_utc": "2026-07-15T19:00:00Z",
+      "next_match_vs": "England",
+      "points": 41,
+      "played": 6,
+      "wins": 6,
+      "draws": 0,
+      "goals_for": 17,
+      "clean_sheets": 2,
+      "yellow_cards": 6,
+      "red_cards": 0,
+      "upset_bonus": 0,
+      "eliminated": false
+    },
     {
       "colleague": "Naini",
       "team": "Spain",
@@ -14,23 +31,6 @@
       "goals_for": 11,
       "clean_sheets": 5,
       "yellow_cards": 5,
-      "red_cards": 0,
-      "upset_bonus": 0,
-      "eliminated": false
-    },
-    {
-      "colleague": "Sachin",
-      "team": "Argentina",
-      "team_id": 26,
-      "next_match_utc": null,
-      "next_match_vs": null,
-      "points": 39,
-      "played": 6,
-      "wins": 6,
-      "draws": 0,
-      "goals_for": 17,
-      "clean_sheets": 2,
-      "yellow_cards": 6,
       "red_cards": 0,
       "upset_bonus": 0,
       "eliminated": false
@@ -638,7 +638,7 @@
     {
       "team_id": 10,
       "team": "England",
-      "points": 30
+      "points": 32
     },
     {
       "team_id": 2,
@@ -681,6 +681,16 @@
       "date": "2026-07-14T19:00:00Z",
       "home_team": "France",
       "away_team": "Spain",
+      "home_group": "A",
+      "away_group": "A",
+      "venue": "",
+      "city": "",
+      "round": "Semi-finals"
+    },
+    {
+      "date": "2026-07-15T19:00:00Z",
+      "home_team": "England",
+      "away_team": "Argentina",
       "home_group": "A",
       "away_group": "A",
       "venue": "",

@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-12T01:23:32Z",
+  "updated_at": "2026-07-12T04:45:22Z",
   "leaderboard": [
     {
       "colleague": "Naini",
@@ -24,13 +24,13 @@
       "team_id": 26,
       "next_match_utc": null,
       "next_match_vs": null,
-      "points": 36,
-      "played": 5,
-      "wins": 5,
+      "points": 39,
+      "played": 6,
+      "wins": 6,
       "draws": 0,
-      "goals_for": 14,
+      "goals_for": 17,
       "clean_sheets": 2,
-      "yellow_cards": 3,
+      "yellow_cards": 6,
       "red_cards": 0,
       "upset_bonus": 0,
       "eliminated": false
@@ -75,16 +75,16 @@
       "team_id": 15,
       "next_match_utc": null,
       "next_match_vs": null,
-      "points": 24,
-      "played": 5,
+      "points": 21,
+      "played": 6,
       "wins": 3,
       "draws": 2,
-      "goals_for": 9,
+      "goals_for": 10,
       "clean_sheets": 2,
-      "yellow_cards": 6,
-      "red_cards": 0,
+      "yellow_cards": 8,
+      "red_cards": 1,
       "upset_bonus": 0,
-      "eliminated": false
+      "eliminated": true
     },
     {
       "colleague": "Marija",
@@ -690,6 +690,19 @@
   ],
   "recent_results": [
     {
+      "date": "2026-07-12T01:00:00Z",
+      "home_team": "Argentina",
+      "away_team": "Switzerland",
+      "home_score": 3,
+      "away_score": 1,
+      "home_group": "A",
+      "away_group": "B",
+      "venue": "Arrowhead Stadium",
+      "city": "Kansas City",
+      "round": "Quarter-finals",
+      "status": "AET"
+    },
+    {
       "date": "2026-07-11T21:00:00Z",
       "home_team": "Norway",
       "away_team": "England",
@@ -1063,19 +1076,6 @@
       "away_group": "A",
       "venue": "AT&T Stadium",
       "city": "Arlington",
-      "round": "Group Stage - 3",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-27T23:30:00Z",
-      "home_team": "Colombia",
-      "away_team": "Portugal",
-      "home_score": 0,
-      "away_score": 0,
-      "home_group": "A",
-      "away_group": "A",
-      "venue": "Hard Rock Stadium",
-      "city": "Miami Gardens",
       "round": "Group Stage - 3",
       "status": "FT"
     }

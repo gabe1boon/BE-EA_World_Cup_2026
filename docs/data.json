@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-14T18:03:43Z",
+  "updated_at": "2026-07-14T19:49:19Z",
   "leaderboard": [
     {
       "colleague": "Sachin",
@@ -22,8 +22,8 @@
       "colleague": "Naini",
       "team": "Spain",
       "team_id": 9,
-      "next_match_utc": "2026-07-14T19:00:00Z",
-      "next_match_vs": "France",
+      "next_match_utc": null,
+      "next_match_vs": null,
       "points": 40,
       "played": 6,
       "wins": 5,
@@ -677,16 +677,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-07-14T19:00:00Z",
-      "home_team": "France",
-      "away_team": "Spain",
-      "home_group": "A",
-      "away_group": "A",
-      "venue": "",
-      "city": "",
-      "round": "Semi-finals"
-    },
     {
       "date": "2026-07-15T19:00:00Z",
       "home_team": "England",

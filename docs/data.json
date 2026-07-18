@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T20:35:20Z",
+  "updated_at": "2026-07-18T21:38:10Z",
   "leaderboard": [
     {
       "colleague": "Naini",
@@ -677,16 +677,6 @@
     }
   ],
   "upcoming_fixtures": [
-    {
-      "date": "2026-07-18T21:00:00Z",
-      "home_team": "France",
-      "away_team": "England",
-      "home_group": "A",
-      "away_group": "A",
-      "venue": "Hard Rock Stadium, Miami Garden",
-      "city": "Miami",
-      "round": "3rd Place Final"
-    },
     {
       "date": "2026-07-19T19:00:00Z",
       "home_team": "Spain",

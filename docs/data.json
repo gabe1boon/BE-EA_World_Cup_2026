@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18T22:35:53Z",
+  "updated_at": "2026-07-18T23:40:00Z",
   "leaderboard": [
     {
       "colleague": "Naini",
@@ -638,12 +638,12 @@
     {
       "team_id": 10,
       "team": "England",
-      "points": 34
+      "points": 43
     },
     {
       "team_id": 2,
       "team": "France",
-      "points": 47
+      "points": 51
     },
     {
       "team_id": 25,
@@ -689,6 +689,19 @@
     }
   ],
   "recent_results": [
+    {
+      "date": "2026-07-18T21:00:00Z",
+      "home_team": "France",
+      "away_team": "England",
+      "home_score": 4,
+      "away_score": 6,
+      "home_group": "A",
+      "away_group": "A",
+      "venue": "Hard Rock Stadium, Miami Garden",
+      "city": "Miami",
+      "round": "3rd Place Final",
+      "status": "FT"
+    },
     {
       "date": "2026-07-15T19:00:00Z",
       "home_team": "England",
@@ -1063,19 +1076,6 @@
       "away_group": "B",
       "venue": "NRG Stadium",
       "city": "Houston",
-      "round": "Round of 32",
-      "status": "FT"
-    },
-    {
-      "date": "2026-06-28T19:00:00Z",
-      "home_team": "South Africa",
-      "away_team": "Canada",
-      "home_score": 0,
-      "away_score": 1,
-      "home_group": "D",
-      "away_group": "B",
-      "venue": "SoFi Stadium",
-      "city": "Inglewood",
       "round": "Round of 32",
       "status": "FT"
     }

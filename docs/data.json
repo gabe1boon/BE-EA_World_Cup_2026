@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19T21:39:33Z",
+  "updated_at": "2026-07-19T22:38:47Z",
   "leaderboard": [
     {
       "colleague": "Naini",
@@ -7,12 +7,12 @@
       "team_id": 9,
       "next_match_utc": null,
       "next_match_vs": null,
-      "points": 48,
-      "played": 7,
-      "wins": 6,
+      "points": 54,
+      "played": 8,
+      "wins": 7,
       "draws": 1,
-      "goals_for": 13,
-      "clean_sheets": 6,
+      "goals_for": 14,
+      "clean_sheets": 7,
       "yellow_cards": 6,
       "red_cards": 0,
       "upset_bonus": 0,
@@ -24,16 +24,16 @@
       "team_id": 26,
       "next_match_utc": null,
       "next_match_vs": null,
-      "points": 45,
-      "played": 7,
+      "points": 39,
+      "played": 8,
       "wins": 7,
       "draws": 0,
       "goals_for": 19,
       "clean_sheets": 2,
-      "yellow_cards": 9,
+      "yellow_cards": 15,
       "red_cards": 0,
       "upset_bonus": 0,
-      "eliminated": false
+      "eliminated": true
     },
     {
       "colleague": "Iga",
@@ -679,6 +679,19 @@
   "upcoming_fixtures": [],
   "recent_results": [
     {
+      "date": "2026-07-19T19:00:00Z",
+      "home_team": "Spain",
+      "away_team": "Argentina",
+      "home_score": 1,
+      "away_score": 0,
+      "home_group": "A",
+      "away_group": "A",
+      "venue": "MetLife Stadium",
+      "city": "East Rutherford",
+      "round": "Final",
+      "status": "AET"
+    },
+    {
       "date": "2026-07-18T21:00:00Z",
       "home_team": "France",
       "away_team": "England",
@@ -1054,19 +1067,6 @@
       "city": "Boston",
       "round": "Round of 32",
       "status": "PEN"
-    },
-    {
-      "date": "2026-06-29T17:00:00Z",
-      "home_team": "Brazil",
-      "away_team": "Japan",
-      "home_score": 2,
-      "away_score": 1,
-      "home_group": "A",
-      "away_group": "B",
-      "venue": "NRG Stadium",
-      "city": "Houston",
-      "round": "Round of 32",
-      "status": "FT"
     }
   ],
   "fifa_groups": {

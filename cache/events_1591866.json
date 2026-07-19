@@ -1,0 +1,420 @@
+[
+  {
+    "time": {
+      "elapsed": 41,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 2467,
+      "name": "Lisandro Mart\u00ednez"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Foul"
+  },
+  {
+    "time": {
+      "elapsed": 44,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 2467,
+      "name": "Lisandro Mart\u00ednez"
+    },
+    "assist": {
+      "id": 624,
+      "name": "Nicol\u00e1s Otamendi"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 45,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 26315,
+      "name": "Nicol\u00e1s Iv\u00e1n Gonzalez"
+    },
+    "assist": {
+      "id": 271,
+      "name": "Leandro Paredes"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 52,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 271,
+      "name": "Leandro Paredes"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Argument"
+  },
+  {
+    "time": {
+      "elapsed": 58,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 2468,
+      "name": "Gonzalo Montiel"
+    },
+    "assist": {
+      "id": 6503,
+      "name": "Nahuel Molina"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 62,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 47323,
+      "name": "Mikel Oyarzabal"
+    },
+    "assist": {
+      "id": 931,
+      "name": "Ferr\u00e1n Torres"
+    },
+    "type": "subst",
+    "detail": "Substitution 1",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 62,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 328,
+      "name": "Fabi\u00e1n Ruiz"
+    },
+    "assist": {
+      "id": 133609,
+      "name": "Pedri"
+    },
+    "type": "subst",
+    "detail": "Substitution 2",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 70,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 30776,
+      "name": "Cristian Romero"
+    },
+    "assist": {
+      "id": 6231,
+      "name": "Facundo Medina"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 70,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 2472,
+      "name": "Rodrigo De Paul"
+    },
+    "assist": {
+      "id": 323935,
+      "name": "Giuliano Simeone Baldini"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 75,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 182219,
+      "name": "Alejandro Baena Rodr\u00edguez"
+    },
+    "assist": {
+      "id": 183799,
+      "name": "Nico Williams"
+    },
+    "type": "subst",
+    "detail": "Substitution 3",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 75,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 1323,
+      "name": "Daniel Olmo Carvajal"
+    },
+    "assist": {
+      "id": 47311,
+      "name": "Mikel Merino"
+    },
+    "type": "subst",
+    "detail": "Substitution 4",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 82,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 5996,
+      "name": "Enzo Fern\u00e1ndez"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Dissent"
+  },
+  {
+    "time": {
+      "elapsed": 90,
+      "extra": 2
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 30776,
+      "name": "Cristian Romero"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Dissent"
+  },
+  {
+    "time": {
+      "elapsed": 99,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 44,
+      "name": "Rodrigo Hernandez Cascante"
+    },
+    "assist": {
+      "id": 47315,
+      "name": "Mart\u00edn Zubimendi"
+    },
+    "type": "subst",
+    "detail": "Substitution 5",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 99,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 622,
+      "name": "Aymeric Laporte"
+    },
+    "assist": {
+      "id": 619,
+      "name": "Eric Garc\u00eda"
+    },
+    "type": "subst",
+    "detail": "Substitution 6",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 102,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 6009,
+      "name": "Juli\u00e1n \u00c1lvarez"
+    },
+    "assist": {
+      "id": 6610,
+      "name": "Marcos Senesi"
+    },
+    "type": "subst",
+    "detail": "Substitution 6",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 104,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": null,
+      "name": "Lionel Sebasti\u00e1n Scaloni"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Dissent"
+  },
+  {
+    "time": {
+      "elapsed": 106,
+      "extra": null
+    },
+    "team": {
+      "id": 9,
+      "name": "Spain",
+      "logo": "https://media.api-sports.io/football/teams/9.png"
+    },
+    "player": {
+      "id": 931,
+      "name": "Ferr\u00e1n Torres"
+    },
+    "assist": {
+      "id": 183799,
+      "name": "Nico Williams"
+    },
+    "type": "Goal",
+    "detail": "Normal Goal",
+    "comments": null
+  },
+  {
+    "time": {
+      "elapsed": 111,
+      "extra": null
+    },
+    "team": {
+      "id": 26,
+      "name": "Argentina",
+      "logo": "https://media.api-sports.io/football/teams/26.png"
+    },
+    "player": {
+      "id": 6716,
+      "name": "Alexis Mac Allister"
+    },
+    "assist": {
+      "id": null,
+      "name": null
+    },
+    "type": "Card",
+    "detail": "Yellow Card",
+    "comments": "Foul"
+  }
+]
